@@ -41,6 +41,4 @@ for text, link in zip(texts, links):
     result = subprocess.run(["powershell", 'wget', '-O', f".\\docs\\{text}.{ext}", link], capture_output=True, text=True)
     files.append(f".\\docs\\{text}.{ext}")
 
-import json
-with open("docs.json", "w") as f:
-    json.dump(files, f, ensure_ascii=False, indent=4)
+driver.close()
