@@ -1,26 +1,25 @@
 Mau_Hop_dong_dich_vu_an_ninh_ = """HỢP ĐỒNG DỊCH VỤ AN NINH
 (Số: ……)
-
 Hôm nay, ngày …………. tháng …………. năm …………….., Tại ……………………..…
 Chúng tôi gồm có:
-BÊN SỬ DỤNG DỊCH VỤ (BÊN A): {company_name_A}
-Địa chỉ: {address_A}
-Điện thoại: {phone_A}
+BÊN SỬ DỤNG DỊCH VỤ (BÊN A): ……………………..……………………..……………
+Địa chỉ: ……………………..……………………..……………………..……………………..……
+Điện thoại: ……………………..……………………..……………………..………………………
 Fax: ……………………..……………………..……………………..………………………………
-Mã số thuế: {tax_code_A}
-Tài khoản số: {bank_number_A}
-Do ông (bà): {personal_name_A}
+Mã số thuế: ……………………..……………………..……………………..…………………….
+Tài khoản số: ……………………..……………………..……………………..…………………
+Do ông (bà): ……………………..……………………..……………………..……………………
 Chức vụ: ……………………..……………………..……………………..……………. làm đại diện.
  
-BÊN CUNG CẤP DỊCH VỤ (BÊN B): {company_name_B}
-Địa chỉ: {address_B}
-Điện thoại: {phone_B}
+BÊN CUNG CẤP DỊCH VỤ (BÊN B): ……………………..……………………..……………
+Địa chỉ: ……………………..……………………..……………………..……………………………
+ thoại: ……………………..……………………..……………………..………………………………
 Fax: ……………………..……………………..……………………..…………………………………
-Mã số thuế: {tax_code_B}
-Tài khoản số: {bank_number_B}
-Do ông (bà): {personal_name_B}
+Mã số thuế: ……………………..……………………..……………………..……………………..…
+Tài khoản số: ……………………..……………………..……………………..……………………
+Do ông (bà): ……………………..……………………..……………………..……………………..
 Chức vụ: ……………………..……………………..……………………..……………. làm đại diện.
- 
+
 Hai bên cùng thỏa thuận ký hợp đồng với những nội dung sau:
 ĐIỀU 1: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
 1.1. Nghĩa vụ của bên B:
@@ -79,8 +78,8 @@ Ca 1: từ 07h00 đến 15h00 = ....... người.
 Ca 2: từ 15h00 đến 23h00 = ....... người
 Ca 3: từ 23h00 đến 07h00 = ....... người
 ĐIỀU 5. GIÁ CẢ VÀ PHƯƠNG THỨC THANH TOÁN
-5.1. Đơn giá: {contract_price} VND/tháng (Bằng chữ: ……………………………………….)
-5.2. Hàng tháng Bên A thanh toán cho Bên B chi phí dịch vụ bảo vệ bằng tiền Việt Nam với mức tổng trị giá là: {contract_price} VND/tháng và được giữ nguyên trong suốt thời gian hợp đồng có hiệu lực.
+5.1. Đơn giá: …………………………… VND/tháng (Bằng chữ: ……………………………………….)
+5.2. Hàng tháng Bên A thanh toán cho Bên B chi phí dịch vụ bảo vệ bằng tiền Việt Nam với mức tổng trị giá là: ................................ VND/tháng và được giữ nguyên trong suốt thời gian hợp đồng có hiệu lực.
 Mức tổng trị giá trên đã bao gồm công cụ hỗ trợ và các chi phí liên quan đến nhân viên bảo vệ (chưa bao gồm 10% VAT).
 5.3. Việc thanh toán được thực hiện bằng tiền mặt hoặc chuyển khoản vào tài khoản của Bên B.
 5.4. Bên B có trách nhiệm chuyển cho Bên A hóa đơn tài chính chậm nhất đến ngày thứ …….. hàng tháng.
@@ -113,36 +112,37 @@ Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ
 Hợp đồng này có hiệu lực trong vòng …… tháng kể từ ngày …../…../….. đến ngày …../……/…… Nếu vào ngày hết hạn nói trên hai bên không có ý kiến gì khác thì thời hạn hiệu lực của hợp đồng mặc nhiên kéo dài thêm mỗi lần …… tháng.
 Hợp đồng được lập thành ………. (………..) bản, mỗi bên giữ một bản và có giá trị như nhau.
  
-
+ĐẠI DIỆN BÊN A
+(Ký tên, đóng dấu)
+ĐẠI DIỆN BÊN B
+(Ký tên, đóng dấu)
     
-"""
+1"""
 Mau_Hop_dong_dich_vu_bao_quan_quan_ly_tai_san = """Mẫu số 03/DVNQ-BQTS
-
 CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
-
 HỢP ĐỒNG BẢO QUẢN TÀI SẢN
 Số:……………../HĐ-BQTS.
 Căn cứ quy định tại Bộ luật dân sự 2015.
 Theo sự thỏa thuận của các bên, 
 Hôm nay, ngày…….tháng……năm…….
-Tại: {bank_name_A}
+Tại: Ngân hàng TMCP Đầu tư và Phát triền Việt Nam, Chi nhánh ………………………………………….………..……………………….
 Chúng tôi gồm:
 1. Bên gửi tài sản bảo quản (Bên A):
-- Ông (bà): {personal_name_A} Chức vụ:…………………….
-- Địa chỉ: {address_A} .Điện thoại: {phone_A}
-- Số CMND/hộ chiếu/CMSQQĐNDVN: {cccd_A}., ngày cấp:……, nơi cấp…
-- Số tài khoản : {bank_account_A}.
-- Ngân hàng : {bank_name_A}
+- Ông (bà):………………….………………Chức vụ:…………………….
+- Địa chỉ: …………………………………..Điện thoại:…………….……
+- Số CMND/hộ chiếu/CMSQQĐNDVN:……., ngày cấp:……, nơi cấp…
+- Số tài khoản mở tại BIDV (nếu có):.........................................................
+Số tài khoản mở tại BIDV (nếu có):........................................................
 (Chú ý: Trường hợp khách hàng là tổ chức thì ghi tên pháp nhân, Quyết định thành lập, Giấy chứng nhận đầu tư, Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ khác chứng minh tư cách pháp nhân; người đại diện, chức vụ, số giấy tờ tùy thân, địa chỉ, điện thoại, fax, số tài khoản, mã số thuế, số văn bản ủy quyền đối với người đại diện không phải là người đại diện theo pháp luật).
 - Các đồng sở hữu của Bên A (ghi đầy đủ các đồng sở hữu - nếu có):
 + Ông (bà):………………….………………Chức vụ:…………………….
 + Địa chỉ: …………………………………..Điện thoại:…………………
 + Số CMND/hộ chiếu/CMSQQĐNDVN:……., ngày cấp:……, nơi cấp…
 + Số tài khoản mở tại BIDV (nếu có):.........................................................
-2. Bên nhận bảo quản tài sản (Bên B): {bank_name_A}
-- Địa chỉ: {address_B} Điện thoại: {phone_B}
-- Người đại diện (ông/bà): {personal_name_B} Chức vụ:………………
+2. Bên nhận bảo quản tài sản (Bên B): Ngân hàng TMCP Đầu tư và Phát triền Việt Nam, Chi nhánh …………………………………………………….
+- Địa chỉ: ………………………………Điện thoại:………………..……  
+- Người đại diện (ông/bà):……………………..…Chức vụ:………………
 Các Bên thống nhất ký Hợp đồng bảo quản tài sản với các điều khoản như sau:	
 Điều 1. Hai bên thống nhất hình thức giao nhận tài sản (ghi rõ theo hình thức kiểm nhận hiện vật hoặc theo hình thức nguyên niêm phong):………………
 Bên A giao cho Bên B bảo quản tài sản như sau (Ghi cụ thể từng loại tài sản hoặc lập bảng kê tài sản kèm theo. Việc ghi cụ thể từng tài sản phải bao gồm đầy đủ các nội dung quy định tại Bảng kê tài sản đính kèm Hợp đồng này).
@@ -162,10 +162,10 @@ Vào ngày đáo hạn Hợp đồng, nếu Bên A không nhận lại tài sả
 Bằng chữ: ………………………………………………………..………..
 Điều 5. Phí và thanh toán phí
 Phí bảo quản tài sản:
-a) Phí bảo quản tài sản trong thời hạn Hợp đồng tổng số là: {contract_price} đồng (bằng chữ…………………………) được thanh toán làm……..đợt. Đợt 1:………..đồng; đợt 2:................đồng; đợt......................... 
+a) Phí bảo quản tài sản trong thời hạn Hợp đồng tổng số là:……………..đồng (bằng chữ…………………………) được thanh toán làm……..đợt. Đợt 1:………..đồng; đợt 2:................đồng; đợt......................... 
 b) Phí bảo quản tài sản quá hạn: Bằng 150% phí bảo quản tài sản trong hạn tính trên số ngày quá hạn thực tế của Hợp đồng (trên cơ sở một năm có 360 ngày và một tháng có 30 ngày).
-2. Phí khác (nếu có ghi cụ thể từng loại): Không
-(bằng chữ: Không).
+2. Phí khác (nếu có ghi cụ thể từng loại):......................................................
+(bằng chữ:…………………………………………………………).
 3. Phương thức thanh toán phí:
 a) Bên A thanh toán phí bảo quản tài sản bằng tiền mặt hoặc chuyển khoản theo quy định tại  Khoản 1 Điều này.
 b) Trường hợp Bên A không thanh toán phí bảo quản tài sản đúng hạn hoặc làm mất chìa khóa hộp đựng tài sản, không trả lại chìa khóa hộp đựng tài sản khi quá hạn Hợp đồng thì Bên B có quyền trích từ tiền ký quỹ/tiền bán tài sản (nếu có) hoặc trích từ tài khoản của Bên A mở tại BIDV hoặc tài khoản của Bên A mở tại NHTM khác. Trường hợp tiền từ các nguồn này không đủ để trả phí cho Bên B, thì Bên A có trách nhiệm thanh toán đủ phí cho Bên B khi nhận lại tài sản hoặc Bên B chấm dứt ngay Hợp đồng này với Bên A.
@@ -218,201 +218,371 @@ b) Trường hợp Bên A muốn chấm dứt Hợp đồng trước hạn, Bên
 3. Hợp đồng này được lập thành 03 bản, có giá trị như nhau (Bên A giữ 01 bản, Bên B giữ 02 bản).
 4. Các thông tin liên quan trong quá trình thực hiện Hợp đồng này sẽ được một Bên thông báo cho Bên kia theo địa chỉ ghi tại Hợp đồng này hoặc theo thông báo của mỗi Bên trong từng thời kỳ.
 5. Hợp đồng này được thanh lý khi hai Bên kết thúc quyền và nghĩa vụ.
+ĐẠI DIỆN BÊN B
+(ký tên, đóng dấu)
+ĐẠI DIỆN BÊN A
+(ký tên, đóng dấu- nếu là tổ chức)
+(ký, ghi rõ họ tên- nếu là cá nhân)
+(ký, ghi rõ họ tên của từng đồng sở hữu - nếu là đồng sở hữu)
 Ghi chú: 
 - Hợp đồng này được lập thành 3 bản (1 bản kế toán hạch toán, 1 bản cán bộ giao dịch lưu hồ sơ, 1 bản giao khách hàng giữ).
 - Trường hợp tài sản bảo quản là đồng sở hữu, thì trong Hợp đồng từng người có tên phải ký, ghi rõ họ tên trên Hợp đồng.  
 - Trường hợp Bên B là Trung tâm Quản lý và dịch vụ kho quỹ và Trung tâm Dịch vụ kho quỹ phía Nam thì thiết kế lại tên Bên B cho phù hợp (thay cụm từ Chi nhánh).
-
-
-
-
 BẢNG KÊ TÀI SẢN
 (Kèm theo Hợp đồng bảo quản tài sản số:……./HĐ-BQTS ngày…../…../……)
-
-Họ và tên khách hàng: {personal_name_A}
-Đơn vị: 1.
-Địa chỉ: {address_A} Điện thoại: {phone_A}
-Nội dung: Xe máy WinnerX biển số {licence_plate}.
+Họ và tên khách hàng:.............................................……………..…………
+Đơn vị:……………………………………………………………………..
+Địa chỉ: …………………………………………Điện thoại:……...………
+Nội dung:……………………………………………………………………
 ……………………………………………………………………………….
-
-
+STT
+Tên tài sản
+Số văn bản/Seri
+Đơn vị tính
+Số lượng
+Khối lượng
+Kích cỡ
+Chất lượng
+Hiện trạng
+Giá trị
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+Tổng cộng
+	Khách hàng
+	(Ký, ghi rõ họ tên)
+	Thủ kho tiền
+	 (Ký, ghi rõ họ tên)
 Ghi chú:  
 - Đối với tài liệu thì khách hàng và ngân hàng cùng thống nhất quy ước giá trị để hạch toán theo dõi tài liệu là 1.000đ/1 tờ.
 -  Trường hợp khách hàng có số lượng tài sản  ít, thì ghi cụ thể từng loại tài sản vào Điều 1 và thiết kế lại cho cho phù hợp hoặc lập bảng kê riêng theo mẫu này để đính kèm Hợp đồng bảo quản tài sản.
 - Trường hợp nhận tài sản của khách hàng theo hình thức nguyên niêm phong thì không phải điền vào các cột từ (6) đến (9). 
 - Cột (4): Ghi mệnh giá (đối với giấy tờ có giá), hoặc ghi là chỉ (đối với vàng)... 
 - Cột (9): Ghi lành/rách/bẩn (nếu có đối với giấy tờ có giá hoặc tài liệu), hoặc .
-- Cột (10) ghi giá trị tại thời điểm kiểm tra, kiểm định (đối với hình thức kiểm nhận hiện vật), hoặc ghi giá trị của tài sản mà BIDV và khách hàng cùng xác định (đối với hình thức nguyên niêm phong).
-"""
+- Cột (10) ghi giá trị tại thời điểm kiểm tra, kiểm định (đối với hình thức kiểm nhận hiện vật), hoặc ghi giá trị của tài sản mà BIDV và khách hàng cùng xác định (đối với hình thức nguyên niêm phong)."""
 Mau_Hop_dong_dich_vu_cham_soc_suc_khoe_song_ngu = """HỢP ĐỒNG DỊCH VỤ 
-
+SERVICE CONTRACT
 Hợp Đồng Dịch Vụ này (“Hợp Đồng”) được lập và có hiệu lực từ ngày __ tháng __ năm 2021 (sau đây gọi là “Ngày Hiệu Lực”) bởi và giữa: 
-BÊN CUNG CẤP DỊCH VỤ: {company_name_A}
-Số hộ chiếu: {passport_number_A}
-Quốc tịch: Việt Nam
-Địa chỉ tại Việt Nam: {address_A}
-(Sau đây gọi tắt là “Đối Tác”)
+This Service Contract (the “Contract”) is made and entered into effective as of the __ day of ___, 2019 (hereinafter referred to as “Effective Date”) by and between:  
+BÊN CUNG CẤP DỊCH VỤ/ PARTNER:  ____________________________ 
+Số hộ chiếu/ Passport No.		: ____________________________
+Quốc tịch/ Nationality			: ____________________________
+Địa chỉ tại Việt Nam/ Address in Viet Nam: ____________________________
+(Sau đây gọi tắt là “Đối Tác”/ Hereinafter referred to as “Partner”)
 VÀ/ AND
-BÊN SỬ DỤNG DỊCH VỤ		: {company_name_B}
-Mã số doanh nghiệpr: {business_code_B}
-Địa chỉ trụ sở chính: {address_B}
-Người đại diện theo pháp luật: {personal_name_B}
-Chức vụ: Giám đốc
-(Sau đây gọi tắt là “Công Ty”)
+BÊN SỬ DỤNG DỊCH VỤ		: CÔNG TY CỔ PHẦN …………
+SERVICE USER 			: MLN JOINT STOCK COMPANY 
+Mã số doanh nghiệp/ Enterprise Number: 031000333xx
+Địa chỉ trụ sở chính: ………………., Phường A, Quận ST, Thành phố Đà Nẵng
+Head Office: No.109 Nguyen Sieu Street, A Ward, ST District, Da Nang City
+Người đại diện theo pháp luật/ Legal representative: Nguyễn Văn A
+Chức vụ/ Title				: Giám đốc/ Director
+(Sau đây gọi tắt là “Công Ty”/ Hereinafter referred to as “Company”)
 Công Ty và Đối Tác sau đây được gọi riêng là “Bên” và gọi chung là “Các Bên”
-
-XÉT RẰNG
+Company and Partner hereinafter referred individually as “Party” and collectively as “Parties”.
+XÉT RẰNG/ WHEREAS
 Đối Tác là cá nhân có kinh nghiệm trong lĩnh vực giới thiệu, tư vấn và kết nối Khách hàng đến với các dịch vụ thông qua ứng dụng mà Công Ty cung cấp; 
+Partner is an individual who has experience in introducing, consulting and connecting customers to services through application provided by Company; 
 Công Ty mong muốn tìm kiếm Khách hàng để phát triển hệ thống Ứng dụng khám chữa bệnh do Công Ty thiết lập (“Ứng dụng”);
+The Company wishes to find Customers to develope the System of medical treatment Applications established by the Company (“Application”);
 Đối Tác mong muốn cung cấp Dịch vụ giới thiệu Khách hàng sử dụng Ứng dụng theo các điều khoản, quy định và điều kiện dưới đây;
+Partner wishes to provide Customer Introduction Service to use Application established by the Company upon terms, provisions and conditions herein;
 DO ĐÓ, xem xét các điều khoản nói trên và các thỏa thuận sau đây, Các Bên dưới đây đồng ý như sau:
-
-PHẠM VI DỊCH VỤ 
-Các Dịch Vụ: Đối Tác đồng ý giới thiệu cho Khách hàng là người có quốc tịch Hàn Quốc và người nước ngoài khác (không có quốc tịch Việt Nam) về các dịch vụ chăm sóc sức khỏe tại Việt Nam do Công Ty cung cấp (“Dịch Vụ”), bao gồm: 
-Các gói bảo hiểm, bảo hiểm y tế tại Việt Nam;
-Dịch vụ khám chữa bệnh tại Việt Nam;
-Dịch vụ chăm sóc sức khỏe tại Việt Nam;
-Giới thiệu và hướng dẫn Khách hàng sử dụng nền tảng Ứng dụng của Công Ty.
-Địa điểm thực hiện Dịch Vụ: Linh hoạt tùy thuộc vào quyết định của Đối Tác nhưng phải đảm bảo chất lượng Dịch Vụ cung cấp theo quy định tại Hợp Đồng này hoặc theo sự phân vùng, chỉ định của Công Ty. 
-Thời gian và kế hoạch thực hiện Dịch Vụ: Theo sự phân công và kế hoạch của Công Ty
-Thời hạn Hợp Đồng: Từ Ngày Hiệu Lực đến hết ngày…tháng…năm……
-Mô tả chi tiết công việc và tiêu chuẩn khi thực hiện Dịch Vụ: Theo Mô tả công việc và Tiêu Chuẩn Thực Hiện Dịch Vụ Hàng Tháng của Công Ty đính kèm tại Phụ Lục A.
-Đánh giá hiệu quả Dịch Vụ định kỳ: Trong thời gian từ ngày 01 đến ngày 05 hàng tháng, Các Bên sẽ tiến hành họp để đánh giá việc đạt/chưa đạt Tiêu Chuẩn Thực Hiện Dịch Vụ của Đối Tác. Nội dung đánh giá dựa trên tiêu chuẩn tại Phụ lục A.
-
-THANH TOÁN THÙ LAO
-Thù Lao:
+THEREFORE, in consideration of the foregoing and of the agreements hereinafter contained, the Parties hereby agree as follows:
+	PHẠM VI DỊCH VỤ/ SCOPE OF SERVICES 
+	Các Dịch Vụ: Đối Tác đồng ý giới thiệu cho Khách hàng là người có quốc tịch Hàn Quốc và người nước ngoài khác (không có quốc tịch Việt Nam) về các dịch vụ chăm sóc sức khỏe tại Việt Nam do Công Ty cung cấp (“Dịch Vụ”), bao gồm: 
+Services: Partner agrees to introduce Customer are foreigners having Korean nationality and other foreigners (do not have Vietnamese nationality) to use healthcare service in Vietnam offered by Company (“Service”), including: 
+	Các gói bảo hiểm, bảo hiểm y tế tại Việt Nam;
+	Packages of insurance health insurance in Vietnam;
+	Dịch vụ khám chữa bệnh tại Việt Nam;
+	Medical examination and treatment services in Vietnam;
+	Dịch vụ chăm sóc sức khỏe tại Việt Nam;
+	Healthcare services in Vietnam;
+	Giới thiệu và hướng dẫn Khách hàng sử dụng nền tảng Ứng dụng của Công Ty.
+	Introduce and guide Customer to use the Company's Application platform.
+	Địa điểm thực hiện Dịch Vụ: Linh hoạt tùy thuộc vào quyết định của Đối Tác nhưng phải đảm bảo chất lượng Dịch Vụ cung cấp theo quy định tại Hợp Đồng này hoặc theo sự phân vùng, chỉ định của Công Ty. 
+	Services implementation place: Flexible, depending on decision of Partner, however, Partner ensures the quality of Service provided pursuant to this Contract or according to the zoning, decision of Company.
+	Thời gian và kế hoạch thực hiện Dịch Vụ: Theo sự phân công và kế hoạch của Công Ty
+	Service implementation plan and time: According to the assignment and plan of the Company
+	Thời hạn Hợp Đồng: Từ Ngày Hiệu Lực đến hết ngày…tháng…năm……
+	Contract Term: From the Effective Date to the end of date … month ….. year …….
+	Mô tả chi tiết công việc và tiêu chuẩn khi thực hiện Dịch Vụ: Theo Mô tả công việc và Tiêu Chuẩn Thực Hiện Dịch Vụ Hàng Tháng của Công Ty đính kèm tại Phụ Lục A.
+	Detail of work and Services implementation Standard: According to the Detail of Work and Monthly Service Implementation Standards of the Company attached in Appendix A.
+	Đánh giá hiệu quả Dịch Vụ định kỳ: Trong thời gian từ ngày 01 đến ngày 05 hàng tháng, Các Bên sẽ tiến hành họp để đánh giá việc đạt/chưa đạt Tiêu Chuẩn Thực Hiện Dịch Vụ của Đối Tác. Nội dung đánh giá dựa trên tiêu chuẩn tại Phụ lục A.
+	Periodical evaluation of Service efficiency: From 1st to 5th per month, the Parties shall conduct meetings to evaluate the Partner’s qualified/unqualified under Service Implementation Standards. Content of evaluation is according to standards set out in Appendix A.
+THANH TOÁN THÙ LAO/ COMPENSATION PAYMENT
+Thù Lao/ Compensation:
 Đối Tác được nhận 10% doanh thu mỗi tháng Công Ty thu được từ các Khách Hàng sử dụng Dịch Vụ của Công Ty được giới thiệu bởi Đối Tác.
+Partner shall receive 10% of the Company’s monthly revenue from Customers who using the Company service through Partner’s introduction.
 Đối Tác được thưởng 100.000 VNĐ khi giới thiệu và hướng dẫn một Khách Hàng tải và sử dụng Ứng dụng.
+The Partner is awarded VND 100,000 for introducing and guiding a Customer to download and use the Application.
 Công Ty chỉ thanh toán Thù Lao khi Đối Tác đã thực hiện Dịch Vụ theo Tiêu Chuẩn Thực Hiện Dịch Vụ Mà Công Ty tại Phụ lục A đính kèm.
+Company only pays Partner when Partner has performed Service according to the Service Implementation Standards set forth in Appendix A attached.
 Thời hạn thanh toán: Công Ty có trách nhiệm thanh toán 100% khoản Thù Lao nêu trên cho Đối Tác trước ngày 10 (mười) của tháng kế tiếp tháng đã thực hiện Dịch Vụ.
+Payment term: The Company is responsible for paying 100% of the Compensation to Partner before the 10th day of the month following to the month in which Service is implemented.
 Phương thức thanh toán: Tiền mặt/ Chuyển khoản
+Payment method: In Cash/ Transfer
 Xác định doanh thu theo khoản 2.1 Mục này như sau:
-Doanh thu của tháng đến từ quá trình thực hiện Dịch Vụ của Đối Tác được xác định dựa trên các Khách Hàng mà Đối Tác giới thiệu thông các tài liệu sau: (i) hợp đồng/thỏa thuận/cam kết dịch vụ/điều khoản dịch vụ; (ii) hóa đơn tài chính hợp lệ theo quy định; (iii) Hồ sơ, chứng từ nhận tiền mặt hoặc chứng từ thanh toán ngân hàng/tổ chức trung gian thanh toán. 
-Các Doanh Thu đến từ Khách Hàng do Đối Tác giới thiệu chỉ được tính vào doanh thu của tháng thực hiện Dịch Vụ nếu Khách Hàng đã thanh toán xong 100% cho Công Ty. Trường hợp Khách Hàng chưa/thanh toán không đầy đủ thì thời điểm xác định doanh thu để tính Thù Lao là tháng mà Khách Hàng hoàn tất thanh toán cho Công Ty.
+Calculating revenue pursuant to Clause 2.1 of this Section as follows:
+	Doanh thu của tháng đến từ quá trình thực hiện Dịch Vụ của Đối Tác được xác định dựa trên các Khách Hàng mà Đối Tác giới thiệu thông các tài liệu sau: (i) hợp đồng/thỏa thuận/cam kết dịch vụ/điều khoản dịch vụ; (ii) hóa đơn tài chính hợp lệ theo quy định; (iii) Hồ sơ, chứng từ nhận tiền mặt hoặc chứng từ thanh toán ngân hàng/tổ chức trung gian thanh toán. 
+	The revenue of the month resulting from Partner's performance of the Services is calculated based on the Customers introduced by Partner through the following documents: (i) contract/ agreement/ service commitment/ service terms; (ii) a valid financial invoice as regulated; (iii) Dossier and documents of cash receipt or payment document of bank/ intermediary payment organization.
+	Các Doanh Thu đến từ Khách Hàng do Đối Tác giới thiệu chỉ được tính vào doanh thu của tháng thực hiện Dịch Vụ nếu Khách Hàng đã thanh toán xong 100% cho Công Ty. Trường hợp Khách Hàng chưa/thanh toán không đầy đủ thì thời điểm xác định doanh thu để tính Thù Lao là tháng mà Khách Hàng hoàn tất thanh toán cho Công Ty.
+	The revenue from a Customer referred by the Partner is only counted in the revenue of the month of the Service implementation if the Customer has paid 100% to the Company. In case the Customer has not/has not fully paid, the time for determining revenue to calculate the Compensation is the month in which the Customer completes payment to Company.
 Doanh thu không bao gồm khoản thuế GTGT mà Khách Hàng đã thanh toán cho Công Ty.
-Từ ngày 01 (một) đến ngày 05 (năm) của tháng tiếp theo tháng thực hiện Dịch Vụ, Công Ty có trách nhiệm tổng hợp Doanh Thu và thông báo bằng văn bản đến Đối Tác. Sau đó, các Bên sẽ cùng thảo luận (nếu có) và thống nhất Doanh Thu tháng đó.
-
-CAM KẾT CỦA CÁC BÊN 
-Các cam kết của Đối Tác
-Nỗ lực hết sức để hoàn thành Dịch Vụ theo Tiêu chuẩn của Công Ty. Trường hợp Đối Tác không đạt KPI từ 02 (hai) tháng liên tiếp, Công Ty có quyền chấm dứt việc sử dụng Dịch vụ với Đối Tác hoặc giảm Thù Lao;  
-Phải tự chịu tất cả các khoản thuế tại Việt Nam và nước ngoài phát sinh từ Thù Lao. Trước khi trả Thù Lao Dịch Vụ cho Đối Tác, Công Ty có quyền khấu trừ thuế thu nhập cá nhân của Đối Tác, tỷ lệ khấu trừ và cách thức khấu trừ thuế thực hiện theo quy định của pháp luật Việt Nam.
-Đối Tác không phải là đại diện của Công Ty và do đó không có thẩm quyền đàm phán và ký kết bất kỳ hợp đồng và/hoặc hợp đồng ràng buộc pháp lý nào như hợp đồng hợp tác, hợp đồng lao động, hợp đồng nhận vốn đầu tư, mua bán Công Ty trừ khi được Công Ty ủy quyền rõ ràng bằng văn bản để làm vậy.
-
-Cam kết của Công Ty/ Commitments of Company
-Thanh toán Thù Lao cho Đối Tác theo quy định tại Hợp Đồng;
-Bảo đảm các quyền lợi khác của Đối Tác trong Hợp Đồng này;
-Hỗ trợ Đối Tác trong việc thực hiện Dịch Vụ;
-Công Ty cần cung cấp mọi thông tin cần thiết và phù hợp về Công Ty và các dịch vụ/sản phẩm của Công Ty để Đối Tác thực hiện Dịch vụ một cách hiệu quả nhất
-
+The revenue does not include the VAT that the Customer has paid to the Company.
+	Từ ngày 01 (một) đến ngày 05 (năm) của tháng tiếp theo tháng thực hiện Dịch Vụ, Công Ty có trách nhiệm tổng hợp Doanh Thu và thông báo bằng văn bản đến Đối Tác. Sau đó, các Bên sẽ cùng thảo luận (nếu có) và thống nhất Doanh Thu tháng đó.
+	From 1st to 5rd per month month following to the month in which Service is implemented, the Company is responsible for aggregating the Revenue and notify the Partner in writing. Accordingly, the Parties will discuss (if any) and agree on the Revenue of such month.
+CAM KẾT CỦA CÁC BÊN / COMMITMENT OF THE PARTIES
+	Các cam kết của Đối Tác / Commitments of Partner
+	Nỗ lực hết sức để hoàn thành Dịch Vụ theo Tiêu chuẩn của Công Ty. Trường hợp Đối Tác không đạt KPI từ 02 (hai) tháng liên tiếp, Công Ty có quyền chấm dứt việc sử dụng Dịch vụ với Đối Tác hoặc giảm Thù Lao;  
+	Make the best attempt to complete the Service upon the Company’s standards. In case Partner does not meet the KPI from 02 (two) consecutive months or more, the Company reserves the right to terminate the use of the Service with Partner or decrease the Compensation;
+	Phải tự chịu tất cả các khoản thuế tại Việt Nam và nước ngoài phát sinh từ Thù Lao. Trước khi trả Thù Lao Dịch Vụ cho Đối Tác, Công Ty có quyền khấu trừ thuế thu nhập cá nhân của Đối Tác, tỷ lệ khấu trừ và cách thức khấu trừ thuế thực hiện theo quy định của pháp luật Việt Nam.
+	Must pay all taxes in Vietnam and abroad arising from the Compensation. Before paying the Partner's Service Compensation, the Company reserves the right to deduct Partner's personal income tax, the deduction rate and the method of tax deduction is conducted in compliance with Vietnamese law.
+	Đối Tác không phải là đại diện của Công Ty và do đó không có thẩm quyền đàm phán và ký kết bất kỳ hợp đồng và/hoặc hợp đồng ràng buộc pháp lý nào như hợp đồng hợp tác, hợp đồng lao động, hợp đồng nhận vốn đầu tư, mua bán Công Ty trừ khi được Công Ty ủy quyền rõ ràng bằng văn bản để làm vậy.
+	Partner is not the representative of the Company and therefore does not have the authority to negotiate and sign any legally binding agreements and/or agreements such as cooperation agreements, labor agreements, and agreements on receiving investment capital, buying and selling companies unless explicitly authorized to do so by the Company in writing.
+	Cam kết của Công Ty/ Commitments of Company
+	Thanh toán Thù Lao cho Đối Tác theo quy định tại Hợp Đồng;
+	Pay Compensation to the Partner as agreed in this Contract;
+	Bảo đảm các quyền lợi khác của Đối Tác trong Hợp Đồng này;
+	Ensure other rights of Partner in this Contract;
+	Hỗ trợ Đối Tác trong việc thực hiện Dịch Vụ;
+	Support Partner in the implementation of the Service;
+	Công Ty cần cung cấp mọi thông tin cần thiết và phù hợp về Công Ty và các dịch vụ/sản phẩm của Công Ty để Đối Tác thực hiện Dịch vụ một cách hiệu quả nhất
+	The Company needs to provide any necessary and appropriate information about the Company and its services/products for the Partner to carry out the Service in the most efficient manner.
 QUYỀN SỞ HỮU SẢN PHẨM LÀM VIỆC VÀ QUYỀN SỞ HỮU TRÍ TUỆ
+OWNERSHIP OF WORK PRODUCT AND INTELLECTUAL PROPERTY RIGHTS
 Các Bên đồng ý rằng tất cả các sản phẩm làm việc, thông tin hoặc tài liệu khác tạo ra và phát triển bởi Đối Tác liên quan đến việc thực hiện Dịch Vụ theo Hợp Đồng này và mọi quyền sở hữu trí tuệ (gọi chung là “Sản Phẩm Làm Việc”) là tài sản duy nhất và độc quyền của Công Ty. Các Bên thừa nhận rằng Sản Phẩm Làm Việc sẽ, trong phạm vi được pháp luật cho phép, Đối Tác qua đây chuyển nhượng cho Công Ty tất cả quyền lợi, quyền và lợi ích trong và đối với Sản Phẩm Làm Việc, bao gồm nhưng không giới hạn ở tất cả bản quyền, quyền xuất bản để sử dụng, sao chép và mặt khác khai thác Sản phẩm làm việc ở bất kỳ và tất cả các định dạng, phương tiện hoặc tất cả các kênh, cho dù hiện tại đã được biết đến hoặc được tạo sau này.
+The Parties agree that all work product, information or other materials created and developed by Partner in connection with the performance of the Services under this Contract and any intellectual property rights (collectively, the “Work Product”) are the sole and exclusive property of Company. The Parties acknowledge that the Work Product shall, to the extent permitted by law, Partner hereby assigns to Company all of Partner’s right, title and interest in and to the Work Product, including but not limited to all copyrights, publishing rights to use, reproduce and otherwise exploit the Work Product in any and all formats, media, or all channels, whether now known or hereafter created.
 Không có điều gì trong Hợp Đồng này được hiểu là cấp bất kỳ quyền nào theo bất kỳ bằng sáng chế, bản quyền hoặc quyền sở hữu trí tuệ nào khác của Công Ty, cũng như Hợp Đồng này sẽ không cấp cho Đối Tác bất kỳ quyền nào trong hoặc đối với Thông tin bảo mật của Công Ty, ngoại trừ quyền sử dụng có giới hạn Thông tin bí mật liên quan đến Dịch Vụ.
+Nothing in this Contract shall be construed as granting any rights under any patent, copyright or other intellectual property right of the Company, nor shall this Contract grant Partner any rights in or to the Company’s Confidential Information, except the limited right to use the Confidential Information in connection with the Service.
 Đối Tác sẽ thực hiện tất cả các bước cần thiết một cách hợp lý để hỗ trợ Công Ty có được và thực thi quyền sở hữu của mình đối với bất kỳ Quyền sở hữu trí tuệ nào tạo ra bởi Đối Tác theo tiểu mục i) của Mục này. Nghĩa vụ hỗ trợ Công Ty của Đối Tác sẽ tồn tại ngay cả khi chấm dứt quan hệ với Công Ty.
+Partner shall take all steps reasonably necessary to assist the Company in obtaining and enforcing in its own name any Intellectual Property right created by Partner according to subsection i) of this Section. Partner’s obligation to assist the Company shall continue beyond the termination of Partner’s relationship with the Company.
 KHÔNG LÔI KÉO,  KHÔNG MÂU THUẪN VÀ KHÔNG CẠNH TRANH 
-
+NON-SOLICIT, NO CONFLICTS AND NON COMPETITION 
 Trong thời hạn của Hợp Đồng và kết thúc ba năm sau khi chấm dứt Hợp Đồng:
+For a period of the term of the Contract and ending three years after the termination of the Contract:
 Đối Tác sẽ không, trực tiếp hoặc gián tiếp, dù cho chính mình hoặc bất kỳ Người nào khác, (A) xui khiến hoặc cố gắng xui khiến bất kỳ nhân viên nào của Công Ty nghỉ việc ở Công Ty, (B) bằng mọi cách can thiệp vào mối quan hệ giữa Công Ty và bất kỳ nhân viên nào của Công Ty, (C) xui khiến hoặc cố gắng xui khiến bất kỳ Khách hàng, nhà cung cấp, bên được cấp phép hoặc quan hệ kinh doanh của Công Ty ngừng hợp tác kinh doanh với Công Ty hoặc bằng mọi cách can thiệp vào mối quan hệ giữa bất kỳ khách hàng, nhà cung cấp, bên được cấp phép hoặc quan hệ kinh doanh nào của Công Ty.
+Partner will not, directly or indirectly, either for itself or any other Person, (A) induce or attempt to induce any employee of Company to leave the employment of Company, (B) in any way interfere with the relationship between Company and any employee of Company, (C) induce or attempt to induce any customer, supplier, licensee, or business relation of Company to cease doing business with Company, or in any way interfere with the relationship between any customer, supplier, licensee, or business relation of Company.
 Đối Tác sẽ không, vào bất cứ lúc nào trong hoặc sau giai đoạn ba năm sau khi kết thúc thời hạn Hợp Đồng, làm giảm uy tín, nói xấu hoặc có luận điệu không đúng về Công Ty, hoặc bất kỳ người quản lý, thành viên, cổ đông, giám đốc, cán bộ, nhân viên hoặc đại lý nào của Công Ty.
+Partner will not, at any time during or after the three-year after the termination of the Contract, disparage Company, defame or make false statements about the Company or any of its managers, members, shareholders, directors, officers, employees, or agents.
 Không mâu thuẫn: Đối Tác tuyên bố rằng việc tuân thủ của Đối Tác đối với các điều khoản của Hợp Đồng này và cung cấp Dịch Vụ dưới đây sẽ không vi phạm bất kỳ nghĩa vụ nào mà Đối Tác có thể phải đối với bất kỳ cá nhân hoặc tổ chức nào khác. Ngoài ra, Đối Tác đồng ý rằng, trong thời hạn của Hợp Đồng này, Đối Tác sẽ kịp thời thông báo cho Công Ty bằng văn bản về bất kỳ đối thủ cạnh tranh nào của Công Ty mà Đối Tác cũng đang thực hiện các dịch vụ. Điều này được hiểu rằng trong trường hợp đó, Công Ty sẽ xem xét liệu các hoạt động của Đối Tác có phù hợp với Đối Tác còn lại với tư cách là Đối Tác của Công Ty hay không.
+No conflicts: Partner represents that Partner’s compliance with the terms of this Contract and provision of Service hereunder will not violate any duty which Partner may have to any other person or entity. In addition, Partner agrees that, during the term of this Contract, Partner shall promptly notify the Company in writing of any competitor of the Company which Partner is also performing services. It is understood that in such event, the Company will review whether Partner’s activities are consistent with Partner remaining as a Partner of the Company. 
 Không cạnh tranh: Đối Tác đồng ý và thống nhất rằng trong thời hạn của Hợp Đồng này và trong thời gian 24 tháng sau khi chấm dứt Hợp Đồng này, Đối Tác sẽ không, trực tiếp hoặc gián tiếp, thực hiện hoặc tham gia vào các hoạt động giống hoặc tương tự như đã thực hiện cho Công Ty cho bất kỳ doanh nghiệp nào trực tiếp hoặc gián tiếp cạnh tranh với Công Ty.
+Non competition: Partner agrees and convenants that during the term of this Contract and for a period of 24 months following the termination of this Contract, Partner will not, directly or indirectly, perform or engage in the same or similar activities as were performed for Company for any business that is directly or indirectly in competition with Company.
 Nếu Đối Tác vi phạm các nghĩa vụ tại Mục này, Công Ty sẽ được hưởng những biện pháp khắc phục sau đây:
+If Partner breaches the covenants set forth in this Section, Company will be entitled to the following remedies:
 Một khoản phạt 20.000.000 VNĐ trên mỗi lần vi phạm Khoản này
+A penalty of VND 20,000,000 per each time of violation of this Section.
 Bồi thường với các thiệt hại Công Ty phải chịu.
+Compensate for damages Công Ty incurred.
 Mục này sẽ có hiệu lực ngay cả khi Hợp Đồng chấm dứt.
-
-ĐIỀU KHOẢN CHUNG 
+This Section shall survive the termination of this Contract.
+ĐIỀU KHOẢN CHUNG / MISCELLANEOUS
 Luật Việt Nam sẽ điều chỉnh Hợp Đồng này
+The Vietnam Law shall govern this Contract
 Hợp Đồng này và/hoặc nghĩa vụ thực hiện Hợp Đồng này là không được phép chuyển nhượng bởi Đối Tác cho bất kỳ người nào khác trừ khi được Công Ty cho phép.
+This Contract and/or the obligation to perform this Contract is not transferable by the Partner to any other person except as permitted by the Company.
 Một Bên đều có quyền chấm dứt Hợp Đồng này trong trường hợp bên kia không thực hiện hoặc thực hiện không đúng và không đầy đủ nghĩa vụ của mình và không thể khắc phục trong thời hạn 07 (bảy) ngày từ khi nhận được thông báo vi phạm từ Bên kia. Bên bị vi phạm sẽ thông báo cho bên kia về việc chấm dứt Hợp Đồng, cùng với lý do chấm dứt trước 07 (bảy) ngày kể từ ngày dự định chấm dứt.
+A Party have the right to terminate this Contract in the event the other party fails to fulfill its obligations and fails to recover within 07 (seven) days after receipt of notice of violation from the other Party. Violated Party shall notify the Violating Party of the termination of the Contract, together with the reason for the termination before 07 (seven) days from the expecting termination date.
 Một Bên có quyền chấm dứt thực hiện Hợp Đồng miễn là đã gửi thông báo bằng văn bản đến Bên kia trước ngày dự kiến chấm dứt ít nhất 30 (ba mươi) ngày và hoàn tất các nghĩa chưa thực hiện với Bên kia đến thời điểm chấm dứt (thanh toán/hoàn trả).
+A Party has the right to terminate the performance of the Contract provided that such Party has sent a written notice to the other Party at least 30 (thirty) days prior to the expected termination date and completed the unfulfilled obligations with the other Party to termination (payment/refund).
 Mọi sự thay đổi liên quan đến Hợp Đồng này thì phải được Các Bên ký kết bằng văn bản. Khi Các Bên ký kết phụ lục Hợp đồng, các sửa đổi, bổ sung thì nội dung của phụ lục Hợp đồng, các sửa đổi, bổ sung đó cũng có giá trị như các nội dung của bản Hợp Đồngnày.
+Any changes related to this Contract must be signed in writing by the Parties. When the Parties sign the Contract Appendix, the amendments and additions to the contents of the Contract Appendix, such amendments and supplements are also valid as the contents of this Contract. 
 (Các) Phụ lục là một phần không thể thiếu và có giá trị như Hợp Đồng.
+Appendix(es) is an integral part and be valid as Contract.
 Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
+A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
 Hợp Đồng này được lập thành hai (02) bản song ngữ Việt - Anh có giá trị ngang nhau, mỗi bên giữ một (01) bản. Trường hợp có sự mâu thuẫn giữa nội dung Tiếng Anh và nội dung Tiếng Việt thì nội dung Tiếng Việt sẽ được ưu tiên áp dụng.
-
-Các Bên ký tên, đóng dấu để xác nhận dưới đây:
-
-
-
-
-
+This Contract is made in two (02) Vietnamese-English bilingual versions of equal value, each party keeps one (01) copy. In case of inconsistency between the content of English and Vietnamese content, the content of Vietnamese will be applied.
+Các Bên ký tên, đóng dấu để xác nhận dưới đây/ The Parties sign, seal for certification as follows:
+Công Ty/ Company
+(ký và đóng dấu/ sign and seal)
+NGUYỄN VĂN A
+Đối Tác/ Partner
+(ký/ sign)
+______________________
 PHỤ LỤC A
-
+APPENDIX A
 MÔ TẢ CÔNG VIỆC VÀ TIÊU CHUẨN THỰC HIỆN DỊCH VỤ HÀNG THÁNG
-"""
-Mau_Hop_dong_dich_vu_phap_ly_song_ngu = """HỢP ĐỒNG DỊCH VỤ CỐ VẤN PHÁP LÝ
-
+DETAIL OF WORK AND MONTHLY SERVICE IMPLEMENTATION STANDARDS 
+STT
+No.
+Tháng
+Month
+Nội dung công việc thực hiện
+Work content
+Chỉ tiêu
+Target
+Kết quả đánh giá 
+Result of evaluation 
+Trang/ Page 8"""
+Mau_Hop_dong_dich_vu_phap_ly_song_ngu = """LEGAL CONSULTING SERVICE CONTRACT
+HỢP ĐỒNG DỊCH VỤ CỐ VẤN PHÁP LÝ
+This Legal Consulting Service Contract (“Contract”) is made and entered into effective as of ________, 2023 (“Effective Date”) by and between: 
 Hợp Đồng Dịch Vụ Cố Vấn Pháp Lý này (“Hợp Đồng”) được lập và có hiệu lực vào ngày ____ tháng ____ năm 2023 (“Ngày Hiệu Lực”) bởi và giữa các bên dưới đây: 
-{company_name_A}, một Công ty được đăng ký tại Việt Nam với mã số thuế: {tax_code_A}, có địa chỉ trụ sở: {address_A} và người đại diện: {personal_name_A} với chức vụ: _____________và có địa chỉ email: {email_A}, số điện thoại: {phone_A} (gọi tắt là “Công Ty”).
-VÀ
-Ông {personal_name_B}, một cá nhân có hộ chiếu số: {passport}, ngày cấp: _____________cấp tại _____________; Địa chỉ thường trú: {address_B}; email: {email_B} và số điện thoại: {phone_B} (gọi tắt là “Cố Vấn”).
+_________ COMPANY, a company registered in Vietnam with tax code: _________, having head office address at: __________, whose legal representative is ________ with the position of: General Director and having the email address: ______________, phone number:_______ (referred to as “Company”).
+_____________, một Công ty được đăng ký tại Việt Nam với mã số thuế: _________, có địa chỉ trụ sở: _____________ và người đại diện: _____________với chức vụ: _____________và có địa chỉ email: _____________, số điện thoại: _____________(gọi tắt là “Công Ty”).
+AND/ VÀ
+	Mr. ……… a _____________ individual with passport no.: _____________ issued on _____________ by Japan; whose Permanent address is _____________; email address is _____________, phone number: _____________(referred to as “Consultant”).
+	Ông ……., một cá nhân _____________ có hộ chiếu số: _____________, ngày cấp: _____________cấp tại _____________; Địa chỉ thường trú: _____________; email: _____________và số điện thoại: _____________(gọi tắt là “Cố Vấn”).
+	Company and Consultant are hereinafter referred to separately as "Party" and collectively as "Parties"
 Công Ty và Cố Vấn khi gọi riêng là “Bên” và gọi chung là “Các Bên”
+Parties agree to enter into a Contract as follows:
 Các Bên đồng ý ký kết Hợp Đồng với nội dung cụ thể như sau:
-
-Trách Nhiệm Của Các Bên
-Trách nhiệm của Cố Vấn
-Cố Vấn cam kết sẽ thực hiện công việc đúng với các chuẩn mực đạo đức, thói quen thương mại, tập quán kinh doanh và quy định pháp luật;
-Cố vấn cam đoan, cam kết việc giao kết và thực hiện Hợp Đồng sẽ không vi phạm quy định pháp luật hay bất kỳ Hợp đồng, thỏa thuận giữa Cố Vấn với bên thứ ba nào. 
-Trách nhiệm của Công Ty
-Cung cấp kịp thời, đầy đủ và chính xác các giấy tờ, thông tin và/hoặc các bằng chứng pháp lý khác phù hợp và đáp ứng yêu cầu của pháp luật liên quan đến công việc thuê tư vấn theo yêu cầu của Cố Vấn; 
-Chịu trách nhiệm hoàn toàn về tính chính xác, trung thực về những giấy tờ, tài liệu, thông tin cung cấp cho Cố Vấn; 
-Thanh toán đầy đủ và đúng thời hạn phí dịch vụ tư vấn như đã thỏa thuận tại Điều 2 của Hợp đồng;
-Hợp tác thường xuyên với Cố Vấn trong quá trình thực hiện Hợp đồng.
-Bảo Mật Và Chống Cạnh Tranh
-Các nội dung của Hợp Đồng và cả Hợp Đồng này cũng như các thông tin được tiết lộ bởi Các Bên (“Thông Tin Bảo Mật”) sẽ được bảo mật và không được tiết lộ cho Bên thứ ba trừ khi được yêu cầu bởi cơ quan nhà nước có thẩm quyền.
-Thông Tin Bảo Mật sẽ chỉ được sử dụng cho các công việc nhằm phục vụ nội dung ghi nhận tại Hợp Đồng này.
-Bên thứ ba là bất kỳ bên nào không phải là một bên của Hợp Đồng này. Bên thứ ba không bao gồm nhân viên, cố vấn của một Bên, những người cần được biết Thông Tin Bảo Mật để thực hiện công việc của họ.
-Bên nhận Thông Tin Bảo Mật phải duy trì các biện pháp bảo mật cần thiết để bảo vệ các Thông Tin Bảo Mật này.
-Nghĩa vụ bảo mật sẽ duy trì ngay cả khi Hợp Đồng này chấm dứt.
-Trong thời gian cung cấp Dịch Vụ cho Công Ty và trong thời hạn 01 (một) năm kể từ ngày chấm dứt Hợp Đồng, Cố Vấn cam kết: i) Không thu hút hoặc lôi kéo bất kỳ cá nhân/tổ chức nào đã từng là khách hàng, những người đã từng cộng tác, hợp tác, người lao động của Công Ty; và ii) Không cung cấp các thông tin bất lợi hoặc có ý kiến, luận điệu, nói xấu hay hành động dưới bất kỳ hình thức nào mà gây ảnh hưởng tiêu cực đến danh tiếng, uy tín, danh dự của Công Ty trên các phương tiện truyền thông hoặc bên thứ ba trong thời hạn Hợp Đồng và ngay cả khi Hợp Đồng chấm dứt; và iii) Tại bất kỳ thời điểm nào, Cố Vấn sẽ không sử dụng bất kỳ tên thương mại nào có chứa logo, nhãn hiệu hàng hóa hoặc tên thương mại, biểu tượng, tên kinh doanh về căn bản giống hoặc tương tự gây nhầm lẫn với nhãn hiệu hoặc tên kinh doanh đã được Công Ty đăng ký sở hữu hoặc sử dụng.
-Chấm Dứt Hợp Đồng Trước Thời Hạn Và Hệ Quả
-Hợp Đồng được chấm dứt trước thời hạn trong các trường hợp sau
-Sự kiện bất khả kháng dẫn đến việc một trong Các Bên gặp phải sự kiện bất khả kháng không thể tiếp tục thực hiện Hợp Đồng từ 30 (ba mươi) ngày trở lên. Sự kiện bất khả kháng được giải thích theo quy định pháp luật Việt Nam.
-Các Bên cùng thỏa thuận chấm dứt Hợp Đồng;
-Một Bên vi phạm Hợp Đồng và không thể khắc phục trong vòng 10 (mười) ngày kể từ ngày nhận được thông báo của Bên bị vi phạm;
-Trường hợp Cố Vấn vi phạm nghĩa vụ Bảo mật thông tin và chống cạnh tranh trong thời hạn của Hợp Đồng này, Công Ty có quyền đơn phương chấm dứt Hợp Đồng ngay lập tức mà không phải thanh toán bất kỳ khoản tiền và cổ phần nào.	
-Hậu quả của việc chấm dứt Hợp Đồng
-Các quyền và nghĩa vụ của Các Bên theo Hợp Đồng chấm dứt trừ điều khoản về Bảo mật thông tin, điều khoản về không cạnh tranh, không lôi kéo và bồi thường thiệt hại;
-Nếu Bên nào đơn phương chấm dứt Hợp Đồng trái luật và/hoặc trái với quy định Hợp Đồng, thì phải bồi thường cho Bên kia toàn bộ các thiệt hại và chi phí phát sinh do hành vi chấm dứt trái pháp luật gây ra cho bên kia.
-Điều Khoản Chung
-Mọi sửa đổi, bổ sung các điều khoản và/hoặc vấn đề nào trong Hợp Đồng này đều phải lập thành Phụ lục Hợp Đồng và phải được sự đồng ý của Các Bên. Phụ lục Hợp Đồng phải có chữ ký hợp pháp của Các Bên và là một phần không thể tách rời của Hợp Đồng này.
-Trường hợp Công ty có sự chia, tách, sáp nhập, thay đổi loại hình hay bất kỳ thay đổi nào khác có liên quan đến quyền sở hữu, quản lý, điều hành của Công ty thì các điều khoản thỏa thuận theo Hợp Đồng này không bị chi phối, Hợp Đồng này vẫn có giá trị thực hiện cho (các) Bên kế thừa.
-Bên vi phạm sẽ được miễn trừ các trách nhiệm theo Hợp Đồng này với lý do vì Sự kiện Bất khả kháng nếu đáp ứng đủ các điều kiện: i) Vi phạm nghĩa vụ Hợp Đồng, không tuân thủ các cam kết và gây thiệt hại cho Bên còn lại trong điều kiện Sự kiện Bất khả kháng theo định nghĩa theo pháp luật Việt Nam; và ii) Bên vi phạm đã thực hiện nghĩa vụ Thông báo bằng văn bản cho Bên còn lại trong vòng bảy (07) ngày kể từ khi xảy ra hoặc biết được sự kiện Bất khả kháng.		 
-Các quy phạm pháp luật Việt Nam sẽ được áp dụng để xử lý các tranh chấp phát sinh từ Hợp Đồng này.	
-Nếu bất kỳ quy định nào của Hợp Đồng này trở nên vô hiệu, trái luật hoặc không có khả năng thi hành, thì những điều khoản vô hiệu, trái luật hoặc không có khả năng thi hành đó sẽ không ảnh hưởng đến các điều khoản còn lại của Hợp Đồng này.	
+Terms/ Điều khoản
+Content/ Nội dung
+Scope of Services/
+Phạm vi công việc 
+(Dịch Vụ)
+Consultant shall/ Cố Vấn sẽ thực hiện:
+Advising on legal issues related to the Company's daily business activities.
+Tư vấn về các vấn đề pháp lý liên quan đến hoạt động kinh doanh hàng ngày của Công ty;
+Drafting and reviewing contracts, consulting, explaining and giving legal opinions on the content in contracts/transactions;
+Soạn thảo và rà soát các họp đồng, tư vấn, giải thích và đưa ra ý kiến nhận định pháp lý về nội dung điều khoản trong các hợp đồng giao dịch;
+Participating in negotiations and meetings with partners; Monitoring and advising on legal issues related to negotiated agreements between the Company and partners/client;
+Tham gia đàm phán, gặp gỡ đối tác; theo dõi và tư vấn các vấn đề pháp lý liên quan đến thoả thuận đàm phán giữa Công ty và đối tác;
+Consulting on orientation to solve problems arising from business activities;
+Tư vấn về định hướng giải quyết các vấn đề vướng mắc, phát sinh trong hoạt động doanh nghiệp;
+ Consulting and drafting other documents (if any): business cooperation contracts, written agreements, minutes, regulations, policies;
+Tư vấn và soạn thảo các văn bản khác (nếu có): hợp đồng hợp tác kinh doanh, văn bản thỏa thuận, biên bản, quy chế, chính sách.
+Regularly provide the latest information that is relevant or likely to affect the production and business activities of the enterprise;
+Thường xuyên cung cấp các thông tin mới nhất có liên quan hoặc có khả năng tác động đến hoạt động sản xuất kinh doanh của doanh nghiệp;
+Once a week, Consultant will directly work with Company to report, receive and implement related works. The specific schedule will be agreed upon by the Parties;
+Định kỳ mỗi tuần một buổi, Cố Vấn sẽ trực tiếp làm việc với Công ty để báo cáo, tiếp nhận và triển khai các công việc liên quan. Lịch cụ thể sẽ do các Bên sắp xếp thống nhất.
+The scope of services mentioned above does not include: a. Business administrative procedures, land, permits, intellectual property, personal legal services, dispute resolution representation in court/arbitration, debt collection will be independently reported. and Company are entitled to a 30% discount compared to the announced price at the time of signing the service contract (Appendix I attached). b. The documents and contracts are drafted in Vietnamese or English, bilingual Vietnamese - English. In case you need to translate into another language, you will pay an additional translation fee at the rate of the third party providing translation services.
+Phạm vi dịch vụ nêu trên không bao gồm: Các thủ tục hành chính doanh nghiệp, đất đai, giấy phép, sở hữu trí tuệ, các dịch vụ pháp lý cá nhân, đại diện giải quyết tranh chấp tại tòa án/trọng tài, thu hồi công nợ sẽ được báo phí độc lập và Công ty được ưu đãi giảm 30% so với giá được công bố tại thời điểm ký hợp đồng dịch vụ (Phụ lục I đính kèm); Các văn bản, hợp đồng được soạn thảo bằng ngôn ngữ tiếng Việt hoặc tiếng Anh, song ngữ Việt – Anh. Trường hợp cần dịch thuật sang ngôn ngữ khác, quý Công ty sẽ thanh toán thêm phụ phí dịch thuật theo mức của bên thứ ba cung cấp dịch vụ dịch thuật
+Service fee and payment method/
+Phí dịch vụ và phương thức thanh toán
+Service Fee/Phí dịch vụ:
+The first six months after signing the Contract: ……………..
+Sáu tháng đầu tiên sau khi ký Hợp đồng: ……………..
+From the seventh month onwards: ……………………
+Kể từ tháng thứ bảy trở đi: ……………………………
+(Phí dịch vụ chưa bao gồm phần khấu trừ thuế thu nhập theo quy định pháp luật)
+(Service fee does not include income tax deduction as prescribed by law)
+Payment method/Phương thức thanh toán:
+The Company will pay the Service Fee to the Consultant directly in cash or by bank transfer no later than the 10th of every month. For the first month, the Service Fee is paid by the Company within 05 (five) days from the date of signing the Contract. For works which outside the scope of service abovementioned, the Consultant will quote and perform it. Then at the end of each month, the Consultant will send the Company a report to check the details for the Company to payment. These expenses are only made with Company's prior approval.
+Công ty sẽ thanh toán phí dịch vụ cho Cố Vấn trực tiếp bằng tiền mặt hoặc chuyển khoản chậm nhất là ngày 10 hàng tháng. Đối với tháng đầu tiên, Phí dịch vụ được quý Công ty thanh toán trong thời hạn 05 (năm) ngày kể từ ngày ký Hợp đồng. Đối với các công việc ngoài phạm vi dịch vụ, Cố Vấn báo phí và thực hiện. Cuối mỗi tháng, Cố Vấn sẽ gửi quý Công ty đối soát chi tiết để Công ty thực hiện thanh toán. Các khoản chi này chỉ được thực hiện khi Công ty chấp thuận trước.
+Term of contract/
+Thời hạn Hợp đồng
+The term of the performance of Contract is 12 (twelve) months (hereinafter referred to as the “Contract Term”) from the Effective Date.
+Thời hạn thực hiện Hợp đồng là 12 (mười hai) tháng (sau đây gọi là “Thời hạn hợp đồng”) kể từ Ngày hiệu lực.
+The Contract Term will automatically be extended for at least 01 (one) year after its expiration unless one Party sends a written opinion to the other Party on not renewing the Contract Term within 15 days. before the contract expires.
+Thời hạn hợp đồng sẽ mặc nhiên được gia hạn thêm ít nhất 01 (một) năm sau khi hết hạn trừ trường hợp một Bên gửi ý kiến bằng văn bản cho Bên kia về việc không gia hạn Thời hạn hợp đồng trong thời hạn 15 ngày trước ngày hợp đồng hết hạn.
+	Liablities Of Parties/ Trách Nhiệm Của Các Bên
+	Consultant’s liabilities/ Trách nhiệm của Cố Vấn
+	Consultant pledges to perform the obligation strictly according to ethical standards, commercial practices, business practices, and legal provisions;
+	Cố Vấn cam kết sẽ thực hiện công việc đúng với các chuẩn mực đạo đức, thói quen thương mại, tập quán kinh doanh và quy định pháp luật;
+	Consultant represents and warrants that the execution and performance of Contract shall not violate any law or any agreement between Consultant and any third party. In addition, Consultant commits to hold Company harmless against all compensation and liability regarding the Services performance of Consultant under Contract.
+	Cố vấn cam đoan, cam kết việc giao kết và thực hiện Hợp Đồng sẽ không vi phạm quy định pháp luật hay bất kỳ Hợp đồng, thỏa thuận giữa Cố Vấn với bên thứ ba nào. 
+	Responsibilities of the Company/ Trách nhiệm của Công Ty
+	Provide timely, complete, and accurate documents, information and/or other legal proofs that are appropriate and meet the requirements of the law related to consulting work at the request of the Consultant;
+	Cung cấp kịp thời, đầy đủ và chính xác các giấy tờ, thông tin và/hoặc các bằng chứng pháp lý khác phù hợp và đáp ứng yêu cầu của pháp luật liên quan đến công việc thuê tư vấn theo yêu cầu của Cố Vấn; 
+	Take full responsibility for the accuracy and truthfulness of the papers, documents and information provided to the Consultant;
+	Chịu trách nhiệm hoàn toàn về tính chính xác, trung thực về những giấy tờ, tài liệu, thông tin cung cấp cho Cố Vấn; 
+	Pay in full and on time the service fee as agreed in Article 2 of the Contract;
+	Thanh toán đầy đủ và đúng thời hạn phí dịch vụ tư vấn như đã thỏa thuận tại Điều 2 của Hợp đồng;
+	Regular cooperation with the Advisor during the implementation of the Contract
+	Hợp tác thường xuyên với Cố Vấn trong quá trình thực hiện Hợp đồng.
+	Confidentiality And Non-Compete/ Bảo Mật Và Chống Cạnh Tranh
+	The contents of the Contract and this Contract as well as the information disclosed by Parties ("Confidential Information") shall be kept confidential and not disclosed to a third party unless otherwise requested by competent government authorities. 
+	Các nội dung của Hợp Đồng và cả Hợp Đồng này cũng như các thông tin được tiết lộ bởi Các Bên (“Thông Tin Bảo Mật”) sẽ được bảo mật và không được tiết lộ cho Bên thứ ba trừ khi được yêu cầu bởi cơ quan nhà nước có thẩm quyền.
+	Confidential Information shall only be used for works that serve the content specified herein.
+	Thông Tin Bảo Mật sẽ chỉ được sử dụng cho các công việc nhằm phục vụ nội dung ghi nhận tại Hợp Đồng này.
+	A third party is any party that is not a Party hereto. Third parties do not include employees or advisers of a Party who need to know Confidential Information to carry out their work.
+	Bên thứ ba là bất kỳ bên nào không phải là một bên của Hợp Đồng này. Bên thứ ba không bao gồm nhân viên, cố vấn của một Bên, những người cần được biết Thông Tin Bảo Mật để thực hiện công việc của họ.
+	The recipient of Confidential Information must maintain necessary confidentiality measures to protect such Confidential Information.
+	Bên nhận Thông Tin Bảo Mật phải duy trì các biện pháp bảo mật cần thiết để bảo vệ các Thông Tin Bảo Mật này.
+	Confidential obligations shall survive the termination of this Contract.
+	Nghĩa vụ bảo mật sẽ duy trì ngay cả khi Hợp Đồng này chấm dứt.
+	During the period of providing the services to the Company and within 01 (one) year from the date of termination of Contract, Consultant commit: i) Not to attracting or soliciting any individual or organization that has used to be clients, people who have collaborated with, cooperated with or employees of Company; and ii) Not to providing adverse information or make comments, defame or act in any way that negatively affects the reputation, prestige and honor of Company in media or to the third party during the Contract term and regardless of the Contract’s termination; and iii) At any time, Consultant shall not use any trade name that contains logos, trademarks or trade names, symbols basically similar or confusingly similar with the trademark or name which has been registered or owned by Company.
+	Trong thời gian cung cấp Dịch Vụ cho Công Ty và trong thời hạn 01 (một) năm kể từ ngày chấm dứt Hợp Đồng, Cố Vấn cam kết: i) Không thu hút hoặc lôi kéo bất kỳ cá nhân/tổ chức nào đã từng là khách hàng, những người đã từng cộng tác, hợp tác, người lao động của Công Ty; và ii) Không cung cấp các thông tin bất lợi hoặc có ý kiến, luận điệu, nói xấu hay hành động dưới bất kỳ hình thức nào mà gây ảnh hưởng tiêu cực đến danh tiếng, uy tín, danh dự của Công Ty trên các phương tiện truyền thông hoặc bên thứ ba trong thời hạn Hợp Đồng và ngay cả khi Hợp Đồng chấm dứt; và iii) Tại bất kỳ thời điểm nào, Cố Vấn sẽ không sử dụng bất kỳ tên thương mại nào có chứa logo, nhãn hiệu hàng hóa hoặc tên thương mại, biểu tượng, tên kinh doanh về căn bản giống hoặc tương tự gây nhầm lẫn với nhãn hiệu hoặc tên kinh doanh đã được Công Ty đăng ký sở hữu hoặc sử dụng.
+	Termination And Consequences / Chấm Dứt Hợp Đồng Trước Thời Hạn Và Hệ Quả
+	Contract is terminated before its term in the following cases:
+	Hợp Đồng được chấm dứt trước thời hạn trong các trường hợp sau
+	Force majeure events prevent a Party from continuing to perform Contract for 30 (thirty) days or more. Force majeure event is explained under Vietnamese law;
+	Sự kiện bất khả kháng dẫn đến việc một trong Các Bên gặp phải sự kiện bất khả kháng không thể tiếp tục thực hiện Hợp Đồng từ 30 (ba mươi) ngày trở lên. Sự kiện bất khả kháng được giải thích theo quy định pháp luật Việt Nam.
+	Parties agree to terminate Contract;
+	Các Bên cùng thỏa thuận chấm dứt Hợp Đồng;
+	A Consultantreaches Contract and cannot remedy it within 10 (ten) days after receiving the notice of the non-breaching Party;
+	Một Bên vi phạm Hợp Đồng và không thể khắc phục trong vòng 10 (mười) ngày kể từ ngày nhận được thông báo của Bên bị vi phạm;
+	In case the Consultant violates the obligations of information confidentiality and non-compete within the term of Contract, Company is entitled to unilaterally terminate Contract immediately and is not liable to pay any sum of money, or shares.
+	Trường hợp Cố Vấn vi phạm nghĩa vụ Bảo mật thông tin và chống cạnh tranh trong thời hạn của Hợp Đồng này, Công Ty có quyền đơn phương chấm dứt Hợp Đồng ngay lập tức mà không phải thanh toán bất kỳ khoản tiền và cổ phần nào.	
+	Consequences of Contract termination/ Hậu quả của việc chấm dứt Hợp Đồng
+	The rights and obligations of Parties in Contract are terminated, except for provisions on Information Confidentiality, the provisions on non-compete, non-solicitation and compensations for damages;
+	Các quyền và nghĩa vụ của Các Bên theo Hợp Đồng chấm dứt trừ điều khoản về Bảo mật thông tin, điều khoản về không cạnh tranh, không lôi kéo và bồi thường thiệt hại;
+	If either Party unilaterally terminates Contract illegally and/or contravenes with the Contract’s provisions, such Party must compensate the other Party for all damages and expenses arising from the illegal termination.
+	Nếu Bên nào đơn phương chấm dứt Hợp Đồng trái luật và/hoặc trái với quy định Hợp Đồng, thì phải bồi thường cho Bên kia toàn bộ các thiệt hại và chi phí phát sinh do hành vi chấm dứt trái pháp luật gây ra cho bên kia.
+	General Provisions/ Điều Khoản Chung
+	Any amendments and supplements to any terms and/or issues of Contract must be made in Annex and agreed upon by Parties. Annex of the Contract shall be signed by Parties and be an integral part of Contract.
+	Mọi sửa đổi, bổ sung các điều khoản và/hoặc vấn đề nào trong Hợp Đồng này đều phải lập thành Phụ lục Hợp Đồng và phải được sự đồng ý của Các Bên. Phụ lục Hợp Đồng phải có chữ ký hợp pháp của Các Bên và là một phần không thể tách rời của Hợp Đồng này.
+	In case Company has division, demerger, merger, change of business form or any other changes related to the ownership, management and administration of Company, the terms agreed herein shall not be affected and binding assignor(s).
+	Trường hợp Công ty có sự chia, tách, sáp nhập, thay đổi loại hình hay bất kỳ thay đổi nào khác có liên quan đến quyền sở hữu, quản lý, điều hành của Công ty thì các điều khoản thỏa thuận theo Hợp Đồng này không bị chi phối, Hợp Đồng này vẫn có giá trị thực hiện cho (các) Bên kế thừa.
+	The violating party shall be exempted from the liability hereunder due to the Force Majeure event if all conditions as following are satisfied: i) Violates the contractual obligations, fails to comply with commitments and causes damage to the other Consultant because of the Force Majeure event which is defined in Vietnamese law; and ii) The violating party notified in writing to the other Party within seven (07) days from the occurrence or acknowledge of the Force Majeure event.
+	Bên vi phạm sẽ được miễn trừ các trách nhiệm theo Hợp Đồng này với lý do vì Sự kiện Bất khả kháng nếu đáp ứng đủ các điều kiện: i) Vi phạm nghĩa vụ Hợp Đồng, không tuân thủ các cam kết và gây thiệt hại cho Bên còn lại trong điều kiện Sự kiện Bất khả kháng theo định nghĩa theo pháp luật Việt Nam; và ii) Bên vi phạm đã thực hiện nghĩa vụ Thông báo bằng văn bản cho Bên còn lại trong vòng bảy (07) ngày kể từ khi xảy ra hoặc biết được sự kiện Bất khả kháng.		 
+	The laws of Vietnam shall be applied to settle disputes arising from Contract.
+	Các quy phạm pháp luật Việt Nam sẽ được áp dụng để xử lý các tranh chấp phát sinh từ Hợp Đồng này.	
+	If any provision of Contract becomes void, illegal, or unenforceable, such invalid, unlawful or unenforceable provisions shall not affect the remaining provisions of Contract.
+	Nếu bất kỳ quy định nào của Hợp Đồng này trở nên vô hiệu, trái luật hoặc không có khả năng thi hành, thì những điều khoản vô hiệu, trái luật hoặc không có khả năng thi hành đó sẽ không ảnh hưởng đến các điều khoản còn lại của Hợp Đồng này.	
+	A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
 Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
-
-Hợp Đồng này đã được lập thành hai (02) bản song ngữ, mỗi Bên giữ một (01) bản có giá trị pháp lý như nhau. Trường hợp có sự mâu thuẫn giữa nội dung Tiếng Việt và Tiếng Anh, nội dung Tiếng Việt được ưu tiên áp dụng.	
+	The Contract is made in two (02) bilingual versions, each Party keeps one (01) copy with equal legal validity. In case of inconsistency between Vietnamese and English content, Vietnamese content shall prevail.
+	Hợp Đồng này đã được lập thành hai (02) bản song ngữ, mỗi Bên giữ một (01) bản có giá trị pháp lý như nhau. Trường hợp có sự mâu thuẫn giữa nội dung Tiếng Việt và Tiếng Anh, nội dung Tiếng Việt được ưu tiên áp dụng.	
+For evidence, Parties sign and seal below./.
 Để làm bằng chứng, Các Bên ký tên và đóng dấu dưới đây./.
-"""
-Mau_Hop_dong_giao_khoan = """
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+COMPANY/ CÔNG TY
+(Sign, seal)/ (Ký tên, đóng dấu)
+CONSULTANT/ CỐ VẤN
+(Sign)/ (Ký tên)
+		Page/ Trang 1"""
+Mau_Hop_dong_giao_khoan = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
 ……………., ngày       tháng     năm …….
-
-
-
 HỢP ĐỒNG GIAO KHOÁN 
 Số: ………………………………..
-
 DỰ ÁN     		: ………………………………………………………………….
 GÓI THẦU  	: ………………………………………………………………….
-
-
 GIỮA 02 BÊN GỒM:
-
-
-{company_name_A}
-
+........................................................
 VÀ
-
-{company_name_B}
-
-
+...................
 HỢP ĐỒNG GIAO KHOÁN này (“Hợp đồng”) được lập và ký kết giữa CÁC BÊN KÝ TÊN DƯỚI ĐÂY theo pháp luật của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam và các nguyên tắc, quy định pháp luật khác có liên quan: 
-CHỦ ĐẦU TƯ:		{company_name_A}
+CHỦ ĐẦU TƯ:		…………………………………………………………
+Giấy đăng ký doanh nghiệp
+: ………………………………………………………
+…………………………………………………………
+MST
+: …………………………………………………………….
+Địa chỉ trụ sở chính
+: …………………………………………………………..
+Điện thoại
+: ………………………… Fax: ……………………………
+Đại diện bởi
+: ……………………………………………………….
+Chức vụ
+: …………………………………………………………….
 (Sau đây được gọi là “Bên A”)
-NHÀ CUNG CẤP: 	{company_name_B}
+NHÀ CUNG CẤP: 	
+Giấy đăng ký doanh nghiệp
+: ………………………………………………………
+…………………………………………………………
+MST
+: …………………………………………………………….
+Địa chỉ trụ sở chính
+: …………………………………………………………..
+Điện thoại
+: ………………………… Fax: ……………………………
+Đại diện bởi
+: ……………………………………………………….
+Chức vụ
+: …………………………………………………………….
  (Sau đây được gọi là “Bên B”)
 XÉT RẰNG:
 1. Bên A là một Công ty được thành lập hợp pháp theo Luật pháp nước CHXHCN Việt Nam hiện đã được cấp phép thực hiện Dự án ……………………………….. tại ………………………………………………………………………
@@ -423,22 +593,41 @@ Hai Bên thiết lập Hợp đồng này nhằm thiết lập các điều kho�
 VÌ VẬY, NAY CÁC BÊN THỎA THUẬN NHƯ SAU:
 ĐIỀU KHOẢN ĐỊNH NGHĨA
 Trừ khi ngữ cảnh có quy định khác, khi được sử dụng trong Hợp đồng này, các thuật ngữ dưới đây có nghĩa như sau:
-
+"Hàng hoá cung cấp, lắp đặt" nghĩa là .............................................................................., chi tiết thể hiện theo Phụ lục về Danh mục hàng hóa đính kèm Hợp đồng.
+"Các Dịch vụ liên quan" nghĩa là các dịch vụ hỗ trợ cho hoạt động cung cấp, lắp đặt và bảo hành Hàng hóa gồm vận chuyển và bảo hiểm; vận hành, hỗ trợ kỹ thuật sau khi lắp đặt và các nghĩa vụ khác của Bên B được bảo hiểm theo Hợp đồng. 
+"Địa điểm thực hiện" nghĩa là địa điểm Bên B thực hiện công việc theo Hợp đồng ...............................................................................................................................
+"Hợp đồng"nghĩa là các thoả thuận được nêu trong Hợp đồng được ký bởi đại diện hợp pháp của Bên A và Bên B bao gồm nhưng không giới hạn tất cả các hồ sơ đính kèm và các phụ lục kèm theo, tất cả các văn bản được kết hợp bằng cách tham chiếu, Chỉ dẫn đối với nhà thầu, Mẫu đơn dự thầu, Chỉ dẫn kỹ thuật và Biểu tiên lượng....; trừ trường hợp các bản đính kèm, phụ lục hoặc hồ sơ đó không phù hợp với các Điều kiện Hợp đồng này. Trong trường hợp này các Điều kiện Hợp đồng này sẽ được Hai Bên thống nhất áp dụng.
+1.2. 
+"Các hồ sơ liên quan Hợp đồng” được hiểu bao gồm và không giới hạn tất cả các phụ lục đính kèm, biểu mẫu được đọc và được hiểu là một phần của Hợp đồng này. Nếu có bất cứ sự mơ hồ, không rõ ràng và/hoặc không thống nhất giữa các hồ sơ và với Hợp đồng; thì thứ tự ưu tiên áp dụng theo trình tự sau:
+1)	Thỏa thuận Hợp đồng;
+2)	Thư chấp nhận ngày....;
+3)	Mức giá cuối cùng từ Bên B gửi cho HASD (Bên A) vào ngày 04/07/2017;
+4)	..................................................................................................
+5)	Phụ lục Hợp đồng.
+1.2.
+"Giá trị Hợp đồng"nghĩa là giá mà Bên A phải thanh toán cho Bên B theo Hợp đồng để Bên B thực hiện các quyền và nghĩa vụ theo Điều 1 Hợp đồng.
+“Đồng” hoặc “VNĐ” nghĩa là đồng tiền hợp pháp của nước Cộng hòa xã hội Chủ nghĩa Việt Nam.
+“Pháp luật Việt Nam” nghĩa là tất cả các luật, bộ luật, pháp lệnh, nghị định, thông tư, quy chế, quyết định, thông tư, hướng dẫn, quy tắc, lệnh hoặc các văn bản pháp lý khác của các cơ quan nhà nước CHXHCN Việt Namđã được ban hành, phổ biến công khai và có hiệu lực pháp lý cũng như các sửa đổi hoặc thay thế chúng vào từng thời điểm.
 ĐIỀU 1.	GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN
 1.1 	 Giá trị Hợp đồng
-Tổng giá trị hợp đồng là {contract_price}. VNĐ (Bằng chữ: ............... Đồng Việt Nam). Giá trị hợp đồng này không bao gồm thuế Giá trị gia tăng (VAT). Đơn giá hợp đồng là cố định trong suốt thời gian Hai Bên thực hiện hợp đồng.
+Tổng giá trị hợp đồng là ...................................... VNĐ (Bằng chữ: Mười tám tỷ, hai trăm ba mươi sáu triệu tám trăm bảy mươi bốn nghìn năm trăm Đồng Việt Nam). Giá trị hợp đồng này không bao gồm thuế Giá trị gia tăng (VAT). Đơn giá hợp đồng là cố định trong suốt thời gian Hai Bên thực hiện hợp đồng.
 Giá trị hợp đồng này đã bao gồm cung cấp, vận chuyển và lắp đặt hàng hóa và giao hàng đến chân công trình Dự án của Bên A và cung cấp các Dịch vụ liên quan; Các khoản thuế, phí theo quy định pháp luật (trừ thuế Gía trị gia tăng (VAT)) liên quan theo yêu cầu trong Chỉ dẫn kỹ thuật được thống nhất theo Phụ lục kèm theo hợp đồng.
 Đối với những hàng hóa, vật tư, thiết bị chưa có trong Phụ lục về Danh mục hàng hóa thì khi Bên A có yêu cầu phát sinh đơn hàng thì sau khi Bên A gửi yêu cầu, Bên B sẽ lập báo giá gửi cho Bên A. Bên A chấp thuận báo giá thì Hai Bên sẽ thống nhất ký xác nhận và lập Phụ lục bổ sung Hợp đồng. 
 1.2. Điều kiện thanh toán
 Số lượng hàng hóa theo Biên bản giao nhận thực tế được Hai Bên xác nhận sẽ là cơ sở cho việc thanh toán.
 Mọi thanh toán sẽ được thực hiện bằng hình thức chuyển khoản bằng tiền đồng Việt Nam theo thông tin tài khoản Ngân hàng do Bên B cung cấp dưới đây:
+Chủ tài khoản
+: ..................................................................................................
+Số tài khoản
+: ..................................................................................................
+Ngân hàng
+: ..................................................................................................
 1.3. Phương thức thanh toán
 Việc thanh toán giá trị Hợp đồng được Hai Bên thống nhất chia làm 04 giai đoạn như sau: 
 Giai đoạn 01 (tạm ứng): Bên A tạm ứng cho Bên B 30% giá trị Hợp đồng tạm tính tương đương với số tiền ............................................. đồng trong vòng 03 ngày làm việc kể từ ngày Bên A nhận được Giấy đề nghị tạm ứng, Bản gốc Thư bảo lãnh hoàn tạm ứng có giá trị 30% giá trị Hợp đồng. Thư bảo lãnh hoàn tạm ứng có hiệu lực trong thời hạn .............. ngày kể từ ngày tiền tạm ứng của Bên A chuyển vào tài khoản Ngân hàng của Bên B. Trường hợp còn 01 ngày làm việc là hết hạn Thư bảo lãnh mà Bên B chưa giao hàng, Bên A có quyền yêu cầu Ngân hàng nơi phát hành Thư bảo lãnh thực hiện nghĩa vụ thanh toán tiền tạm ứng cho Bên A. 
 Giai đoạn 02: Ngay sau khi Bên A nhận được thông báo tập kết hàng đến chân công trình Dự án của Bên A, Bên A phải cử cán bộ kỹ thuật đến kiểm tra. Nếu hàng hóa đúng tiêu chuẩn, chất lượng như Hợp đồng đã ký, Bên A sẽ tiến hành thanh toán đến 60% giá trị theo Hợp đồng trong vòng ................ ngày làm việc kể từ ngày kiểm tra. Ngay sau khi nhận được tiền thanh toán của Bên A thì Bên B tiến hành giao hàng trong vòng 24 giờ.
 Giai đoạn 03: Bên B thi công lắp đặt ..................... theo yêu cầu của Bên A có Biên bản nghiệm thu hoàn thành Bên A sẽ thanh toán 05% giá trị Hợp đồng tương đương với số tiền............................................ đồng trong vòng 05 ngày làm việc kể từ khi hoàn thành thử nghiệm và chạy thử.
 Giai đoạn 04: Bên A thanh toán 05% giá trị Hợp đồng còn lại trong vòng 10 ngày làm việc sau khi nhận giấy chứng nhận nghiệm thu của chủ đầu tư.
-
 ĐIỀU 2.	THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO HÀNG
 Sau khi nhận được Đơn đặt hàng chính thức của Bên A, Bên B chịu trách nhiệm bốc, xếp hàng và giao đến chân công trình Dự án của Bên A trong vòng ................ ngày (........ tuần); kể từ ngày nhận được đơn đặt hàng của Chủ đầu tư sau khi ký Hợp đồng này. 
 Trừ khi có thoả thuận khác bằng văn bản, thời gian giao hàng được quy định trong Hợp đồng này phải được tuân thủ chặt chẽ.
@@ -449,8 +638,7 @@ Trước khi bàn giao cho Bên A, Bên Bcó trách nhiệm cung cấp các gi�
 1 Bản gốc Vận đơn.
 1 Bản gốc Phiếu đóng gói
  1 Hóa đơn gốc.
-Địa điểm giao hàng:: {address}
-
+Địa điểm giao hàng:: ..........................................................................................
 ĐIỀU 3. 	PHẠT DO CHẬM TRỄ GIAO NHẬN HÀNG, CHẬM THANH TOÁN
 3.1. Nếu Bên B không giao hàng cho Bên A, không tiến hành lắp đặt hoặc hoàn thành việc lắp đặt đầy đủ hàng hoá tại Khu vực Dự án hoặc không thực hiện Dịch vụ liên quan theo đúng ngày đã thỏa thuận trong Thư chấp nhận mà không do lỗi của Bên A thì sẽ bị phạt 0,2% trên mỗi tuần chậm trễ tổng giá trị đơn hàng bị giao trễ. Tổng số tiền phạt không được vượt quá 5% tổng giá trị đơn hàng bị giao trễ. Bên B phải trả tiền phạt ngay khi nhận được thông báo của Bên A.  
 Mức phạt trên sẽ không áp dụng trong trường hợp việc giao hàng hoặc thi công lắp đặt bị chậm trễ do lỗi của Chủ đầu tư hoặc do các nguyên nhân khách quan khác không do lỗi của Nhà cung cấp.  
@@ -459,13 +647,10 @@ Mức phạt trên sẽ không áp dụng trong trường hợp việc giao hàn
 3.4. Trong quá trình thực hiện Hợp đồng, nếu bất cứ khi nào Bên B hoặc nhà thầu phụ gặp những khó khăn cản trở việc giao hàng kịp thời hoặc thực hiện các Dịch vụ liên quan, Bên B phải thông báo ngay cho Bên A bằng văn bản về sự chậm trễ, thời gian và nguyên nhân của sự chậm trễ này. Ngay sau khi nhận được thông báo của Bên B, Bên A sẽ xem xét tình hình và tùy theo quyết định của mình để kéo dài thời gian thực hiện của Bên B, trong trường hợp đó, hai bên sẽ thông qua việc gia hạn bằng cách sửa đổi Hợp đồng nếu sự chậm trễ này vượt quá hai mươi mốt (21) ngày.Trường hợp này Bên B sẽ không bị phạt hợp đồng vì lý do chậm trễ.
 3.5. Phạt do không nhận giao hàng: Trường hợp Bên A không nhận bàn giao trong thời hạn theo yêu cầu của Bên B thì Bên A phải chịu phạt 2% (hai phần trăm) giá trị hợp đồng cho mỗi ngày chậm nhận giao hàng nhưng không quá 10 ngày. Nếu quá 10 ngày Bên B có quyền phạt vi phạm Bên A  với mức phạt là 8% (tám phần trăm) giá trị hợp đồng, yêu cầu Bên A thanh toán các chi phí phát sinh, bồi thường thiệt hại cho Bên B trong thời hạn 10 ngày kể từ ngày Bên B yêu cầu.
 3.6. Phạt do thanh toán không đúng đầy đủ, đúng thời hạn: Trong trường hợp Bên A vi phạm nghĩa vụ thanh toán nêu tại Hợp đồng này thì Bên A phải chịu phạt 2% (hai phần trăm) giá trị hợp đồng cho mỗi ngày chậm thanh toán nhưng không quá 10 ngày. Nếu quá 10 ngày Bên B có quyền phạt vi phạm Bên A  với mức phạt là 8% (tám phần trăm) giá trị hợp đồng. Đồng thời, Bên B có quyền tiến hành chấm dứt Hợp đồng đối với Bên A mà không phải chịu bất cứ một khoản phạt hay bồi thường nào; Bên B được quyền thu hồi lại toàn bộ hàng hóa đã bàn giao trước đó, thu hồi các bảo lãnh (nếu có); giữ lại toàn bộ các khoản tiền đã nhận đồng thời yêu cầu Bên A  phải bồi thường cho Bên B các khoản thiệt hại phát sinh do việc chấm dứt Hợp đồng này.
-
-
 ĐIỀU 4. 	KIỂM TRA HÀNG HÓA KHI GIAO NHẬN
 4.1. 	Bên B có trách nhiệm kiểm tra Hàng hóa và chịu rủi ro, thiệt hại cùng các chi phí, phí liên quan đến vận chuyển Hàng hóa đến chân công trình Dự án của Bên A. Bên A có quyền tự kiểm tra hoặc sử dụng dịch vụ của một bên thứ ba có đủ điều kiện theo quy định pháp luật sau khi thông báo bằng văn bản cho Bên B để kiểm tra Hàng hóa tại chân công trình Dự án của Bên A. Trường hợp phát hiện các yêu cầu về thông số kỹ thuật của Hàng hóa không đúng thông số như đã thỏa thuận trong Hợp đồng này và Phụ lục về Danh mục Hàng hóa kèm theo và Hàng hóa không có giấy chứng nhận xuất xứ do nước sản xuất cấp; Bên A có quyền yêu cầu Bên B giải trình gấp về sự không phù hợp này.Trong thời hạn 15 ngày làm việc kể từ ngày Bên A yêu cầu, Bên B phải có trách nhiệm giải trình. Trường hợp Bên A từ chối nhận hàng, Bên B có trách nhiệm thay thế Hàng hóa phù hợp với thỏa thuận của Hai Bên và chịu mọi chi phí thay thế Hàng hóa trong thời hạn 15 ngày kể từ ngày nhận được Thông báo yêu cầu thay thế Hàng hóa từ Bên A.
 4.2. 	Bên B có trách nhiệm mua các chính sách bảo hiểm có hiệu lực theo yêu cầu của Bên A để chi phí các thiệt hại hoặc tổn thất cho Hàng Hóa trong quá trình vận chuyển đến địa điểm giao hàng; nếu có.Trách nhiệm của Bên B kết thúc khi đã vận chuyển Hàng hóa đến địa điểm giao hàng theo Hợp đồng hoặc một địa điểm nhận hàng khác do Hai Bên thống nhất bằng văn bản. Trong trường hợp có phát sinh khiếu nại, tranh chấp liên quan đến chính sách bảo hiểm, Bên B có trách nhiệm giải quyết theo quy định pháp luật. Mọi chi phí, phí phát sinh khi giải quyết khiếu nại theo quy định pháp luật.
 	4.3. Trường hợp Bên B đã vận chuyển Hàng hóa đến địa điểm giao hàng theo thỏa thuận mà Bên A không bố trí người, phương tiện để nhận Hàng hóa hoặc không tạo điều kiện để Bên B thực hiện dịch vụ lắp đặt Hàng Hóa thì toàn bộ các phí, chi phí bao gồm nhưng không giới hạn chi phí vận chuyển; thuê nhân công; chi phí thuê nhân công bảo quản; chi phí phát sinh do Hàng hóa bị hư hỏng, thiệt hại... Bên A có trách nhiệm chi trả. Nếu quá 24h kể từ thời điểm Bên B vận chuyển đến, Bên B có quyền vận chuyển lô hàng về kho của mình. Khi đó được xem là hành vi vi phạm hợp đồng của Bên A và Bên A chịu mọi chi phí vận chuyển; mọi phí, lệ phí và có trách nhiệm thanh toán cho Bên A toàn bộ giá trị hàng hóa không nhận. 
-
 ĐIỀU 5. 	CHẤT LƯỢNG, QUY CÁCH KỸ THUẬT 
 Chất lượng, quy cách kỹ thuật Hàng hóa
 Hàng mới 100% nguyên đai, nguyên kiện; đúng quy trình Quản lý chất lượng. Toàn bộ Hàng hóa do Bên B bán cho Bên A là hàng chưa sử dụng.
@@ -474,7 +659,6 @@ Bên B đảm bảo tất cả hàng hoá không có khuyết tật, phát sinh 
 Tiêu chuẩn kỹ thuật Hàng hóa thống nhất theo Phụ lục về Danh mục Hàng hóa kèm theo.
 Bên B cung cấp đầy đủ cho Bên A các chứng nhận xuất xưởng đối với tủ điện, chứng nhận chất lượng – CO, CQ đối với thiết bị chính của tủ điện.
 Các tài liệu bản vẽ thiết kế cần thiết cho việc lắp đặt, vận hành, bảo dưỡng sẽ được Bên B cung cấp (kèm theo hàng). Bên B có trách nhiệm đào tạo, hướng dẫn cán bộ kỹ thuật do Bên A giao phụ trách để tự vận hành hệ thống mà Bên B cung cấp cho Bên A theo Hợp đồng này.
-
 ĐIỀU 6. 	QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN
 6.1. Quyền và nghĩa vụ của Bên A:
 a. Bên A có quyền kiểm tra chất lượng, số lượng hàng khi nhận và có quyền nhận hàng theo quy định;
@@ -485,13 +669,11 @@ d.
 a. Cung cấp đầy đủ chứng từ, hoá đơn GTGT theo đúng quy định của nhà nước và thực hiện đầy đủ các điều khoản đã cam kết trong hợp đồng. Chịu trách nhiệm về tính hợp pháp của hoá đơn chứng từ đó.
 b. Cung cấp đầy đủ số lượng, chủng loại, quy cách chất lượng hàng hoá và đúng tiến độ giao nhận hàng do bên A yêu cầu.
 c. Trong trường hợp Bên B không có hàng để giao (nhà máy không sản xuất…) theo yêu cầu của Bên A thì phải thông báo ngay cho Bên A biết để cùng bàn bạc giải quyết, nếu cố tình kéo dài thời gian giao hàng làm ảnh hưởng tới tiến độ thi công công trình của Bên A thì Bên B phải chịu trách nhiệm bồi thường toàn bộ các chi phí liên quan tới việc chậm trễ trên; đồng thời phải chịu trách nhiệm chi trả khoản phát sinh chênh lệch do Bên A phải mua của đối tác khác với đơn giá và chi phí cao hơn.
-
 ĐIỀU 7. 	BẢO HÀNH
 Nhà cung cấp phải đảm bảo hàng hoá là hàng mới, chưa qua sử dụng, các model mới nhất hoặc đang hiện hành, đồng thời có sự cải tiến gần đây trong thiết kế cũng như vật liệu trừ khi được quy định khác trong Hợp đồng. Nhà cung cấp cũng phải đảm bảo tất cả hàng hoá không có khuyết tật, phát sinh từ thiết kế, vật liệu, hoặc tay nghề (trừ khi thiết kế và/hoặc vật liệu được yêu cầu theo đặc điểm kỹ thuật của Chủ đầu tư) hoặc do bất kỳ hành vi hay thiếu sót nào của Nhà cung cấp, có thể triển khai theo việc sử dụng bình thường Hàng hoá được cung cấp theo các điều kiện hiện hành tại Việt Nam. Khi nhận được thông báo của Chủ đầu tư về yêu cầu bồi thường bảo hành, Trong vòng 24 giờ kể từ khi nhận được thông báo về yêu cầu bồi thường bảo hành của Chủ đầu tư, Nhà cung cấp phải có mặt tại hiện trường để xác định cùng Chủ đầu tư về lỗi do Nhà cung cấp gây ra các sự cố cần phải bảo hành, sau khi hai bên xác định được lỗi do Nhà cung cấp sẽ tiến hành sửa chữa hoặc thay thế hàng hoá bị lỗi hoặc các phụ tùng của chúng, mọi chi phí thay thế hoặc sữa chữa này do Nhà cung cấp chịu trách nhiệm. Đối với các dịch vụ khẩn cấp như ……………………………………., đội ngũ bảo trì của Nhà cung cấp sẽ đến Khu vực Dự án trong vòng hai (2) giờ kể từ khi nhận được cuộc gọi khẩn cấp từ Chủ đầu tư. 
 Đối với bất kỳ hư hỏng hoặc lỗi nào khác của hàng hóa xuất phát từ việc vận hành không đúng yêu cầu kỹ thuật hoặc do các nguyên nhân khách quan khác bất kỳ không do lỗi của Nhà cung cấp thì Nhà cung cấp không có trách nhiệm bảo hành. 
 Điều khoản Bảo hành Hàng hoá theo Điều 7 này sẽ có giá trị trong các khoảng thời gian được quy định tại Thông số kỹ thuật và tối đa là 24 tháng nêu trong đó. 
 Bất kỳ yêu cầu bồi thường liên quan đến khuyết tật của nhà sản xuất phải được giải quyết trước khi kết thúc Thời hạn bảo hành.
-
 ĐIỀU 8. 	CHẤM DỨT HỢP ĐỒNG
 8.1. Bên A không được đơn phương chấm dứt hợp đồng trong toàn bộ thời hạn hợp tác giữa hai bên theo Hợp đồng này trừ trường hợp Bên A gửi thông báo vi phạm lỗi bằng văn bản cho Bên B, mà bên B không khắc phục được các lỗi của Bên B trong các trường hợp sau:
 Nếu Bên B không giao bất kỳ hoặc tất cả Hàng hoá, trong 21 ngày sau khi kết thúc thời hạn theo quy định trong Thư chấp nhận hoặc hết hạn gia hạn do Bên A ban hành theo Hợp đồng;
@@ -505,13 +687,11 @@ iii	Bên A chuyển nhượng Hợp đồng mà không có sự chấp nhận c�
 iv	Bên A lâm vào tình trạng phá sản, bị tuyên bố phá sản, phải kinh doanh dưới sự giám sát hoặc bất kỳ trường hợp nào tương tự như vậy đe dọa nghiêm trọng đến khả năng thực hiện hợp đồng này.
 Bên B đơn phương chấm dứt hợp đồng trước thời hạn phải thông báo cho Bên A bằng văn bản trước ít nhất 03 (ba) ngày trước khi thực hiện. Riêng trường hợp tại điểm iii, iv phần B Điều này, Bên B được quyền chấm dứt hợp đồng ngay lập tức. Việc Bên B chấm dứt hợp đồng theo các trường hợp trên sẽ không được làm ảnh hưởng đến các quyền lợi khác của Bên B theo hợp đồng.
 Sớm nhất có thể sau khi thông báo chấm dứt hợp đồng và không muộn hơn 35 (ba mươi lăm) ngày sau khi thông báo, Bên A và Bên B sẽ thảo luận và xác định giá trị hợp đồng tại thời điểm chấm dứt hợp đồng và tiến hành hoàn tất thủ tục thanh toán trước khi thanh lý hợp đồng. Kết quả của việc hợp đồng bị chấm dứt là Bên A phải hoàn trả lại cho Bên B bảo lãnh tạm ứng, bảo lãnh thực hiện hợp đồng; Bên B được quyền thu hồi và sở hữu hợp pháp tất cả hàng hóa nêu tại Hợp đồng này và yêu cầu Bên A bồi thường thiệt hại cho Bên B theo yêu cầu của Bên B.
-
 ĐIỀU 9. 	QUY ĐỊNH VỀ TRỤC LỢI
 Trục lợi là hành vi lợi dụng chức vụ, vị trí công tác, lợi dụng thẩm quyền được giao, lợi dụng hoàn cảnh, cơ hội để đem lại lợi ích cho cá nhân/nhóm cá nhân trong quá trình chào giá, đàm phán, ký kết, thực hiện Hợp đồng này.
 Hai bên cam kết mỗi bên không chi/nhận hoa hồng; không chi/nhận chiết khấu, tiền chênh lệch giá; không bao che, hỗ trợ, thúc đẩy các hành vi trục lợi của bất kỳ cá nhân, tổ chức nào; không thực hiện bất kỳ hành vi tương tự dưới bất kỳ hình thức nào trước, trong và sau quá trình thực hiện Hợp đồng.
 Nếu Bên A phát hiện hành vi trục lợi như trên thì Bên A có nghĩa vụ thông báo ngay cho Bên B và phối hợp với Bên B để xử lý. Trường hợp không có thông báo từ Bên A mà Bên B phát hiện có các hành vi trên thì ngay lập tức, Bên B có quyền chấm dứt hợp tác, chấm dứt Hợp đồng đang có hiệu lực với Bên A mà không phải chịu bất kỳ chế tài nào; Bên A phải có nghĩa vụ bồi thường đối với những thiệt hại mà Bên B phải chịu từ việc chấm dứt hợp đồng trên. Ngoài ra, Bên A còn phải chịu phạt 8% tổng giá trị Hợp đồng này.
 Đường dây tiếp nhận thông tin: 0932.400.457, hoặc Email : nghiavta@tuanhuyco.com
-
 ĐIỀU 10. 	BẤT KHẢ KHÁNG
 10.1. “Sự kiện bất khả kháng” là những sự kiện xảy ra một cách khách quan, không thể lường trước được và không thể khắc phúc được mặc dù đã áo dụng các biện pháp cần thiết trong khả năng cho phép. Sự kiện bất khả kháng bao gồm nhưng không giới hạn ở:
 Sự thay đổi của chính sách pháp luật, quyết định của cơ quan Nhà nước có thẩm quyền;
@@ -524,7 +704,6 @@ Hồ sơ yêu cầu hỗ trợ sẽ được gửi kèm theo Thông báo. Nếu 
 Bên gặp sự kiện bất khả kháng phải áp dụng mọi biện pháp hợp lý để chấm dứt sự kiện bất khả kháng và/hoặc khắc phục các hậu quả. Trong trường hợp một Bên gặp sự kiện bất khả kháng thì Hai bên phải lập tức bàn bạc để tìm ra giải pháp hợp lý và phải áp dụng mọi biện pháp hợp lý để hạn chế tối đa hậu quả gây ra do sự kiện bất khả kháng đó. 
 Nếu vì sự kiện bất khả kháng mà một Bên không thể hoàn thành nghĩa vụ bất kỳ của mình theo Hợp đồng này thì Bên đó không bị coi là có lỗi, nhưng phải tiếp tục hoàn thành các nghĩa vụ của mình theo Hợp đồng không bị ảnh hưởng bởi Sự kiện bất khả kháng.
 10.4. Mỗi Bên có thể chấm dứt Hợp đồng này, mà không cần thông báo hoặc bồi thường, nếu việc thực hiện nghĩa vụ của Bên đó không thể thực hiện được do ảnh hưởng của Sự kiện bất khả kháng trong thời hạn 06 tháng liên tục.
-
 ĐIỀU 11.	HIỆU LỰC HỢP ĐỒNG
 11.1.  Hợp đồng này có thể bị chấm dứt trước thời hạn theo một trong các trường hợp sau:.
 Hai Bên thỏa thuận chấm dứt Hợp đồng trước thời hạn bằng văn bản;
@@ -533,22 +712,16 @@ Một trong Hai Bên đơn phương chấm dứt Hợp đồng theo quy định 
 Các trường hợp khác theo quy định của pháp luật.
 11.2. Sau thời gian quy định trên tại Điều 12.1, nếu Hai Bên có nhu cầu hợp tác kinh doanh tiếp thì Hai Bên sẽ bàn bạc, thống nhất việc gia hạn Hợp đồng bằng Phụ lục Hợp đồng.
 11.3. Hợp đồng có hiệu lực từ ngày hai bên ký kết. 
-
 ĐIỀU 12. 	BỒI THƯỜNG
 Trong quá trình thực hiện hợp đồng này, nếu Bên nào vi phạm gây thiệt hại cho Bên kia thì có trách nhiệm bồi thường thiệt hại căn cứ vào mức thiệt hại xảy ra trên thực tế và các Bên phải có nghĩa vụ chứng minh khi được yêu cầu..
-
 ĐIỀU 13. 	HỢP ĐỒNG PHỤ
 Hợp đồng phụ được phép tối đa [30%] tổng số tiền hợp đồng. Hồ sơ mời thầu phải nêu rõ nếu hợp đồng phụ và các điều kiện theo đó được thực hiện. Khi nộp hồ sơ dự thầu, nhà thầu phải khai báo vật tư/dịch vụ/công trình mà họ dự định ký hợp đồng phụ.
-
 ĐIỀU 14.  LUẬT ĐIỀU CHỈNH VÀ GIẢI QUYẾT TRANH CHẤP
 		Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt. 
-
 ĐIỀU 15. 	CHUYỂN NHƯỢNG HỢP ĐỒNG
 Nhà cung cấp (Bên B) không được chuyển nhượng một phần hoặc toàn bộ nghĩa vụ thực hiện Hợp đồng cho bên thứ ba mà không có sự đồng ý bằng văn bản của Chủ đầu tư (Bên A).
-
 ĐIỀU 16.	THÔNG BÁO
 Mọi thông tin, tài liệu, chứng từ, dữ liệu và thông báo sẽ được gửi đến cho các Bên theocác địa chỉ liên lạc đã được nêu ở trên.
-
 ĐIỀU 17. 	NHỮNG CAM KẾT CHUNG VÀ ĐIỀU KHOẢN THI HÀNH
 17.1. Các điều khoản trong Hợp đồng này đều riêng biệt và tách rời khỏi các điều khoản khác. Trường hợp ở bất cứ thời điểm nào, một điều khoản bị xem là vô hiệu, không hợp pháp hoặc không thể thực thi theo luật pháp hiện hành của Việt Nam, tính hiệu lực, hợp pháp và khả thi của những điều khoản còn lại trong hợp đồng này vẫn không bị ảnh hưởng. Các Bên đồng ý sẽ lập tức thảo luận với tinh thần thiện chí nhằm thiết lập một điều khoản thay thế để bảo vệ quyền lợi của các bên trong phạm vi pháp luật cho phép.
 Hợp đồng này sẽ thay thế cho tất cả các thỏa thuận trước đây, dù bằng lời nói hay văn bản, cũng như mọi sự trình bày khác, và sẽ tạo nên sự thỏa thuận toàn diện và duy nhất giữa các bên. Hợp đồng này có thể sửa đổi bởi một văn bản do đại diện có thẩm quyền của mỗi Bên cùng ký. 
@@ -557,42 +730,31 @@ Hợp đồng này sẽ thay thế cho tất cả các thỏa thuận trước �
 17.4. Hợp đồng này gồm…… Điều được lập thành…..bản, mỗi bản….. trang, các bản có giá trị pháp lý như nhau. Mỗi bên giữ 02 bản. 
 17.5. Hợp đồng có hiệu lực kể từ ngày ký. Hợp đồng tự động thanh lý trong vòng 20 ngày sau khi hai bên thực hiện xong các nghĩa vụ của mình quy định trong hợp đồng này, bao gồm cả nghĩa vụ bảo hành.
 CÁC THỎA THUẬN KHÁC (Nếu có)..................................................................... 
-
 ĐẠI DIỆN BÊN A							ĐẠI DIỆN BÊN B
-
-
-
-
-
-
-"""
+1/1"""
 Mau_Hop_dong_bao_tri_bao_duong_khach_san = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
-
 HỢP ĐỒNG
 CUNG CẤP DỊCH VỤ SỬA CHỮA, BẢO DƯỠNG, LẮP ĐẶT THIẾT BỊ
 SỐ:_____/_____________________
-
 - Căn cứ vào Luật Thương mại năm 2005 và các văn bản hướng dẫn có liên quan;
 - Căn cứ vào Luật Doanh nghiệp năm 2020 và các văn bản hướng dẫn có liên quan;
 - Căn cứ vào nhu cầu và khả năng của hai bên.
-
 Hôm nay, ngày____tháng____năm _______________, tại __________________, chúng tôi gồm:
-BÊN SỬ DỤNG DỊCH VỤ:  {company_name_A}
-Địa chỉ	: {address_A}
-Đại diện	: {personal_name_A}
-Mã số thuế	: {tax_code_A}
-Tài khoản	: {bank_number_A} {bank_name_A}
-Số điện thoại	: {phone_A}
+BÊN SỬ DỤNG DỊCH VỤ:  CÔNG TY …………………………
+Địa chỉ	: …………………………………..
+Đại diện	: …………………………………
+Mã số thuế	: ……………………………..
+Tài khoản	: ………………………………
+Số điện thoại	: …………………………..
 (Sau đây gọi tắt là Bên A)
-BÊN CUNG CẤP DỊCH VỤ: {company_name_B}
-Địa chỉ	: {address_B}
-Đại diện	: {personal_name_B}
-Mã số thuế	: {tax_code_B}
-Tài khoản	: {bank_number_B} {bank_name_B}
-Số điện thoại	: {phone_B}
-(Sau đây gọi tắt là Bên B)
-
+BÊN CUNG CẤP DỊCH VỤ: CÔNG TY …………………………
+Địa chỉ	: …………………………………..
+Đại diện	: …………………………………
+Mã số thuế	: ……………………………..
+Tài khoản	: ………………………………
+Số điện thoại	: …………………………..
+ (Sau đây gọi tắt là Bên B)
 Hai bên đã thoả thuận và nhất trí ký Hợp đồng cung cấp dịch vụ sửa chữa, bảo dưỡng, lắp đặt thiết bị với các điều khoản sau:
 ĐIỀU 1. NỘI DUNG CÔNG VIỆC
 Bên A có nhu cầu và Bên B khả năng cung cấp dịch vụ bảo dưỡng, bảo trì, sửa chữa, thay thế, lắp đặt các thiết bị điện nước, điện lạnh, điều hòa, thông gió và các thiết bị khác của Bên A tại Khách sạn ………. có địa chỉ: ...........................................
@@ -615,6 +777,11 @@ Số tầng, khu vực thực hiện công việc: ………………….
 ĐIỀU 3. GIÁ TRỊ HỢP ĐỒNG, PHƯƠNG THỨC, TRÌNH TỰ THANH TOÁN.
 3.1. Giá trị Hợp đồng
 3.1.1. Đối với nội dung công việc bảo trì, bảo dưỡng khách sạn, giá trị Hợp đồng được tính theo đơn giá như sau:
+STT
+Dịch vụ
+Số lượng
+Đơn giá
+(đồng)
 Trường hợp phát sinh các dịch vụ chưa thỏa thuận đơn giá thì giá trị phần dịch vụ phát sinh sẽ được do hai bên thương thảo và căn cứ tại thời điểm phát sinh công việc. 
 3.1.2. Đối với nội dung công việc liên quan đến việc thay thế, lắp đặt lại thiết bị thì giá trị toàn bộ vật tư, thiết bị thay thế phát sinh sẽ được thỏa thuận giữa Hai bên trước khi lắp đặt.
 3.1.3. Giá trị Hợp đồng chưa bao gồm VAT.
@@ -626,7 +793,7 @@ Bên A tạm ứng cho Bên B số tiền là ………. đồng (………..đ�
 + Biên bản đối chiếu công nợ và xác nhận chất lượng dịch vụ theo đúng hợp đồng.
 + Đề nghị thanh toán.
 + Hóa đơn VAT.
-Bên A sẽ thanh toán cho Bên B số tiền là {contract_price} đồng (………..đồng chẵn) chậm nhất sau 07 ngày, kể từ khi nhận được hồ sơ thanh toán của Bên B.
+Bên A sẽ thanh toán cho Bên B số tiền là ………. đồng (………..đồng chẵn) chậm nhất sau 07 ngày, kể từ khi nhận được hồ sơ thanh toán của Bên B.
 - Thanh quyết toán công trình: Sau khi Bên B hoàn thành toàn bộ công việc đối với việc bảo dưỡng, bảo trì, sửa chữa thì Bên A phải thanh toán toàn bộ giá trị quyết toán (sau khi đối trừ tiền tạm ứng) cho Bên B.
 - Đối với việc lắp đặt, thay thế thiết bị thì Bên A thanh toán cho Bên B giá trị của hàng hóa khi Bên B đưa hàng tới Địa điểm làm việc để tiến hành công việc.
 3.3. Phương thức thanh toán: Tiền mặt hoặc chuyển khoản.
@@ -705,7 +872,6 @@ b.Khi gửi qua bưu điện: sau 02 (hai) ngày làm việc kể từ ngày đ�
 c. Khi gửi qua fax: là thời điểm Bên đó nhận được được tín hiệu chuyển fax thành công;
 d. Trong các trường hợp này, nếu ngày tương ứng rơi vào ngày chủ nhật hoặc ngày lễ của Việt Nam thì các thông báo, yêu cầu, khiếu nại hoặc thư từ giao dịch… nói trên sẽ được xem như bên kia nhận được vào ngày kế tiếp.
 10.4.Hai Bên phải thông báo bằng văn bản cho nhau biết nếu có đề nghị thay đổi địa chỉ, hình thức, tên người nhận thông báo…Nếu Bên có thay đổi không thông báo lại cho Bên kia biết thì Bên gửi thông báo không chịu trách nhiệm về việc Bên có thay đổi không nhận được các văn bản thông báo.
-
 ĐIỀU 11. GIẢI QUYẾT TRANH CHẤP
 Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
 Luật áp dụng cho hợp đồng này là… (chỉ áp dụng đối với tranh chấp có yếu tố nước ngoài và trong trường hợp các bên không thỏa thuận về luật áp dụng trong một điều khoản khác).
@@ -716,21 +882,23 @@ Luật áp dụng cho hợp đồng này là… (chỉ áp dụng đối với t
 12.4.Hợp đồng này được lập thành 04 (bốn) bản tiếng Việt có giá trị pháp lý như nhau; mỗi Bên giữ 02 (hai) bản. 
 12.5. Hợp đồng này được ký bởi đại diện có thẩm quyền của các Bên vào ngày được nêu ở phần đầu.  
 	 CÁC THỎA THUẬN KHÁC (Nếu có)
-"""
+ĐẠI DIỆN BÊN A
+________________
+ĐẠI DIỆN BÊN B
+________________"""
 Mau_Hop_dong_cam_ket_bao_mat_thong_tin_va_chong_canh_tranh = """CAM KẾT BẢO MẬT THÔNG TIN VÀ CHỐNG CẠNH TRANH
-
 Cam Kết Bảo Mật Thông Tin Và Chống Cạnh Tranh (Sau đây gọi là “Cam kết”) này được lập và có hiệu lực vào ngày __ tháng __ năm 20____ bởi cá nhân có thông tin nêu tại phần ký của Hợp Đồng (Sau đây gọi tắt là “Đối Tác”) và CÔNG TY CỔ PHẦN ____________; Mã số thuế: 0315807xxx; Địa chỉ: ___________Việt Nam; Đại diện bởi: Ông __________ (Sau đây gọi tắt là “Công Ty”) 
 Cam kết này được áp dụng cho người lao động chính thức hay thử việc, thực tập sinh, Cộng tác viên hoặc lao động thời vụ với Công Ty.
 (Công Ty và Đối Tác theo Cam kết này khi gọi riêng là “Bên” và gọi chung là “Các Bên”) 
 Các Bên đồng ý ký kết Cam kết này theo các điều khoản, điều kiện như sau: 
 ĐỐI TƯỢNG CỦA CAM KẾT
-Bí mật kinh doanh
+	Bí mật kinh doanh
 Bí mật kinh doanh là thông tin có được từ hoạt động đầu tư tài chính, trí tuệ, chưa được bộc lộ công khai (trừ trường hợp được tiết lộ một cách hạn chế cho một số người có liên quan) và có khả năng sử dụng trong kinh doanh. Theo đó, Bí mật kinh doanh được bảo mật thuộc sở hữu của Công Ty bao gồm nhưng không giới hạn: Danh sách và thông tin của đối tác, khách hàng; Báo cáo kết quả kinh doanh, nghiên cứu thị trường và khách hàng của Công Ty; Các kế hoạch kinh doanh của Công Ty; Quy trình của các hoạt động quản trị, kinh doanh và vận hành sản phẩm của Công Ty; Các bí quyết phát triển sản phẩm, kinh doanh của Công Ty; Các hợp đồng đã ký kết hoặc đang trong quá trình thương thảo của Công Ty; Bảng lương thưởng của người lao động; Điều lệ Công Ty; Các Quy chế, chính sách và văn bản điều hành nội bộ của Công Ty; Mọi ý tưởng, báo cáo, dữ liệu, bí quyết, công việc đang tiến hành, thiết kế, công cụ phát triển, thông số kỹ thuật, phần mềm máy tính, mã máy tính, mã nguồn, mã đối tượng, cơ sở dữ liệu, sáng chế, thông tin, công thức, thuật toán. 
-Thông tin mật
+		Thông tin mật
 Thông tin mật của Công Ty bao gồm: Thông tin cá nhân của thành viên quản lý của Công Ty, người lao động, đối tác và khách hàng của Công Ty; Thông tin về đăng ký kinh doanh và các giấy phép mà Công Ty có được.
 Tài sản trí tuệ
 Tài sản trí tuệ của Công Ty là những tài sản vô hình được tạo ra bằng nguồn tài chính của Công Ty thông qua các hoạt động như: thuê, giao việc, nhận chuyển giao. Theo đó, Tài sản trí tuệ thuộc quyền sở hữu của Công Ty bao gồm: Các phần mềm, các hình ảnh, đồ hoạ được tạo ra trong quá trình kinh doanh; Các sáng chế; Kiểu dáng công nghiệp; Giải pháp hữu ích; Thương hiệu sản phẩm hoặc dịch vụ; Tên thương mại của Công Ty; Bí mật kinh doanh.
-Chỉ dẫn thương mại
+	Chỉ dẫn thương mại
 Chỉ dẫn thương mại là các dấu hiệu, thông tin nhằm hướng dẫn thương mại hàng hoá, dịch vụ của Công Ty, bao gồm nhãn hiệu, tên thương mại, biểu tượng kinh doanh, khẩu hiệu kinh doanh, chỉ dẫn địa lý, kiểu dáng bao bì của hàng hoá, nhãn hàng hoá hoặc các tài liệu tiếp thị, hệ thống nhận diện thương hiệu của Công Ty.
 ĐỐI TÁC CAM KẾT 
 Cam kết bảo mật Bí mật kinh doanh, Thông tin mật và Tài sản trí tuệ của Công Ty
@@ -750,7 +918,7 @@ Trong thời gian làm việc tại Công Ty, Đối Tác cam kết: (a) Không 
 Trong thời gian làm việc, hợp tác với Công Ty và trong vòng năm (05) năm kể từ ngày chấm dứt hợp đồng với Công Ty, Đối Tác cam kết: (a) Không được tuyển dụng, thuê mướn người lao động đã và/hoặc đang làm việc cho Công Ty; (b) Không thu hút hoặc lôi kéo khỏi Công Ty bất kỳ chuyên viên, cán bộ quản lý hoặc nhân viên nào của Công Ty, cho dù người đó có vi phạm hợp đồng bởi lý do từ chức hoặc chấm dứt công việc hay không.
 HẬU QUẢ CỦA VIỆC VI PHẠM CAM KẾT
 Trường hợp vi phạm bất kỳ Cam kết nào tại văn bản này:
-Đối Tác đồng ý thanh toán cho Công Ty một khoản tiền phạt là {contract_price}. (…………………….. đồng) trên mỗi vi phạm;
+Đối Tác đồng ý thanh toán cho Công Ty một khoản tiền phạt là ……………. (…………………….. đồng) trên mỗi vi phạm;
 Đối Tác đồng ý bồi thường các thiệt hại phát sinh cho Công Ty từ sự vi phạm của Đối Tác;
 Đối Tác đồng ý hoàn trả cho Công Ty các chi phí mà Công Ty phải thanh toán khi thực hiện các thủ tục pháp lý (bao gồm chi phí cho việc khởi kiện, thủ tục hành chính liên quan…) hoặc các chi phí hợp lí khác (chi phí thuê luật sư, chi phí gửi bưu điện, chi phí liên lạc điện thoại,…) để yêu cầu Đối Tác thực hiện đúng các quy định tại Cam kết này.
 Đối Tác hoàn tất việc thanh toán đầy đủ các khoản phạt và bồi thường cho Công Ty quy định tại Mục 3.1 trong thời hạn ba (03) ngày từ ngày nhận được yêu cầu từ Công Ty.
@@ -760,69 +928,109 @@ Thông tin mật, Bí mật kinh doanh đã được biết đến công khai m�
 Thông tin mật, Bí mật kinh doanh được phát triển độc lập mà không tham khảo bất kỳ Thông tin mật, Bí mật kinh doanh nào của Công Ty được tiết lộ bởi Công Ty hoặc một bên thứ ba cho Đối Tác; hoặc
 Thông tin đã được Công Ty chấp thuận công bố (và chỉ trong phạm vi được chấp thuận);
 Thông tin được tiết lộ theo yêu cầu hợp pháp của: Tòa án, cơ quan nhà nước có thẩm quyền hoặc theo quy định pháp luật.
-
+	
 ĐIỀU KHOẢN THI HÀNH
 Nghĩa vụ trong Cam kết này có hiệu lực ngay cả khi Đối Tác không còn hợp tác với Công Ty.
 Cam kết này được điều chỉnh bởi pháp luật Việt Nam. 
 Cam kết này cũng như việc cung cấp bất kỳ thông tin nào đều không cấp cho Đối Tác bất kỳ giấy phép, quyền lợi hoặc quyền đối với bất kỳ Tài sản trí tuệ nào của Công Ty ngoại trừ quyền sao chép một số thông tin nhất định để thực hiện hợp đồng/thỏa thuận với Công Ty 
 Không Bên nào được chuyển nhượng và/hoặc chuyển giao quyền và/hoặc nghĩa vụ theo Cam kết này cho một bên thứ ba mà không có sự đồng ý trước bằng văn bản của Bên kia.
 Cam kết này được lập thành hai (02) bản có giá trị pháp lý như nhau, mỗi Bên giữ một (01) bản. 
-
+ĐỐI TÁC
+(Ký tên, ghi họ tên)
+___________________
+ĐẠI DIỆN CÔNG TY
+(Ký tên, đóng dấu)
+___________________
 Thông tin Đối Tác
-Họ và tên: {personal_name_A}
-CMND/CCCD/Hộ chiếu số: {cccd_A}	Ngày cấp: ________	Nơi cấp: ________________ 
-Địa chỉ: {address_A}"""
-
+Họ và tên: _________________
+CMND/CCCD/Hộ chiếu số: __________	Ngày cấp: ________	Nơi cấp: ________________ 
+Địa chỉ: _____________________________________________________
+		Trang 1/2"""
 Mau_Hop_dong_cho_thue_van_phong_song_ngu = """HỢP ĐỒNG DỊCH VỤ CHO THUÊ VĂN PHÒNG
-Số hợp đồng/ No.: .........
+………… Membership Agreement
+Số hợp đồng/ No.: 
 Căn cứ:
 Các luật hiện hành của nước Cộng hòa XHCN Việt Nam gồm: Bộ luật dân sự, Luật thương mại, Luật kinh doanh bất động sản, Luật doanh nghiệp và các văn bản hướng dẫn liên quan;
+The current laws of the Socialist Republic of Vietnam include: civil code, commercial law, real estate business law, enterprise law and other relevant guiding documents;
 Quy định sử dụng “Không gian làm việc chung” do……………………………………………. (nếu có);
+Regulations of using "CoGo Coworking space", issued by……………………………………………………… (if any).
 Nhu cầu thuê văn phòng/ ghế ngồi tại không gian làm việc chung của Bên Thuê
+The needs of Tenant for renting office/ seats at common space
 Khả năng đáp ứng của Bên Cho Thuê.
+The ability of the Lessor
 Hợp đồng này được giao kết và ký tại Hà Nội ngày …………………  bởi các bên:
-
-Sau đây gọi tắt là “Bên Cho Thuê” hoặc “{company_name_A}”
-
-II. Thông tin bên thuê dịch vụ/ Leasee Information 
-
-
-Sau đây gọi tắt là “Bên Thuê” hoặc “Khách Thuê”
+This contract is entered into and signed in Hanoi on  ……………… by the parties:
+	I. Thông tin bên cho thuê dịch vụ/ Leasor Information
+Tên công ty/ Company name
+Người đại diện/ Contact name
+Ông/ Bà:
+Địa chỉ/ Address
+Mã số thuế/ Tax code
+Tài khoản ngân hàng/ Bank account name
+Số tài khoản ngân hàng/ Bank account number
+Điện thoại/ Telephone number
+Email/ Contact email
+	Sau đây gọi tắt là “Bên Cho Thuê” hoặc “………..”/ Hereinafter referred to as “Leasor” or “……………”
+	
+	II. Thông tin bên thuê dịch vụ/ Leasee Information 
+Tên công ty/ Company name
+Người Đại diện/ Contact name
+Địa chỉ/ Address
+Mã số thuế/ Tax code
+Số chứng minh hoặc số hộ chiếu (Đối với Khách thuê cá nhân) / ID or Passport Number
+Tài khoản ngân hàng/ Bank account name
+Số tài khoản ngân hàng/ Bank account number
+Điện thoại/ Contact mobile
+Địa chỉ Email/ Contact email
+Sau đây gọi tắt là “Bên Thuê” hoặc “Khách Thuê”/ Hereinafter referred to as “Leasee” or “Tenant”
 III.  Điều khoản thuê/ Leasing terms
-
+Thời hạn thuê: 
+Commencement Date/ End Date
+Loại văn phòng/ Office Type
+Địa điểm thuê/ Location
+Ưu đãi/ Credits
+Giá thuê, thời điểm tính tiền thuê/ Price List and Payment time
+Đặt cọc thực hiện hợp đồng/ Deposit
+	
+Lãi quá hạn/ Late Fee
+Trang thiết bị/ Inventory
+Các thông tin khác/ Additional Provisions
 IV. Nội dung hợp đồng/ Contents
-{company_name_A} được sở hữu và điều hành bởi {personal_name_A}, một công ty được xây dựng và bảo vệ bởi pháp luật Việt Nam, được đăng ký tại địa chỉ: {address_A}
-Bằng việc đồng ý với hợp đồng dịch vụ cho thuê văn phòng này (gọi tắt là Hợp đồng), Khách Thuê đồng ý tất cả nội dung và các điều khoản của hợp đồng này và trở thành Thành viên của Trung tâm (gọi tắt là Thành viên). Hợp đồng sẽ bao hàm thỏa thuận giữa các bên, và sẽ thay thế cho tất cả những thỏa thuận bằng miệng hoặc bằng văn bản trước đó có liên quan đến thỏa thuận của hợp đồng này.
-Trong nội dung hợp đồng này, Hội viên được hiểu là bao gồm bất kỳ thành viên hay tất cả thành viên được liệt kê trong danh sách được cung cấp cho {company_name_A} trước khi bắt đầu vào làm việc tại {address_A}. Những thành viên này được phép sử dụng không gian làm việc chung của thành viên và các dịch vụ, quyền lợi khác đi kèm đối với thành viên mà hợp đồng này bao hàm. Số lượng thành viên của mỗi Khách Thuê trong hợp đồng không vượt quá số ghế ngồi tiêu chuẩn của phòng thuê/ ghế thuê
-Trường hợp có sự thay đổi Thành viên, Khách Thuê có nghĩa vụ thông báo (theo mẫu) cho {personal_name_A}. Trong trường hợp Khách Thuê không thông báo, nếu có bất kỳ rủi ro nào xảy ra Khách Thuê có nghĩa vụ bồi hoàn mọi chi phí tổn thất (nếu có) từ thành viên thay đổi cho {company_name_A} và bên thứ ba liên quan.
+	Trung tâm CoGo được sở hữu và điều hành bởi ……….(gọi tắt là…….), một công ty được xây dựng và bảo vệ bởi pháp luật Việt Nam, được đăng ký tại địa chỉ: …………
+	The CoGo facility ("Facility") is owned and and operated by………. ("………"), a company incorporated and existing under the laws of Vietnam, with its registered address at: ....................
+	Bằng việc đồng ý với hợp đồng dịch vụ cho thuê văn phòng này (gọi tắt là Hợp đồng), Khách Thuê đồng ý tất cả nội dung và các điều khoản của hợp đồng này và trở thành Thành viên của Trung tâm (gọi tắt là Thành viên). Hợp đồng sẽ bao hàm thỏa thuận giữa các bên, và sẽ thay thế cho tất cả những thỏa thuận bằng miệng hoặc bằng văn bản trước đó có liên quan đến thỏa thuận của hợp đồng này.
+Upon accepting this CoGo Membership Agreement ("Agreement"), you agree to the terms and conditions of the Agreement and to become a member of the Facility ("Member"). The Agreement shall constitute the entire agreement between the parties, and shall supersede all prior and contemporaneous agreements or understandings, oral or written with respect to the Agreement hereof.
+	Trong nội dung hợp đồng này, Hội viên được hiểu là bao gồm bất kỳ thành viên hay tất cả thành viên được liệt kê trong danh sách được cung cấp cho………… trước khi bắt đầu vào làm việc tại ………... Những thành viên này được phép sử dụng không gian làm việc chung của thành viên và các dịch vụ, quyền lợi khác đi kèm đối với thành viên mà hợp đồng này bao hàm. Số lượng thành viên của mỗi Khách Thuê trong hợp đồng không vượt quá số ghế ngồi tiêu chuẩn của phòng thuê/ ghế thuê
+For the purpose of this Agreement, "Member" shall also include any and all individuals on the list of
+Members provided to ………..by the Member prior working in ……………, who are authorised to use the Member's Office Space and receive the Services or other benefits the Member is entitled to under this Agreement.The number of members of each tenant in the contract does not exceed the standard seats of the rented room
+	Trường hợp có sự thay đổi Thành viên, Khách Thuê có nghĩa vụ thông báo (theo mẫu) cho………. Trong trường hợp Khách Thuê không thông báo, nếu có bất kỳ rủi ro nào xảy ra Khách Thuê có nghĩa vụ bồi hoàn mọi chi phí tổn thất (nếu có) từ thành viên thay đổi cho…………. và bên thứ ba liên quan.
+	In case of a change of Member, the Tenant is obliged to notify (fill the form) to………... In the event the Tenant fails to notify, if any of the risks occur, the Tenant is obliged to reimburse the cost of any damages (if any) to ……….. and the related third party.
 Hợp đồng này có hiệu lực dựa trên đồng thuận giữa các bên về thời hạn được quy định trong nội dung Điều khoản thuê, cho đến khi Hợp đồng này được chấm dứt bởi một trong các bên theo nội dung của mục 9 của hợp đồng này. 
-Thanh toán
-Tiền thuê và phí dịch vụ được thanh toán vào tài khoản của……….nêu tại đầu hợp đồng hoặc vào tài khoản chỉ định dựa trên thông báo của………… cho từng đợt thanh toán hoặc bằng tiền mặt tại quầy lễ tân của……... Trong trường hợp tiền thuê không được chi trả đúng hạn, ………. có quyền chấm dứt quyền thành viên, cung cấp không gian văn phòng mà thành viên chưa thanh toán cho khách hàng tiềm năng khác, và/hoặc ngăn chặn thành viên đến Trung tâm theo Điều khoản thuê. Cụ thể như sau:
-Rental and Service Fees are paid into the………… bank account mentioned at the Leasor’s information of the contract or to the nominated account based on………… notice for each payment. Member also can pay by or cash at the Front Desk. In the event that the rental fee is not paid in time, ………… has the right to terminate the membership, provide office space that the member has not paid for other potential customers, and / or prevent members from accessing the Facility as the Leasing term. Details as follows:
-
+This Agreement shall remain in effect in accordance with the terms agreed between the parties set out in the Leasing term, until such time as the Agreement is terminated by either party in accordance with Item 9 of this Agreement.
+	Thanh toán/ Payment
+	Tiền thuê và phí dịch vụ được thanh toán vào tài khoản của……….nêu tại đầu hợp đồng hoặc vào tài khoản chỉ định dựa trên thông báo của………… cho từng đợt thanh toán hoặc bằng tiền mặt tại quầy lễ tân của……... Trong trường hợp tiền thuê không được chi trả đúng hạn, ………. có quyền chấm dứt quyền thành viên, cung cấp không gian văn phòng mà thành viên chưa thanh toán cho khách hàng tiềm năng khác, và/hoặc ngăn chặn thành viên đến Trung tâm theo Điều khoản thuê. Cụ thể như sau:
+	Rental and Service Fees are paid into the………… bank account mentioned at the Leasor’s information of the contract or to the nominated account based on………… notice for each payment. Member also can pay by or cash at the Front Desk. In the event that the rental fee is not paid in time, ………… has the right to terminate the membership, provide office space that the member has not paid for other potential customers, and / or prevent members from accessing the Facility as the Leasing term. Details as follows:
  3.1. Kỳ thanh toán được thực hiện theo/ Payment term will be: ………………………….
 Kỳ thanh toán đầu tiên: Thanh toán trong vòng…………..ngày làm việc sau khi ký hợp đồng/ the first payment, the Tenant shall pay within……………… working days from the signing date
-Từ kỳ thanh toán tiếp theo tiền thuê sẽ được thanh toán từ ngày … đến ngày… của tháng trước liền kề với kỳ cần thanh toán (ví dụ kỳ thanh toán là theo mỗi 3 tháng thì tiền thuê tháng 5, 6, 7 sẽ được thanh toán từ ngày 20 tới ngày 25 tháng 4; Tiền thuê tháng 8, 9, 10 sẽ được thanh toán từ ngày 20 đến 25 tháng 7...)/ From the next payment, the rent will be paid from the… to … of the previous month next to the period of payment (for example; the payment for months 5, 6, 7 will be paid from Aprril 20th to 25th, months 8, 9, 10  will be paid from July 20th to 25th)
+	Từ kỳ thanh toán tiếp theo tiền thuê sẽ được thanh toán từ ngày … đến ngày… của tháng trước liền kề với kỳ cần thanh toán (ví dụ kỳ thanh toán là theo mỗi 3 tháng thì tiền thuê tháng 5, 6, 7 sẽ được thanh toán từ ngày 20 tới ngày 25 tháng 4; Tiền thuê tháng 8, 9, 10 sẽ được thanh toán từ ngày 20 đến 25 tháng 7...)/ From the next payment, the rent will be paid from the… to … of the previous month next to the period of payment (for example; the payment for months 5, 6, 7 will be paid from Aprril 20th to 25th, months 8, 9, 10  will be paid from July 20th to 25th)
 	Cụ thể chi tiết số tiền thanh toán từng kỳ như sau (số tiền thanh toán đã bao gồm thuế GTGT tại thời điểm ký hợp đồng là 10%. Trong trường hợp chính sách thuế GTGT thay đổi thì số tiền từng kỳ thanh toán kể từ thời điểm chính sách thuế GTGT thay đổi sẽ được điều chỉnh theo)/ Details of the amount paid in each period are as follows (the payment amount is inclusive of the VAT- 10% at the contract signing time. In case of VAT change policy, the amount of each payment period will be adjusted accordingly:  
         Kì 1: từ ngày………. đến ngày………… số tiền là: 
         Kì 2: từ ngày………. đến ngày………… số tiền là 
         Kì 3: từ ngày……….đến ngày…………. số tiền là: 
         Kì 4: từ ngày……….đến ngày…………. số tiền là:
-
-3.2. Riêng đối với Khách Thuê lựa chọn theo kỳ thanh toán 06 tháng hoặc 12 tháng, Khách Thuê sẽ được hưởng chính sách chiết khấu thanh toán theo chính sách……….. ban hành từng thời kỳ (Trừ trường hợp Khách Thuê đã tham gia chương trình khuyến mãi mà tại đó quy định Khách Thuê thanh toán theo kỳ sáu (06) tháng hoặc mười hai (12) tháng hoặc không áp dụng chính sách chiết khấu thanh toán).
-Ngày thanh toán được hiểu là ngày…………..nhận được tiền (tại tài khoản ngân hàng chỉ định hoặc tiền mặt) 
-For Tenants who choose payment term of 06 months or 12 months, they will be entitled to payment discount policy according to………… policy issued periodically (except for the cases the Members join the promotion programs in which the payment terms are six (06) or twelve (12) months or payment discount policy is not applied).
-Payment date is understood as the date…………received money (in the specified bank account or cash). 
-3.3. Trong hợp đồng này, trừ các khách thuê theo gói thì đối với các kỳ thuê không tròn tháng, tiền thuê được tính bằng: số ngày thuê nhân (x) với tiền thuê một (01) tháng chia (:) ba mươi (30) ngày mỗi tháng.
+	3.2. Riêng đối với Khách Thuê lựa chọn theo kỳ thanh toán 06 tháng hoặc 12 tháng, Khách Thuê sẽ được hưởng chính sách chiết khấu thanh toán theo chính sách……….. ban hành từng thời kỳ (Trừ trường hợp Khách Thuê đã tham gia chương trình khuyến mãi mà tại đó quy định Khách Thuê thanh toán theo kỳ sáu (06) tháng hoặc mười hai (12) tháng hoặc không áp dụng chính sách chiết khấu thanh toán).
+	Ngày thanh toán được hiểu là ngày…………..nhận được tiền (tại tài khoản ngân hàng chỉ định hoặc tiền mặt) 
+	For Tenants who choose payment term of 06 months or 12 months, they will be entitled to payment discount policy according to………… policy issued periodically (except for the cases the Members join the promotion programs in which the payment terms are six (06) or twelve (12) months or payment discount policy is not applied).
+	Payment date is understood as the date…………received money (in the specified bank account or cash). 
+	3.3. Trong hợp đồng này, trừ các khách thuê theo gói thì đối với các kỳ thuê không tròn tháng, tiền thuê được tính bằng: số ngày thuê nhân (x) với tiền thuê một (01) tháng chia (:) ba mươi (30) ngày mỗi tháng.
 For the purpose of this Agreement, "Balance" of the Membership Fee shall be calculated on a pro rata basis in accordance with the remaining calendar days in the month, with a base of thirty (30) days per month.
-3.4. Phí dịch vụ tiện ích (nếu có): Được thanh toán theo tháng trước ngày……. của tháng sau. Phí dịch vụ tiện ích của tháng trước được thông báo cho Khách Thuê vào ngày…….. của tháng kế tiếp bằng email hoặc trực tiếp trên APP dành cho Thành viên.
-Charges for utility services (if any): Pay monthly by the……… of the following month. Last month's service charge was notified to the Tenant on the………of the following month by email or directly on the APP for Members.
-3.5. Đặt cọc/ Deposit
+	3.4. Phí dịch vụ tiện ích (nếu có): Được thanh toán theo tháng trước ngày……. của tháng sau. Phí dịch vụ tiện ích của tháng trước được thông báo cho Khách Thuê vào ngày…….. của tháng kế tiếp bằng email hoặc trực tiếp trên APP dành cho Thành viên.
+	Charges for utility services (if any): Pay monthly by the……… of the following month. Last month's service charge was notified to the Tenant on the………of the following month by email or directly on the APP for Members.
+	3.5. Đặt cọc/ Deposit
 Khách Thuê thực hiện đặt cọc hợp đồng theo Điều khoản thuê nêu trên. Trong trường hợp giá thuê có thay đổi Khách Thuê có nghĩa vụ bổ sung tiền đặt cọc thuê để đảm bảo khoản tiền đặt cọc như trên. Trong trường hợp Khách Thuê còn nợ bất kỳ khoản tiền thuê hoặc dịch vụ sử dụng, …………..có quyền khấu trừ với khoản tiền đặt cọc và thông báo với Khách Thuê. Trong vòng………ngày kể từ ngày nhận thông báo, Khách Thuê có nghĩa vụ bổ sung tiền đặt cọc cho………….
 Khoản tiền đặt cọc sẽ được trả lại cho Khách Thuê trong vòng ……….. ngày kể từ ngày chấm dứt Hợp đồng, sau khi trừ đi số tiền còn nợ.
-Tenants agree to pay to……… a deposit ("Deposit"), as agreed between the parties in the Leasing terms.In case of changing rental fee, the Tenant is obliged to pay an additional amount. In the event that the Tenant owes any rents or services used,………has the right to withhold the deposit and notify the Tenant. Within………… days from the date of receipt of the notice, the Tenant is obliged to supplement the deposit to the Leasor.
-The Deposit shall be returned to Members within………… days upon the termination of this Agreement, after deducting any outstanding amount due.
-
+	Tenants agree to pay to……… a deposit ("Deposit"), as agreed between the parties in the Leasing terms.In case of changing rental fee, the Tenant is obliged to pay an additional amount. In the event that the Tenant owes any rents or services used,………has the right to withhold the deposit and notify the Tenant. Within………… days from the date of receipt of the notice, the Tenant is obliged to supplement the deposit to the Leasor.
+	The Deposit shall be returned to Members within………… days upon the termination of this Agreement, after deducting any outstanding amount due.
 3.6. Lãi quá hạn/ Late Fees
 Trong trường hợp việc thanh toán tiền thuê hoặc bất kỳ khoản phí dịch vụ tiện ích và các khoản công nợ chưa thanh toán nào khác không được thanh toán đúng hạn, Khách hàng sẽ phải trả cho……… khoản tiền lãi quá hạn được nêu tại Điều khoản thuê nêu trên và……… có quyền điều chỉnh Phí chậm nộp theo thời gian. Với việc thanh toán chậm bất kỳ khoản thanh toán nào được coi là vi phạm hợp đồng thuê,……… có quyền đơn phương chấm dứt hợp đồng và dừng thực hiện hợp đồng thuê, khóa quyền sử dụng văn phòng thuê của Khách Thuê và thực hiện cho các khách thuê tiềm năng khác thuê lại
 In event that payment of rent or any other accrued and outstanding fee is not made on time, the Member shall pay to……… a late fee as set out in the Leasing terms ("Late Fee"), and ……… reserves the right to adjust the Late Fee from time to time as set forth on the Website.
@@ -854,7 +1062,6 @@ the use of printers, copiers/ scanners made publicly available in the Office Spa
 the use of bar counter and beverages made available in the Office Space; and
 (v) 	tham gia vào các sự kiện và các chương trình khuyến mại của ……… dành cho Thành viên. 
 to participate in members-only events, benefits and promotions of……….
-
 Sở hữu trí tuệ/ Intellectual Property
 Tất cả quyền sở hữu trí tuệ liên quan đến………hoặc các trung tâm………, bao gồm nhưng không giới hạn ở bản quyền, nhãn hiệu và chứng nhận dịch vụ, là tài sản của………hoặc được cấp phép hợp pháp cho………. Các quyền sở hữu trí tuệ nói trên bao gồm, nhưng không giới hạn ở:
 All intellectual property rights related to……… or the Facility, including but not limited to copyrights, trademarks, and service marks, are solely the property of……… or legally authorized to………. The foregoing intellectual property rights include, but are not limited to:
@@ -873,9 +1080,7 @@ Các Khách Thuê đồng ý và cam kết cung cấp và cho phép……… thu
 Members agree and undertake provide to and allow ……… to collect, process and/ or use personal information of the Members in compliance with the law of Vietnam. Each Member shall be responsible to obtain the consent of any new or existing personnel on its list of members where necessary. ………may collect, process and/ or use personal data of Members in a variety of ways, including personal information that may be provided by Members upon execution of this Agreement or throughout the term of the membership, as well as information that may be gathered from security cameras located in the Facility.
 ………có thể thu thập, xử lý, sử dụng, lưu trữ và chuyển dữ liệu cá nhân cho các mục đích khác nhau bao gồm việc tạo điều kiện cho Dịch vụ, thực hiện các nhiệm vụ kế toán và hành chính, phù hợp với các nghĩa vụ của ……… theo luật pháp và các quy định hiện hành và để thực thi hoặc quản lý các yêu cầu pháp lý.
 ……… may collect, process, use, store and transfer personal data in accordance with the law of Vietnam, for various purposes including facilitating the Services, performing accounting and administrative tasks, internal review and audit, compliance with……… obligations under applicable laws and regulations, and to enforce or manage legal claims.
-
 Quy tắc ứng xử/ Code of Conduct
-
 Các Khách Thuê sẽ tuân thủ tất cả các điều khoản và điều kiện của Hợp đồng này và sẽ không tham gia vào bất kỳ hoạt động nào chống lại các điều khoản hoặc tham gia vào hành vi gây tổn hại, xáo trộn hoặc gây nguy hiểm cho người khác………. có quyền giới hạn hoặc chấm dứt việc sử dụng dịch vụ tại Trung tâm của Thành viên hoặc bất kỳ khách truy cập nào trong trường hợp họ không tuân thủ các điều khoản của Hợp đồng này.
 Members shall comply with all terms and conditions of this Agreement and shall not engage in any activity against the terms, or engage in conduct that harms, disturbs or endangers others………. reserves the right to limit or terminate the Member's or any visitor's usage of the Facility in event that they do not comply with the terms of the Agreement.
 Mỗi Thành viên được cung cấp một thẻ thành viên……… ("Thẻ Thành viên") dành riêng cho việc sử dụng của Thành viên đó và không được mượn, chuyển nhượng, hoặc sử dụng bởi những người khác. Một Thành viên có thể nộp đơn xin Thẻ Thành viên mới hoặc kích hoạt lại Thẻ Thành viên trong trường hợp: 
@@ -894,7 +1099,6 @@ such Member or visitor is caught smoking within the Facility; or
 such Member or visitor commits a breach of the “regulations of ……… Coworking Space”.
 Các Khách Thuê phải tuân thủ và chấp hành tất cả các quy định “Không gian làm việc chung” của ……… và các quy định được cập nhật theo thời gian bởi ……… để quản lý Khách Thuê. Trong trường hợp có bất cứ sự thay đổi nào trong quy định “Không gian làm việc chung”,……… sẽ thông báo bằng văn bản cho các thành viên ít nhất……… ngày trước ngày áp dụng.
 Members shall observe and adhere to all the rules and regulations updated from time to time made by……… for the management of the Membership. In case of any changes in regulation,……… will inform to members in writing prior to……… days before applying.
-
 Thiệt hại và bồi thường/ Damages and Indemnification
 Các Khách Thuê phải hoàn toàn chịu trách nhiệm và sẽ bồi thường đầy đủ cho khách Trung tâm hoặc các Khách thuê khác về thiệt hại, tổn thất hoặc thương tật gây ra cho bất kỳ người nào hoặc bất kỳ tài sản nào dù trực tiếp hay gián tiếp bởi bất kỳ vi phạm nào của Quy định này bởi Khách Thuê hoặc cá nhân trong danh sách thành viên của Khách Thuê và khách của họ, hoặc thông qua bất kỳ hành động hay thiếu sót nào của các bên đó……….sẽ không chịu trách nhiệm về hành động của bất kỳ Khách Thuê, khách của họ hoặc các bên thứ ba khác. Trong trường hợp xảy ra tranh chấp giữa các Khách Thuê hoặc khách của họ,……… sẽ không có trách nhiệm hoặc nghĩa vụ tham gia, hòa giải hoặc bồi thường cho bất kỳ bên nào.
 Members shall be wholly responsible for and shall fully indemnify visitors of the Facility or other Members against any loss, damage or injury caused to any person whomsoever or to any property whatsoever whether directly or indirectly through any breach of this Agreement by the Member or any individual on its list of members, their guests, invitees or pets, or through any actions or omissions of such parties………. shall not be held responsible for the actions of any Members, visitors, or other third parties. In event of a dispute arising between Members or their invitees or guests,……… shall have no responsibility or obligation to participate, mediate or indemnify any party.
@@ -908,14 +1112,12 @@ the Member's event held at the Premises;
 any intentional or negligent misconduct of the Member; or
 (iv) 	bất kỳ hành vi vi phạm hoặc cáo buộc vi phạm bất kỳ điều khoản và điều kiện nào của Hợp đồng này và pháp luật và quy định của pháp luật Việt Nam bởi Khách Thuê. 
 any violation or alleged violation of any terms and conditions of this Agreement and the laws and regulations of Vietnam by the Member.
-
 Trong trường hợp Khách Thuê muốn chấm dứt Hợp đồng trước thời hạn, Khách Thuê đồng ý rằng phải thông báo bằng văn bản cho………. sáu mươi (60) ngày trước thời điểm chấm dứt. 
 In event that the Member wishes to terminate this Agreement prior to the expiry of the term, the Member may request to terminate this Agreement by providing to……… an advanced notice in writing sixty (60) days before the finish date.
 Trong trường hợp đã báo trước đúng theo quy định, Khách thuê được hoàn trả khoản tiền thuê đã thanh toán tương ứng với thời gian thuê mà Khách thuê chưa sử dụng. Trường hợp Khách Thuê không tuân thủ thời gian báo trước nêu trên, Khách thuê không được hoàn trả khoản tiền thuê đã thanh toán tương ứng với thời gian thuê mà Khách thuê chưa sử dụng.
 Trong mọi trường hợp Hợp đồng bị chấm dứt trước thời hạn do lỗi của Khách Thuê, Khách thuê sẽ bị mất khoản tiền đặt cọc nêu tại mục 3.5 phần IV của hợp đồng. 
-
-In case the advance notice has been made in accordance with the regulations, theMember is entitled to a refund of the unused rent paid to……….. In case of does not complying with the notice period, theMember is not entitled to a refund of the unused rent paid to………….
-In any case, the Deposit mentioned in 3.5 of Article IV of the lease will be considered as a fine for the violation of the lease.
+																In case the advance notice has been made in accordance with the regulations, theMember is entitled to a refund of the unused rent paid to……….. In case of does not complying with the notice period, theMember is not entitled to a refund of the unused rent paid to………….
+																In any case, the Deposit mentioned in 3.5 of Article IV of the lease will be considered as a fine for the violation of the lease.
 Trong mọi trường hợp, hợp đồng thuê chỉ được chấm dứt khi các bên hoàn thành các nghĩa vụ quy định trong hợp đồng trong đó có nghĩa vụ về tài chính.
 In any case, this Agreement can be terminated only when the parties fulfill the obligations specified in the contract including financial obligations 
 Một Khách Thuê có quyền chấm dứt ngay Hợp đồng này khi các nghĩa vụ của Hợp đồng hoàn thành.
@@ -939,26 +1141,20 @@ if the Member is declared bankrupt, is in business suspension or put under recei
 Nếu……… quyết định tạm ngưng Dịch vụ của mình hoặc đơn phương chấm dứt Hợp đồng này theo các quy định trên, các Khách Thuê sẽ phải chịu trách nhiệm về các khoản nợ quá hạn và……… có thể thực hiện các quyền thu nợ đến hạn của mình, mặc dù Hợp đồng này đã chấm dứt hoặc hết hạn.
 Tuy nhiên, ……… sẽ thông báo trước……… ngày để Khách Thuê có thời gian sắp xếp, tìm kiếm chỗ thuê. Trường hợp……… tạm ngưng/chấm dứt Hợp đồng không thuộc các trường hợp trên thì ……… sẽ trả lại tiền gấp đôi cho những ngày Khách Thuê đã trả tiền nhưng chưa sử dụng và trả lại tiền cọc. 
 In event that ……… decides to withhold its Services or unilaterally terminate this Agreement in accordance to the above, Members shall remain liable for past due amounts, and……… may exercise its rights to collect due payment, despite termination or expiration of this Agreement.
-
 Di dời tài sản khi chấm dứt hợp đồng/ Removal of Property Upon Termination
 Trong vòng………..ngày kể từ ngày kết thúc hợp đồng thuê, Khách Thuê phải di dời toàn bộ tài sản của mình ra khỏi khu vực văn phòng và Trung tâm.Nếu quá thời hạn trên mà tài sản chưa được di dời thì………..có quyền xử lý các tài sản đó và dọn khỏi khu vực thuê.Khách Thuê có nghĩa vụ thanh toán bất cứ khoản phí hợp lý nào có thể phát sinh cho…….. liên quan đến việc loại bỏ tài sản này. Sau khi chấm dứt hoặc hết hạn của Hợp đồng này,……….sẽ không có trách nhiệm chuyển tiếp hoặc giữ thư hoặc các bưu phẩm của đối tác Khách Thuê gửi đến…………..
 Within……..days the termination or expiration of this Agreement, Members shall remove all properties belonging to the Members and guests from the Office Space and Premises. After this period, if the asset has not been removed,……… shall be entitled to dispose of any property remaining in or on the Office Space or Premises after the termination or expiration of this Agreement and shall not have any obligation to store such property. The Members hereby waive any claims or demands regarding such property or……… handling of such property. Members shall be responsible for paying any fees reasonably incurred by……..regarding such removal. Following the termination or expiration of this Agreement,………shall not be responsible to forward or hold mail or other packages of Members delivered to……….
-
 Bất khả kháng/ Force Majeure
 Nếu………..hoặc Khách Thuê không thực hiện được bất kỳ nhiệm vụ nào của mình theo hợp đồng này do sự kiện bất khả kháng, như gây ra bởi thiên nhiên (hỏa hoạn nghiêm trọng, bão, động đất, vv), chiến tranh, lệnh cấm vận hoặc can thiệp của chính phủ, những điều không thể lường trước, tránh hoặc khắc phục, bên bị ảnh hưởng phải thông báo cho bên kia biết biến cố của mình trong một khoảng thời gian hợp lý.
 If either………or a Member is prevented from performing any of its duties under this Agreement due to event of Force Majeure, such as acts of God (serious fire, typhoon, earthquake, etc.), war, embargo, or government intervention, which could not be anticipated, avoided, or overcome, the affected party shall notify the other party of its occurrence within a reasonable time.
-
 Bên bị ảnh hưởng sẽ không chịu trách nhiệm về bất kỳ sự chậm trễ hoặc thất bại trong việc thực hiện bất kỳ nhiệm vụ nào của nó do sự kiện Bất khả kháng gây ra.
 The affected party will not be liable for any delay or failure in performing any of its duties caused by the event of Force Majeure.
-
 Chuyển nhượng/ Assignment
 Hợp đồng này không được chuyển giao/ chuyển nhượng bởi Khách Thuê cho dù đã thanh toán hay chưa, và Khách Thuê sẽ không chia sẻ việc sở hữu không gian văn phòng riêng, không được cho thuê hoặc chuyển nhượng tất cả hoặc một phần của không gian văn phòng hoặc cơ sở mặt bằng thuê.
 This Agreement shall not be transferable/ assignable by the Member no matter in paid or unpaid, and the Member shall not share or part with possession of the private office, no sublease or sublicence of all or any part of the Office Space or the Premises shall be permitted.
-
 Hàng nguy hiểm/ Dangerous Goods
 Khách Thuê không được phép mang và khu vực văn phòng hoặc mặt bằng thuê bất kỳ loại hàng hóa nào có thể gây nguy hiểm (bao gồm nhưng không giới hạn đối với vũ khí và đạn dược) mà không được đưa vào, trưng bày hoặc cất giữ tại khu vực văn phòng, và/ hoặc thực hiện bất kỳ hoạt động kinh doanh nguy hiểm nào hoặc các hành động khác dẫn đến việc không có hiệu quả về bảo hiểm của cơ sở hoặc tăng chi phí bảo hiểm, trừ khi hành vi được phép với sự chấp thuận bằng văn bản của………. và sự chấp thuận của các cơ quan có thẩm quyền của nhà nước.
 Members are not permitted to bring into the Office Space or Premises any dangerous goods or goods that may result in danger (including but not limited to weapons and ammunition) which are not permitted to be brought into, placed or stored in the Premises, and/ or carry out any dangerous business or other action resulting in the inefficiency of the insurance of the Premises or an increase of insurance expenses, unless such behaviors are permitted with the written consent of………and the approval of the competent government authorities.
-
 Các quy định khác/ Miscellaneous
 Khách Thuê sẽ không ở lại qua đêm và/ hoặc cho phép nhân viên trong danh sách thành viên, khách của họ ở lại qua đêm ở khu vực văn phòng hoặc khu vực kinh doanh tại bất kỳ thời điểm nào. Việc không tuân thủ cùng một nguyên tắc sẽ vi phạm các điều khoản và điều kiện của hợp đồng này. 
 Members shall not stay overnight and/ or allow personnel on their list of members, their guests, or invitees to stay overnight in the Office Space or the Premises at any given time. Failure to comply with the same will constitute a breach of the terms and conditions of this Agreement.
@@ -966,8 +1162,7 @@ Tất cả các thông báo phải bằng văn bản hoặc qua email. Thông b�
 All notices must be in writing or by email. Notices to the Member will be considered served if handed personally or emailed to the legal representative or authorized representative of the Member who is the signatory to this Agreement. Notices to ……… will be considered served if mailed by postage prepaid registered mail to……… address at, or such other address as……… shall designate to the Member in writing.
 Mua bảo hiểm đầy đủ theo quy định của pháp luật trong suốt thời hạn thuê
 Mua bảo hiểm mọi rủi ro tài sản, cháy, nổ trong phạm vụ Phần Diện tích thuê đối với hàng hóa, vật dụng, trang thiết bị nội thất hoặc tài sản khác thuộc quyền sở hữu, quản lý, hoặc sử dụng của Khách Thuê (gọi chung là “Tài Sản của Khách Thuê”). Khách Thuê tự chịu trách nhiệm mua, duy trì, giải quyết bảo hiểm mọi rủi ro tài sản và chịu mọi rủi ro đối với tài sản của Khách Thuê.
-Purchase of all property, fire and explosion insurance in the ​​Leased Area for equipment, furniture, other property owned, managed or utilized by Member (collectively, the "Member's Property"). The Member is responsible for buying, maintaining and dealing with all property risks and taking all risks to the Member's property
-
+																Purchase of all property, fire and explosion insurance in the ​​Leased Area for equipment, furniture, other property owned, managed or utilized by Member (collectively, the "Member's Property"). The Member is responsible for buying, maintaining and dealing with all property risks and taking all risks to the Member's property
 Mua bảo hiểm trách nhiệm công cộng của Khách Thuê (bao gồm người quản lý, nhân viên, khách của Khách Thuê …có quyền lợi và nghĩa vụ liên quan đến Khách Thuê) đối với những thiệt hại về người và tài sản của ………(bao gồm người quản lý, nhân viên, khách của………có quyền lợi và nghĩa vụ liên quan đến………), người thuê liền kề, nhân viên, khách hàng của Khách Thuê và bất cứ bên thứ ba nào khác phát sinh từ hoặc liên quan đến việc sử dụng, khai thác Phần Diện tích thuê trong khu vực thuộc sự quản lý của……….
 Purchase of public liability insurance for the Member (including the manager, employee, guest of the Member ..., who have rights and obligations related to the Member) to……… property and human damage (including………. managers, employees, guests ..., who have rights and obligations related to………), other tenants, employees, Member's guests and any other third party arising out of or in connection with the use and exploitation of the Leased Area in the………o premise
 Việc mua bảo hiểm sẽ không được coi là sự miễn trừ trách nhiệm pháp lý liên quan của Khách Thuê, Khách Thuê vẫn phải thực hiện nghĩa vụ đối với các tổn thất của……… mà phía bảo hiểm không đồng ý thực hiện. ……… cũng không có trách nhiệm đối với mất mát, mất trộm, hỏng hóc hoặc tổn thương đối với người hoặc tài sản gây ra trong quá trình sử dụng khu vực thuê.
@@ -975,108 +1170,152 @@ The purchase of insurance shall NOT be deemed as any exemption of a Member's rel
 Khiếu nại/ Non-Solicitation
 Trong thời hạn của hợp đồng này và trong thời gian………..tháng sau khi kết thúc hợp đồng này:
 During the term of this Agreement and for a period of………months after it ends:
-
 (i) 	Các Khách Thuê đồng ý không trực tiếp hoặc gián tiếp, với tư cách là đại lý, chủ sở hữu, công ty liên doanh, nhà đầu tư hoặc cố vẫn gạ gẫm hoặc cố gắng thu hút hoặc khuyến khích sự ra đi hoặc từ chức của bất kỳ nhân viên hiện tại nào của………. Để tránh nghi ngờ, hạn chế này bao gồm bất kỳ cách giới thiệu nào hoặc giới thiệu bất kỳ nhân viên nào của……….cho bất kỳ tổ chức, cá nhân nào khác với ý định đảm bảo bất kỳ cách thức làm việc hoặc cam kết với tổ chức, cá nhân đó. Các Khách hàng đồng ý rằng ước tính trung bình về tổn thất của chúng tôi có thể do vi phạm này của Khách hàng với phần 15 này là tương đương với…….... tháng lương cho mỗi nhân viên có liên quan và đồng ý bồi thường thiệt hại cho……… tương đương với số tiền đó trong trường hợp vi phạm. 
 members agree not to directly or indirectly, as principal, agent, owner, joint venturer, investor or consultant solicit or attempt to solicit or induce or encourage the departure or resignation of any of……… current employees. For the avoidance of doubt, this restriction includes any manner of referral or introduction of any of……… employees to any other entity or person with theintent to secure any manner of employment or engagement with that entity or person. Members further agree that a good faith estimate of our loss that would be caused by your violation of this Section 15 is the equivalent of……… months' salary for each employee concerned, and agree to pay to……… damages equal to that amount in the event of such violation;
-
 (ii)	Trong trường hợp một Khách Thuê vận hành và kinh doanh bất động sản hoặc kinh doanh cho thuê văn phòng, sẽ không trực tiếp hoặc gián tiếp cố gắng thu hút hoặc kích động hoặc khuyến khích các hội viên khác chấm dứt tư cách hội viên của mình với……… và/ hoặc chuyển sang thuê văn phòng, bất động sản khác.
 in event that a Member runs and operates a real estate business or office space rental business, it shall not directly or indirectly attempt to solicit or induce or encourage other Members to terminate its membership with……… and/ or move to such Member's leasing properties or office spaces.
-
 Sự ràng buộc/ Subordination
 Hợp đồng này được lập và có sự ràng buộc với hợp đồng thuê của………. với Chủ nhà cho phần diện tích thuê, mọi văn bản Phụ lục bổ sung hoặc Hợp đồng khác của……… đều có sự ràng buộc đối với việc thuê của……… với chủ nhà.
 This Agreement is subject and subordinate to……… lease with its landlord of the Premises and to any supplemental documentation and to any other agreements to which……… lease with the landlord are subject to or subordinate.
-
 Tổ chức sự kiện/ Event host
 Tất cả các Khách Thuê đều có quyền tổ chức sự kiện tại khu vực thuê nếu có sự chấp thuận bằng văn bản của ………. Khách Thuê đồng ý tuân thủ các điều luật dưới đây khi tổ chức sự kiện:
 The Member may host event in the premise after relevant written application has been approved by………. The Member acknowledges and agrees to obey following rules when organizing and hosting event:
-
 (i) 	Tuân thủ luật pháp và tất cả quy định của Việt Nam về các hoạt động yêu cầu giấy phép của chính phủ và nhượng quyền thương mại
 to comply with all the laws and regulations of Viet Nam and for those items requiring governmental license or franchise
-
 (ii) 	Có trách nhiệm xin giấy phép và nhượng quyền thương mại để hoạt động liên quan diễn ra hợp pháp
 to be responsible for obtaining all licenses and franchises as to make relevant items legal and legitimate;
-
 (iii) Ghi lại và xin phép sự chấp thuận tổ chức đối với các sự kiện cần phê duyệt của chính quyền, và chịu mọi hình phạt của chính quyền cũng cũng như tổn thất gây ra 
 to record and obtain approval for events requiring governmental approval and record, otherwise any governmental punishment or loss caused by the Member shall be borne by the Member;
-
 (iv) 	Tự chịu trách nhiệm với các rủi ro và tổn thất có thể gây ra cho con người và hàng hóa tại khu vực thuê
 to cover any risk and damage which may arise to all persons and goods in the Premise; and
-
 (v) 	Mua bảo hiểm đầy đủ theo quy định của pháp luật trong suốt thời hạn thuê, trong đó ……..cũng là bên được bảo hiểm.
 to purchase full insurance during the term of Membership, of which……… shall also be listed as an insured party.
 Việc mua bảo hiểm sẽ không được coi là sự miễn trừ trách nhiệm pháp lý liên quan của Khách Thuê, Khách Thuê vẫn phải thực hiện nghĩa vụ đối với các tổn thất của………. mà phía bảo hiểm không đồng ý thực hiện…….. cũng không có trách nhiệm đối với mất mát, mất trộm, hỏng hóc hoặc tổn thương đối với người hoặc tài sản gây ra trong quá trình thành viên tổ chức sự kiện.
 The purchase of insurance shall NOT be deemed as any exemption of a Member's relevant liability; Member shall fill the gap of ……… losses which cannot be covered by such insurance……. shall not be held responsible for any loss, theft, damage or injury of the persons and goods howsoever caused during any event hosted by a Member
-
 Phạm vi quyền hạn/ Jurisdiction
-
 Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
 A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
-
 Điều khoản tách biệt/ Severability
 Tất cả các nguyên tắc chung của cộng đồng……… và thành viên………. (các Nguyên tắc được nêu tại Quy định sử dụng không làm việc chung) là một phần của Hợp đồng này và được các Bên tuân thủ, ……….có quyền điều chỉnh các Nguyên tắc trên khi cần thiết và phải gửi thông báo bằng văn bản với Khách Thuê……… ngày trước khi áp dụng. Nếu bất kỳ một điều khoản hoặc nhiều điều khoản của Hợp đồng này bị tuyên bố là không hợp lệ hoặc không thể thi hành bởi Tòa án có thẩm quyền thì chỉ một hoặc các điều khoản này vô hiệu, các điều khoản còn lại của Hợp đồng vẫn giữ nguyên hiệu lực.
-
 All……… community and membership guidelines are an inherent part of this agreement, which must be adhered to. …….. reserves the right to modify and change GUIDELINES on an as needed basis and shall send the written notification to Members……… days prior to effective date. Should any provision or provisions of this Agreement be held by a court of competent jurisdiction to be invalid or unenforceable, then such provision or provisions alone shall be deemed invalid or unenforceable in such jurisdiction and the remaining provisions of this Agreement shall remain in full force and effect.
-
 Hiệu lực/ Effectiveness
 Hợp đồng này được lập thành………..bản song ngữ, mỗi bên giữ hai………. bản có giá trị pháp lý ngang nhau và có hiệu lực kể từ ngày hai bên ký kết. Trong trường hợp có sự khác biệt về nội dung giữa tiếng Anh và tiếng Việt, tiếng Việt sẽ được ưu tiên áp dụng
 This Agreement is made in four bilingual………… copies, each party holds…………, each of which has the same legal effect, and this Agreement shall come into force immediately after the parties' signature of the same. In the case of discrepancy in contents between the English and Vietnamese, Vietnamese shall prevail.
-
 Hợp đồng này được lập bởi……… và Khách Thuê (chi tiết phía trên), Khách Thuê tại đây xác nhận đã đọc và hiểu toàn bộ nội dung và điều khoản phía trên và đồng ý chịu ràng buộc và phía……… cũng cam kết cung cấp các dịch vụ và tiện ích như đã đề cập trong Hợp đồng.
 This Agreement is made between…………and the Tenant (as specified above) and the Tenant confirms that the Client has read and understood the Terms and Conditions overleaf and agrees to be bound by them and ………… agrees to provide the services and facilities as mentioned overleaf.
-
-
+          ĐẠI DIỆN BÊN CHO THUÊ 
+                            (LEASOR)
+          ĐẠI DIỆN BÊN THUÊ 
+                     (TENANT)
+	
 Giải thích chi tiết (**) tại mục ưu đãi – phần III 
  Details of (**) at Credits - article III
-"""
+Mô tả
+Khu văn phòng mở
+Khu văn phòng riêng
+Ghi chú
+Description
+Open Office
+Private Office
+Remarks
+Linh hoạt (1 ngày)
+Linh hoạt (3 ngày)
+Văn phòng ảo
+Ghế ngồi linh hoạt (tháng)
+Ghế ngồi cố định (tháng)
+Ghế phòng riêng (tháng)
+Day Pass
+Associate
+Virtual Office 
+Hot Desk
+Dedicated Desk
+Private Office
+Số giờ sử dụng phòng họp nằm trong gói thuê/thành viên/tháng
+ 
+ 
+ 
+Number of meeting room using hours including in the package/ member/month
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Số trang (A4 đen trắng) nằm trong gói thuê/thành viên/tháng
+ 
+Number of free pages (A4 B&W) including in the package/ member/ month
+1/14"""
 Mau_Hop_dong_chuyen_giao_cong_nghe_Song_ngu = """HỢP ĐỒNG CHUYỂN GIAO CÔNG NGHỆ
 TECHNOLOGY TRANSFER CONTRACT
-
 Hôm nay, ngày     , tại     , chúng tôi gồm:
 Today, date      , at      , we are:
-
 BÊN A: [CÔNG TY]
-
+Mã số thuế
+:      
+Địa chỉ
+:      
+Đại diện bởi
+:      
+Chức vụ
+:      
 PARTY A: [COMPANY]
+Tax code
+:      
+Address
+:      
+Represented by
+:      
+Position
+:      
 Và/And 
 BÊN B: [CÔNG TY]
-
+Mã số thuế
+:      
+Địa chỉ
+:      
+Đại diện bởi
+:      
+Chức vụ
+:      
 PARTY B: [COMPANY]
-
+Tax code
+:      
+Address
+:      
+Represented by
+:      
+Position
+:      
 Sau khi bàn bạc, hai bên thống nhất ký Hợp đồng hợp tác này (“Hợp đồng”) với những nội dung như sau:
 After discussion, the Parties agree to sign this Cooperation Contract (“Contract”) with the following contents:
-
 ĐIỀU 1. ĐỐI TƯỢNG CHUYỂN GIAO 
 	Tên (sáng chế, giải pháp hữu ích, nhãn hiệu hàng hoá, bí quyết công nghệ):      
 	Đặc điểm công nghệ:      
 	Kết quả áp dụng công nghệ:      
 	Căn cứ chuyển giao (số Văn bằng bảo hộ):      
 	Tiêu chuẩn, chất lượng, nội dung công nghệ:      
-
 ARTICLE 1: OBJECT OF TRANSFER
 	Name (invention, utility solution, trademark, technology know-how):      
 	Technology features:     
 	Technology application results:      
 	Bases of transfer (number of Protective Certificate):      
 	Standards, quality, technology content:      
-
 ‎ĐIỀU 2. PHẠM VI VÀ THỜI HẠN CHUYỂN GIAO
 	Phạm vi chuyển giao: Độc quyền (hoặc không độc quyền)
 	Lãnh thổ: Sư chuyển giao này có hiệu lực trên toàn bộ lãnh thổ …
 	Thời hạn: Sự chuyển giao của Hợp đồng sẽ bắt đầu vào ngày có hiệu lực của Hợp đồng và sẽ hết lực trong thời hạn      năm.
-
 ARTICLE 2. SCOPE AND TERM OF TRANSFER
 	Scope: Exclusive (or non-exclusive)
 	Territory: The transfer is effective in the entire territory of      
 	Term: The transfer of Contract shall commence on the Effective Date of Contract and shall be valid in duration of       years;
-
 ĐIỀU 3. ĐỊA ĐIỂM VÀ TIẾN ĐỘ CHUYỂN GIAO
 	Địa điểm:      
 	Tiến độ:      
-
 ARTICLE 3. LOCATION AND TRANSFER SCHEDULE
 	Location:      
 	Transfer schedule:      
-
 ĐIỀU 4. GIÁ CHUYỂN GIAO CÔNG NGHỆ VÀ PHƯƠNG THỨC THANH TOÁN
 	Giá chuyển giao là:       (bằng chữ:      )
 	Hình thức thanh toán: 
@@ -1085,7 +1324,6 @@ ARTICLE 3. LOCATION AND TRANSFER SCHEDULE
 	Đợt thanh toán:
 	Đợt 1:      
 	Đợt 2:      
-
 ARTICLE 4: TECHNOLOGY TRANSFER PRICE AND PAYMENT FORM
 	Technology transfer price:      (in words:      )
 	 Form of payment:
@@ -1094,15 +1332,12 @@ ARTICLE 4: TECHNOLOGY TRANSFER PRICE AND PAYMENT FORM
 	Payment installments:
 	1st Installment:      
 	2nd Installment:      
-
 ĐIỀU 5. BẢO HÀNH VÀ HƯỚNG DẪN SỬ DỤNG CÔNG NGHỆ
 	Bên A có trách nhiệm bảo hành chất lượng của công nghệ cho bên nhận chuyển giao trong thời gian là       tháng.
 	Bên A phải cử       chuyên gia hướng dẫn sử dụng và đạo tạo nhân lực cho Bên B trong thời gian      tháng kể từ ngày hợp đồng có hiệu lực.
-
 ARTICLE 5. WARRANTY AND TECHNOLOGY GUIDE
 	Party A is responsible for guaranteeing the quality of the technology to the transferee for a period of      months.
 	Party A must appoint      experts to guide and train human resources for Party B within      months from date Contract takes effect.
-
 ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN
 1. Bên A - Bên chuyển giao
 	Cam kết là chủ sở hữu hợp pháp của công nghệ chuyển giao và việc chuyển giao công nghệ sẽ không xâm phạm quyền sở hữu công nghiệp của bất kỳ bên thứ 3 nào khác. Bên chuyển giao có trách nhiệm, với chi phí của mình, giải quyết mọi tranh chấp phát sinh từ việc chuyển giao công nghệ theo hợp đồng này.
@@ -1116,7 +1351,6 @@ ARTICLE 5. WARRANTY AND TECHNOLOGY GUIDE
 	Không được phép/được phép chuyển giao lại cho bên thứ 3 công nghệ trên.
 	Ghi chú xuất xứ công nghệ chuyển giao trên sản phẩm.
 	Đăng ký hợp đồng (nếu có thoả thuận).
-
 ARTICLE 6. RIGHTS AND OBLIGATIONS OF THE PARTIES
 1. Pary A - The transferor
 	Commitments to be the legal owner of the transferred technology and the technology transfer will not infringe the industrial property rights of any other third party. The transferor is responsible, at its own expense, to resolve any disputes arising from the technology transfer under Contract.
@@ -1130,37 +1364,28 @@ ARTICLE 6. RIGHTS AND OBLIGATIONS OF THE PARTIES
 	Not allowed / allowed to transfer to the 3rd party the above technology.
 	Notes of technology transfer origin on the product.
 	Registers of Contract (if agreed).
-
 ĐIỀU 7. SỬA ĐỔI, ĐÌNH CHỈ HOẶC HUỶ BỎ HỢP ĐỒNG
 	Hợp đồng có thể bị sửa đổi, bổ sung theo yêu cầu bằng văn bản của một trong các bên. Các điều khoản sửa đổi, bổ sung có hiệu lực từ thời điểm được sửa đổi.
 	Hợp đồng bị chấm dứt trong các trường hợp sau đây:
 	Hết thời hạn ghi trong hợp đồng.
 	Quyền sở hữu công nghệ bị đình chỉ hoặc huỷ bỏ.
 	Hợp đồng không thực hiện được do nguyên nhân bất khả kháng như: thiên tai, bãi công, biểu tình, nổi loạn, chiến tranh và các sự kiện tương tự.
-
 ARTICLE 7. AMENDMENT, SUSPENSION OR CANCELLATION OF CONTRACT
 	Contract may be amended and supplemented upon written request of one of the Parties. The amended and supplemented provisions take effect from the time of modification.
 	Contract is terminated in the following cases:
 	Contract expires.
 	Technology ownership rights are suspended or revoked.
 	Contract isn’t performed due to force majeure reasons such as: natural disasters, strikes, protests, rebellions, wars and similar events.
-
 ĐIỀU 8. GIẢI QUYẾT TRANH CHẤP HỢP ĐỒNG
 Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
-
-‎ARTICLE 8. RESOLVE OF CONTRACT DISPUTES 
-A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
-
 ĐIỀU 9. ĐIỀU KHOẢN THI HÀNH
 	Hợp đồng được xây dựng trên cơ sở bình đẳng và tự nguyện. Hai bên cam kết thực hiện đúng và đầy đủ các điều khoản trong hợp đồng này.
 	Hợp đồng được lập thành     (bản) bằng tiếng Anh      (bản) bằng tiếng Việt có giá trị như nhau. Mỗi bên giữ     (bản) để thi hành.
-
 ARTICLE 9. IMPLEMENTATION PROVISIONS
 	Contract is built on an equal and voluntary basis. The Parties undertake to properly and fully comply with the terms of Contract.
 	Contract is made into       (copy) in English       (copy) in Vietnamese with equal validity. Each party keeps     (copy) for execution.
-
            Bên A/ Party A                                                                        Bên B/Party B
-"""
+1 | Page"""
 Mau_Hop_dong_chuyen_nhuong_co_phan = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------------------
@@ -1170,30 +1395,30 @@ Căn cứ Bộ luật Dân sự số 91/2015/QH13, ngày 14 tháng 11 năm 2015
  Căn cứ vào Luật Doanh nghiệp 2020 và các văn bản hướng dẫn thi hành;
 Căn cứ vào Điều lệ của Công ty ....................;
 Căn cứ vào nhu cầu của các bên.
-Hôm nay, ngày ……. tháng ……. năm ….., Tại 	
+	Hôm nay, ngày ……. tháng ……. năm ….., Tại 	
 Chúng tôi gồm có:
-BÊN CHUYỂN NHƯỢNG (BÊN A) (2): 	
-Là cổ đông của: 	
-Địa chỉ: 	
-Điện thoại: 	
-Fax: 	
-GCNSH/Mã số cổ đông số: 	
+	BÊN CHUYỂN NHƯỢNG (BÊN A) (2): 	
+	Là cổ đông của: 	
+	Địa chỉ: 	
+	Điện thoại: 	
+	Fax: 	
+	GCNSH/Mã số cổ đông số: 	
 CMND/GPĐKKD số: ................................. cấp ngày ….. tháng …. năm ..............
-Tại: 	
-Mã số thuế cá nhân/tổ chức: 	
+	Tại: 	
+	Mã số thuế cá nhân/tổ chức: 	
 Số tài khoản: ....................................... tại Ngân hàng ....................................................
 Do Ông (Bà): .............................................. Sinh năm: (3) ..............................................
 Chức vụ: ................................................................................................... làm đại diện.
 CMND số: ............................. Ngày cấp ................................... Nơi cấp ......................
-BÊN NHẬN CHUYỂN NHƯỢNG (BÊN B): 	
-Là cổ đông của: 	
-Địa chỉ: 	
-Điện thoại: 	
-Fax: 	
-GCNSH/Mã số cổ đông số: 	
+	BÊN NHẬN CHUYỂN NHƯỢNG (BÊN B): 	
+	Là cổ đông của: 	
+	Địa chỉ: 	
+	Điện thoại: 	
+	Fax: 	
+	GCNSH/Mã số cổ đông số: 	
 CMND/GPĐKKD số: ......................................... cấp ngày ….. tháng …. năm ............
-Tại: 	
-Mã số thuế cá nhân/tổ chức: 	
+	Tại: 	
+	Mã số thuế cá nhân/tổ chức: 	
 Số tài khoản: .......................................................... tại Ngân hàng ................................
 Do Ông (Bà): ................................................... Sinh năm: (3) .........................................
 Chức vụ: ................................................................................................... làm đại diện.
@@ -1201,16 +1426,16 @@ CMND số: ............................... Ngày cấp .........................
 Hai bên thống nhất thoả thuận nội dung hợp đồng như sau:
 Điều 1: Đối tượng của hợp đồng 
 Bên A đồng ý chuyển nhượng cổ phần (chứng khoán) cho bên B theo nội dung sau:
-a) Tên chứng khoán: Cổ phần 	
-b) Tổ chức phát hành: 	
-c) Loại cổ phần: 	
+	a) Tên chứng khoán: Cổ phần 	
+	b) Tổ chức phát hành: 	
+	c) Loại cổ phần: 	
 d) Mệnh giá: ............................................................................................ đồng/cổ phần.
 e) Số lượng: ......................... cổ phần (Bằng chữ: .......................................................).
 f) Giá chuyển nhượng: ............................ đồng/cổ phần (Bằng chữ: ......................../cổ phần).
 g) Tổng giá trị giao dịch: ............................đồng (Bằng chữ: ....................................).
 Điều 2: Phương thức và thời hạn thanh toán
 a) Phương thức thanh toán:
-Tổng số tiền chuyển nhượng được nêu tại Điều 1 sẽ được Bên B thanh toán cho Bên A bằng 	
+	Tổng số tiền chuyển nhượng được nêu tại Điều 1 sẽ được Bên B thanh toán cho Bên A bằng 	
 b) Thời hạn thanh toán:
 - Ngay sau khi hai bên ký kết hợp đồng này, Bên B sẽ đặt cọc một khoản tiền tương ứng là ………….% giá trị của Hợp đồng.
 - Sau ……… ngày, kể từ ngày ký kết hợp đồng đến ngày ……. tháng ….… năm …….. Bên B thanh toán cho Bên A khoản tiền là: ……………………..……….., khoản tiền đó đã bao gồm cả khoản đặt cọc.
@@ -1258,30 +1483,29 @@ a) Hai Bên đã hiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp củ
 b) Trong thời gian thực hiện Hợp đồng, nếu có phát sinh vấn đề mới, hai bên sẽ cùng nhau bàn bạc và ký phụ lục bổ sung.
 c) Hợp đồng này có hiệu lực kể từ ngày ....................................... chấp thuận việc chuyển nhượng.
 d) Hợp đồng gồm 03 (ba) trang và được lập thành 03 (ba) bản có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản, 01 (một) bản lưu tại ..........................................................................
-
-
-"""
+..................., ngày.....tháng.....năm........
+BÊN CHUYỂN NHƯỢNG
+(Ký, ghi rõ họ tên và đóng dấu)
+BÊN NHẬN CHUYỂN NHƯỢNG
+(Ký, ghi rõ họ tên và đóng dấu)
+XÁC NHẬN CỦA CÔNG TY……………..
+(Ký, ghi rõ họ tên và đóng dấu)"""
 Mau_Hop_dong_chuyen_nhuong_quyen_tac_gia = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
-
-
 HỢP ĐỒNG 
 CHUYỂN NHƯỢNG QUYỀN TÁC GIẢ
 Số: ......./20...../HĐCN-ĐQN
-
 Hôm nay, ngày .... tháng ..... năm 20...., tại Văn phòng Công ty ................................, chúng tôi gồm:
-
 Bên chuyển nhượng (Bên A): 
-Ông	Nghệ danh: 
-Ngày sinh	: 
-Địa chỉ	: 
-CCCD	:				Ngày cấp: 	
-Nơi cấp	: 	
-Số tài khoản	: 	
-Ngân hàng	: 				Chi nhánh: 
-
+	Ông	Nghệ danh: 
+	Ngày sinh	: 
+	Địa chỉ	: 
+	CCCD	:				Ngày cấp: 	
+	Nơi cấp	: 	
+	Số tài khoản	: 	
+	Ngân hàng	: 				Chi nhánh: 
+	
 Và
-
 Bên nhận chuyển nhượng (Bên B):
 CÔNG TY CỔ PHẦN ..........
 Địa chỉ		: ..................
@@ -1289,30 +1513,36 @@ Mã số thuế 	: ..................
 Số tài khoản	: ...................	
 Ngân hàng	: ACB					Chi nhánh: ............
 Đại diện		: Bà ………………….		Chức vụ: …………
-
-Xét rằng:
-- Bên A là chủ sở hữu hợp pháp quyền tác giả đối với Tác phẩm âm nhạc được đề cập trong hợp đồng này và có đầy đủ quyền hợp pháp để giao kết hợp đồng này;
-- Bên B là doanh nghiệp hoạt động kinh doanh, khai thác các dịch vụ gia tăng trong lĩnh vực truyền thông và giải trí, đồng thời có nhu cầu nhận chuyển nhượng Tác phẩm âm nhạc;
-Vì vậy, hai Bên đã cùng thảo luận, bàn bạc và thống nhất ký kết Hợp Đồng chuyển nhượng quyền tác giả này (sau đây gọi là “Hợp Đồng”) với các Điều, Khoản như sau:
 		
-ĐIỀU 1. ĐỊNH NGHĨA VÀ CÁCH HIỂU
-Nếu không có những sự kiện vượt ra ngoài giới hạn kiểm soát hợp lý, những Điều, Khoản và từ ngữ bên dưới, bất cứ khi nào được sử dụng trong Hợp Đồng, Phụ lục Hợp Đồng (nếu có) nếu không thay đổi, được định nghĩa như sau:
-Định nghĩa
-“Bên” có nghĩa là Bên A hay Bên B;
-“Các Bên” có nghĩa là cả hai Bên, Bên A hoặc Bên B;
-“Bên Thứ ba” có nghĩa là không phải là Các Bên;
- “Thông tin” có nghĩa là tất cả các thông tin, tài liệu có thể đọc được, nghe được, thấy được, thể hiện hoặc lưu trữ dưới các hình thức: văn bản, tệp (file), thư điện tử (email), hình ảnh mà Các Bên có được trong quá trình thực hiện Hợp Đồng;
-“Quyền tác giả” có nghĩa là quyền của tổ chức, cá nhân đối với tác phẩm do mình sáng tạo ra hoặc sở hữu, trong phạm vi Hợp Đồng này quyền tác giả gồm quyền công bố tác phẩm hoặc cho phép người khác công bố tác phẩm, và các quyền tài sản đối với tác phẩm theo quy định của pháp luật về sở hữu trí tuệ;
- “Tác phẩm âm nhạc” có nghĩa là tác phẩm được thể hiện dưới dạng nhạc nốt trong bản nhạc hoặc các ký tự âm nhạc khác hoặc được định hình trên bản ghi âm, ghi hình có hoặc không có lời, không phụ thuộc vào việc trình diễn hay không trình diễn. 
-Cách hiểu
-Các tiêu đề của Hợp Đồng được sử dụng để thuận tiện gọi tên, không ảnh hưởng đến việc xây dựng nội dung hoặc phiên dịch Hợp Đồng (nếu có);
-“bao gồm” được hiểu là không có tính hạn chế;
-“bảo mật” được hiểu là tuyệt đối không tiết lộ, không cung cấp, không trao đổi cho (hoặc với) Bên Thứ ba, và không giới hạn thời gian bảo mật;
-“toàn quyền” được hiểu là không bị bất kỳ ràng buộc nào về quyền, nghĩa vụ và trách nhiệm.
-
+		Xét rằng:
+	- Bên A là chủ sở hữu hợp pháp quyền tác giả đối với Tác phẩm âm nhạc được đề cập trong hợp đồng này và có đầy đủ quyền hợp pháp để giao kết hợp đồng này;
+	- Bên B là doanh nghiệp hoạt động kinh doanh, khai thác các dịch vụ gia tăng trong lĩnh vực truyền thông và giải trí, đồng thời có nhu cầu nhận chuyển nhượng Tác phẩm âm nhạc;
+	Vì vậy, hai Bên đã cùng thảo luận, bàn bạc và thống nhất ký kết Hợp Đồng chuyển nhượng quyền tác giả này (sau đây gọi là “Hợp Đồng”) với các Điều, Khoản như sau:
+				
+	ĐIỀU 1. ĐỊNH NGHĨA VÀ CÁCH HIỂU
+	Nếu không có những sự kiện vượt ra ngoài giới hạn kiểm soát hợp lý, những Điều, Khoản và từ ngữ bên dưới, bất cứ khi nào được sử dụng trong Hợp Đồng, Phụ lục Hợp Đồng (nếu có) nếu không thay đổi, được định nghĩa như sau:
+	Định nghĩa
+	“Bên” có nghĩa là Bên A hay Bên B;
+	“Các Bên” có nghĩa là cả hai Bên, Bên A hoặc Bên B;
+	“Bên Thứ ba” có nghĩa là không phải là Các Bên;
+	 “Thông tin” có nghĩa là tất cả các thông tin, tài liệu có thể đọc được, nghe được, thấy được, thể hiện hoặc lưu trữ dưới các hình thức: văn bản, tệp (file), thư điện tử (email), hình ảnh mà Các Bên có được trong quá trình thực hiện Hợp Đồng;
+	“Quyền tác giả” có nghĩa là quyền của tổ chức, cá nhân đối với tác phẩm do mình sáng tạo ra hoặc sở hữu, trong phạm vi Hợp Đồng này quyền tác giả gồm quyền công bố tác phẩm hoặc cho phép người khác công bố tác phẩm, và các quyền tài sản đối với tác phẩm theo quy định của pháp luật về sở hữu trí tuệ;
+	 “Tác phẩm âm nhạc” có nghĩa là tác phẩm được thể hiện dưới dạng nhạc nốt trong bản nhạc hoặc các ký tự âm nhạc khác hoặc được định hình trên bản ghi âm, ghi hình có hoặc không có lời, không phụ thuộc vào việc trình diễn hay không trình diễn. 
+	Cách hiểu
+	Các tiêu đề của Hợp Đồng được sử dụng để thuận tiện gọi tên, không ảnh hưởng đến việc xây dựng nội dung hoặc phiên dịch Hợp Đồng (nếu có);
+	“bao gồm” được hiểu là không có tính hạn chế;
+	“bảo mật” được hiểu là tuyệt đối không tiết lộ, không cung cấp, không trao đổi cho (hoặc với) Bên Thứ ba, và không giới hạn thời gian bảo mật;
+	“toàn quyền” được hiểu là không bị bất kỳ ràng buộc nào về quyền, nghĩa vụ và trách nhiệm.
 ĐIỀU 2. ĐỐI TƯỢNG HỢP ĐỒNG
 Bên A đồng ý chuyển nhượng toàn bộ quyền tác giả của các Tác phẩm âm nhạc dưới đây cho Bên B (sau đây gọi chung là “Tác phẩm”), cụ thể:
-
+STT
+TÊN TÁC PHẨM
+TÁC GIẢ
+CÔNG BỐ 
+NGÀY HOÀN THÀNH 
+1
+Chưa công bố 
+2
 - Tình trạng Tác phẩm: chưa công bố. Bên B là bên duy nhất được công bố Tác phẩm.
 - Bên A có trách nhiệm bàn giao bản sao Tác phẩm để Bên B quản lý và khai thác các quyền đã được chuyển nhượng được ghi tại Điều này;
 - Thời gian bàn giao bản sao Tác phẩm: ngày ............................;
@@ -1320,50 +1550,53 @@ Bên A đồng ý chuyển nhượng toàn bộ quyền tác giả của các T�
 - Phương thức bàn giao: theo thỏa thuận của hai Bên.
 - Phạm vi chuyển nhượng quyền: độc quyền, không xác định thời hạn và không giới hạn phạm vi lãnh thổ.
 - Hình thức tác phẩm chuyển nhượng: Văn bản nhạc (lời + Ký âm), các bản ghi âm thuộc sở hữu của Bên A (nếu có)
-
 ĐIỀU 3. PHÍ CHUYỂN NHƯỢNG VÀ THANH TOÁN
-Phí chuyển nhượng
-Phí chuyển nhượng: 			 đồng (Bằng chữ: ................. đồng./.)
-Phí chuyển nhượng là khoản tiền Bên A được nhận cho việc chuyển nhượng theo Điều 2 Hợp Đồng, đã khấu trừ thuế TNCN và toàn bộ các chi phí khác (nếu có). Bên B sẽ khấu trừ thuế, phí, lệ phí liên quan từ phí chuyển nhượng mà Bên A được nhận theo Hợp Đồng này trước khi thanh toán cho Bên A và thay Bên A nộp các khoản thuế, phí, lệ phí liên quan cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.
-Hình thức thanh toán: Chuyển khoản.
-Thời hạn thanh toán: Sau 30 (ba mươi) ngày kể từ ngày Bên A bàn giao Tác phẩm, cung cấp đủ các giấy tờ liên quan đến Tác phẩm và Bên B nhận được khoản thanh toán từ đối tác.
-
+	Phí chuyển nhượng
+	Phí chuyển nhượng: 			 đồng (Bằng chữ: ................. đồng./.)
+	Phí chuyển nhượng là khoản tiền Bên A được nhận cho việc chuyển nhượng theo Điều 2 Hợp Đồng, đã khấu trừ thuế TNCN và toàn bộ các chi phí khác (nếu có). Bên B sẽ khấu trừ thuế, phí, lệ phí liên quan từ phí chuyển nhượng mà Bên A được nhận theo Hợp Đồng này trước khi thanh toán cho Bên A và thay Bên A nộp các khoản thuế, phí, lệ phí liên quan cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.
+	Hình thức thanh toán: Chuyển khoản.
+	Thời hạn thanh toán: Sau 30 (ba mươi) ngày kể từ ngày Bên A bàn giao Tác phẩm, cung cấp đủ các giấy tờ liên quan đến Tác phẩm và Bên B nhận được khoản thanh toán từ đối tác.
 ĐIỀU 4. QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
-Được ghi nhận  là tác giả của Tác phẩm và là một đối tác chính thức của Bên B;
-Chuyển nhượng và bàn giao Tác phẩm, bản sao Tác phẩm đầy đủ, đúng hạn và đúng chất lượng như thỏa thuận;
-Đảm bảo nội dung Tác phẩm mang tính nguyên gốc, không vi phạm đạo đức, thuần phong mỹ tục, không vi phạm quy định của pháp luật;
-Cung cấp tài liệu, giấy tờ, văn bản liên quan để chứng minh quyền của Bên A đối với Tác phẩm khi Bên B có yêu cầu. Trường hợp cần thiết, Bên A có trách nhiệm ký kết các giấy tờ pháp lý cần thiết theo yêu cầu của Bên B thực hiện các thủ tục đăng ký quyền tác giả;
-Ký vào Thư xác nhận (LOC) chuyển nhượng Tác phẩm theo mẫu của Bên B đính kèm theo Hợp đồng này. 
-Bằng chi phí của mình, có trách nhiệm thanh toán thù lao cho các bên liên quan (nếu có) để có được sự đồng ý, cho phép chuyển giao quyền tác giả cho Bên B. Cam kết Tác phẩm không bị tranh chấp, khiếu nại hay khiếu kiện bởi một Bên Thứ ba nào khác liên quan đến quyền sở hữu trí tuệ, quyền sở hữu và sử dụng Tác phẩm. Trường hợp có bất kỳ tranh chấp nào phát sinh liên quan đến Tác phẩm, Bên A tự giải quyết và chịu toàn bộ trách nhiệm, Bên B được miễn trừ mọi trách nhiệm;
-Cam kết tại thời điểm ký kết Hợp Đồng, Bên A không chịu sự chi phối, ràng buộc bởi bất kỳ Hợp Đồng nào liên quan đến Tác phẩm với bất kỳ Bên Thứ ba có nội dung tương tự như nội dung quy định tại Hợp Đồng này. Trường hợp trước thời điểm ký kết Hợp Đồng, Bên A đã xác lập quan hệ hợp đồng liên quan đến Tác phẩm với Bên Thứ ba có nội dung tương tự với nội dung của Hợp Đồng này mà không thông báo cho Bên B, Bên B được quyền tiếp tục sử dụng và khai thác Tác phẩm, Bên A phải chịu toàn bộ trách nhiệm và tự mình giải quyết tranh chấp với Bên Thứ ba (nếu có);
-Kể từ ngày Hợp Đồng có hiệu lực Bên A không được chuyển nhượng, công bố, sử dụng hoặc cho phép Bên Thứ ba sử dụng Tác phẩm và các quyền đã chuyển nhượng theo quy định tại Điều 2 Hợp Đồng;
-Cho phép Bên B sử dụng tên tuổi, hình ảnh của Bên A để truyền thông, quảng bá cho Tác phẩm ;
-Chịu trách nhiệm kê khai và nộp thuế đối với thu nhập phát sinh từ Hợp Đồng này;
-Bảo mật thông tin liên quan đến Hợp Đồng và Tác phẩm.
-
+	Được ghi nhận  là tác giả của Tác phẩm và là một đối tác chính thức của Bên B;
+	Chuyển nhượng và bàn giao Tác phẩm, bản sao Tác phẩm đầy đủ, đúng hạn và đúng chất lượng như thỏa thuận;
+		Đảm bảo nội dung Tác phẩm mang tính nguyên gốc, không vi phạm đạo đức, thuần phong mỹ tục, không vi phạm quy định của pháp luật;
+	Cung cấp tài liệu, giấy tờ, văn bản liên quan để chứng minh quyền của Bên A đối với Tác phẩm khi Bên B có yêu cầu. Trường hợp cần thiết, Bên A có trách nhiệm ký kết các giấy tờ pháp lý cần thiết theo yêu cầu của Bên B thực hiện các thủ tục đăng ký quyền tác giả;
+	Ký vào Thư xác nhận (LOC) chuyển nhượng Tác phẩm theo mẫu của Bên B đính kèm theo Hợp đồng này. 
+		Bằng chi phí của mình, có trách nhiệm thanh toán thù lao cho các bên liên quan (nếu có) để có được sự đồng ý, cho phép chuyển giao quyền tác giả cho Bên B. Cam kết Tác phẩm không bị tranh chấp, khiếu nại hay khiếu kiện bởi một Bên Thứ ba nào khác liên quan đến quyền sở hữu trí tuệ, quyền sở hữu và sử dụng Tác phẩm. Trường hợp có bất kỳ tranh chấp nào phát sinh liên quan đến Tác phẩm, Bên A tự giải quyết và chịu toàn bộ trách nhiệm, Bên B được miễn trừ mọi trách nhiệm;
+		Cam kết tại thời điểm ký kết Hợp Đồng, Bên A không chịu sự chi phối, ràng buộc bởi bất kỳ Hợp Đồng nào liên quan đến Tác phẩm với bất kỳ Bên Thứ ba có nội dung tương tự như nội dung quy định tại Hợp Đồng này. Trường hợp trước thời điểm ký kết Hợp Đồng, Bên A đã xác lập quan hệ hợp đồng liên quan đến Tác phẩm với Bên Thứ ba có nội dung tương tự với nội dung của Hợp Đồng này mà không thông báo cho Bên B, Bên B được quyền tiếp tục sử dụng và khai thác Tác phẩm, Bên A phải chịu toàn bộ trách nhiệm và tự mình giải quyết tranh chấp với Bên Thứ ba (nếu có);
+		Kể từ ngày Hợp Đồng có hiệu lực Bên A không được chuyển nhượng, công bố, sử dụng hoặc cho phép Bên Thứ ba sử dụng Tác phẩm và các quyền đã chuyển nhượng theo quy định tại Điều 2 Hợp Đồng;
+		Cho phép Bên B sử dụng tên tuổi, hình ảnh của Bên A để truyền thông, quảng bá cho Tác phẩm ;
+		Chịu trách nhiệm kê khai và nộp thuế đối với thu nhập phát sinh từ Hợp Đồng này;
+	Bảo mật thông tin liên quan đến Hợp Đồng và Tác phẩm.
+	
 ĐIỀU 5. QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
-Được công nhận là chủ sở hữu quyền tác giả và là bên duy nhất có toàn quyền sở hữu, công bố, định đoạt, khai thác, sử dụng các Tác phẩm và các quyền được chuyển nhượng tại Điều 2 Hợp Đồng;
-Khi khai thác, sử dụng các quyền được chuyển nhượng tại Điều 2 Hợp Đồng, Bên B phải tôn trọng quyền nhân thân của Bên A  theo quy định của Luật Sở hữu trí tuệ, các văn bản hướng dẫn thi hành và các quy định Pháp luật có liên quan;
-Thanh toán đầy đủ và đúng hạn theo quy định tại Hợp Đồng. Đối với việc chuyển nhượng quyền quy định tại Điều 2, Bên B chỉ phải thanh toán duy nhất khoản phí chuyển nhượng được quy định tại Điều 3 của Hợp Đồng, Bên A không được yêu cầu Bên B thanh toán thêm bất cứ chi phí nào khác ngoài Hợp Đồng;
-Bảo mật các thông tin liên quan đến Hợp Đồng.
-
-
-
-
+	Được công nhận là chủ sở hữu quyền tác giả và là bên duy nhất có toàn quyền sở hữu, công bố, định đoạt, khai thác, sử dụng các Tác phẩm và các quyền được chuyển nhượng tại Điều 2 Hợp Đồng;
+	Khi khai thác, sử dụng các quyền được chuyển nhượng tại Điều 2 Hợp Đồng, Bên B phải tôn trọng quyền nhân thân của Bên A  theo quy định của Luật Sở hữu trí tuệ, các văn bản hướng dẫn thi hành và các quy định Pháp luật có liên quan;
+	Thanh toán đầy đủ và đúng hạn theo quy định tại Hợp Đồng. Đối với việc chuyển nhượng quyền quy định tại Điều 2, Bên B chỉ phải thanh toán duy nhất khoản phí chuyển nhượng được quy định tại Điều 3 của Hợp Đồng, Bên A không được yêu cầu Bên B thanh toán thêm bất cứ chi phí nào khác ngoài Hợp Đồng;
+	Bảo mật các thông tin liên quan đến Hợp Đồng.
 ĐIỀU 6. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
-Mọi trường hợp vi phạm nghĩa vụ, cam kết theo Hợp Đồng phải bồi thường tất cả những tổn thất phát sinh do hành vi vi phạm gây ra và những lợi ích trực tiếp mà Bên bị vi phạm đáng lẽ được hưởng nếu không có hành vi vi phạm xảy ra.
-Mọi trường hợp vi phạm nghĩa vụ quy định trong Hợp Đồng đều phải chịu mức phạt 8% giá trị phần nghĩa vụ Hợp Đồng bị vi phạm.
-Các Bên được miễn trừ nghĩa vụ quy định tại Khoản 1 và 2 Điều này trong trường hợp nguyên nhân dẫn đến hành vi vi phạm là do Sự kiện bất khả kháng, nhưng phải thông báo cho Bên bị vi phạm trong vòng 05 ngày kể từ ngày xảy ra Sự kiện bất khả kháng
-
+	Mọi trường hợp vi phạm nghĩa vụ, cam kết theo Hợp Đồng phải bồi thường tất cả những tổn thất phát sinh do hành vi vi phạm gây ra và những lợi ích trực tiếp mà Bên bị vi phạm đáng lẽ được hưởng nếu không có hành vi vi phạm xảy ra.
+	Mọi trường hợp vi phạm nghĩa vụ quy định trong Hợp Đồng đều phải chịu mức phạt 8% giá trị phần nghĩa vụ Hợp Đồng bị vi phạm.
+	Các Bên được miễn trừ nghĩa vụ quy định tại Khoản 1 và 2 Điều này trong trường hợp nguyên nhân dẫn đến hành vi vi phạm là do Sự kiện bất khả kháng, nhưng phải thông báo cho Bên bị vi phạm trong vòng 05 ngày kể từ ngày xảy ra Sự kiện bất khả kháng
 ĐIỀU 7. ĐIỀU KHOẢN CHUNG 
-Các Bên cam đoan và bảo đảm rằng việc giao kết Hợp Đồng này là hoàn toàn tự nguyện, không bị lừa dối hay đe dọa. Các Bên đã hiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của mình, cũng như hiểu rõ ý nghĩa của việc ký kết Hợp Đồng này, cam kết thực hiện đúng và đủ các điều khoản trong Hợp Đồng này.
-Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
-Hợp Đồng này có hiệu lực kể từ ngày ký và tự động thanh lý sau khi các Bên hoàn thành toàn bộ nghĩa vụ quy định tại Hợp Đồng này.
-Mọi sửa đổi, bổ sung Hợp Đồng phải được lập thành văn bản, có xác nhận của đại diện có thẩm quyền của các Bên và được xem là một bộ phận không thể tách rời của Hợp Đồng.
-Hợp Đồng này gồm 05 (năm) trang, được lập thành 04 (bốn) bản có giá trị pháp lý như nhau, mỗi Bên giữ 02 (hai) bản để làm cơ sở thực hiện./.
-
-
-"""
+	Các Bên cam đoan và bảo đảm rằng việc giao kết Hợp Đồng này là hoàn toàn tự nguyện, không bị lừa dối hay đe dọa. Các Bên đã hiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của mình, cũng như hiểu rõ ý nghĩa của việc ký kết Hợp Đồng này, cam kết thực hiện đúng và đủ các điều khoản trong Hợp Đồng này.
+	Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
+	Hợp Đồng này có hiệu lực kể từ ngày ký và tự động thanh lý sau khi các Bên hoàn thành toàn bộ nghĩa vụ quy định tại Hợp Đồng này.
+	Mọi sửa đổi, bổ sung Hợp Đồng phải được lập thành văn bản, có xác nhận của đại diện có thẩm quyền của các Bên và được xem là một bộ phận không thể tách rời của Hợp Đồng.
+	Hợp Đồng này gồm 05 (năm) trang, được lập thành 04 (bốn) bản có giá trị pháp lý như nhau, mỗi Bên giữ 02 (hai) bản để làm cơ sở thực hiện./.
+	
+	BÊN A
+	(ký và ghi rõ họ, tên)
+	
+	
+	
+	                       
+	ĐẠI DIỆN BÊN B
+	Tổng Giám Đốc
+	
+	
+	
+	………….."""
 Mau_Hop_dong_cung_cap_dich_vu_tham_dinh_gia_tai_san = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
 ---------o0o---------
@@ -1397,7 +1630,7 @@ Giá trị tàu tàu chở hàng khô Hùng Khánh 89, số đăng ký : HP 446
 Thời điểm thẩm định giá: tháng 2/2024.                 
 Thời gian thực hiện công tác thẩm định giá: trong vòng 05 ngày làm việc tính từ ngày Bên A cung cấp đủ hồ sơ, tài liệu phục vụ cho công tác thẩm định giá, Bên B hoàn tất quá trình khảo sát hiện trạng tài sản thẩm định.
 Điều 2. Mục đích sử dụng kết quả thẩm định giá:
-Mục đích: Làm căn cứ để Bên A tham khảo trong việc vay vốn.
+		Mục đích: Làm căn cứ để Bên A tham khảo trong việc vay vốn.
 Điều 3. Trách nhiệm và quyền hạn của Bên A
 Cung cấp kịp thời, đầy đủ cho Bên B các thông tin cần thiết có liên quan đến quá trình thẩm định giá tài sản gồm:
 Sổ đăng kiểm tàu; Giấy chứng nhận đăng ký tàu; 
@@ -1446,57 +1679,62 @@ Hợp đồng có hiệu lực kể từ ngày ký và sẽ được tự độn
 Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
 Các nội dung có liên quan nhưng không được thỏa thuận tại Hợp đồng này được thực hiện theo các quy định của pháp luật hiện hành.
 Hợp đồng này được lập thành 04 (bốn) bản gốc, bên A giữ 02 (hai) bản, bên B giữ 02 (hai) bản có cùng nội dung và giá trị pháp lý như nhau.
-"""
+ĐẠI DIỆN BÊN A
+ĐẠI DIỆN BÊN B
+Page 1 of 1"""
 Mau_Hop_dong_cung_ung_Dich_vu_Quoc_te = """Hợp đồng cung ứng Dịch vụ Quốc tế
-
-
+Giới thiệu
+Hợp đồng Mẫu này là khung cơ bản cho hoạt động cung ứng dịch vụ quốc tế, thỏa thuận trong đó Khách hàng yêu cầu nhà cung cấp dịch vụ (“Nhà Cung cấp”) cung ứng một số dịch vụ nhất định. 
+1. Giống như hầu hết các hợp đồng mẫu trong cuốn sách này, Hợp đồng mẫu này đưa là một loạt các lựa chọn tùy thuộc vào hoàn cảnh và tính chất của sản xuất. Nhiều quy định có thể không liên quan tới một hợp động cụ thể và nếu không liên quan, có thể xóa bỏ.
+2. Về thời gian thực hiện, Hợp đồng Mẫu đưa ra hai phương án (Điều 1.4): Trong phương án chính, các dịch vụ phải được cung ứng vào một ngày cụ thế. Trong phương án thay thế, các dịch vụ phải được cung ứng vào các ngày khác nhau và/hoặc trong một khoảng thời gian nhất định.
+3. Điều 5 đề cập đến thời hạn của hợp đồng và phải phù hợp với các phương án trong Điều 1.4. Một phương án khác (không được đề cập trong hợp đồng mẫu) là hợp đồng có thời hạn và có thể gia hạn thêm khi có sự đồng ý của các bên. 
+4. Về tiền bồi thường thiệt hại (Điều 4), các Bên có thể muốn đưa vào hợp đồng trách nhiệm của Nhà Cung cấp đối với các thiệt hại lợi nhuận mà Khách hàng phải chịu do hậu quả của hành vi vi phạm nghĩa vụ của Nhà Cung cấp theo hợp đồng này. Điều 4.3 Có thể được điều chỉnh tương ứng.
+Hợp đồng Mẫu này chỉ là khung cơ bản và phải được điều chỉnh cho phù hợp với từng trường hợp cụ thể.
 HỢP ĐỒNG MẪU CỦA ITC VỀ CUNG ỨNG DỊCH VỤ QUỐC TẾ
 CÁC BÊN:
 Nhà Cung cấp 
-Tên (tên công ty) 
-	
+	Tên (tên công ty) 
+		
 Hình thức pháp lý (ví dụ Công ty trách nhiệm hữu hạn)
-	
+		
 Quốc tịch và số đăng ký kinh doanh (nếu có)
-	
+		
 Địa chỉ (địa điểm kinh doanh của Nhà Cung cấp, số điện thoại, Số fax, email)
-	
-	
+		
+		
 Đại diện bởi (tên họ, địa chỉ, chức vụ, thẩm quyền đại diện)
+		
+		
 	
-	
-
 Khách hàng 
 Tên (tên công ty)
-	
+		
 Hình thức pháp lý (ví dụ công ty trách nhiệm hữu hạn)
-	
+		
 Quốc tịch và số đăng ký kinh doanh (nếu có)
-	
+		
 Địa chỉ (địa điểm kinh doanh của Khách hàng, số điện thoại, số fax, email)
-	
-	
+		
+		
 Đại diện bởi (tên họ, địa chỉ, chức vụ, thẩm quyền đại diện)
-	
-	
+		
+		
 Sau đây gọi chung là “Các Bên”
-
 BỐI CẢNH CHUNG
 Khách hàng kinh doanh trong lĩnh vực cung cấp – nêu cụ thể
 Nhà Cung cấp thực hiện việc cung ứng dịch vụ liên quan đến [nêu cụ thế với tính chất là một phần công việc kinh doanh của mình.
 Khách hàng mong muốn Nhà Cung cấp cung ứng các dịch vụ liên quan đến công việc kinh doanh của Khách hàng và Nhà Cung cấp săn sàng cung ứng các dịch vụ đó theo các điều khoản của hợp đồng này. 
 [Nếu cần thiết, đưa ra giải thích ngắn gọn bổ sung về lý do của hợp đồng. Nếu không cần thiết, có thể xóa mục D này.]
-
 CÁC ĐIỀU KHOẢN HOẠT ĐỘNG
 Cung ứng dịch vụ - Tiêu chuẩn về Nhà Cung cấp
 Nhà Cung cấp phải cung ứng các dịch vụ sau cho Khách hàng theo các điều khoản thỏa thuận trong hợp đồng này và các đặc điểm chi tiết hơn trong phụ lục 1: [mô tả dịch vụ]
-	
-	
-	
+		
+		
+		
 Nhà Cung cấp phải chứng minh mình có đủ năng lực và phẩm chất cần thiết để cung ứng các dịch vụ nói trên. 
 Các dịch vụ được cung ứng theo hợp đồng này cho Khách hàng bởi Nhà Cung cấp phải được thực hiện tại [nêu cụ thể nơi thực hiện – có thể xóa bỏ khoản này nếu không liên quan]:
-	
-	
+		
+		
 Dịch vụ được cung ứng cho Khách hàng bởi Nhà Cung cấp theo hợp đồng này phải được thực hiện vào [nêu ngày/giờ thực hiện. 
 [Phương án 1: Nếu dịch vụ được cung ứng trong một khoảng thời gian nhất định: 
 “1.4 	Dịch vụ được cung ứng cho Khách hàng bởi Nhà Cung cấp theo hợp đồng này sẽ được thực hiện giữa .............. và .............. [nêu cụ thể khung thời gian/thời hạn thực hiện] với các khoảng ngưng xen giữa sau ............... [nêu cụ thể nếu cần – xóa bỏ nếu không liên quan].] 
@@ -1561,8 +1799,8 @@ Ký hợp đồng thứ cấp hay bằng một cách nào đó chuyển giao m�
 Thông báo
 Bất kỳ thông báo nào theo hợp đồng này đều phải được lập bằng văn bản (có thể bằng email) và có thể được trao bằng cách để hoặc gửi đến địa chỉ của bên kia như được nêu tại Điều 11.2 dưới đây, theo cách thức mà có thể chứng minh được rằng thông báo đã được nhận. 
 Nhằm mục đích tại Điều 11.1, các chi tiết của việc thông báo sẽ như sau, trừ khi các chi tiết khác đã được thông báo phù hợp với Điều này:
-	
-	
+		
+		
 Tính toàn vẹn của hợp đồng
 Hợp đồng này nêu tổng thể toàn bộ thỏa thuận giữa các Bên. Không bên nào ký hợp đồng này dựa trên bất kỳ trình bày, bảo đảm kia mà không được quy định rõ ràng hay được dẫn chiếu đến trong hợp đồng này. Điều khoản này không loại bỏ bất kỳ trách nhiệm pháp lý nào từ nhầm lẫn do lừa dối. [Bổ sung thêm đoan sau nếu thấy liên quan: Hợp đồng này thay thế bất kỳ thỏa thuận hay ghi nhớ nào trước đó liên quan đến đối tượng hợp đồng.]
 Hợp đồng này không được phép thay đổi trừ khi có thỏa thuận của các Bên bằng văn bản (bao gồm cả email) [Có thể thêm nếu Điều 8.4 được đưa vào hợp đồng này: “Hoặc theo Điều 8.4"]
@@ -1570,109 +1808,134 @@ Hợp đồng này không được phép thay đổi trừ khi có thỏa thuậ
 Nêu một điều khoản bất kỳ của hợp đồng này bị một toà án thẩm quyền tuyên bố vô hiệu hay không thể thực hiện toàn bộ hay một nhà các điều khoản khác và phần còn lại của các điều khoản bị ảnh hướng của hợp đồng này vẫn tiếp tục có hiệu lực, trừ khi có kết luận rằng trong trường hợp nếu thiếu các điều khoản bị vô hiệu đó thì các bên lẽ ra đã không ký hợp đông này. Các Bên phải thực hiện tất cả các nỗ lực hợp lý để thay thế Các khoản bị vô hiệu bằng các điều khoản có hiệu lực theo luật áp dụng và B nhất với mục đích ban đầu của hai bên.
 Các loại chấp thuận/phê chuẩn
 Hợp đồng này là có điều kiện, phụ thuộc vào việc trước đó có đạt được các chấp thuận/phê chuẩn dưới đây hay không [nêu cụ thể các loại chấp thuận/ phê chuẩn hay các điều kiện khác cần thiết theo yêu cầu của (ví dụ) cơ quan quản lý hoặc cơ quan chính phủ].
-	
-	
-	
+		
+		
+		
 Bên liên quan phải thực hiện tất cả các nỗ lực hợp lý để có được các chấp thuần/phê chuẩn đó và phải thông báo bên kia ngay lập tức về bất kỳ khó khăn nào gặp phải.
 Thủ tục giải quyết tranh chấp
 Nếu một tranh chấp phát sinh từ hợp đồng này, các bên phải cố gắng giải quyết trên tinh thần hòa giải. Các bên phải cân nhắc chỉ định một chủ thể trung gian hỗ trợ việc giải quyết tranh chấp. Không bên nào được phép khởi kiện ra tòa án hay trọng tài trừ khi có thông báo cho bên kia bằng văn bản trước ít nhất 30 ngày.
 Bất kỳ tranh chấp, mâu thuẫn hay khiếu nại nào phát sinh từ hoặc có liên quan đến hợp đồng (bao gồm cả việc ký kết, giải thích, thực hiện, vì phạm, chấm dứt hay vô hiệu) phải được giải quyết cuối cùng theo quy tắc tố tụng của Trung tâm Trọng tài thương mại Miền Trung (MCAC) bởi một Hội đồng Trọng tài gồm [nêu cụ thể số lượng trọng tài viên, ví dụ, một trọng tài duy nhất, hoặc ba trọng tài viên] được chỉ định theo các quy tắc tố tụng nói trên. Nơi tiến hành tố tụng trọng tài sẽ là [nêu cụ thể]. Ngôn ngữ sử dụng trong tố tụng là [nêu cụ thể].
-
 Luật áp dụng
 Luật [nêu rõ luật quốc gia] áp dụng cho hợp đồng này.
 *Nguồn trích dẫn: Hợp đồng mẫu cho các doanh nghiệp nhỏ - Hướng dẫn pháp lý cho hoạt động kinh doanh quốc tế (Tiếng Anh: Model contracts for small firms – Legal guidance for doing international business), Trung tâm Thương mại Quốc tế (ITC), dịch thuật bởi Trung tâm WTO và Hội nhập – Phòng Thương mại và Công nghiệp Việt Nam (VCCI) 
-
 Phụ lục 1: Đặc điểm dịch vụ cần được thực hiện
 Phụ lục 2: Phí và chi phí
 Các dịch vụ sau sẽ được tính phí dựa trên cơ sở thời gian thực hiện của Nhà Cung cấp theo mức mỗi giờ là: …………
+		
+		
+		
+	Các dịch vụ sau sẽ có phí là ……….., bất kể thời gian thực hiện.
+		
+		
+		
+	Nhà Cung cấp không có quyền thay đổi mức phí cơ sở của Nhà Cung cấp
+	Phương án khác: Nhà Cung cấp có quyền thay đổi mức phí cơ sở của Nhà Cung cấp theo từng thời điểm bằng cách thông báo cho Khách hàng bằng văn bản không ít hơn [ba] tháng.
+	Tất cả các khoản tiền tính phí cho Khách hàng cho việc cung ứng dịch vụ không bao gồm thuế giá trị gia tăng (VAT), loại thuế mà Khách hàng có thể phải chịu theem với mức thuế là mức áp dụng tại thời điểm đó.
 	
+NGÀY VÀ CHỮ KÝ CỦA CÁC BÊN
+Bên Bán
+Ngày: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+Tên: .  .  .  .  .  .  .  .  .  .  . .  .  .  .  .  .  .  .  .  .  .
+Chữ ký
+Bên Mua
+.  .  .  .  .  .  .  .  .  .  . .  .  .  .  .  .  .  .  .  .  . .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . .  .  .  .  .  .  
+Chữ ký
 	
-	
-Các dịch vụ sau sẽ có phí là ……….., bất kể thời gian thực hiện.
-	
-	
-	
-Nhà Cung cấp không có quyền thay đổi mức phí cơ sở của Nhà Cung cấp
-Phương án khác: Nhà Cung cấp có quyền thay đổi mức phí cơ sở của Nhà Cung cấp theo từng thời điểm bằng cách thông báo cho Khách hàng bằng văn bản không ít hơn [ba] tháng.
-Tất cả các khoản tiền tính phí cho Khách hàng cho việc cung ứng dịch vụ không bao gồm thuế giá trị gia tăng (VAT), loại thuế mà Khách hàng có thể phải chịu theem với mức thuế là mức áp dụng tại thời điểm đó.
-
-
-"""
-Mau_Hop_dong_cung_ung_dich_vu_thanh_toan_vi_ = """
-
-HỢP ĐỒNG 
-CUNG ỨNG DỊCH VỤ HỖ TRỢ THANH TOÁN ZALOPAY
-SỐ: /2025/……………. - ………
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tháng  năm 
-
+2"""
+Mau_Hop_dong_cung_ung_dich_vu_thanh_toan_vi_ = """HỢP ĐỒNG 
+	CUNG ỨNG DỊCH VỤ HỖ TRỢ THANH TOÁN ZALOPAY
+SỐ: ……/2025/……………. - ………
+Tên:
+CÔNG TY ………………………………
+	Địa chỉ:  
+………………………………
+		Điện thoại:
+………………………………     Fax:………………
+Mã số thuế
+………………………………
+Đại diện
+………………………………
+		Chức vụ: 
+		……………………………… 
+		Giấy ủy quyền:
+		………………………………
+		
+		(Sau đây gọi tắt là “…….” hoặc “Bên A”)
+		
+		
+		Và
+		
+		
+		
+		
+		Tên:
+		CÔNG TY CỔ PHẦN ZION 
+	Địa chỉ:  
+		Z06 Đường số 13, Phường Tân Thuận Đông, Quận 7, TP. Hồ Chí Minh, Việt Nam.
+		Điện thoại:
+028 3962 3888              Fax: 028 3962 4666
+Mã số thuế
+0101659783
+Đại diện:
+Bà Trương Thị Thanh
+		Chức vụ: 
+		CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ KIÊM GIÁM ĐỐC
+		
+		(Sau đây gọi tắt là “ZION” hoặc “Bên B”)
+Tháng ……..…….. năm …………
 Căn cứ: 
-Bộ Luật Dân sự 2015;
-Luật Thương mại năm 2005 
-Luật Doanh nghiệp 2020
-Nhu cầu và khả năng của các Bên.
+	Bộ Luật Dân sự 2015;
+	Luật Thương mại năm 2005 
+	Luật Doanh nghiệp 2020
+	Nhu cầu và khả năng của các Bên.
 XÉT VÌ: 
 Bên A là doanh nghiệp kinh doanh hàng hóa, dịch vụ có nhu cầu chấp nhận sử dụng Dịch vụ hỗ trợ thanh toán ……………. do Bên B cung ứng. 
 Bên B là doanh nghiệp được Ngân hàng Nhà Nước cấp phép cung ứng dịch vụ trung gian thanh toán theo quy định pháp luật. 
-Nhằm góp phần thúc đẩy hoạt động thanh toán điện tử, tuân thủ các quy định pháp luật hiện hành, các Bên cùng nhau thống nhất lập và ký Hợp đồng vào ngày  (“Ngày Hiệu Lực”) với các điều khoản và điều kiện như sau: 
-
+Nhằm góp phần thúc đẩy hoạt động thanh toán điện tử, tuân thủ các quy định pháp luật hiện hành, các Bên cùng nhau thống nhất lập và ký Hợp đồng vào ngày …/…/…… (“Ngày Hiệu Lực”) với các điều khoản và điều kiện như sau: 
 ĐIỀU 1: GIẢI THÍCH THUẬT NGỮ
 Hợp đồng: là Hợp đồng này và các Phụ lục đính kèm, các Thỏa thuận sử dụng dịch vụ và các văn bản, thỏa thuận sửa đổi bổ sung liên quan (nếu có).
-Mỗi Bên hoặc các Bên: có nghĩa là Bên A, Bên B hoặc Bên A và Bên B tùy theo ngữ cảnh của nội dung Hợp đồng.
-Dịch vụ hỗ trợ thanh toán ZaloPay (ZaloPay): là các dịch vụ cho phép Khách hàng sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay để thanh toán cho hàng hóa, dịch vụ của Bên A.
-Dịch vụ hỗ trợ thanh toán ZaloPay gồm: Dịch vụ thanh toán bằng ứng dụng ZaloPay (“ZaloPay App”) và Dịch vụ Cổng thanh toán ZaloPay (“ZaloPay Gateway”). Trong đó: 
+	Mỗi Bên hoặc các Bên: có nghĩa là Bên A, Bên B hoặc Bên A và Bên B tùy theo ngữ cảnh của nội dung Hợp đồng.
+	Dịch vụ hỗ trợ thanh toán ZaloPay (ZaloPay): là các dịch vụ cho phép Khách hàng sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay để thanh toán cho hàng hóa, dịch vụ của Bên A.
+	Dịch vụ hỗ trợ thanh toán ZaloPay gồm: Dịch vụ thanh toán bằng ứng dụng ZaloPay (“ZaloPay App”) và Dịch vụ Cổng thanh toán ZaloPay (“ZaloPay Gateway”). Trong đó: 
 Dịch vụ ZaloPay App: Là dịch vụ thanh toán do Bên B cung ứng trên ứng dụng ZaloPay theo các Quy định sử dụng được đăng tải trên website: https://zalopay.vn/quy-dinh. Thông qua ZaloPay App cho phép Khách hàng thanh toán tiền mua hàng hóa, dịch vụ bằng các nguồn tiền: Số dư tài khoản ZaloPay, Ngân hàng liên kết với ZaloPay (thẻ/tài khoản ngân hàng được Khách hàng liên kết trên ứng dụng ZaloPay) hoặc nguồn tiền khác mà ZaloPay cho phép phù hợp với quy định pháp luật và thực tế triển khai.
 Dịch vụ ZaloPay Gateway: Là dịch vụ cổng thanh toán và dịch vụ hỗ trợ thu hộ chi hộ do Bên B cung ứng, cho phép Khách hàng thanh toán hàng hóa, dịch vụ của ĐVCNTT bằng các nguồn tiền từ thẻ thanh toán/tài khoản ngân hàng, hoặc ZaloPay App đã được Bên B tích hợp kỹ thuật với hệ thống của Bên A.
-Đơn vị chấp nhận thanh toán (ĐVCNTT): là tổ chức, cá nhân cung cấp hàng hóa, dịch vụ cho phép Khách hàng thanh toán hàng hóa, dịch vụ bằng Dịch vụ hỗ trợ thanh toán ZaloPay.
-Giao dịch thành công: Là giao dịch mua hàng hóa, dịch vụ được xác định là giao dịch thanh toán thành công, và đã được Bên A cung cấp hàng hóa, dịch vụ cho Khách hàng thành công (theo các quy định cung cấp dịch vụ của Bên A đúng quy định pháp luật). Khi Khách hàng đã thanh toán thành công theo xác nhận của Bên B, Bên A có trách nhiệm hoàn thành mọi nghĩa vụ liên quan đến hàng hóa, dịch vụ.
-Giao dịch thanh toán thành công: là giao dịch Khách hàng của Bên A thanh toán hàng hóa, dịch vụ do Bên A cung cấp và được Bên B thông báo thành công cho Bên A thông qua quy định tín hiệu thanh toán xác định thành công tại tài liệu kỹ thuật trên https://d.....................vn/.  
-Giao dịch thanh toán không thành công: là giao dịch Khách hàng của Bên A thực hiện thanh toán hàng hóa, dịch vụ qua Dịch vụ hỗ trợ thanh toán ZaloPay và Bên B gửi thông báo giao dịch thanh toán không thành công cho Bên A theo các tín hiệu thanh toán tại tài liệu kỹ thuật trên https://....................vn/. 
-Giao dịch sai lệch: là giao dịch sau khi đối chiếu xảy ra một trong các trường hợp sau:
+	Đơn vị chấp nhận thanh toán (ĐVCNTT): là tổ chức, cá nhân cung cấp hàng hóa, dịch vụ cho phép Khách hàng thanh toán hàng hóa, dịch vụ bằng Dịch vụ hỗ trợ thanh toán ZaloPay.
+	Giao dịch thành công: Là giao dịch mua hàng hóa, dịch vụ được xác định là giao dịch thanh toán thành công, và đã được Bên A cung cấp hàng hóa, dịch vụ cho Khách hàng thành công (theo các quy định cung cấp dịch vụ của Bên A đúng quy định pháp luật). Khi Khách hàng đã thanh toán thành công theo xác nhận của Bên B, Bên A có trách nhiệm hoàn thành mọi nghĩa vụ liên quan đến hàng hóa, dịch vụ.
+	Giao dịch thanh toán thành công: là giao dịch Khách hàng của Bên A thanh toán hàng hóa, dịch vụ do Bên A cung cấp và được Bên B thông báo thành công cho Bên A thông qua quy định tín hiệu thanh toán xác định thành công tại tài liệu kỹ thuật trên https://d.....................vn/.  
+	Giao dịch thanh toán không thành công: là giao dịch Khách hàng của Bên A thực hiện thanh toán hàng hóa, dịch vụ qua Dịch vụ hỗ trợ thanh toán ZaloPay và Bên B gửi thông báo giao dịch thanh toán không thành công cho Bên A theo các tín hiệu thanh toán tại tài liệu kỹ thuật trên https://....................vn/. 
+	Giao dịch sai lệch: là giao dịch sau khi đối chiếu xảy ra một trong các trường hợp sau:
 Giao dịch đã được hệ thống của Bên A ghi nhận thành công, nhưng không được hệ thống của Bên B ghi nhận thành công.
 Giao dịch đã được hệ thống của Bên B ghi nhận thành công, nhưng không được hệ thống của Bên A ghi nhận thành công.
-Khách hàng: là các cá nhân, tổ chức đang có nhu cầu mua bán hàng hóa, sử dụng dịch vụ của Bên A và thanh toán cho Bên A thông qua Dịch vụ hỗ trợ thanh toán ZaloPay của Bên B.
-1.11. 	Hàng hóa, dịch vụ: là các hàng hóa, dịch vụ do Bên A cung cấp cho Khách hàng theo quy định của pháp luật Việt Nam, phù hợp với chức năng kinh doanh của Bên A. 
-Ngày làm việc: là ngày theo Dương lịch, không bao gồm các ngày thứ bảy, chủ nhật và các ngày nghỉ lễ theo quy định pháp luật của Việt Nam.
-Tháng: là tháng theo Dương lịch và “hàng tháng” sẽ được hiểu tương ứng.
-Hoạt động liên tục: là tính sẵn sàng hoạt động liên tục của hệ thống theo quy định pháp luật.
-Thông Tin Mật: là thông tin, tài liệu, dữ liệu được hình thành, phát sinh từ quá trình đàm phán, ký kết và thực hiện Hợp đồng này, bao gồm nhưng không giới hạn thông tin được một Bên cung cấp cho Bên còn lại dưới dạng văn bản, thông điệp dữ liệu điện tử hoặc bất kỳ hình thức khác phù hợp với quy định của pháp luật và thỏa thuận của hai Bên. 
-Tùy từng loại hình dịch vụ mà Khách hàng sử dụng, theo đặc thù, các khái niệm trên sẽ được giải thích theo quy định sử dụng của loại hình dịch vụ đó. 
+	Khách hàng: là các cá nhân, tổ chức đang có nhu cầu mua bán hàng hóa, sử dụng dịch vụ của Bên A và thanh toán cho Bên A thông qua Dịch vụ hỗ trợ thanh toán ZaloPay của Bên B.
+	1.11. 	Hàng hóa, dịch vụ: là các hàng hóa, dịch vụ do Bên A cung cấp cho Khách hàng theo quy định của pháp luật Việt Nam, phù hợp với chức năng kinh doanh của Bên A. 
+	Ngày làm việc: là ngày theo Dương lịch, không bao gồm các ngày thứ bảy, chủ nhật và các ngày nghỉ lễ theo quy định pháp luật của Việt Nam.
+	Tháng: là tháng theo Dương lịch và “hàng tháng” sẽ được hiểu tương ứng.
+	Hoạt động liên tục: là tính sẵn sàng hoạt động liên tục của hệ thống theo quy định pháp luật.
+	Thông Tin Mật: là thông tin, tài liệu, dữ liệu được hình thành, phát sinh từ quá trình đàm phán, ký kết và thực hiện Hợp đồng này, bao gồm nhưng không giới hạn thông tin được một Bên cung cấp cho Bên còn lại dưới dạng văn bản, thông điệp dữ liệu điện tử hoặc bất kỳ hình thức khác phù hợp với quy định của pháp luật và thỏa thuận của hai Bên. 
+	Tùy từng loại hình dịch vụ mà Khách hàng sử dụng, theo đặc thù, các khái niệm trên sẽ được giải thích theo quy định sử dụng của loại hình dịch vụ đó. 
 ĐIỀU 2. NỘI DUNG HỢP TÁC
-Hai Bên thống nhất việc hợp tác cho phép Khách hàng sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay, với các hình thức được mô tả trong các Phụ lục đính kèm Hợp đồng này phù hợp với chức năng, nhiệm vụ của các Bên, và quy định pháp luật Việt Nam. 
-Chi tiết việc hợp tác với các điều khoản, điều kiện cụ thể được các Bên thống nhất tại các Phụ lục kèm theo Hợp đồng này. 
-Trong quá trình hợp tác, Bên B là đơn vị cung ứng dịch vụ hợp tác trung gian thanh toán, Bên A là đơn vị cung cấp hàng hóa, dịch vụ. Các Bên phối hợp trên nguyên tắc đảm bảo an toàn, tiện lợi, nhanh chóng.
+	Hai Bên thống nhất việc hợp tác cho phép Khách hàng sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay, với các hình thức được mô tả trong các Phụ lục đính kèm Hợp đồng này phù hợp với chức năng, nhiệm vụ của các Bên, và quy định pháp luật Việt Nam. 
+	Chi tiết việc hợp tác với các điều khoản, điều kiện cụ thể được các Bên thống nhất tại các Phụ lục kèm theo Hợp đồng này. 
+	Trong quá trình hợp tác, Bên B là đơn vị cung ứng dịch vụ hợp tác trung gian thanh toán, Bên A là đơn vị cung cấp hàng hóa, dịch vụ. Các Bên phối hợp trên nguyên tắc đảm bảo an toàn, tiện lợi, nhanh chóng.
 ÐIỀU 3. NGUYÊN TẮC HỢP TÁC
-Việc phối hợp giữa hai Bên trong quá trình cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay tuân thủ theo các nguyên tắc, các quy trình, quy định phối hợp có liên quan được hai Bên thống nhất bằng văn bản cũng như các thay đổi, bổ sung theo từng thời kỳ của hai Bên.
-Trong trường hợp có sự thay đổi, bổ sung của các quy trình, quy định phối hợp của một trong hai Bên thì Bên có thay đổi sẽ thông báo kịp thời cho Bên kia bằng văn bản, và hai Bên phối hợp xử lý để đảm bảo chất lượng dịch vụ cung cấp cho Khách hàng.
-Hai Bên cam kết thực hiện nghiêm túc và đầy đủ các điều khoản trong Hợp đồng này, đồng thời cùng phối hợp xử lý những vấn đề phát sinh (chưa được nêu trong Hợp đồng này) theo quyền và trách nhiệm của mỗi Bên.
-Mỗi Bên đảm bảo các điều kiện để giao kết và thực hiện hợp đồng như sau:
-Đối với Bên B:
-Duy trì và đảm bảo các điều kiện cần thiết để triển khai và cung ứng dịch vụ theo quy định pháp luật và các cam kết tại Hợp đồng và Phụ lục;
-Đảm bảo tính hợp pháp của dịch vụ và các quy trình cung cấp dịch vụ mà Bên B cung ứng cho Bên A;
-Đảm bảo và duy trì hoạt động cung ứng dịch vụ liên tục theo quy định pháp luật.
+	Việc phối hợp giữa hai Bên trong quá trình cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay tuân thủ theo các nguyên tắc, các quy trình, quy định phối hợp có liên quan được hai Bên thống nhất bằng văn bản cũng như các thay đổi, bổ sung theo từng thời kỳ của hai Bên.
+	Trong trường hợp có sự thay đổi, bổ sung của các quy trình, quy định phối hợp của một trong hai Bên thì Bên có thay đổi sẽ thông báo kịp thời cho Bên kia bằng văn bản, và hai Bên phối hợp xử lý để đảm bảo chất lượng dịch vụ cung cấp cho Khách hàng.
+	Hai Bên cam kết thực hiện nghiêm túc và đầy đủ các điều khoản trong Hợp đồng này, đồng thời cùng phối hợp xử lý những vấn đề phát sinh (chưa được nêu trong Hợp đồng này) theo quyền và trách nhiệm của mỗi Bên.
+	Mỗi Bên đảm bảo các điều kiện để giao kết và thực hiện hợp đồng như sau:
+	Đối với Bên B:
+	Duy trì và đảm bảo các điều kiện cần thiết để triển khai và cung ứng dịch vụ theo quy định pháp luật và các cam kết tại Hợp đồng và Phụ lục;
+	Đảm bảo tính hợp pháp của dịch vụ và các quy trình cung cấp dịch vụ mà Bên B cung ứng cho Bên A;
+	Đảm bảo và duy trì hoạt động cung ứng dịch vụ liên tục theo quy định pháp luật.
 Đối với Bên A:
-Duy trì các điều kiện kinh doanh và đảm bảo hoạt động kinh doanh của Bên A liên quan đến việc hợp tác với Bên B tuân thủ quy định pháp luật;
-Đối tượng tích hợp, chấp nhận thanh toán tồn tại, hoạt động phù hợp quy định pháp luật tại mọi thời điểm chấp nhận thanh toán bằng ZaloPay. Mọi thay đổi liên quan phải được thống nhất với Bên B trước khi thực hiện;
-Hàng hóa, dịch vụ chấp nhận thanh toán: Hợp pháp, không vi phạm các quy định pháp luật. Đối với hàng hóa, dịch vụ có nhu cầu tích hợp Dịch vụ hỗ trợ thanh toán ZaloPay thuộc lĩnh vực kinh doanh có điều kiện, Bên A phải thông báo cho Bên B, và được sự chấp thuận bằng văn bản với Bên B trước khi triển khai;
-Tuân thủ các quy định tại Hợp đồng và các Phụ lục cũng như các hướng dẫn, cảnh báo rủi ro trong hoạt động thanh toán do ZION yêu cầu.
+	Duy trì các điều kiện kinh doanh và đảm bảo hoạt động kinh doanh của Bên A liên quan đến việc hợp tác với Bên B tuân thủ quy định pháp luật;
+	Đối tượng tích hợp, chấp nhận thanh toán tồn tại, hoạt động phù hợp quy định pháp luật tại mọi thời điểm chấp nhận thanh toán bằng ZaloPay. Mọi thay đổi liên quan phải được thống nhất với Bên B trước khi thực hiện;
+	Hàng hóa, dịch vụ chấp nhận thanh toán: Hợp pháp, không vi phạm các quy định pháp luật. Đối với hàng hóa, dịch vụ có nhu cầu tích hợp Dịch vụ hỗ trợ thanh toán ZaloPay thuộc lĩnh vực kinh doanh có điều kiện, Bên A phải thông báo cho Bên B, và được sự chấp thuận bằng văn bản với Bên B trước khi triển khai;
+	Tuân thủ các quy định tại Hợp đồng và các Phụ lục cũng như các hướng dẫn, cảnh báo rủi ro trong hoạt động thanh toán do ZION yêu cầu.
 ÐIỀU 4. QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
 Quyền của Bên A:
 Được sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay để Khách hàng có thể thực hiện thanh toán hàng hóa, dịch vụ do Bên A cung cấp.  
-Được nhận phần doanh thu liên quan đến hàng hóa, dịch vụ thanh toán thông qua Dịch vụ hỗ trợ thanh toán ZaloPay. 
+	Được nhận phần doanh thu liên quan đến hàng hóa, dịch vụ thanh toán thông qua Dịch vụ hỗ trợ thanh toán ZaloPay. 
 Được yêu cầu phối hợp với Bên B xử lý những sai sót, vi phạm xảy ra trong quá trình phối hợp giữa hai Bên.
 Nghĩa vụ chung của Bên A:
 Tự chịu trách nhiệm toàn bộ chi phí đầu tư cơ sở hạ tầng, đường truyền và các hệ thống kỹ thuật cần thiết cho việc thực hiện Hợp đồng này. 
@@ -1684,7 +1947,7 @@ Thông báo đến Bên B mọi thay đổi với: quyền sở hữu, địa ch
 Không sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay để thực hiện: (i) các hành vi rửa tiền, lừa đảo, đưa và nhận hối hộ, (ii) mua bán, phân phối các hàng hóa, dịch vụ bị cấm theo quy định của pháp luật Việt Nam và/hoặc vi phạm quyền sở hữu trí tuệ của Bên thứ ba, và (iii) các hành vi khác bị cấm và/hoặc vi phạm đạo đức theo quy định của pháp luật Việt Nam. 
 Không được thu thêm bất kỳ loại phí đối với Khách hàng khi thanh toán thông qua ZaloPay dưới bất kỳ hình thức nào. Nếu Bên A không tuân thủ cam kết này, Bên B tùy thuộc vào mức độ vi phạm có quyền (i) tạm ngừng việc kết nối, thanh toán đến khi Bên A hoàn tất việc khắc phục hậu quả liên quan, bao gồm việc đảm bảo quyền lợi của Khách hàng; hoặc (ii) chấm dứt Hợp đồng và yêu cầu Bên A bồi thường thiệt hại cho Khách hàng. 
 Không được sao chụp, lưu trữ, lấy thông tin thẻ, tài khoản ngân hàng, sử dụng các biện pháp can thiệp vào quá trình nhập thông tin thẻ, hay bất kỳ biện pháp nào khác để có được thông tin thẻ; không yêu cầu Khách hàng cung cấp bất kỳ thông tin tài chính cá nhân nào, bao gồm nhưng không giới hạn: tài khoản ngân hàng, số thẻ tín dụng, mật khẩu đăng nhập vào tài khoản ngân hàng, mật khẩu đăng nhập vào ZaloPay, trừ trường hợp duy nhất nhằm một mục đích Bên A hoàn trả lại tiền cho Khách hàng, Bên A có thể yêu cầu Khách hàng cung cấp số tài khoản để chuyển tiền hoàn trả, nhưng phải chịu trách nhiệm bảo mật thông tin này theo quy định của Hợp đồng này và các quy định của pháp luật liên quan. 
-Lưu trữ toàn bộ các chứng từ, hóa đơn bán hàng/cung cấp dịch vụ hoặc phiếu xuất kho, phiếu giao nhận có chữ ký của Khách hàng, vận đơn của hãng vận chuyển hoặc màn hình trạng thái kết quả giao dịch của hệ thống Bên A trong thời hạn theo quy định của pháp luật để đối chiếu khi có các khiếu nại, khiếu kiện của Khách hàng hoặc khi có thanh tra, kiểm tra của Cơ quan Nhà nước có thẩm quyền. 
+	Lưu trữ toàn bộ các chứng từ, hóa đơn bán hàng/cung cấp dịch vụ hoặc phiếu xuất kho, phiếu giao nhận có chữ ký của Khách hàng, vận đơn của hãng vận chuyển hoặc màn hình trạng thái kết quả giao dịch của hệ thống Bên A trong thời hạn theo quy định của pháp luật để đối chiếu khi có các khiếu nại, khiếu kiện của Khách hàng hoặc khi có thanh tra, kiểm tra của Cơ quan Nhà nước có thẩm quyền. 
 Kiểm tra lại toàn bộ thông tin liên quan đến Giao dịch thanh toán thành công trước khi thực hiện nghĩa vụ giao hàng hóa, dịch vụ cho Khách hàng. Trường hợp có bất kỳ sai sót nào, Bên A phải ngay lập tức thông báo cho Khách hàng và Bên B để phối hợp xử lý.
 Xây dựng các quy trình nghiệp vụ cần thiết để hai Bên triển khai Dịch vụ hỗ trợ thanh toán ZaloPay cho việc kinh doanh hàng hóa, dịch vụ của Bên A.
 Áp dụng các biện pháp nghiệp vụ đảm bảo an toàn số liệu, chịu trách nhiệm bảo mật hệ thống của mình để tránh hiện tượng truy cập trái phép vào mạng lưới của một Bên thông qua hệ thống của Bên kia và ngược lại.
@@ -1739,39 +2002,39 @@ Tạo điều kiện tối đa để Khách hàng tiếp cận và sử dụng d
 Hai Bên cam kết chủ động và phối hợp với Bên còn lại thực hiện các hoạt động truyền thông, quảng cáo về Dịch vụ hợp tác. Tất cả các thỏa thuận được ký kết, xúc tiến thương mại và các ấn phẩm quảng cáo truyền thông liên quan đến Dịch vụ hỗ trợ thanh toán ZaloPay hoặc Hợp đồng này đều không được gây ảnh hưởng không tốt đến hai Bên. 
 Mỗi Bên tự chịu trách nhiệm đối với các chi phí truyền thông tại khoản 6.1 Điều này và chi phí khác do mình thực hiện, nếu không có thỏa thuận khác.
 ĐIỀU 7. PHÍ DỊCH VỤ HỖ TRỢ THANH TOÁN
-Bên A sẽ thanh toán cho Bên B Phí dịch vụ theo từng Dịch vụ hợp tác và được thể hiện trong các Phụ lục đính kèm Hợp đồng này.
-Điều chỉnh Phí dịch vụ:
-Trong quá trình thực hiện Hợp đồng này, tùy theo từng giai đoạn triển khai cụ thể, mức Phí dịch vụ sẽ được điều chỉnh bởi Bên B bằng cách gửi thông báo cho Bên A. Trong thời hạn 07 (bảy) ngày làm việc kể từ ngày bên A nhận được thông báo của Bên B (tính theo kết quả báo phát của bưu điện đến địa chỉ mà Bên A cung cấp), nếu Bên A không có bất kỳ phản hồi nào bằng văn bản hoặc email đến đầu mối liên hệ của Bên B và vẫn tiếp tục sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay của Bên B, thì xem như chấp nhận việc thay đổi này, và mức phí dịch vụ mới sẽ được áp dụng kể từ ngày kết thúc thời hạn 07 (bảy) ngày làm việc nêu trên.
-Các quy định cụ thể về thanh toán Phí dịch vụ được hai Bên thỏa thuận tại các Phụ lục đính kèm của Hợp đồng này.
+	Bên A sẽ thanh toán cho Bên B Phí dịch vụ theo từng Dịch vụ hợp tác và được thể hiện trong các Phụ lục đính kèm Hợp đồng này.
+	Điều chỉnh Phí dịch vụ:
+	Trong quá trình thực hiện Hợp đồng này, tùy theo từng giai đoạn triển khai cụ thể, mức Phí dịch vụ sẽ được điều chỉnh bởi Bên B bằng cách gửi thông báo cho Bên A. Trong thời hạn 07 (bảy) ngày làm việc kể từ ngày bên A nhận được thông báo của Bên B (tính theo kết quả báo phát của bưu điện đến địa chỉ mà Bên A cung cấp), nếu Bên A không có bất kỳ phản hồi nào bằng văn bản hoặc email đến đầu mối liên hệ của Bên B và vẫn tiếp tục sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay của Bên B, thì xem như chấp nhận việc thay đổi này, và mức phí dịch vụ mới sẽ được áp dụng kể từ ngày kết thúc thời hạn 07 (bảy) ngày làm việc nêu trên.
+	Các quy định cụ thể về thanh toán Phí dịch vụ được hai Bên thỏa thuận tại các Phụ lục đính kèm của Hợp đồng này.
 ĐIỀU 8. BẢN QUYỀN, QUYỀN SỞ HỮU TRÍ TUỆ VÀ BẢO MẬT THÔNG TIN
-Tên hiệu, logo, trang web, phần mềm, tài liệu và cơ chế bảo mật của mỗi Bên là tài sản độc quyền của Bên đó hoặc Bên đó được sử dụng hợp pháp và được bảo vệ bởi mọi quy định luật pháp hiện có đối với tên, thương hiệu, phần mềm, quy trình kinh doanh, bản quyền, quyền sở hữu trí tuệ và bằng sáng chế đã đăng ký.
-Mỗi Bên được sử dụng có giới hạn tên và logo của Bên còn lại nhằm quảng bá để Khách hàng nhận biết và sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay tuân theo các quy định trong Hợp đồng này. Việc sử dụng tên và logo của mỗi Bên không được vi phạm các quy định của pháp luật, không được làm tổn hại đến uy tín, hình ảnh của Bên còn lại và chỉ nhằm mục đích phục vụ cho các công việc được quy định trong Hợp đồng này.
-Các Bên cam kết không tiết lộ thông tin trực tiếp hay gián tiếp về các phần mềm, quy trình kỹ thuật, nghiệp vụ liên quan đến Dịch vụ hỗ trợ thanh toán ZaloPay; một phần hay toàn bộ các nội dung của Hợp đồng này cũng như các Phụ lục và Thỏa thuận bổ sung của Hợp đồng; thông tin về hoạt động kinh doanh và các thông tin liên quan đến Khách hàng sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay cho bất kỳ một Bên thứ ba nào, trừ trường hợp theo yêu cầu của cơ quan Nhà nước có thẩm quyền hoặc được sự đồng ý bằng văn bản của Bên còn lại.
-Bất kỳ thiệt hại nào do việc tiết lộ thông tin không được phép, làm tổn hại tới Bên còn lại, thì Bên tiết lộ thông tin hoàn toàn chịu trách nhiệm bồi thường kể cả chi phí khắc phục hành vi vi phạm gây ra.
-Hai Bên có nghĩa vụ bảo mật đối với các thông tin mà hai Bên tiết lộ cho nhau trong suốt thời gian hiệu lực của Hợp đồng và sau khi Hợp đồng này hết hiệu lực, trừ trường hợp thông tin được tiết lộ theo quy định pháp luật hoặc có sự đồng ý của cả hai Bên hoặc của Bên Tiết Lộ. 
+	Tên hiệu, logo, trang web, phần mềm, tài liệu và cơ chế bảo mật của mỗi Bên là tài sản độc quyền của Bên đó hoặc Bên đó được sử dụng hợp pháp và được bảo vệ bởi mọi quy định luật pháp hiện có đối với tên, thương hiệu, phần mềm, quy trình kinh doanh, bản quyền, quyền sở hữu trí tuệ và bằng sáng chế đã đăng ký.
+	Mỗi Bên được sử dụng có giới hạn tên và logo của Bên còn lại nhằm quảng bá để Khách hàng nhận biết và sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay tuân theo các quy định trong Hợp đồng này. Việc sử dụng tên và logo của mỗi Bên không được vi phạm các quy định của pháp luật, không được làm tổn hại đến uy tín, hình ảnh của Bên còn lại và chỉ nhằm mục đích phục vụ cho các công việc được quy định trong Hợp đồng này.
+	Các Bên cam kết không tiết lộ thông tin trực tiếp hay gián tiếp về các phần mềm, quy trình kỹ thuật, nghiệp vụ liên quan đến Dịch vụ hỗ trợ thanh toán ZaloPay; một phần hay toàn bộ các nội dung của Hợp đồng này cũng như các Phụ lục và Thỏa thuận bổ sung của Hợp đồng; thông tin về hoạt động kinh doanh và các thông tin liên quan đến Khách hàng sử dụng Dịch vụ hỗ trợ thanh toán ZaloPay cho bất kỳ một Bên thứ ba nào, trừ trường hợp theo yêu cầu của cơ quan Nhà nước có thẩm quyền hoặc được sự đồng ý bằng văn bản của Bên còn lại.
+	Bất kỳ thiệt hại nào do việc tiết lộ thông tin không được phép, làm tổn hại tới Bên còn lại, thì Bên tiết lộ thông tin hoàn toàn chịu trách nhiệm bồi thường kể cả chi phí khắc phục hành vi vi phạm gây ra.
+	Hai Bên có nghĩa vụ bảo mật đối với các thông tin mà hai Bên tiết lộ cho nhau trong suốt thời gian hiệu lực của Hợp đồng và sau khi Hợp đồng này hết hiệu lực, trừ trường hợp thông tin được tiết lộ theo quy định pháp luật hoặc có sự đồng ý của cả hai Bên hoặc của Bên Tiết Lộ. 
 ĐIỀU 9. XỬ LÝ VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
-Một Bên vi phạm Hợp đồng, đã được Bên còn lại yêu cầu khắc phục trong một thời gian cụ thể (bằng văn bản hoặc email) mà không khắc phục được, hoặc vi phạm không thể khắc phục, hoặc nguy cơ rủi ro đe dọa hoạt động cung ứng dịch vụ của Bên bị vi phạm hoặc theo yêu cầu của cơ quan có thẩm quyền thì Bên bị vi phạm có quyền tạm ngưng thực hiện Hợp đồng.
-Bên vi phạm phải bồi thường cho Bên bị vi phạm toàn bộ các thiệt hại, tổn thất và các khoản phí phát sinh (bao gồm phí theo Hợp đồng, phí luật sư), chi phí tòa án, các khoản phạt từ cơ quan có thẩm quyền, đối tác, chi phí khắc phục phát sinh trực tiếp từ hoặc có liên quan đến hành vi vi phạm, nhân viên, nhà thầu của Bên đó. 
-Ngoài ra, trong các trường hợp đòi bồi hoàn, Bên A đảm bảo thanh toán cho Bên B toàn bộ số tiền Đòi Bồi Hoàn, các khoản phí, phạt do Tổ chức thẻ quốc tế thu, cùng các khoản phí phát sinh khác (nếu có), cho bất cứ trách nhiệm nào của Bên B đối với Bên thứ ba (phát sinh từ hành vi vi phạm của Bên A), các tổn thất khác (nếu có). Trường hợp này, Bên B có quyền ngay lập tức chấm dứt mọi thỏa thuận với Bên A, tạm dừng cung ứng Dịch vụ cho Bên A, giữ lại các khoản thanh toán, tiến hành các biện pháp yêu cầu cơ quan có thẩm quyền xử lý theo quy định pháp luật, và có quyền sử dụng các biện pháp truyền thông liên quan để bảo vệ quyền lợi của Bên B và Khách hàng. 
-Nếu phát sinh trách nhiệm bồi thường thiệt hại, thanh toán không đầy đủ, Bên bị thiệt hại có quyền xác định khoản nợ của Bên gây thiệt hại hoặc khấu trừ vào khoản thanh toán tiếp theo hoặc Bên gây thiệt hại nộp tiền mặt, thanh toán chuyển khoản cho Bên bị thiệt hại.
-Trường hợp chấm dứt các hoạt động hợp tác giữa hai Bên, Bên vi phạm vẫn phải hoàn tất nghĩa vụ bồi thường thiệt hại và thanh toán cho Bên bị vi phạm, các chi phí phát sinh trong quá trình xử lý vi phạm Hợp đồng và hoạt động hợp tác giữa hai Bên. 
+	Một Bên vi phạm Hợp đồng, đã được Bên còn lại yêu cầu khắc phục trong một thời gian cụ thể (bằng văn bản hoặc email) mà không khắc phục được, hoặc vi phạm không thể khắc phục, hoặc nguy cơ rủi ro đe dọa hoạt động cung ứng dịch vụ của Bên bị vi phạm hoặc theo yêu cầu của cơ quan có thẩm quyền thì Bên bị vi phạm có quyền tạm ngưng thực hiện Hợp đồng.
+	Bên vi phạm phải bồi thường cho Bên bị vi phạm toàn bộ các thiệt hại, tổn thất và các khoản phí phát sinh (bao gồm phí theo Hợp đồng, phí luật sư), chi phí tòa án, các khoản phạt từ cơ quan có thẩm quyền, đối tác, chi phí khắc phục phát sinh trực tiếp từ hoặc có liên quan đến hành vi vi phạm, nhân viên, nhà thầu của Bên đó. 
+	Ngoài ra, trong các trường hợp đòi bồi hoàn, Bên A đảm bảo thanh toán cho Bên B toàn bộ số tiền Đòi Bồi Hoàn, các khoản phí, phạt do Tổ chức thẻ quốc tế thu, cùng các khoản phí phát sinh khác (nếu có), cho bất cứ trách nhiệm nào của Bên B đối với Bên thứ ba (phát sinh từ hành vi vi phạm của Bên A), các tổn thất khác (nếu có). Trường hợp này, Bên B có quyền ngay lập tức chấm dứt mọi thỏa thuận với Bên A, tạm dừng cung ứng Dịch vụ cho Bên A, giữ lại các khoản thanh toán, tiến hành các biện pháp yêu cầu cơ quan có thẩm quyền xử lý theo quy định pháp luật, và có quyền sử dụng các biện pháp truyền thông liên quan để bảo vệ quyền lợi của Bên B và Khách hàng. 
+	Nếu phát sinh trách nhiệm bồi thường thiệt hại, thanh toán không đầy đủ, Bên bị thiệt hại có quyền xác định khoản nợ của Bên gây thiệt hại hoặc khấu trừ vào khoản thanh toán tiếp theo hoặc Bên gây thiệt hại nộp tiền mặt, thanh toán chuyển khoản cho Bên bị thiệt hại.
+	Trường hợp chấm dứt các hoạt động hợp tác giữa hai Bên, Bên vi phạm vẫn phải hoàn tất nghĩa vụ bồi thường thiệt hại và thanh toán cho Bên bị vi phạm, các chi phí phát sinh trong quá trình xử lý vi phạm Hợp đồng và hoạt động hợp tác giữa hai Bên. 
 ĐIỀU 10. NGÀY HIỆU LỰC, GIA HẠN VÀ CHẤM DỨT HỢP ÐỒNG
 Hợp đồng này bắt đầu có hiệu lực vào Ngày Hiệu Lực và có hiệu lực trong khoảng thời gian 01 (một) năm gọi là “Kỳ hạn ban đầu”.
 Hợp đồng sẽ được tự động gia hạn thêm theo từng kỳ, mỗi kỳ 01 (một) năm tiếp theo, bắt đầu từ khi kết thúc Kỳ hạn ban đầu hoặc kỳ gia hạn tiếp theo nào. Các kỳ gia hạn tự động này sẽ được duy trì trừ khi có thông báo khác đi bằng văn bản do một trong hai Bên đưa ra, tối thiểu là 30 (ba mươi) ngày làm việc trước khi kết thúc kỳ hiện tại. Kỳ ban đầu và các kỳ gia hạn tiếp theo sau đây sẽ được gọi là “Thời hạn” của Hợp đồng. Các Bên sẽ thỏa thuận lại các điều khoản của Hợp đồng này vào mỗi kỳ gia hạn.
 Khi chấm dứt Hợp đồng, các nghĩa vụ có tính chất tiếp tục, cũng như các nghĩa vụ thanh toán phải thực hiện sẽ vẫn có hiệu lực tiếp tục ràng buộc hai Bên. Mọi phần mềm và dữ liệu thuộc quyền sở hữu của Bên nào sẽ được Bên kia trao trả lại cho Bên sở hữu và mọi bản sao của những phần mềm và dữ liệu đó sẽ phải được hủy, trừ trường hợp bản ghi dữ liệu phải được lưu giữ lại theo quy định của luật pháp.
 Một Bên muốn chấm dứt trước thời hạn Hợp đồng, phải thông báo cho Bên còn lại bằng văn bản trước 30 (ba mươi) ngày. 
 Các trường hợp chấm dứt Hợp đồng: 
-Theo sự thỏa thuận của hai Bên; 
-Một Bên không đáp ứng điều kiện hợp tác tại Điều 3.4 của Hợp đồng này;
-Một hoặc các Bên chấm dứt hoạt động, giải thể, phá sản; 
-Các trường hợp khác theo quy định tại Hợp đồng.
-Xử lý chấm dứt Hợp đồng. 
-Việc chấm dứt Hợp đồng không đồng nghĩa việc chấm dứt nghĩa vụ đối với Bên còn lại/ Bên thứ ba mà một Bên chưa hoàn thành theo Hợp đồng. Bên vi phạm có trách nhiệm bồi thường toàn bộ thiệt hại gây ra cho Bên bị vi phạm (nếu có).
-Trong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng chấm dứt, hai Bên phải tiến hành đối soát số liệu và thực hiện toàn bộ các nghĩa vụ còn lại đối với nhau. 
-Mọi trường hợp, Bên A vẫn phải chịu trách nhiệm với Khách hàng về hàng hóa, dịch vụ đã, đang và sẽ cung cấp cho Khách hàng theo các quy định bán hàng của Bên A và pháp luật hiện hành.  
-Nếu vì bất kỳ lý do gì, một Bên không có thiện chí trong hoạt động đối soát, thanh lý Hợp đồng, dù đã được tiến hành theo đúng quy định, Bên còn lại có thể căn cứ vào số liệu mình làm cơ sở lập Biên bản thanh lý Hợp đồng gửi đến Bên còn lại. 
-Nếu trong vòng 10 (mười) ngày kể từ ngày gửi Biên bản thanh lý (theo đường bưu điện) mà Bên được nhận không phản hồi thì mặc nhiên các Bên được hiểu là đã chấp nhận Biên bản thanh lý, và Bên đó từ bỏ việc tiếp nhận các quyền liên quan; đối với khoản thanh toán còn tồn đọng sẽ được coi là công nợ.
-Khi chấm dứt Hợp đồng này, hai Bên trả lại cho nhau tất cả các thông tin bảo mật liên quan (nếu có). Đối với các thông tin không thể trả lại, Bên nắm giữ có trách nhiệm thực hiện nghĩa vụ bảo mật nêu tại Hợp đồng này, nếu vi phạm gây thiệt hại cho Bên còn lại thì phải bồi thường toàn bộ thiệt hại theo quy định của pháp luật.
+	Theo sự thỏa thuận của hai Bên; 
+	Một Bên không đáp ứng điều kiện hợp tác tại Điều 3.4 của Hợp đồng này;
+	Một hoặc các Bên chấm dứt hoạt động, giải thể, phá sản; 
+	Các trường hợp khác theo quy định tại Hợp đồng.
+	Xử lý chấm dứt Hợp đồng. 
+	Việc chấm dứt Hợp đồng không đồng nghĩa việc chấm dứt nghĩa vụ đối với Bên còn lại/ Bên thứ ba mà một Bên chưa hoàn thành theo Hợp đồng. Bên vi phạm có trách nhiệm bồi thường toàn bộ thiệt hại gây ra cho Bên bị vi phạm (nếu có).
+	Trong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng chấm dứt, hai Bên phải tiến hành đối soát số liệu và thực hiện toàn bộ các nghĩa vụ còn lại đối với nhau. 
+	Mọi trường hợp, Bên A vẫn phải chịu trách nhiệm với Khách hàng về hàng hóa, dịch vụ đã, đang và sẽ cung cấp cho Khách hàng theo các quy định bán hàng của Bên A và pháp luật hiện hành.  
+	Nếu vì bất kỳ lý do gì, một Bên không có thiện chí trong hoạt động đối soát, thanh lý Hợp đồng, dù đã được tiến hành theo đúng quy định, Bên còn lại có thể căn cứ vào số liệu mình làm cơ sở lập Biên bản thanh lý Hợp đồng gửi đến Bên còn lại. 
+	Nếu trong vòng 10 (mười) ngày kể từ ngày gửi Biên bản thanh lý (theo đường bưu điện) mà Bên được nhận không phản hồi thì mặc nhiên các Bên được hiểu là đã chấp nhận Biên bản thanh lý, và Bên đó từ bỏ việc tiếp nhận các quyền liên quan; đối với khoản thanh toán còn tồn đọng sẽ được coi là công nợ.
+	Khi chấm dứt Hợp đồng này, hai Bên trả lại cho nhau tất cả các thông tin bảo mật liên quan (nếu có). Đối với các thông tin không thể trả lại, Bên nắm giữ có trách nhiệm thực hiện nghĩa vụ bảo mật nêu tại Hợp đồng này, nếu vi phạm gây thiệt hại cho Bên còn lại thì phải bồi thường toàn bộ thiệt hại theo quy định của pháp luật.
 ĐIỀU 11. QUY ĐỊNH CHUNG
 Hợp đồng toàn vẹn
 Hợp đồng này bao gồm toàn bộ những thỏa thuận của hai Bên và thay thế cho mọi thỏa thuận đã có trước đây giữa hai Bên nếu không có quy định khác.
@@ -1782,22 +2045,26 @@ Việc sửa đổi, bổ sung các quy định về thông tin Doanh nghiệp t
 Mọi tranh chấp phát sinh từ Hợp đồng này sẽ được giải quyết trước hết bằng thương lượng và hòa giải thiện chí. Trường hợp hòa giải không thành trong vòng 60 (sáu mươi) ngày kể từ ngày phát sinh tranh chấp, mọi tranh chấp phát sinh từ hoặc liên quan đến hợp đồng này sẽ được giải quyết bằng trọng tài tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. 
 Trong quá trình thực hiện, các Bên thừa nhận các giá trị pháp lý của các tài liệu dưới dạng thông điệp dữ liệu điện tử có giá trị pháp lý ràng buộc với các Bên như các tài liệu truyền thống.
 Bất Khả Kháng
-Sự Kiện Bất Khả Kháng là các sự kiện xảy ra một cách khách quan không thể lường trước được, mặc dù đã áp dụng mọi biện pháp cần thiết mà khả năng cho phép, bao gồm nhưng không giới hạn ở các sự kiện như thiên tai, hoả hoạn, lũ lụt, động đất, tai nạn, thảm hoạ, hạn chế về dịch bệnh, nhiễm hạt nhân hoặc phóng xạ, chiến tranh, nội chiến, khởi nghĩa, đình công hoặc bạo loạn, thì Bên bị ảnh hưởng sẽ phải nhanh chóng thông báo cho Bên kia bằng văn bản về việc không thực hiện được nghĩa vụ của mình do Sự Kiện Bất Khả Kháng, và sẽ, trong thời gian 15 (mười lăm) ngày kể từ ngày xảy ra Sự Kiện Bất Khả Kháng, chuyển trực tiếp bằng thư bảo đảm cho Bên kia các bằng chứng về việc xảy ra Sự Kiện Bất Khả Kháng và khoảng thời gian xảy ra Sự Kiện Bất Khả Kháng đó. 
-Bên thông báo bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng có trách nhiệm phải thực hiện mọi biện pháp để hạn chế tối đa sự ảnh hưởng của Sự Kiện Bất Khả Kháng đó. 
-Nếu Sự Kiện Bất Khả Kháng kéo dài hơn 30 (ba mươi) ngày, mỗi Bên đều có quyền chấm dứt Hợp Đồng này mà không phải bồi thường cho Bên kia bất cứ thiệt hại trực tiếp nào phát sinh từ Sự Kiện Bất Khả Kháng trừ trường hợp Bên bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng đã không thực hiện đầy đủ các hoạt động tại điểm a Khoản này.
+	Sự Kiện Bất Khả Kháng là các sự kiện xảy ra một cách khách quan không thể lường trước được, mặc dù đã áp dụng mọi biện pháp cần thiết mà khả năng cho phép, bao gồm nhưng không giới hạn ở các sự kiện như thiên tai, hoả hoạn, lũ lụt, động đất, tai nạn, thảm hoạ, hạn chế về dịch bệnh, nhiễm hạt nhân hoặc phóng xạ, chiến tranh, nội chiến, khởi nghĩa, đình công hoặc bạo loạn, thì Bên bị ảnh hưởng sẽ phải nhanh chóng thông báo cho Bên kia bằng văn bản về việc không thực hiện được nghĩa vụ của mình do Sự Kiện Bất Khả Kháng, và sẽ, trong thời gian 15 (mười lăm) ngày kể từ ngày xảy ra Sự Kiện Bất Khả Kháng, chuyển trực tiếp bằng thư bảo đảm cho Bên kia các bằng chứng về việc xảy ra Sự Kiện Bất Khả Kháng và khoảng thời gian xảy ra Sự Kiện Bất Khả Kháng đó. 
+	Bên thông báo bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng có trách nhiệm phải thực hiện mọi biện pháp để hạn chế tối đa sự ảnh hưởng của Sự Kiện Bất Khả Kháng đó. 
+	Nếu Sự Kiện Bất Khả Kháng kéo dài hơn 30 (ba mươi) ngày, mỗi Bên đều có quyền chấm dứt Hợp Đồng này mà không phải bồi thường cho Bên kia bất cứ thiệt hại trực tiếp nào phát sinh từ Sự Kiện Bất Khả Kháng trừ trường hợp Bên bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng đã không thực hiện đầy đủ các hoạt động tại điểm a Khoản này.
 Hai Bên đồng ý rằng (các) điều khoản trong Hợp đồng có giá trị độc lập với nhau trừ trường hợp rõ ràng được dẫn chiếu một cách chính xác và đầy đủ. Việc một hoặc một số điều khoản bị vô hiệu sẽ không làm ảnh hưởng đến việc thực thi các điều khoản khác trong Hợp đồng. Trường hợp này hai Bên sẽ phối hợp điều chỉnh phù hợp với các quy định của pháp luật để thực thi.
 ĐIỀU 12.  KÝ HỢP ĐỒNG
 Việc ký kết Hợp đồng được thực hiện bởi người đại diện có thẩm quyền của mỗi Bên hoặc người đại diện được ủy quyền hợp pháp của mỗi Bên.
 Hợp đồng được lập thành 02 (hai) bản gốc bằng tiếng Việt, mỗi Bên giữ 01 (một) bản có giá trị pháp lý như nhau. 
   
-
+ĐẠI DIỆN BÊN A
+…………………………
+………………………
+ĐẠI DIỆN BÊN B
+Chủ tịch Hội đồng quản trị kiêm Giám đốc
+……………………
 PHỤ LỤC 1 
 HỢP TÁC CHẤP NHẬN THANH TOÁN ZALOPAY 
-	(Đính kèm Hợp Đồng số ….……………..……/2021/ZALOPAY/ZION-………………........ 
-ký ngày )
-
+		(Đính kèm Hợp Đồng số ….……………..……/2021/ZALOPAY/ZION-………………........ 
+ký ngày …/…/……)
 Căn cứ:
-Hợp đồng số /2021/ZALOPAY/ZION - ……… ký ngày  giữa (Bên A) và Công ty Cổ phần ZION (Bên B);
+Hợp đồng số ……/2021/ZALOPAY/ZION - ……… ký ngày …/…/…… giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B);
 Căn cứ khả năng và nhu cầu của hai Bên; 
 Phụ lục này được lập và ký ngày………………………….. để triển khai Dịch vụ hỗ trợ thanh toán ZaloPay với các nội dung như sau: 
 ĐIỀU 1. GIẢI THÍCH TỪ NGỮ
@@ -1808,7 +2075,7 @@ Phí dịch vụ: Là mức phí mà Bên B và Bên A thống nhất trên cơ 
 Việc xác định giá trị, số lượng giao dịch thanh toán thành công được xác định trên cơ sở hệ thống ghi nhận của Bên B và có thông báo cho Bên A qua hệ thống tín hiệu tích hợp dịch vụ hoặc email, điện thoại đến đầu mối liên hệ được chỉ định của Bên A.  
 ĐIỀU 2. PHẠM VI TÍCH HỢP KỸ THUẬT, CHẤP NHẬN THANH TOÁN
 Bên A và Bên B cùng triển khai tích hợp dịch vụ cho phép Khách hàng của Bên A có thể thanh toán hàng hóa, dịch vụ cho Bên A thông qua dịch vụ ZaloPay.
-Trong đó, hai Bên sẽ tích hợp thanh toán hàng hóa, dịch vụ tại website: ....................hoặc ứng dụng của Bên A.
+Trong đó, hai Bên sẽ tích hợp thanh toán hàng hóa, dịch vụ tại website: ....................hoặc ứng dụng .................của Bên A.
 Loại hàng hóa, dịch vụ cung cấp cho khách hàng: ………
 Trường hợp Bên A mở rộng đối tượng tích hợp hoặc cung cấp sản phẩm dịch vụ trên đối tượng tích hợp thuộc lĩnh vực kinh doanh có điều kiện, Bên A phải thông báo cho Bên B và được Bên B chấp thuận bằng văn bản trước khi triển khai.
 Thông tin đối tượng tích hợp được Bên A cung cấp kèm theo Phụ lục này. 
@@ -1822,8 +2089,28 @@ Trong quá trình thực hiện, nếu Bên B có sự thay đổi về hồ sơ
 ĐIỀU 4: PHÍ DỊCH VỤ
 Quy định mức phí dịch vụ 
 Bên A sẽ thanh toán cho Bên B Phí dịch vụ theo nội dung hợp tác đã nêu tại Điều 2 của Phụ lục này, cụ thể như sau:
-
-
+STT
+Loại phí
+Mức thu 
+(chưa bao gồm VAT)
+……….. App
+Áp dụng cho cả 03 nguồn tiền là: số dư ví, thẻ nội địa và thẻ quốc tế.
+1
+Phí dịch vụ, bao gồm:
+ 
+- Phí hỗ trợ dịch vụ
+1%/ giá trị giao dịch
+- Phí xử lý giao dịch
+Miễn phí
+2
+Phí xử lý hoàn trả
+1.000 VNĐ/ giao dịch
+3
+Hoàn phí giao dịch thanh toán thành công cho đơn hàng hoàn trả
+Hoàn lại
+Ghi chú:
+-          Thẻ nội địa là thẻ có BIN do Ngân hàng Nhà nước Việt Nam cấp.
+-          Thẻ quốc tế là thẻ có BIN do các Tổ chức thẻ quốc tế cấp.
 Quy định về phí
 Trừ trường hợp các Bên có thỏa thuận khác, thời điểm hiệu lực của các loại phí là thời điểm phát sinh giao dịch đầu tiên. 
 Phí dịch vụ được tính trên giá trị giao dịch thanh toán thành công theo số liệu ghi nhận của Bên B và được cấn trừ vào khoản phải trả trước khi Bên B thanh toán doanh thu cho Bên A.
@@ -1833,15 +2120,17 @@ Phí dịch vụ được áp dụng theo từng đối tượng tích hợp, ho
 Bên B sẽ xuất hóa đơn tài chính hợp lệ đối với khoản phí phát sinh từ giao dịch thu từ Bên A theo quy định tại Điều này.
 Kỳ tính phí dịch vụ: từ 00 giờ 00 phút 00 giây ngày đầu tiên của tháng đến 23 giờ 59 phút 59 giây ngày cuối cùng của tháng theo năm dương lịch.
 ĐIỀU 5. ĐIỀU KHOẢN THI HÀNH
-Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số /2025/................../ZION  ký ngày ................... tháng ................ năm .............  giữa ...................(Bên A) và Công ty Cổ phần ................... (Bên B).
-Phụ lục này được lập thành 02 (hai) bản chính bằng tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản gốc.
-
-
-
+Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số …………………/2025/................../ZION -……............... ký ngày ................... tháng ................ năm .............  giữa ...................(Bên A) và Công ty Cổ phần ................... (Bên B).
+	Phụ lục này được lập thành 02 (hai) bản chính bằng tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản gốc.
+ĐẠI DIỆN BÊN A
+…………………………
+…………………………
+ĐẠI DIỆN BÊN B
+            Chủ tịch Hội đồng quản trị kiêm Giám đốc
+TRƯƠNG THỊ THANH
 PHỤ LỤC 2
-	QUI TRÌNH ĐỐI SOÁT VÀ THANH QUYẾT TOÁN	
-(Đính kèm Hợp Đồng số /2021/…………../…………….. - ………  ký ngày )
-
+			QUI TRÌNH ĐỐI SOÁT VÀ THANH QUYẾT TOÁN	
+(Đính kèm Hợp Đồng số ….………..……..……/2021/…………../…………….. - ………  ký ngày …/…/……)
 ĐIỀU 1. ĐỐI SOÁT
 Quy định chung
 Bên A đăng ký tài khoản và mật khẩu. Sau khi được Bên B duyệt tài khoản, Bên A có quyền truy cập công cụ đối soát với các tính năng tra soát giao dịch, kiểm tra thanh toán và các chức năng liên quan theo thực tế triển khai và hướng dẫn tại https://....................vn; 
@@ -1868,33 +2157,187 @@ Bên B sẽ thanh toán cho Bên A dựa trên kết quả ghi nhận hàng ngà
 Trường hợp phát sinh chênh lệch khi Bên A kiểm tra số liệu hàng ngày nhưng chưa xử lý xong trước thời điểm thanh toán Bên B sẽ chuyển khoản thanh toán theo số liệu gốc Bên B ghi nhận. Các chênh lệch sau khi hai Bên xác nhận chính xác sẽ được thanh toán cấn trừ hoặc bổ sung vào đợt thanh toán tiếp theo liền kề. 
 Bên B thanh toán cho Bên A theo phương thức sau: 
 Quy định thanh toán Thứ 2 & Thứ 5:
-
-
+Quy định 
+Thời điểm thanh toán
+Số tiền thanh toán sau khi đã cấn trừ (1) giao dịch hoàn tiền, (2) phí dịch vụ, (3) công nợ (nếu có) từ 5.000.000 VNĐ trở lên.
+Thanh toán theo kỳ thanh toán tuần như sau:  
+Thứ Hai hàng tuần: chuyển khoản thanh toán cho số tiền phát sinh từ thứ Năm đến Chủ Nhật trước đó liền kề;
+Thứ Năm hàng tuần: chuyển khoản thanh toán cho số tiền phát sinh từ thứ Hai đến thứ Tư trước đó liền kề.
+Nếu ngày thanh toán không phải là ngày làm việc thì sẽ được thực hiện vào ngày làm việc tiếp theo. 
+Số tiền thanh toán sau khi đã cấn trừ (1) giao dịch hoàn tiền, (2) phí dịch vụ, (3) công nợ (nếu có) nhỏ hơn 5.000.000 VNĐ
+Bên B sẽ cộng dồn số tiền này vào đợt thanh toán tiếp theo – đợt thanh toán mà số tiền thanh toán từ 5.000.000 VNĐ
 Nếu 3 tháng liên tiếp mà doanh số bình quân mỗi tháng thanh toán qua ZaloPay của Bên A thấp hơn 5.000.000 VNĐ (năm triệu đồng) thì Bên B có quyền yêu cầu Bên A khắc phục tình trạng trong thời hạn 30 (ba mươi) ngày làm việc. Nếu hết thời hạn khắc phục mà Bên A vẫn không cải thiện được tình hình thì Bên B có quyền đơn phương chấm dứt Hợp đồng và hai Bên phối hợp thanh toán các khoản tồn đọng theo quy định tại Hợp đồng Chính. Việc áp dụng biện pháp yêu cầu khắc phục này chỉ áp dụng không quá 02 (hai) lần trong suốt thời hạn Hợp đồng.
 ĐIỀU 3. THÔNG TIN TÀI KHOẢN NGÂN HÀNG
 Các Bên đồng ý chỉ định và chịu trách nhiệm về sự hợp pháp, hợp lệ, xác thực của tài khoản có thông tin sau để nhận và chi trả các khoản thanh toán. 
 Nếu một hoặc các Bên có thay đổi thông tin tài khoản, Bên thay đổi phải thông báo bằng văn bản cho Bên còn lại và chịu trách nhiệm về nội dung thông báo. 
 Trừ trường hợp có thỏa thuận khác, giá trị của thông báo thay đổi thông tin tài khoản chỉ có giá trị áp dụng sau thời điểm Bên còn lại nhận được thông báo thay đổi (bằng email hoặc văn bản tùy theo điều kiện nào đến trước)
+BÊN A
+BÊN B
+Số tài khoản
+Click or tap here to enter text.
+19122481575019
+Tên chủ tài khoản
+Click or tap here to enter text.
+Công ty Cổ phần ZION
+Ngân hàng mở tài khoản
+Click or tap here to enter text.
+Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank) – Hội sở
+Loại tài khoản
+VNĐ
+VNĐ
+Khác
 ĐIỀU 4. ĐIỀU KHOẢN THI HÀNH
-Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số /2021/ZALOPAY/ZION  ký ngày  tháng  năm  giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B).
+Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số …………………/2021/ZALOPAY/ZION -……. ký ngày …… tháng …… năm ... giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B).
 Phụ lục này được lập thành 02 (hai) bản chính bằng tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản gốc.
-
-
-
+	
+ĐẠI DIỆN BÊN A
+…………………………
+…………………………
+  
+ĐẠI DIỆN BÊN B
+Chủ tịch Hội đồng quản trị kiêm Giám đốc
+TRƯƠNG THỊ THANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+SOCIALIST REPUBLIC OF VIETNAM 
+Independence - Freedom – Happiness
+----------o0o----------
+BIÊN BẢN XÁC NHẬN DOANH THU & THU PHÍ DỊCH VỤ
+ACCEPTANT MINUTES OF REVENUE AND SERVICE CHARGE
+THÁNG …….. NĂM 2021 (………..,2021)
+Căn cứ theo Hợp đồng cung ứng dịch vụ hỗ trợ thanh toán ZaloPay số ………………. ký ngày ……….tháng …….. năm 202... giữa 
+Pursuant to the ZaloPay payment support service Agreement No ………………. dated …………. between:
++ BÊN A/ PARTY A: 
++ BÊN B/ PARTY B: CÔNG TY CỔ PHẦN ZION
+- Hôm nay, ngày ……... tháng …….. năm …….., hai Bên cùng đồng ý ký Biên bản xác nhận doanh thu & thu phí dịch vụ tháng ……..năm ….. chi tiết như sau:
+On this day of ……………. both Parties mutually agree to sign this Acceptance Minutes of Revenue and Service Charge for ……./…….. as the below detail:
+ 
+Số lượng giao dịch thanh toán thành công
+Số lượng giao dịch hoàn tiền đối tác yêu cầu
+Giá trị giao dịch thanh toán thành công
+Giá trị giao dịch hoàn tiền đối tác yêu cầu
+Phí giao dịch thanh toán
+(đã gồm VAT) 
+Phí hoàn tiền 
+(đã gồm VAT)
+Phí khác
+(đã gồm VAT) 
+Tổng cộng phí 
+(đã gồm VAT) 
+ZaloPay thanh toán 
+(đã gồm VAT)
+ 
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8) = (5) + (6) + (7)
+(9) = (3) - (4) - (8)
+ID: ……………………………..
+Từ thẻ ATM/tài khoản ngân hàng nội địa
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Từ thẻ tín dụng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Từ ZaloPay App
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tổng theo giao dịch
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tổng cộng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Biên bản này được lập thành 02 (hai) bản gốc song ngữ tiếng Việt – tiếng Anh có hiệu lực và giá trị pháp lý ngang nhau. Mỗi Bên giữ 01 (một) bản gốc.
+This Acceptance Minutes is made into 02 (two) billingual originals in Vietnamese and English languages of the equal validity. Each party will keep 01 (one) original
+ĐẠI DIỆN BÊN B/ FOR AND ON BEHALF OF PARTY B
+ĐẠI DIỆN BÊN A/ FOR AND ON BEHALF OF PARTY A
+TL.GIÁM ĐỐC
+KẾ TOÁN
+KỸ THUẬT
+KẾ TOÁN
+KỸ THUẬT
+P.P DIRECTOR
+ACCOUNTANT
+TECHNIC
+ACCOUNTANT
+TECHNIC
 PHỤ LỤC 3 
 PHỐI HỢP GIẢI QUYẾT GIAO DỊCH BỊ YÊU CẦU BỒI HOÀN 
-(Đính kèm Hợp Đồng số /2021/ZALOPAY/ZION - ……… ký ngày ) 
-
+(Đính kèm Hợp Đồng số …………………/2021/ZALOPAY/ZION - ……… ký ngày …/…/……) 
 Căn cứ: 
-Hợp đồng số /2021/ZALOPAY/ZION - ……… ngày  giữa  và Công ty Cổ Phần ZION.
+Hợp đồng số …………………/2021/ZALOPAY/ZION - ……… ngày …/…/…… giữa Công ty ……………………… và Công ty Cổ Phần ZION.
 Căn cứ khả năng và nhu cầu của hai Bên; 
-Phụ lục này được lập và ký ngày  giữa  (Bên A) và Công ty Cổ Phần ZION (Bên B) để triển khai dịch vụ hỗ trợ thanh toán với các nội dung như sau: 
+Phụ lục này được lập và ký ngày ……………. giữa ………………… (Bên A) và Công ty Cổ Phần ZION (Bên B) để triển khai dịch vụ hỗ trợ thanh toán với các nội dung như sau: 
 Phụ lục này điều chỉnh các giao dịch bồi hoàn (giao dịch bị yêu cầu xử lý hoàn tiền), các giao dịch hoàn trả hàng hóa, dịch vụ được thực hiện theo chính sách hoàn trả hàng hóa, dịch vụ của Bên A, không điều chỉnh bởi Quy định này:
 ĐIỀU 1. CÁC TRƯỜNG HỢP BỒI HOÀN
+Các trường hợp
+Mô tả chi tiết
+Quy trình xử lý
+Giao dịch có yêu cầu hoàn tiền của Bên A
+là giao dịch được Bên A yêu cầu Bồi hoàn cho Khách hàng.
+Hoàn tiền ngay theo yêu cầu của Bên A
+Giao dịch bị khiếu nại yêu cầu Bồi hoàn;
+Người mua không nhận được hàng hóa, dịch vụ (sản phẩm) đã thanh toán, hoặc Hàng hóa, dịch vụ được giao không đúng như mô tả: người mua nhận được sản phẩm đã thanh toán, nhưng sản phẩm được giao không đáp ứng mô tả của Bên A tại thời điểm thanh toán. 
+Việc xác minh các thông tin yêu cầu xử lý giao dịch Bồi hoàn được tiến hành theo phương thức sau: 
+Bước 1: Hai Bên phối hợp xác minh thông tin trong 3 ngày làm việc; 
+Bước 2: Xử lý sau khi xác minh thông tin: 
+Nếu không phải hoàn tiền, Bên A và Bên B sẽ chấm dứt xử lý yêu cầu; 
+Nếu phải hoàn tiền, Bên A thực hiện lệnh hoàn tiền cho người mua;
+Giao dịch lỗi
+Giao dịch được Bên B xác định có lỗi xảy ra trong quá trình truyền tín hiệu giao dịch.
+Việc xác minh các thông tin yêu cầu xử lý giao dịch lỗi được thực hiện như sau: 
+Bước 1: Phối hợp xác minh lỗi trong 3 ngày làm việc; 
+Bước 2: Bên B thông báo cho Khách hàng và Bên A: 
+Nếu hai Bên tiếp tục hoàn tất giao dịch, không phát sinh hoàn tiền; 
+Nếu hai Bên không tiếp tục hoàn tất giao dịch sẽ phát sinh hoàn tiền. 
+Giao dịch trái phép
+Giao dịch bị hoàn tiền do khiếu nại của chủ thẻ, chủ tài khoản ZaloPay xác định có gian lận, giả mạo khi thực hiện giao dịch.
+* Nếu yêu cầu Bồi hoàn theo thủ tục giải quyết của Tổ chức thẻ quốc tế, việc xử lý kết quả giải quyết khiếu nại liên quan đến giao dịch trái phép sẽ được thực hiện theo Quy định của Tổ chức thẻ quốc tế. Bên B, chịu trách nhiệm đầu mối phối hợp, hỗ trợ Bên A trong quá trình giải quyết. 
+Tùy từng trường hợp cụ thể Bên B sẽ đưa ra các khuyến cáo, hướng dẫn để Bên A lựa chọn phương án giải quyết phù hợp.
+* Nếu yêu cầu bồi hoàn phát sinh từ giao dịch thanh toán bằng số dư ví, việc giải quyết thực hiện theo quy định giải quyết tranh chấp, khiếu nại theo quy định sử dụng dịch vụ của Bên B. 
 ĐIỀU 2. YÊU CẦU ĐỐI VỚI BÊN A 
 Cung cấp kịp thời, chính xác, đầy đủ các thông tin, chứng từ theo yêu cầu của Bên B. Ngoài ra: 
 Đối với khiếu nại không nhận được hàng hóa, dịch vụ; Bên A phải cung cấp thêm cho Bên B các tài liệu sau: 
-Chứng từ, dữ liệu xác định tín hiệu thanh toán thành công được ghi nhận bởi Bên B; 
+	Chứng từ, dữ liệu xác định tín hiệu thanh toán thành công được ghi nhận bởi Bên B; 
 Chứng từ, tài liệu mô tả việc vận chuyển, giao hàng trùng khớp với thông tin tại đơn hàng. 
 Hàng hóa, dịch vụ phải được giao đến địa chỉ của người mua theo khai báo trong đơn hàng của người mua; nếu là dịch vụ phi vật chất, định dạng dữ liệu điện tử thì địa chỉ IP tải về trùng với địa chỉ IP thanh toán.
 Đối với giao dịch trái phép:  Bên A phải cung cấp cho Bên B các chứng từ sau: 
@@ -1923,322 +2366,493 @@ Trong trường hợp Bên A thực hiện hoàn tiền, việc hoàn tiền ph�
 Quyền yêu cầu Bồi hoàn của Bên B có thể kéo dài ngay cả khi các Bên chấm dứt hợp tác.  
 Tùy từng thời điểm, nhằm đảm bảo sự an toàn, bảo mật giao dịch với các điều kiện kỹ thuật cho phép, mang lại sự thuận tiện cho Khách hàng khi sử dụng dịch vụ, Bên B có thể áp dụng/thí điểm áp dụng các phương thức Bồi hoàn và sẽ thông tin đến Bên A để phối hợp thực hiện.
 ĐIỀU 4. ĐIỀU KHOẢN THI HÀNH
-Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số /2021/ZALOPAY/ZION  ký ngày  tháng  năm ...... giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B).
-
-Phụ lục này được lập thành 02 (hai) bản chính bằng tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản gốc.
-
-
-
-
+Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số …………………/2021/ZALOPAY/ZION -……. ký ngày …… tháng …… năm ...... giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B).
+	Phụ lục này được lập thành 02 (hai) bản chính bằng tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản gốc.
+ĐẠI DIỆN BÊN A
+ĐẠI DIỆN BÊN B
+…………………………
+…………………………
+Chủ tịch Hội đồng quản trị kiêm Giám đốc
+……………………………..
 PHỤ LỤC 4
  QUY TRÌNH TIẾP NHẬN VÀ GIẢI QUYẾT
  THẮC MẮC/KHIẾU NẠI DÀNH CHO KHÁCH HÀNG
-(Đính kèm Hợp Đồng số: /2021/ZALOPAY/ZION - ……… ký ngày )
-
+(Đính kèm Hợp Đồng số: …………………/2021/ZALOPAY/ZION - ……… ký ngày …/…/……)
+	
 ĐIỀU 1. QUY ĐỊNH CHUNG
-Mục đích 
-Hướng dẫn, thông báo cho các Bên liên quan về quy trình tiếp nhận và giải quyết khiếu nại trong phạm vi hợp tác kinh doanh giữa Hai Bên, nhằm mục đích đảm bảo việc hỗ trợ ở mức độ cao nhất cho Khách hàng.
-Phạm vi hỗ trợ Khách hàng
-Giải đáp cho Khách hàng các chính sách liên quan đến dịch vụ như: đối tượng dịch vụ, chính sách giá/phí, các điều kiện về thiết bị, thủ tục sử dụng dịch vụ …
-Hướng dẫn Khách hàng sử dụng dịch vụ.
-Hỗ trợ Khách hàng khi có sự cố liên quan đến hạ tầng mạng, hệ thống phần cứng, phần mềm cũng như các sự cố dẫn đến việc Khách hàng không sử dụng được dịch vụ.
-Mỗi Bên chịu trách nhiệm và đảm bảo việc hỗ trợ giải quyết khiếu nại của Khách hàng trong phạm vi nghĩa vụ của mình theo Quy định tại Hợp đồng và các Phụ lục kèm theo.
-Thời gian tiếp nhận khiếu nại của Khách hàng, và cho phép Khách hàng gửi yêu cầu tra soát giao dịch: trong vòng 100 ngày kể từ ngày phát sinh giao dịch hoặc pháp luật có quy định khác. Đối với yêu cầu hoàn trả, thời hạn tiếp nhận khiếu nại là 60 ngày kể từ ngày phát sinh giao dịch.
-Hình thức hỗ trợ và phối hợp hỗ trợ Khách hàng
-Hình thức hỗ trợ Khách hàng:
-Hỗ trợ qua điện thoại, fax, e-mail, văn bản,…
-Đầu mối phối hợp hỗ trợ Khách hàng:
-BÊN A: 
-Trung tâm Hỗ trợ Khách hàng
-Hotline: 
-Email: 
-BÊN B:
-Trung tâm Hỗ trợ Khách hàng
-Hotline: …………………
-Email: ……………………..
-Trách nhiệm chung:
-Trong trường hợp một trong các Bên nhận được yêu cầu từ phía Khách hàng không thuộc phạm vi đơn vị mình giải quyết sẽ chuyển tiếp yêu cầu của Khách hàng sang đơn vị phụ trách phạm vi đó. 
-Các Bên có trách nhiệm phối hợp để công tác hỗ trợ Khách hàng đạt kết quả cao nhất.
+	Mục đích 
+	Hướng dẫn, thông báo cho các Bên liên quan về quy trình tiếp nhận và giải quyết khiếu nại trong phạm vi hợp tác kinh doanh giữa Hai Bên, nhằm mục đích đảm bảo việc hỗ trợ ở mức độ cao nhất cho Khách hàng.
+	Phạm vi hỗ trợ Khách hàng
+		Giải đáp cho Khách hàng các chính sách liên quan đến dịch vụ như: đối tượng dịch vụ, chính sách giá/phí, các điều kiện về thiết bị, thủ tục sử dụng dịch vụ …
+		Hướng dẫn Khách hàng sử dụng dịch vụ.
+			Hỗ trợ Khách hàng khi có sự cố liên quan đến hạ tầng mạng, hệ thống phần cứng, phần mềm cũng như các sự cố dẫn đến việc Khách hàng không sử dụng được dịch vụ.
+			Mỗi Bên chịu trách nhiệm và đảm bảo việc hỗ trợ giải quyết khiếu nại của Khách hàng trong phạm vi nghĩa vụ của mình theo Quy định tại Hợp đồng và các Phụ lục kèm theo.
+			Thời gian tiếp nhận khiếu nại của Khách hàng, và cho phép Khách hàng gửi yêu cầu tra soát giao dịch: trong vòng 100 ngày kể từ ngày phát sinh giao dịch hoặc pháp luật có quy định khác. Đối với yêu cầu hoàn trả, thời hạn tiếp nhận khiếu nại là 60 ngày kể từ ngày phát sinh giao dịch.
+	Hình thức hỗ trợ và phối hợp hỗ trợ Khách hàng
+			Hình thức hỗ trợ Khách hàng:
+		Hỗ trợ qua điện thoại, fax, e-mail, văn bản,…
+		Đầu mối phối hợp hỗ trợ Khách hàng:
+		BÊN A: 
+	Trung tâm Hỗ trợ Khách hàng
+	Hotline: …………………………………..
+	Email: ……………………………………
+		BÊN B:
+	Trung tâm Hỗ trợ Khách hàng
+	Hotline: …………………
+	Email: ……………………..
+		Trách nhiệm chung:
+	Trong trường hợp một trong các Bên nhận được yêu cầu từ phía Khách hàng không thuộc phạm vi đơn vị mình giải quyết sẽ chuyển tiếp yêu cầu của Khách hàng sang đơn vị phụ trách phạm vi đó. 
+	Các Bên có trách nhiệm phối hợp để công tác hỗ trợ Khách hàng đạt kết quả cao nhất.
 ĐIỀU 2. QUY TRÌNH TIẾP NHẬN & GIẢI QUYẾT THẮC MẮC/KHIẾU NẠI
-Lưu đồ
-
-
-Giải thích lưu đồ
+	Lưu đồ
+	
+	
+	Giải thích lưu đồ
+		TT
+		Nội dung thực hiện
+		Đơn vị
+		Thời gian
+		BƯỚC 1
+		Nhận thắc mắc/ khiếu nại:
+		Tiếp nhận và phản hồi thông tin đã tiếp nhận khiếu nại dưới các hình thức: văn bản, e-mail, điện thoại, fax, web, chat … 
+		Bên A, Bên B
+		Trong thời gian hỗ trợ Khách hàng của các Bên.
+		Phản hồi đã tiếp nhận chậm nhất là 04 (bốn) giờ làm việc, kể từ thời điểm tiếp nhận.
+		BƯỚC 2
+		Phân loại thắc mắc/khiếu nại:
+		Sau khi Bên tiếp nhận  nhận thắc mắc/khiếu nại từ Khách hàng:
+		- Đối với những nội dung trả lời được ngay thì tiến hành trả lời Khách hàng.
+		- Trong trường hợp thắc mắc/khiếu nại vượt phạm vi giải quyết, Bên tiếp nhận có trách nhiệm chuyển các thông tin sang Bên có liên quan qua email hoặc có thể điện thoại trước, email sau trong trường hợp khẩn cấp.
+		Bên A, Bên B
+		Trong vòng 24 (hai bốn) giờ kể từ khi nhận được thông tin khiếu nại.
+		BƯỚC 3
+		Tra soát thắc mắc/khiếu nại:
+		Bên tiếp nhận có trách nhiệm phân tích, tra soát, thuyết minh các  thắc mắc/khiếu nại nhận được.
+		Bên A, Bên B
+		Chậm nhất là 01 (một) ngày làm việc kể từ khi nhận được thắc mắc/khiếu nại.
+		BƯỚC 4
+		Trả lời thắc mắc/khiếu nại:
+		Đơn vị tiếp nhận tra soát thắc mắc/khiếu nại gửi trả lời bằng văn bản hoặc theo hình thức Khách hàng yêu cầu.
+		Bên A, Bên B
+		Chậm nhất là 02 (hai) ngày làm việc kể từ khi nhận được kết quả tra soát thắc mắc/khiếu nại.
+		BƯỚC 5
+		Đánh giá mức độ hài lòng:
+		- Nhân Viên Dịch Vụ Khách hàng thăm dò, tìm hiểu mức độ hài lòng của Khách hàng đối với nội dung trả lời. Nếu Khách hàng đồng ý và thỏa mãn với các nội dung trả lời, chuyển sang Bước 06.
+			- Nếu Khách hàng chưa đồng ý với các nội dung trả lời, quay lại Bước 02 để tiến hành giải quyết thắc mắc/khiếu nại.
+		Bên A, Bên B
+		
+		Thực hiện ngay sau khi giải quyết xong và Khách hàng chấp nhận.
+		BƯỚC 6
+		Kết thúc:
+		Thực hiện tổng hợp, lưu trữ và báo cáo định kỳ.
+		Bên A, Bên B
+		
 ĐIỀU 3. ĐIỀU KHOẢN THI HÀNH
-Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số /2021/ZALOPAY/ZION  ký ngày  tháng  năm  giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B).
+Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số …………………/2021/ZALOPAY/ZION -……...................... ký ngày …… tháng …… năm ........  giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B).
 Phụ lục này được lập thành 02 (hai) bản chính bằng tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản gốc.
-
-
-
+	
+ĐẠI DIỆN BÊN A
+…………………………
+	
+	
+	
+	
+	
+…………………………
+	
+	
+	ĐẠI DIỆN BÊN B
+Chủ tịch Hội đồng quản trị kiêm Giám đốc
+	
+	…………………………..
 PHỤ LỤC 5
  THÔNG TIN ĐẦU MỐI LIÊN HỆ
-(Đính kèm Hợp Đồng số /2021/ZALOPAY/ZION- 
-ký ngày ………………………………………)
+	(Đính kèm Hợp Đồng số ….……………..……/2021/ZALOPAY/ZION-………………........ 
+	ký ngày ………………………………………)
 ĐIỀU 1. ĐẦU MỐI LIÊN HỆ
+ĐẠI DIỆN BÊN A 
+ĐẠI DIỆN BÊN B
+Phụ trách P. kinh doanh: 
+- Ông/bà:  ………………………
+- Chức vụ: ………………………
+- Email : ………………………
+	- Điện thoại: ………………………	
+Phụ trách Kỹ thuật:
+- Ông/bà:  ………………………
+		- Chức vụ: ………………………
+- Email : ………………………
+- Điện thoại: ………………………
+Phụ trách quan hệ khách hàng, hỗ trợ, giải quyết khiếu nại:
+Ông/bà: ………………………
+Chức vụ: ………………………
+Email: ………………………
+Mobile: ………………………
+Phụ trách PR/Marketing: 
+Ông/Bà: ………………………
+Chức vụ:  ………………………
+Email: ………………………
+Điện thoại:  ………………………
+Phụ trách Đối soát:
+	Ông/Bà:  ………………………
+	Chức vụ: ………………………
+	Email: ………………………
+	Điện thoại: ………………………
+Phụ trách Thanh toán: 
+Ông/Bà: ………………………
+Chức vụ: ………………………
+Email: ………………………
+Điện thoại: ………………………
+Phụ trách nhận hóa đơn điện tử : 
+Ông/Bà: ………………………
+Chức vụ: ………………………
+Email: ………………………
+Điện thoại: ………………………
+Phụ trách Kinh doanh:
+- Ông/Bà: Nguyễn Thị Hải Phượng  
+- Chức vụ: Head of Merchant Partnership
+- Email: phuongnth@vng.com.vn
+Phụ trách Kỹ thuật: 
+Ông/Bà: Thái Hoàng Điệp
+Chức vụ: Software Manager 
+Email: diepth@vng.com.vn
+Phụ trách Quan hệ Khách hàng, hỗ trợ giải quyết khiếu nại (CS):
+Hỗ trợ Khách hàng 24/7
+Email: ………………...vn
+Hotline: …………….. Bấm Phím 3
+Phụ trách PR/ Marketing: 
+Ông: ………………..
+Chức vụ: Marketing Director 
+Email: ……………………….vn
+Phụ trách Đối soát, thanh toán:
+	Bà: …………………….
+	Chức vụ: Product Operations Executive
+	Email:…………………….. 
 ĐIỀU 2. ĐIỀU KHOẢN THI HÀNH
-Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số /2021/  ký ngày .............. tháng năm  giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B).
-Phụ lục này được lập thành 02 (hai) bản chính bằng tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản gốc.
-
-
-"""
+Phụ lục này là bộ phận không thể tách rời của Hợp đồng cung ứng Dịch vụ hỗ trợ thanh toán ZaloPay số …………………/2021/ -……........................... ký ngày .............. tháng……. năm ........ giữa ...................(Bên A) và Công ty Cổ phần ZION (Bên B).
+	Phụ lục này được lập thành 02 (hai) bản chính bằng tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản gốc.
+ĐẠI DIỆN BÊN A
+…………………………
+	
+	
+	
+	
+	
+…………………………
+	
+	
+	ĐẠI DIỆN BÊN B
+Chủ tịch Hội đồng quản trị kiêm Giám đốc
+	
+	
+15"""
 Mau_Hop_dong_co_van_dau_tu_song_ngu_ = """CONSULTING SERVICE CONTRACT
 HỢP ĐỒNG DỊCH VỤ CỐ VẤN
-
 This Consulting service Contract (“Contract”) is made and entered into effective as of ________, 2020 (“Effective Date”) by and between: 
 Hợp Đồng Dịch Vụ Cố Vấn này (“Hợp Đồng”) được lập và có hiệu lực vào ngày ____ tháng ____ năm 2020 (“Ngày Hiệu Lực”) bởi và giữa các bên dưới đây: 
 ……………….. JOINT STOCK COMPANY, a company registered in Vietnam with tax code: 031580xxxx, having head office address at: The second floor, No. ………………….. street, Ward 10, District 3, Ho Chi Minh City, Vietnam, whose legal representative is …………………. with the position of: General Director and having the email address: …………………….., phone number: +84………………… (referred to as “Company”).
 CÔNG TY ……………………, một Công ty được đăng ký tại Việt Nam với mã số thuế: 0315804xxx, có địa chỉ trụ sở: …………………………., Phường 10, Quận 3, Thành phố Hồ Chí Minh, Việt Nam và người đại diện: ………………….. chức vụ: Tổng Giám đốc và có địa chỉ email: …………………………., số điện thoại: +84……………… (gọi tắt là “Công Ty”).
 AND/ VÀ
-Mr. ……… a Japanese individual with passport no.: t…………..isued on July 01, 2019 by Japan; whose Permanent address is 1…………………………, Koto-ku, Tokyo, Japan; email address is ………………………, phone number: +81……………….(referred to as “Consultant”).
-Ông ……., một cá nhân Nhật Bản có hộ chiếu số: ………………, ngày cấp: ………………….. cấp tại Nhật Bản; Địa chỉ thường trú: ……………………………., Kotoku, Tokyo, Nhật Bản; email: ……………………………. và số điện thoại: +……………. (gọi tắt là “Cố Vấn”).
-Company and Consultant are hereinafter referred to separately as "Party" and collectively as "Parties"
+	Mr. ……… a Japanese individual with passport no.: t…………..isued on July 01, 2019 by Japan; whose Permanent address is 1…………………………, Koto-ku, Tokyo, Japan; email address is ………………………, phone number: +81……………….(referred to as “Consultant”).
+	Ông ……., một cá nhân Nhật Bản có hộ chiếu số: ………………, ngày cấp: ………………….. cấp tại Nhật Bản; Địa chỉ thường trú: ……………………………., Kotoku, Tokyo, Nhật Bản; email: ……………………………. và số điện thoại: +……………. (gọi tắt là “Cố Vấn”).
+	Company and Consultant are hereinafter referred to separately as "Party" and collectively as "Parties"
 Công Ty và Cố Vấn khi gọi riêng là “Bên” và gọi chung là “Các Bên”
 Parties agree to enter into a Contract as follows:
 Các Bên đồng ý ký kết Hợp Đồng với nội dung cụ thể như sau:
-
-
-
+Terms/ Điều khoản
+Content/ Nội dung
+Scope of Services/
+Phạm vi công việc 
+(Dịch Vụ)
+Consultant shall/ Cố Vấn sẽ thực hiện
+Assist Company in fundraising from investors: Make appropriate use of all available resources to create opportunities for the Company to find investors and fundraising.
+Hỗ trợ Công Ty gọi vốn từ các nhà đầu tư: Sử dụng phù hợp tất cả các nguồn lực sẵn có để tạo cơ hội cho Công Ty trong việc tìm kiếm nhà đầu tư và gọi vốn đầu tư.
+Consult in international business development: i) Consult the Company about methods, opportunities to bring the Company's services and image to international markets; ii) Develop strategies and plans to find fundraising from foreign investors to promote the expansion of business to international market.
+Tư vấn phát triển kinh doanh quốc tế: i) Tư vấn cho Công Ty về phương thức, cơ hội đưa dịch vụ và hình ảnh của Công Ty ra thị trường quốc tế. ii) Xây dựng chiến lược, kế hoạch kêu gọi vốn đầu tư từ nhà đầu tư nước ngoài đẩy mạnh mở rộng mô hình kinh doanh ra thị trường quốc tế.
+Identify new opportunities to engage with existing and new investors.
+Xác định các cơ hội mới để tiếp cận các nhà đầu tư hiện tại và khách hàng mới.
+Provide directions in new business potentials, strategy and funding.
+Cung cấp chỉ dẫn trong tiềm năng kinh doanh mới, chiến lược và gọi vốn.
+Consultant’s ownership of Shares/ Quyền sở hữu Cổ phần của Cố Vấn
+Percentage of Shares ownership/ Tỷ lệ sở hữu Cổ phần:
+In the First Year (12 months from the Effective Date): 1.5% of Company's Shares/ Năm Đầu Tiên (12 tháng kể từ Ngày Hiệu Lực): 1.5% Cổ phần Công Ty.
+In the the Second Year (12 months from the end of the First Year): 1.5% of the Company's Shares/ Năm Thứ Hai (12 tháng kể từ ngày kết thúc Năm Đầu Tiên): 1.5% Cổ phần Công Ty.
+From the third Year onwards: The Consultant's remuneration shall be according to the written agreement between Parties/ Từ Năm thứ ba trở đi: Quyền lợi của Cố Vấn sẽ theo sự thỏa thuận bằng văn bản giữa Các Bên.
+Conditions for owning Shares/ Điều kiện sở hữu Cổ phần:
+Consultant performs services that achive the KPI set by Company; and/ Cố Vấn thực hiện Dịch Vụ đạt KPI mà Công Ty đặt ra; và:
+In the First Year: Consultant shall receive shares if Consultant work for Company from 12 months or more from the Effective Date; and/ Năm Đầu Tiên: Cố Vấn sẽ được hưởng Cổ phần nếu làm việc cho Công Ty từ đủ 12 tháng kể từ Ngày Hiệu Lực; và
+In the Second Year: Consultant shall receive additional shares if Consultant work for Company from 12 months or more from the end of the First Year/ Năm Thứ Hai: Cố Vấn sẽ được hưởng Cổ phần tăng thêm nếu làm việc cho Công Ty từ đủ 12 tháng kể từ ngày kết thúc Năm Đầu Tiên.
+Method of Shares Ownership/ Hình thức sở hữu Cổ phần:
+The Consultant is entitled to register to purchase Shares at a preferential price: VND 10,000 per Share regardless of the Company's market price at that time. This price shall be recorded in the Share Subscription Agreements signed between the Parties.
+Cố Vấn được quyền đăng ký mua Cổ phần với mức giá ưu đãi tương ứng 10.000 đồng/Cổ phần không phụ thuộc vào giá thị trường tại thời điểm đó của Công Ty. Mức giá này sẽ được ghi nhận tại các Hợp Đồng Đăng Ký Mua Cổ Phần được ký kết giữa Các Bên.
+Time of Shares ownership/ Thời điểm được hưởng Cổ phần:
+In the First Year: After 12 months from the Effective Date, Consultant shall receive 1.5% of the shares of the Company after paying in full the value according to the Share Subscription Agreement between two Parties.
+Năm Đầu Tiên: Sau 12 tháng kể từ Ngày Hiệu Lực, Cố Vấn sẽ được nhận 1.5% cổ phần Công Ty sau khi thanh toán đầy đủ giá trị theo Hợp Đồng Đăng Ký Mua Cổ Phần giữa Các Bên.
+In the Second Year: After 24 months from the Effective Date, the Consultant shall receive 1.5% of the Shares of the Company after paying in full the value according to the Share Subscription Agreement between two Parties.
+Năm Thứ Hai: Sau 24 tháng kể từ Ngày Hiệu Lực, Cố Vấn sẽ được nhận 1.5% cổ phần Công Ty sau khi thanh toán đầy đủ giá trị theo Hợp Đồng Đăng Ký Mua Cổ Phần giữa Các Bên.
+To ensure that the Consultant's shares are not diluted due to the annual share division, if the Consultant meets the conditions for receiving the shares specified hereunder, the Company shall perform the necessary tasks to ensure that the Consultant's total shares are: 3% of the total shares of the Compay in the Second Year.
+For clarity, the above anti-dilution right applies only to 3% of Company shares that the Consultant received under this Agreement.
+Để đảm bảo cổ phần của Cố Vấn không bị pha loãng do việc phân chia cổ phần theo từng năm, trường hợp Cố Vấn đạt đủ các điều kiện để hưởng cổ phần theo Hợp Đồng này, Công Ty sẽ thực hiện các công việc cần thiết để đảm bảo tổng số cổ phần mà Cố Vấn được hưởng là: 3% tổng số cổ phần của Công Ty vào Năm Thứ Hai. 
+Để làm rõ, quyền chống pha loãng như trên chỉ áp dụng với 3% cổ phần của Công Ty mà Cố Vấn có được theo Hợp Đồng này.
+For the Parties' convenience, the Company shall carry out procedures to acknowledge the Consultant's shares with the competent state authority at the end of the Second Year. To clarify, before that time, Consultant's shares are still recorded in Company documents. 
+Để thuận tiện cho Các Bên, Công Ty sẽ thực hiện thủ tục với cơ quan nhà nước có thẩm quyền để ghi nhận số cổ phần của Cố Vấn khi kết thúc Năm Thứ Hai. Để làm rõ, trước đó, số cổ phần của Cố Vấn vẫn được ghi nhận tại tài liệu Công Ty.
+For example: In the First Year, the total number of shares of the Company is 30,000, the Consultant is eligible to receive 1.5% of the shares of the Company corresponding to 450 shares, the Consultant will pay the Company VND 4,500,000 according to the Share Subscription Agreement between the Parties.
+In the Second Year, the total shares of the Company are 40,000, the Consultant is eligible to receive 1.5% of the shares corresponding to 600 shares, the Company will issue 150 additional shares to the Consultant, and the Consultant will pay the Company VND 7,500,000 according to the Share Subscription Agreement between the Parties. Accordingly, the total number of shares owned by the Consultant after 24 (twenty four) months from the Effective Date is: 1,200 shares, equivalent to 3% of the total shares of the Company in the Second Year. 
+After that, the Company carries out the registration procedure with the competent agency to record 3% of the Company shares of the Consultant.
+Ví dụ: Năm Đầu Tiên, tổng số cổ phần của Công Ty là 30.000, Cố Vấn đủ điều kiện nhận 1.5% tương ứng với 450 cổ phần, Cố Vấn sẽ thanh toán cho Công Ty 4.500.000 VND theo Hợp Đồng Đăng Ký Mua Cổ Phần giữa Các Bên.
+Năm Thứ Hai, tổng số cổ phần của Công Ty là 40.000, Cố vấn đủ điều kiện nhận 1.5% tương ứng với 600 cổ phần, ngoài ra Công Ty sẽ phát hành thêm cho Cố Vấn 150 cổ phần, Cố Vấn sẽ thanh toán cho Công Ty 7.500.000 VND theo Hợp Đồng Đăng Ký Mua Cổ Phần giữa Các Bên. Theo đó, tổng số cổ phần mà Cố Vấn sở hữu sau 24 (hai mươi tư) tháng từ Ngày Hiệu Lực là: 1.200 cổ phần tương ứng 3% tổng số cổ phần của Công Ty vào Năm Thứ Hai.
+Sau đó, Công Ty thực hiện thủ tục đăng ký với cơ quan nhà nước có thẩm quyền để ghi nhận 3% cổ phần Công Ty của Cố Vấn.
+The standard of service provision (KPI)/
+Tiêu chuẩn cung cấp Dịch Vụ (KPI)
+The money that Company received from the investors referred by the Consultant is VND ___________/year or above; and
+Số tiền Công Ty nhận được từ những nhà đầu tư được giới thiệu bởi Cố Vấn ít nhất là ___________ VNĐ/năm; và
+Consultant assists the Company in expanding its business markets to the following countries: Japan, _________________
+Cố Vấn hỗ trợ Công Ty mở rộng được thị trường kinh doanh sang các quốc gia sau: Nhật Bản, _________________
 DETAIL CONTENT OF THE CONTRACT/ NỘI DUNG CHI TIẾT HỢP ĐỒNG
-Contract Performance/ Thực Hiện Hợp Đồng
-By knowledge and experiences in the field of international development consulting for enterprises and funding, Consultant performs the tasks specified in Section I hereof to assist Company to maximize profits and boost business performance.
-Bằng những kiến thức và kinh nghiệm của mình trong lĩnh vực tư vấn phát triển quốc tế cho doanh nghiệp và gọi vốn góp đầu tư, Cố Vấn thực hiện các công việc quy định tại Mục I của Hợp Đồng nhằm giúp Công Ty tối đa hóa lợi nhuận và đẩy mạnh hiệu quả hoạt động kinh doanh. 
-If after 12 (twelve) months from the Effective Date, the Consultant does not achive the KPI, the Consultant shall not be entitled to own 1.5% of the Shares as stipulated herein. In addition, if after 24 (twenty-four) months from the Effective Date, the Consultant does not achive the KPI, Consultant shall not be entitled to own 1.5% of the additional Shares specified herein.
-Nếu sau 12 (mười hai) tháng kể từ Ngày Hiệu Lực, Cố Vấn không đáp ứng KPI, Cố Vấn sẽ không được sở hữu 1.5% Cổ phần theo quy định tại Hợp Đồng này. Đồng thời, nếu sau 24 (hai mươi bốn) tháng kể từ Ngày Hiệu Lực mà không đáp ứng KPI, Cố Vấn sẽ không được quyền sở hữu 1.5% Cổ phần tăng thêm theo quy định tại Hợp Đồng này.
-Nothwithstanding the foregoing, Company may agree to: i) transfer shares with the preferential price: VND 10,000 per Share corresponding to the contribution of the Consultant to Company; or ii) discount 30% shares transfer price for Consultant compared to the Company value at the time of transfer.
-Bất kể các quy định trên, Công Ty có thể đồng ý: i) chuyển nhượng cổ phần với mức giá ưu đãi 10.000 VNĐ/cổ phần tương ứng với công sức Cố Vấn đã đóng góp cho Công Ty; hoặc ii) giảm 30% giá chuyển nhượng cổ phần cho Cố Vấn so với giá trị thị trường của Công Ty tại thời điểm chuyển nhượng.
-Liablities Of Parties/ Trách Nhiệm Của Các Bên
-Consultant’s liabilities/ Trách nhiệm của Cố Vấn
-Consultant pledge to perform the obligation strictly according to ethical standards, commercial practices, business practices, and legal provisions;
-Cố Vấn cam kết sẽ thực hiện công việc đúng với các chuẩn mực đạo đức, thói quen thương mại, tập quán kinh doanh và quy định pháp luật;
-Consultant represents and warranties that the execution and performance of Contract shall not violate any law or any agreement between Consultant and any third party. In addition, Consultant commits to hold Company harmless against any and all compensation and liability regarding the Services performance of Consultant under Contract.
-Cố vấn cam đoan, cam kết việc giao kết và thực hiện Hợp Đồng sẽ không vi phạm quy định pháp luật hay bất kỳ Hợp đồng, thỏa thuận giữa Cố Vấn với bên thứ ba nào. Đồng thời, Cố Vấn cam kết miễn trừ cho Công Ty khỏi trách nhiệm bồi thường và trách nhiệm liên quan đến phạm vi thực hiện Dịch Vụ của Cố Vấn theo Hợp Đồng này. 
-Responsibilities of the Company/ Trách nhiệm của Công Ty
-Obtain the approval of the General Meeting of Shareholders for the decision to allow Consultant to own Shares hereunder;
-Đạt được sự chấp thuận của Đại Hội Đồng Cổ Đông đối với quyết định cho phép Cố Vấn được sở hữu Cổ phần theo quy định của Hợp Đồng;
-Ensure other rights of Consultant herein;
-Bảo đảm các quyền lợi khác của Cố Vấn theo Hợp Đồng này;
-Perform necessary works to ensure Consultant’s ownership of shares.
-Thực hiện các công việc cần thiết nhằm đảm bảo quyền sở hữu cổ phần của Cố Vấn.
-Confidentiality And Non-Compete/ Bảo Mật Và Chống Cạnh Tranh
-The contents of Contract and this Contract as well as the information disclosed by Parties ("Confidential Information") shall be kept confidential and not disclosed to a third party unless otherwise requested by competent government authorities. 
-Các nội dung của Hợp Đồng và cả Hợp Đồng này cũng như các thông tin được tiết lộ bởi Các Bên (“Thông Tin Bảo Mật”) sẽ được bảo mật và không được tiết lộ cho Bên thứ ba trừ khi được yêu cầu bởi cơ quan nhà nước có thẩm quyền.
-Confidential Information shall only be used for works that serve the content specified herein.
-Thông Tin Bảo Mật sẽ chỉ được sử dụng cho các công việc nhằm phục vụ nội dung ghi nhận tại Hợp Đồng này.
-A third party is any party that is not a Party hereto. Third parties do not include employees, advisers of a Party who need to know Confidential Information to carry out their work.
-Bên thứ ba là bất kỳ bên nào không phải là một bên của Hợp Đồng này. Bên thứ ba không bao gồm nhân viên, cố vấn của một Bên, những người cần được biết Thông Tin Bảo Mật để thực hiện công việc của họ.
-The recipient of Confidential Information must maintain necessary confidentiality measures to protect such Confidential Information.
-Bên nhận Thông Tin Bảo Mật phải duy trì các biện pháp bảo mật cần thiết để bảo vệ các Thông Tin Bảo Mật này.
-Confidential obligations shall survive the termination of this Contract.
-Nghĩa vụ bảo mật sẽ duy trì ngay cả khi Hợp Đồng này chấm dứt.
-During the period of providing the services to Company and within 01 (one) year from the date of termination of Contract, Consultant commit: i) Not to attracting or soliciting any individual or organization that has used to be clients, people who have collaborated with, cooperated with or employees of Company; and ii) Not to providing adverse information or make comments, defame or act in any way that negatively affects the reputation, prestige and honor of Company in media or to the third party during the Contract term and regardless of the Contract’s termination; and iii) At any time, Consultant shall not use any trade name that contains logos, trademarks or trade names, symbols basically similar or confusingly similar with the trademark or name which has been registered or owned by Company.
-Trong thời gian cung cấp Dịch Vụ cho Công Ty và trong thời hạn 01 (một) năm kể từ ngày chấm dứt Hợp Đồng, Cố Vấn cam kết: i) Không thu hút hoặc lôi kéo bất kỳ cá nhân/tổ chức nào đã từng là khách hàng, những người đã từng cộng tác, hợp tác, người lao động của Công Ty; và ii) Không cung cấp các thông tin bất lợi hoặc có ý kiến, luận điệu, nói xấu hay hành động dưới bất kỳ hình thức nào mà gây ảnh hưởng tiêu cực đến danh tiếng, uy tín, danh dự của Công Ty trên các phương tiện truyền thông hoặc bên thứ ba trong thời hạn Hợp Đồng và ngay cả khi Hợp Đồng chấm dứt; và iii) Tại bất kỳ thời điểm nào, Cố Vấn sẽ không sử dụng bất kỳ tên thương mại nào có chứa logo, nhãn hiệu hàng hóa hoặc tên thương mại, biểu tượng, tên kinh doanh về căn bản giống hoặc tương tự gây nhầm lẫn với nhãn hiệu hoặc tên kinh doanh đã được Công Ty đăng ký sở hữu hoặc sử dụng.
-Termination And Consequences / Chấm Dứt Hợp Đồng Trước Thời Hạn Và Hệ Quả
-Contract is terminated before its term in the following cases:
-Hợp Đồng được chấm dứt trước thời hạn trong các trường hợp sau
-Force majeure events prevents a Party from continuing to perform Contract for 30 (thirty) days or more. Force majeure event is explained under Vietnamese law;
-Sự kiện bất khả kháng dẫn đến việc một trong Các Bên gặp phải sự kiện bất khả kháng không thể tiếp tục thực hiện Hợp Đồng từ 30 (ba mươi) ngày trở lên. Sự kiện bất khả kháng được giải thích theo quy định pháp luật Việt Nam.
-Parties agree to terminate Contract;
-Các Bên cùng thỏa thuận chấm dứt Hợp Đồng;
-A Party breaches Contract and cannot remedy it within 10 (ten) days after receiving the notice of the non-breaching Party;
-Một Bên vi phạm Hợp Đồng và không thể khắc phục trong vòng 10 (mười) ngày kể từ ngày nhận được thông báo của Bên bị vi phạm;
-In case Consultant violates the obligations of information confidentiality and non-compete within the term of Contract, Company is entitled to unilaterally terminate Contract immediately and not liable to pay any sum of money, shares.
-Trường hợp Cố Vấn vi phạm nghĩa vụ Bảo mật thông tin và chống cạnh tranh trong thời hạn của Hợp Đồng này, Công Ty có quyền đơn phương chấm dứt Hợp Đồng ngay lập tức mà không phải thanh toán bất kỳ khoản tiền và cổ phần nào.	
-Consequences of Contract termination/ Hậu quả của việc chấm dứt Hợp Đồng
-The rights and obligations of Parties in Contract are terminated, except for provisions on Information Confidentiality, the provisions on non-compete, non-solicitation and compensations for damages;
-Các quyền và nghĩa vụ của Các Bên theo Hợp Đồng chấm dứt trừ điều khoản về Bảo mật thông tin, điều khoản về không cạnh tranh, không lôi kéo và bồi thường thiệt hại;
-If either Party unilaterally terminates Contract illegally and/or contravenes with the Contract’s provisions, such Party must compensate for the other Party for all damages and expenses arising from the illegal termination.
-Nếu Bên nào đơn phương chấm dứt Hợp Đồng trái luật và/hoặc trái với quy định Hợp Đồng, thì phải bồi thường cho Bên kia toàn bộ các thiệt hại và chi phí phát sinh do hành vi chấm dứt trái pháp luật gây ra cho bên kia.
-General Provisions/ Điều Khoản Chung
-Any amendments and supplement to any terms and/or issues of Contract must be made in Annex and agreed by Parties. Annex of the Contract shall be signed by Parties and be an integral part of Contract.
-Mọi sửa đổi, bổ sung các điều khoản và/hoặc vấn đề nào trong Hợp Đồng này đều phải lập thành Phụ lục Hợp Đồng và phải được sự đồng ý của Các Bên. Phụ lục Hợp Đồng phải có chữ ký hợp pháp của Các Bên và là một phần không thể tách rời của Hợp Đồng này.
-In case Company has division, demerger, merger, change of business form or any other changes related to the ownership, management and administration of Company, the terms agreed herein shall not be affected and binding assignor(s).
-Trường hợp Công ty có sự chia, tách, sáp nhập, thay đổi loại hình hay bất kỳ thay đổi nào khác có liên quan đến quyền sở hữu, quản lý, điều hành của Công ty thì các điều khoản thỏa thuận theo Hợp Đồng này không bị chi phối, Hợp Đồng này vẫn có giá trị thực hiện cho (các) Bên kế thừa.
-The violating party shall be exempted from the liability hereunder due to the Force Majeure event if all conditions as following are satisfied: i) Violates the contractual obligations, fails to comply with commitments and causes damage to the other Party because of the Force Majeure event which is defined in Vietnamese law; and ii) The violating party notified in writing to the other Party within seven (07) days from the occurrence or acknowledge of the Force Majeure event.
-Bên vi phạm sẽ được miễn trừ các trách nhiệm theo Hợp Đồng này với lý do vì Sự kiện Bất khả kháng nếu đáp ứng đủ các điều kiện: i) Vi phạm nghĩa vụ Hợp Đồng, không tuân thủ các cam kết và gây thiệt hại cho Bên còn lại trong điều kiện Sự kiện Bất khả kháng theo định nghĩa theo pháp luật Việt Nam; và ii) Bên vi phạm đã thực hiện nghĩa vụ Thông báo bằng văn bản cho Bên còn lại trong vòng bảy (07) ngày kể từ khi xảy ra hoặc biết được sự kiện Bất khả kháng.	
-Consultant is only entitled to receive profit-distribution after being legally recorded as the owner of the percentage of Shares which obtained from Contract.
-Cố Vấn chỉ được quyền nhận phân chia lợi nhuận sau khi đã được ghi nhận hợp pháp là chủ sở hữu của % (phần trăm) cổ phần có được từ Hợp Đồng này.	 
-The laws of Vietnam shall be applied to settle disputes arising from Contract.
-Các quy phạm pháp luật Việt Nam sẽ được áp dụng để xử lý các tranh chấp phát sinh từ Hợp Đồng này.	
-If any provision of Contract becomes void, illegal or unenforceable, such invalid, unlawful or unenforceable provisions shall not affect the remaining provisions of Contract.
-Nếu bất kỳ quy định nào của Hợp Đồng này trở nên vô hiệu, trái luật hoặc không có khả năng thi hành, thì những điều khoản vô hiệu, trái luật hoặc không có khả năng thi hành đó sẽ không ảnh hưởng đến các điều khoản còn lại của Hợp Đồng này.	
-When arising dispute from or related to Contract, Parties shall attempt to negotiate, mediate to resolve it. If Parties are unable to resolve themselves, the competent Court shall resolve the dispute.
-Khi có tranh chấp phát sinh từ hoặc liên quan đến Hợp Đồng này, Các Bên sẽ nỗ lực thực hiện việc thương lượng, hòa giải để giải quyết. Nếu không thể tự giải quyết, tranh chấp sẽ được giải quyết bởi Tòa án có thẩm quyền.	
-The Contract is made in two (02) bilingual versions, each Party keeps one (01) copy with equal legal validity. In case of inconsistency between Vietnamese and English contents, English content shall prevail.
-Hợp Đồng này đã được lập thành hai (02) bản song ngữ, mỗi Bên giữ một (01) bản có giá trị pháp lý như nhau. Trường hợp có sự mâu thuẫn giữa nội dung Tiếng Việt và Tiếng Anh, nội dung Tiếng Anh được ưu tiên áp dụng.	
-
+	Contract Performance/ Thực Hiện Hợp Đồng
+	By knowledge and experiences in the field of international development consulting for enterprises and funding, Consultant performs the tasks specified in Section I hereof to assist Company to maximize profits and boost business performance.
+	Bằng những kiến thức và kinh nghiệm của mình trong lĩnh vực tư vấn phát triển quốc tế cho doanh nghiệp và gọi vốn góp đầu tư, Cố Vấn thực hiện các công việc quy định tại Mục I của Hợp Đồng nhằm giúp Công Ty tối đa hóa lợi nhuận và đẩy mạnh hiệu quả hoạt động kinh doanh. 
+	If after 12 (twelve) months from the Effective Date, the Consultant does not achive the KPI, the Consultant shall not be entitled to own 1.5% of the Shares as stipulated herein. In addition, if after 24 (twenty-four) months from the Effective Date, the Consultant does not achive the KPI, Consultant shall not be entitled to own 1.5% of the additional Shares specified herein.
+	Nếu sau 12 (mười hai) tháng kể từ Ngày Hiệu Lực, Cố Vấn không đáp ứng KPI, Cố Vấn sẽ không được sở hữu 1.5% Cổ phần theo quy định tại Hợp Đồng này. Đồng thời, nếu sau 24 (hai mươi bốn) tháng kể từ Ngày Hiệu Lực mà không đáp ứng KPI, Cố Vấn sẽ không được quyền sở hữu 1.5% Cổ phần tăng thêm theo quy định tại Hợp Đồng này.
+	Nothwithstanding the foregoing, Company may agree to: i) transfer shares with the preferential price: VND 10,000 per Share corresponding to the contribution of the Consultant to Company; or ii) discount 30% shares transfer price for Consultant compared to the Company value at the time of transfer.
+	Bất kể các quy định trên, Công Ty có thể đồng ý: i) chuyển nhượng cổ phần với mức giá ưu đãi 10.000 VNĐ/cổ phần tương ứng với công sức Cố Vấn đã đóng góp cho Công Ty; hoặc ii) giảm 30% giá chuyển nhượng cổ phần cho Cố Vấn so với giá trị thị trường của Công Ty tại thời điểm chuyển nhượng.
+	Liablities Of Parties/ Trách Nhiệm Của Các Bên
+	Consultant’s liabilities/ Trách nhiệm của Cố Vấn
+	Consultant pledge to perform the obligation strictly according to ethical standards, commercial practices, business practices, and legal provisions;
+	Cố Vấn cam kết sẽ thực hiện công việc đúng với các chuẩn mực đạo đức, thói quen thương mại, tập quán kinh doanh và quy định pháp luật;
+	Consultant represents and warranties that the execution and performance of Contract shall not violate any law or any agreement between Consultant and any third party. In addition, Consultant commits to hold Company harmless against any and all compensation and liability regarding the Services performance of Consultant under Contract.
+	Cố vấn cam đoan, cam kết việc giao kết và thực hiện Hợp Đồng sẽ không vi phạm quy định pháp luật hay bất kỳ Hợp đồng, thỏa thuận giữa Cố Vấn với bên thứ ba nào. Đồng thời, Cố Vấn cam kết miễn trừ cho Công Ty khỏi trách nhiệm bồi thường và trách nhiệm liên quan đến phạm vi thực hiện Dịch Vụ của Cố Vấn theo Hợp Đồng này. 
+	Responsibilities of the Company/ Trách nhiệm của Công Ty
+	Obtain the approval of the General Meeting of Shareholders for the decision to allow Consultant to own Shares hereunder;
+	Đạt được sự chấp thuận của Đại Hội Đồng Cổ Đông đối với quyết định cho phép Cố Vấn được sở hữu Cổ phần theo quy định của Hợp Đồng;
+	Ensure other rights of Consultant herein;
+	Bảo đảm các quyền lợi khác của Cố Vấn theo Hợp Đồng này;
+	Perform necessary works to ensure Consultant’s ownership of shares.
+	Thực hiện các công việc cần thiết nhằm đảm bảo quyền sở hữu cổ phần của Cố Vấn.
+	Confidentiality And Non-Compete/ Bảo Mật Và Chống Cạnh Tranh
+	The contents of Contract and this Contract as well as the information disclosed by Parties ("Confidential Information") shall be kept confidential and not disclosed to a third party unless otherwise requested by competent government authorities. 
+	Các nội dung của Hợp Đồng và cả Hợp Đồng này cũng như các thông tin được tiết lộ bởi Các Bên (“Thông Tin Bảo Mật”) sẽ được bảo mật và không được tiết lộ cho Bên thứ ba trừ khi được yêu cầu bởi cơ quan nhà nước có thẩm quyền.
+	Confidential Information shall only be used for works that serve the content specified herein.
+	Thông Tin Bảo Mật sẽ chỉ được sử dụng cho các công việc nhằm phục vụ nội dung ghi nhận tại Hợp Đồng này.
+	A third party is any party that is not a Party hereto. Third parties do not include employees, advisers of a Party who need to know Confidential Information to carry out their work.
+	Bên thứ ba là bất kỳ bên nào không phải là một bên của Hợp Đồng này. Bên thứ ba không bao gồm nhân viên, cố vấn của một Bên, những người cần được biết Thông Tin Bảo Mật để thực hiện công việc của họ.
+	The recipient of Confidential Information must maintain necessary confidentiality measures to protect such Confidential Information.
+	Bên nhận Thông Tin Bảo Mật phải duy trì các biện pháp bảo mật cần thiết để bảo vệ các Thông Tin Bảo Mật này.
+	Confidential obligations shall survive the termination of this Contract.
+	Nghĩa vụ bảo mật sẽ duy trì ngay cả khi Hợp Đồng này chấm dứt.
+	During the period of providing the services to Company and within 01 (one) year from the date of termination of Contract, Consultant commit: i) Not to attracting or soliciting any individual or organization that has used to be clients, people who have collaborated with, cooperated with or employees of Company; and ii) Not to providing adverse information or make comments, defame or act in any way that negatively affects the reputation, prestige and honor of Company in media or to the third party during the Contract term and regardless of the Contract’s termination; and iii) At any time, Consultant shall not use any trade name that contains logos, trademarks or trade names, symbols basically similar or confusingly similar with the trademark or name which has been registered or owned by Company.
+	Trong thời gian cung cấp Dịch Vụ cho Công Ty và trong thời hạn 01 (một) năm kể từ ngày chấm dứt Hợp Đồng, Cố Vấn cam kết: i) Không thu hút hoặc lôi kéo bất kỳ cá nhân/tổ chức nào đã từng là khách hàng, những người đã từng cộng tác, hợp tác, người lao động của Công Ty; và ii) Không cung cấp các thông tin bất lợi hoặc có ý kiến, luận điệu, nói xấu hay hành động dưới bất kỳ hình thức nào mà gây ảnh hưởng tiêu cực đến danh tiếng, uy tín, danh dự của Công Ty trên các phương tiện truyền thông hoặc bên thứ ba trong thời hạn Hợp Đồng và ngay cả khi Hợp Đồng chấm dứt; và iii) Tại bất kỳ thời điểm nào, Cố Vấn sẽ không sử dụng bất kỳ tên thương mại nào có chứa logo, nhãn hiệu hàng hóa hoặc tên thương mại, biểu tượng, tên kinh doanh về căn bản giống hoặc tương tự gây nhầm lẫn với nhãn hiệu hoặc tên kinh doanh đã được Công Ty đăng ký sở hữu hoặc sử dụng.
+	Termination And Consequences / Chấm Dứt Hợp Đồng Trước Thời Hạn Và Hệ Quả
+	Contract is terminated before its term in the following cases:
+	Hợp Đồng được chấm dứt trước thời hạn trong các trường hợp sau
+	Force majeure events prevents a Party from continuing to perform Contract for 30 (thirty) days or more. Force majeure event is explained under Vietnamese law;
+	Sự kiện bất khả kháng dẫn đến việc một trong Các Bên gặp phải sự kiện bất khả kháng không thể tiếp tục thực hiện Hợp Đồng từ 30 (ba mươi) ngày trở lên. Sự kiện bất khả kháng được giải thích theo quy định pháp luật Việt Nam.
+	Parties agree to terminate Contract;
+	Các Bên cùng thỏa thuận chấm dứt Hợp Đồng;
+	A Party breaches Contract and cannot remedy it within 10 (ten) days after receiving the notice of the non-breaching Party;
+	Một Bên vi phạm Hợp Đồng và không thể khắc phục trong vòng 10 (mười) ngày kể từ ngày nhận được thông báo của Bên bị vi phạm;
+	In case Consultant violates the obligations of information confidentiality and non-compete within the term of Contract, Company is entitled to unilaterally terminate Contract immediately and not liable to pay any sum of money, shares.
+	Trường hợp Cố Vấn vi phạm nghĩa vụ Bảo mật thông tin và chống cạnh tranh trong thời hạn của Hợp Đồng này, Công Ty có quyền đơn phương chấm dứt Hợp Đồng ngay lập tức mà không phải thanh toán bất kỳ khoản tiền và cổ phần nào.	
+	Consequences of Contract termination/ Hậu quả của việc chấm dứt Hợp Đồng
+	The rights and obligations of Parties in Contract are terminated, except for provisions on Information Confidentiality, the provisions on non-compete, non-solicitation and compensations for damages;
+	Các quyền và nghĩa vụ của Các Bên theo Hợp Đồng chấm dứt trừ điều khoản về Bảo mật thông tin, điều khoản về không cạnh tranh, không lôi kéo và bồi thường thiệt hại;
+	If either Party unilaterally terminates Contract illegally and/or contravenes with the Contract’s provisions, such Party must compensate for the other Party for all damages and expenses arising from the illegal termination.
+	Nếu Bên nào đơn phương chấm dứt Hợp Đồng trái luật và/hoặc trái với quy định Hợp Đồng, thì phải bồi thường cho Bên kia toàn bộ các thiệt hại và chi phí phát sinh do hành vi chấm dứt trái pháp luật gây ra cho bên kia.
+	General Provisions/ Điều Khoản Chung
+	Any amendments and supplement to any terms and/or issues of Contract must be made in Annex and agreed by Parties. Annex of the Contract shall be signed by Parties and be an integral part of Contract.
+	Mọi sửa đổi, bổ sung các điều khoản và/hoặc vấn đề nào trong Hợp Đồng này đều phải lập thành Phụ lục Hợp Đồng và phải được sự đồng ý của Các Bên. Phụ lục Hợp Đồng phải có chữ ký hợp pháp của Các Bên và là một phần không thể tách rời của Hợp Đồng này.
+	In case Company has division, demerger, merger, change of business form or any other changes related to the ownership, management and administration of Company, the terms agreed herein shall not be affected and binding assignor(s).
+	Trường hợp Công ty có sự chia, tách, sáp nhập, thay đổi loại hình hay bất kỳ thay đổi nào khác có liên quan đến quyền sở hữu, quản lý, điều hành của Công ty thì các điều khoản thỏa thuận theo Hợp Đồng này không bị chi phối, Hợp Đồng này vẫn có giá trị thực hiện cho (các) Bên kế thừa.
+	The violating party shall be exempted from the liability hereunder due to the Force Majeure event if all conditions as following are satisfied: i) Violates the contractual obligations, fails to comply with commitments and causes damage to the other Party because of the Force Majeure event which is defined in Vietnamese law; and ii) The violating party notified in writing to the other Party within seven (07) days from the occurrence or acknowledge of the Force Majeure event.
+	Bên vi phạm sẽ được miễn trừ các trách nhiệm theo Hợp Đồng này với lý do vì Sự kiện Bất khả kháng nếu đáp ứng đủ các điều kiện: i) Vi phạm nghĩa vụ Hợp Đồng, không tuân thủ các cam kết và gây thiệt hại cho Bên còn lại trong điều kiện Sự kiện Bất khả kháng theo định nghĩa theo pháp luật Việt Nam; và ii) Bên vi phạm đã thực hiện nghĩa vụ Thông báo bằng văn bản cho Bên còn lại trong vòng bảy (07) ngày kể từ khi xảy ra hoặc biết được sự kiện Bất khả kháng.	
+	Consultant is only entitled to receive profit-distribution after being legally recorded as the owner of the percentage of Shares which obtained from Contract.
+	Cố Vấn chỉ được quyền nhận phân chia lợi nhuận sau khi đã được ghi nhận hợp pháp là chủ sở hữu của % (phần trăm) cổ phần có được từ Hợp Đồng này.	 
+	The laws of Vietnam shall be applied to settle disputes arising from Contract.
+	Các quy phạm pháp luật Việt Nam sẽ được áp dụng để xử lý các tranh chấp phát sinh từ Hợp Đồng này.	
+	If any provision of Contract becomes void, illegal or unenforceable, such invalid, unlawful or unenforceable provisions shall not affect the remaining provisions of Contract.
+	Nếu bất kỳ quy định nào của Hợp Đồng này trở nên vô hiệu, trái luật hoặc không có khả năng thi hành, thì những điều khoản vô hiệu, trái luật hoặc không có khả năng thi hành đó sẽ không ảnh hưởng đến các điều khoản còn lại của Hợp Đồng này.	
+	When arising dispute from or related to Contract, Parties shall attempt to negotiate, mediate to resolve it. If Parties are unable to resolve themselves, the competent Court shall resolve the dispute.
+	Khi có tranh chấp phát sinh từ hoặc liên quan đến Hợp Đồng này, Các Bên sẽ nỗ lực thực hiện việc thương lượng, hòa giải để giải quyết. Nếu không thể tự giải quyết, tranh chấp sẽ được giải quyết bởi Tòa án có thẩm quyền.	
+	The Contract is made in two (02) bilingual versions, each Party keeps one (01) copy with equal legal validity. In case of inconsistency between Vietnamese and English contents, English content shall prevail.
+	Hợp Đồng này đã được lập thành hai (02) bản song ngữ, mỗi Bên giữ một (01) bản có giá trị pháp lý như nhau. Trường hợp có sự mâu thuẫn giữa nội dung Tiếng Việt và Tiếng Anh, nội dung Tiếng Anh được ưu tiên áp dụng.	
 For evidence, Parties sign and seal below/ Để làm bằng chứng, Các Bên ký tên và đóng dấu dưới đây:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+COMPANY/ CÔNG TY
+(Sign, seal)/ (Ký tên, đóng dấu)
+CONSULTANT/ CỐ VẤN
+(Sign)/ (Ký tên)
 ANNEX 1./ PHỤ LỤC 1.
 APPROVAL/ SỰ CHẤP THUẬN
-
 GENERAL MEETING OF SHAREHOLDERS OF DBR JOINT STOCK COMPANY (Enterprise code: 0315804xxx), pursuant to Company’s Charter and and the consent of the Shareholders in the meeting of General Meeting of Shareholders, decide to approve the following contents:
 ĐẠI HỘI ĐỒNG CỔ ĐÔNG CÔNG TY CỔ PHẦN …………………… (MSDN: 0315804xxx), căn cứ Điều Lệ của Công Ty và vào sự nhất trí của các Cổ Đông trong cuộc họp Đại Hội Đồng Cổ Đông quyết định chấp thuận các nội dung sau: 
-Ratify and approve the Shares information that Company shall issue to Consultant under Contract.
-Thông qua và chấp thuận thông tin Cổ Phần mà Công Ty sẽ phát hành cho Cố Vấn theo Hợp Đồng. 
-Nominate Mr.  - Legal representative of Company to sign the Contract.
-Tiến hành cử Ông - Đại diện theo pháp luật của Công Ty để ký kết Hợp Đồng.
-
-The General Meeting of Shareholders shall carry out the necessary works within its authority to complete the works under the Contract.
-Đại Hội Đồng Cổ Đông sẽ tiến hành các công việc cần thiết trong phạm vi thẩm quyền quyết định của mình để hoàn tất các Công việc theo Hợp Đồng này.
-
-"""
+	Ratify and approve the Shares information that Company shall issue to Consultant under Contract.
+	Thông qua và chấp thuận thông tin Cổ Phần mà Công Ty sẽ phát hành cho Cố Vấn theo Hợp Đồng. 
+	Nominate Mr.  - Legal representative of Company to sign the Contract.
+	Tiến hành cử Ông - Đại diện theo pháp luật của Công Ty để ký kết Hợp Đồng.
+	
+	The General Meeting of Shareholders shall carry out the necessary works within its authority to complete the works under the Contract.
+	Đại Hội Đồng Cổ Đông sẽ tiến hành các công việc cần thiết trong phạm vi thẩm quyền quyết định của mình để hoàn tất các Công việc theo Hợp Đồng này.
+	
+Signature of shareholder
+(Chữ ký Cổ đông) 
+Signature of shareholder
+(Chữ ký Cổ đông)
+Signature of shareholder
+(Chữ ký Cổ đông)
+ON BEHALF OF GENERAL MEETING OF SHAREHOLDERS
+TM. ĐẠI HỘI ĐỒNG CỔ ĐÔNG
+Chairman Of The Board/ Chủ Tịch Hội Đồng Quản Trị
+(Sign, seal)/(Ký tên, đóng dấu)
+		Page/ Trang 1"""
 Mau_Hop_dong_dich_vu_bao_tri_song_ngu = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc Lập – Tự Do – Hạnh Phúc
-Socialist Republic of Vietnam
-Independence – Freedom - Happiness
+		Độc Lập – Tự Do – Hạnh Phúc
+		Socialist Republic of Vietnam
+		Independence – Freedom - Happiness
 HỢP ĐỒNG DỊCH VỤ BẢO TRÌ 
 MAINTENANCE SERVICE CONTRACT
 Số /No: D18xx
-Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015;/ Pursuant to Civil Code No. 91/2015/QH13 dated 24/11/2015;
-Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14/06/2005;/ Pursuant to Law on Commerce No. 36/2005/QH11 dated 14/06/2005;
-Căn cứ nhu cầu và khả năng cung ứng của hai Bên/ Based on demand and ability of the two Parties.
+	Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015;/ Pursuant to Civil Code No. 91/2015/QH13 dated 24/11/2015;
+	Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14/06/2005;/ Pursuant to Law on Commerce No. 36/2005/QH11 dated 14/06/2005;
+	Căn cứ nhu cầu và khả năng cung ứng của hai Bên/ Based on demand and ability of the two Parties.
 Hợp Đồng Dịch Vụ Bảo Trì này (dưới đây được gọi là “Hợp đồng”) được lập ngày 01 tháng 01 năm 2023 giữa các Bên sau đây:
 This Maintenance Service Contract (hereinafter referred to as "Contract") is made on 01st January, 2023 between the following Parties:
-BÊN A: 	ABC (VIỆT NAM)
-PARTY A: 	ABC (VIETNAM) CO., LTD.
-Địa chỉ: 		………., xã Lộc Vĩnh, huyện Phú Lộc, tỉnh Thừa Thiên Huế
-Address: 	……., Loc Vinh Commune, Phu Loc District, Thua Thien Hue Province
-	Điện thoại/Tel: 	(+84) 234 369xxxx			Mã số thuế/ Tax code: 330048xxxx
-	Đại diện/ Representative: Ông/Mr. G
-	Chức vụ/ Position: Tổng Giám đốc/General Director			
-BÊN B: 	CÔNG TY TNHH Y
-PARTY B: 	Y  COMPANY LIMITED 
-Địa chỉ: 	……………………….., Quận 12, Tp. Hồ Chí Minh
-Address:	…………………………..,, District 12, HCM City		
-Điện thoại/Tel: 	(+84) 28 6297 xxxx			Mã số thuế/Tax code: 030488xxxx
-Số tài khoản/Account No.: 5304xxx
-Tại/At: 	Ngân Hàng Á Châu (ACB) – Chi nhánh A, Hồ Chí Minh
-	Asia Comercial Bank (ACB) – A Branch, HCMC
-Người thụ hưởng/ Beneficiary: CÔNG TY TNHH A
-Đại diện/ Representative: Bà/Ms. NGUYỄN A		
-Chức vụ/Position: Giám Đốc/ Director
-Hai bên đồng ý ký kết Hợp đồng này với các điều kiện và điều khoản sau:
-Two Parties have agreed to enter into this Contract with the following terms and conditions:
-Điều 1: 	Dịch Vụ Và Thực Hiện Dịch Vụ
-Article 1: 	Service And Service Implementation
-1.1.	Bên B sẽ cung cấp cho Bên A dịch vụ bảo trì hệ thống lò hơi với công việc chi tiết được nêu tại báo giá số D18215/N1 ngày 15/11/2018 đính kèm (sau đây gọi tắt là “Dịch vụ”).
-	Party B shall supply Party A with the maintenance services for steam boiler system with detail specified in quotation No. D18215/N1 dated 15/11/2018 attached herewith (hereinafter referred to as “Service”).
-1.2.	Địa điểm thực hiện/ Location: Nhà lò (LSC), ………, ……., huyện Phú Lộc, tỉnh Thừa Thiên Huế/ Boiler house (LSC), ………, …………, Phu Loc district, Thua Thien Hue province.
-1.3.	Tần suất thực hiện Dịch vụ: 03 đợt trong thời hạn Hợp đồng. Lịch trình, tiến độ và thời gian thực hiện Dịch vụ chi tiết sẽ theo thỏa thuận của các Bên trong quá trình thực hiện Hợp đồng.
-	The frequency of Service implementation will be 03 times during the term of this Contract. The detail schedule, progress and time of Service implementation will be agreed by two Parties during the period of executing this Contract.
-1.4.	Các vấn đề liên quan đến Dịch vụ và việc thực hiện Dịch vụ có thể được điều chỉnh theo thỏa thuận bằng văn bản giữa hai Bên trong các trường hợp sau: 
-	The matters in relation to Service and Service implementation can be adjusted by a written agreement of two Parties in the following cases:
-(i) 	Theo yêu cầu của Đại diện có thẩm quyền của Bên A;
-	Under the request of Party A’s representative;
-(iii) 	Theo yêu cầu của tình hình thực tế mà Bên B đánh giá cần phải điều chỉnh để đảm bảo hoạt động của hệ thống;
-	It is necessary to adjust the Service implementation in order to ensure the stability of the system under the actual situation under assessment of Party B;
-(iii) 	Phát sinh các trường hợp bất khả kháng trong quá trình thực hiện dịch vụ.
-	In cases of force majeure events arising in the progress of Service implementation.
-Điều 2: 	Phí Dịch vụ 
-Article 2: 	Service Fee 
-Chi phí cho tất cả các Dịch vụ được cung cấp theo Hợp đồng này (“Phí Dịch vụ”) là:
-	The fee for all Service supplied under this Contract (“Service Fee”) is:
--	Phí Dịch vụ	: 	xx7.110.000 VNĐ
-	Service Fee	:	VND xx7,110,000
--	Thuế giá trị gia tăng (VAT) - 10%	:   	xx.711.000 VNĐ
-	Value added tax (VAT) - 10%	:	VND x5,711,000
--	Tổng Phí Dịch vụ bao gồm VAT 10%	: 	xxx.821.000 VNĐ
-	Bằng chữ: Một trăm bảy mươi hai triệu tám trăm hai mươi mốt ngàn đồng.
-	Total Service Fee, inclusive of 10% VAT:	VND xxx,821,000
-	In words: One hundred seventy two million, eight hundred twenty one thousand, Vienam dongs.
--	Phí Dịch vụ cho mỗi đợt thực hiện	:	x7.607.000 VNĐ (bao gồm VAT 10%)
-	Service Fee for each time	:	VND x7,607,000 (inclusive of 10%VAT)
-	of Service implementation
-Phí Dịch vụ nêu tại Điều 2.1 trên chưa bao gồm vật tư, thiết bị thay thế, và chi phí cho việc kiểm tra xử lý đột xuất các sự cố phát sinh ngoài lịch trình và tiến độ đã thỏa thuận theo yêu cầu của Bên A (trừ trường hợp các sự cố phát sinh do lỗi của Bên B trong quá trình thực hiện Dịch vụ). 
-	Service Fee mentioned in Clause 2.1 above is exclusive of expenses for replacement of materials, equipments and expenses for checking, handling the arising breakdown which is out of agreed schedule as per Party A’s request (unless the arising breakdown is as a result of Party B’s faults).
-Chi phí kiểm tra xử lý sự cố đột xuất theo quy định tại Khoản 2.2 Điều này là: x5x620.000 VNĐ/ 02 ngày/ 01 người. Trong trường hợp này, hai Bên sẽ thỏa thuận thời gian, số lượng nhân sự cần thiết để thực hiện Dịch vụ và chi phí (nếu có điều chỉnh) trước khi thực hiện.
-	The expenses for checking and handling unscheduled breakdown as provided at Clause 2.2 this Article is: VND xx,620,000/ 02 days/ a person. In this case, two Parties shall agree the time, the number of personnel necessary for Service implementation and fee (if adjusted) prior to implementing.
-Phí Dịch vụ sẽ không thay đổi trong suốt thời gian thực hiện Hợp đồng nếu Bên B thực hiện đúng yêu cầu nội dung công việc tại Điều 1 của Hợp đồng và đảm bảo chất lượng công việc.
-	The Service Fee will not change during the term of Contract if Party B executes accurately and fully all Service set forth at Article 1 hereof and ensures the quality of Service. 
-Bất kỳ sự thay đổi phát sinh về Phí Dịch vụ sau khi ký Hợp đồng này phải được sự thỏa thuận bằng văn bản với chữ ký của Đại diện có thẩm quyền của cả hai bên trước khi thực hiện.
-	Any changes arising in relation to the Service Fee after signing this Contract will be agreed and made in writing by authorized representatives of both Parties before implementing.
-Điều 3: 	Thanh Toán
-Article 3: 	Payment
-Thời hạn thanh toán/ Payment term: 
-	Bên A sẽ thanh toán Phí Dịch vụ cho mỗi đợt thực hiện Dịch vụ và/hoặc cho mỗi lần phát sinh trường hợp xử lý sự cố đột xuất theo Khoản 2.2 và 2.3 Điều 2 Hợp đồng này trong vòng 15 ngày kể từ ngày Bên A nhận được đề nghị thanh toán, biên bản nghiệm thu có xác nhận của hai Bên và hóa đơn GTGT tương ứng hợp lệ.
-	Party A shall make payment of Service Fee for each time of Service implementation and/or for each time of handling unscheduled breakdown under Clause 2.2 and 2.3 Article 2 hereof within 15 days after Party A has receiced fully the payment request, final acceptance minutes having confirmation of both Parties and valid VAT invoice.
-Đề nghị thanh toán do Bên B phát hành sẽ thể hiện rõ các Dịch vụ đã thực hiện và chi tiết chi phí liên quan cần được chi trả.
-	Payment request issued by Party B will indicate clearly the implemented Service and the details of payable costs and expenses.
-Phương thức thanh toán: chuyển khoản vào tài khoản ngân hàng của Bên B.
-	Payment method: bank transfer into Party B’s bank account.
-3.4.	Đồng tiền thanh toán: Việt Nam Đồng.
-	Payment currency: Vietnamese Dong.
-Điều 4: 	Trách nhiệm các Bên
-Article 4: 	Liability of Parties
-4.1.	Trách nhiệm của Bên A
-	Responsibilities of Party A:
-(i)	Tạo điều kiện thuận lợi để Bên B thực hiện công việc đảm bảo đúng tiến độ;
-	Creating favorable conditions for Party B to ensure agreed progress;
-(ii) 	Cử đại diện có thẩm quyền để hướng dẫn, kiểm tra, giám sát việc thực hiện Hợp đồng của Bên B và ký xác nhận biên bản nghiệm thu;
-	Appointing the duly representative to instruct, inspect, supervise Party B’s execution and confirm the final acceptance minutes;
-(iii) 	Khắc phục những vi phạm hoặc hành vi dẫn đến chậm trễ tiến độ của Bên B theo thông báo bằng văn bản của Bên B;
-	Taking remedy of violation which is the reason leading to the delay in completion of Party B in accordance with the written notice of Party B;
-(iv) 	Vận hành thiết bị máy móc theo đúng yêu cầu kỹ thuật, bảo đảm an toàn.
-	Operating all equipment according safety techniques;
-(v) 	Thanh toán đầy đủ và đúng hạn cho Bên B như đã thỏa thuận ở Điều 3.
-	Making payment fully and on time to Party B as agreed in Article 3.
-4.2. 	Trách nhiệm Bên B:
-	Responsibilities of Party B:
-(i) 	Chịu trách nhiệm về chất lượng Dịch vụ, đảm bảo thực hiện đầy đủ và đúng tiến độ theo thỏa thuận;
-	Being responsible for the quality of Service, ensure full implementation and on schedule as agreed.
-(ii) 	Thông báo kịp thời cho Bên A những vật tư, thiết bị cần sửa chữa, thay thế;
-	Promptly notifying Party A about the materials and equipments that need to be repaired, replaced;
-(iii) 	Tuân thủ các chỉ dẫn của nhân sự Bên A và các quy định nội bộ của Bên A trong quá trình thực hiện Dịch vụ.
-	Complying with the instruction of Party A’s personnel and the internal regulations of Party A in the process of Service implementation.
-Điều 5:	Phạt vi phạm và Bồi thường thiệt hại
-Article 5:	Penalty and Compensation
-	Nếu một Bên vi phạm bất kỳ nghĩa vụ nào trong Hợp đồng này mà không khắc phục vi phạm trong vòng 05 ngày làm việc kể từ khi nhận được yêu cầu của Bên kia, Bên đó sẽ có nghĩa vụ thanh toán một khoản phạt tương đương 08% phần giá trị hợp đồng bị vi phạm và bồi thường các tổn thất và thiệt hại thực tế gây ra cho Bên kia.
-	If either Party breaches any obligation herein and fails to remedy such breach within 05 working days after receipt of request from the other Party, such Party shall have obligation to pay a penalty of 08% of the breached contract value and to compensate any actual losses and damages caused for the other Party.
-Điều 6: 	Hiệu lực – Chấm dứt Hợp đồng
-Article 6: 	Validity – Termination
-6.1.	Hợp đồng này có hiệu lực 01 (một) năm kể từ ngày ký và có thể chấm dứt trước khi hết hạn theo các quy định tại Khoản 6.2 Điều này. Hợp đồng sẽ tự động được thanh lý nếu cả hai Bên đã thực hiện đầy đủ các nghĩa vụ của mình theo quy định tại Hợp đồng và không phát sinh tranh chấp nào trong thời gian 30 ngày sau đó.
-	This Contract shall maintain effect within 01 (one) year from the signing date and can be terminated prior to the expiration date in accordance with the provisions at Clause 6.2 this Article. This Contract is automatically liquidated if both Parties fulfill all of their obligations under herein and there is no dispute within 30 days after that.
-6.2.	Hợp đồng này sẽ chấm dứt theo thỏa thuận bằng văn bản của hai Bên hoặc theo thông báo bằng văn bản được gửi bởi một Bên cho Bên kia tối thiếu 30 ngày trước ngày dự kiến chấm dứt hoặc tối thiểu 07 ngày trước ngày dự kiến chấm dứt trong một trong các trường hợp sau đây:
-	This Contract shall be terminated under agreement in writing of two Parties or under a written notice sent by either Party to the other Party at least 30 days prior to the estimated date of termination or at least 07 days prior to the estimated date of termination in one of following circumstances:
-(i)	Do sự kiện bất khả kháng như được quy định tại Điều 7 Hợp đồng này;
-	Due to Force Majeure events as stipulated at Article 7 herein; 
-(ii)	Một Bên lâm vào tình trạng phá sản hoặc đang tiến hành giải thể;
-	If either Party engages in corrupt or fraudulent practices;
-(iii)	Một Bên vi phạm bất kỳ nghĩa vụ nào theo Hợp đồng này và không khắc phục những vi phạm đó trong vòng 15 ngày sau khi được yêu cầu bằng văn bản bởi Bên kia.
-	Either Party violates any of its obligations under this Contract and fails to remedy within 15 days after being required by notice in writing to do so by the other Party.
-6.3. 	Trong trường hợp chấm dứt theo Khoản 2 Điều này, các Bên sẽ thỏa thuận lại trách nhiệm và giá trị Hợp đồng. Việc chấm dứt Hợp đồng theo quy định này sẽ không loại trừ các Bên khỏi nghĩa vụ phạt vi phạm, bồi thường thiệt hại hoặc giải quyết khiếu nại.	
-	In case of termination under the above Clause 2 hereof, the Parties shall disscuss the contractual liability and Contract value. This termination shall not release the Parties from the obligations of penalty, compensation or handling claims.
-Điều 7:	Bất khả kháng
-Article 7: 	Force Majeure
-7.1.	Bất khả kháng nghĩa là bất kỳ sự kiện nào vượt quá tầm kiểm soát của các Bên trong Hợp đồng này và không thể khắc phục bởi tất cả các biện pháp cần thiết đã được thực hiện, bao gồm (nhưng không giới hạn) quyết định của Chính phủ hoặc cơ quan có thẩm quyền, chiến tranh, bạo động, đóng cửa nhà máy, nổi loạn, dịch bệnh, thiên tai, hỏa hoạn, hoặc bất kỳ sự kiện nào có tính chất tương tự. 
-	Force Majeure means any circumstances beyond the control of the Parties to this Contract and is not able to be remedied by all possible necessary admissible measures being taken, including (but not limited to) requisition by government or authority, wars, strikes, lockouts, riots, epidemic disease, act of God, fire, or any event having similar nature.
-7.2.	Một Bên sẽ được miễn việc thực hiện nghĩa vụ của mình theo Hợp đồng này khi bị cản trở bởi sự kiện Bất khả kháng nhưng chỉ sau khi Bên bị ảnh hưởng đã gửi thông báo cho Bên kia trong vòng 48 giờ từ ngày bắt đầu của sự kiện đó và đã thực hiện những nỗ lực để ngăn chặn, hạn chế các rủi ro, thiệt hại gây ra bởi sự kiện Bất khả kháng. Nếu hậu quả của sự kiện Bất khả kháng kéo dài hơn 60 ngày liên tiếp, một Bên sẽ có quyền chấm dứt Hợp đồng theo quy định tại Điều 6 của Hợp đồng này.
-	Either Party shall be excused from performing its obligations under this Contract when substantially prevented by the Force Majeure but only after the affected Party has served notice hereof to other Party within 48 hours from the beginning date of the event and make best efforts to prevent, limit risks, damages caused by such Force Majeure. Should the effect of the Force Majeure continue for more than 60 consecutive days, then either Party shall have the right to terminate the Contract under the provision at Article 6 hereof. 
-Điều 8:	Giải quyết tranh chấp
-Article 8: 	Dispute resolution 
+	BÊN A: 	ABC (VIỆT NAM)
+	PARTY A: 	ABC (VIETNAM) CO., LTD.
+			Địa chỉ: 		………., xã Lộc Vĩnh, huyện Phú Lộc, tỉnh Thừa Thiên Huế
+	Address: 	……., Loc Vinh Commune, Phu Loc District, Thua Thien Hue Province
+					Điện thoại/Tel: 	(+84) 234 369xxxx			Mã số thuế/ Tax code: 330048xxxx
+		Đại diện/ Representative: Ông/Mr. G
+				Chức vụ/ Position: Tổng Giám đốc/General Director			
+		BÊN B: 	CÔNG TY TNHH Y
+		PARTY B: 	Y  COMPANY LIMITED 
+	Địa chỉ: 	……………………….., Quận 12, Tp. Hồ Chí Minh
+	Address:	…………………………..,, District 12, HCM City		
+	Điện thoại/Tel: 	(+84) 28 6297 xxxx			Mã số thuế/Tax code: 030488xxxx
+	Số tài khoản/Account No.: 5304xxx
+	Tại/At: 	Ngân Hàng Á Châu (ACB) – Chi nhánh A, Hồ Chí Minh
+		Asia Comercial Bank (ACB) – A Branch, HCMC
+	Người thụ hưởng/ Beneficiary: CÔNG TY TNHH A
+	Đại diện/ Representative: Bà/Ms. NGUYỄN A		
+	Chức vụ/Position: Giám Đốc/ Director
+	Hai bên đồng ý ký kết Hợp đồng này với các điều kiện và điều khoản sau:
+	Two Parties have agreed to enter into this Contract with the following terms and conditions:
+	Điều 1: 	Dịch Vụ Và Thực Hiện Dịch Vụ
+	Article 1: 	Service And Service Implementation
+	1.1.	Bên B sẽ cung cấp cho Bên A dịch vụ bảo trì hệ thống lò hơi với công việc chi tiết được nêu tại báo giá số D18215/N1 ngày 15/11/2018 đính kèm (sau đây gọi tắt là “Dịch vụ”).
+		Party B shall supply Party A with the maintenance services for steam boiler system with detail specified in quotation No. D18215/N1 dated 15/11/2018 attached herewith (hereinafter referred to as “Service”).
+	1.2.	Địa điểm thực hiện/ Location: Nhà lò (LSC), ………, ……., huyện Phú Lộc, tỉnh Thừa Thiên Huế/ Boiler house (LSC), ………, …………, Phu Loc district, Thua Thien Hue province.
+	1.3.	Tần suất thực hiện Dịch vụ: 03 đợt trong thời hạn Hợp đồng. Lịch trình, tiến độ và thời gian thực hiện Dịch vụ chi tiết sẽ theo thỏa thuận của các Bên trong quá trình thực hiện Hợp đồng.
+		The frequency of Service implementation will be 03 times during the term of this Contract. The detail schedule, progress and time of Service implementation will be agreed by two Parties during the period of executing this Contract.
+	1.4.	Các vấn đề liên quan đến Dịch vụ và việc thực hiện Dịch vụ có thể được điều chỉnh theo thỏa thuận bằng văn bản giữa hai Bên trong các trường hợp sau: 
+		The matters in relation to Service and Service implementation can be adjusted by a written agreement of two Parties in the following cases:
+	(i) 	Theo yêu cầu của Đại diện có thẩm quyền của Bên A;
+		Under the request of Party A’s representative;
+	(iii) 	Theo yêu cầu của tình hình thực tế mà Bên B đánh giá cần phải điều chỉnh để đảm bảo hoạt động của hệ thống;
+		It is necessary to adjust the Service implementation in order to ensure the stability of the system under the actual situation under assessment of Party B;
+	(iii) 	Phát sinh các trường hợp bất khả kháng trong quá trình thực hiện dịch vụ.
+		In cases of force majeure events arising in the progress of Service implementation.
+	Điều 2: 	Phí Dịch vụ 
+	Article 2: 	Service Fee 
+	Chi phí cho tất cả các Dịch vụ được cung cấp theo Hợp đồng này (“Phí Dịch vụ”) là:
+		The fee for all Service supplied under this Contract (“Service Fee”) is:
+				-	Phí Dịch vụ	: 	xx7.110.000 VNĐ
+					Service Fee	:	VND xx7,110,000
+				-	Thuế giá trị gia tăng (VAT) - 10%	:   	xx.711.000 VNĐ
+					Value added tax (VAT) - 10%	:	VND x5,711,000
+				-	Tổng Phí Dịch vụ bao gồm VAT 10%	: 	xxx.821.000 VNĐ
+					Bằng chữ: Một trăm bảy mươi hai triệu tám trăm hai mươi mốt ngàn đồng.
+					Total Service Fee, inclusive of 10% VAT:	VND xxx,821,000
+		In words: One hundred seventy two million, eight hundred twenty one thousand, Vienam dongs.
+			-	Phí Dịch vụ cho mỗi đợt thực hiện	:	x7.607.000 VNĐ (bao gồm VAT 10%)
+				Service Fee for each time	:	VND x7,607,000 (inclusive of 10%VAT)
+				of Service implementation
+		Phí Dịch vụ nêu tại Điều 2.1 trên chưa bao gồm vật tư, thiết bị thay thế, và chi phí cho việc kiểm tra xử lý đột xuất các sự cố phát sinh ngoài lịch trình và tiến độ đã thỏa thuận theo yêu cầu của Bên A (trừ trường hợp các sự cố phát sinh do lỗi của Bên B trong quá trình thực hiện Dịch vụ). 
+		Service Fee mentioned in Clause 2.1 above is exclusive of expenses for replacement of materials, equipments and expenses for checking, handling the arising breakdown which is out of agreed schedule as per Party A’s request (unless the arising breakdown is as a result of Party B’s faults).
+	Chi phí kiểm tra xử lý sự cố đột xuất theo quy định tại Khoản 2.2 Điều này là: x5x620.000 VNĐ/ 02 ngày/ 01 người. Trong trường hợp này, hai Bên sẽ thỏa thuận thời gian, số lượng nhân sự cần thiết để thực hiện Dịch vụ và chi phí (nếu có điều chỉnh) trước khi thực hiện.
+		The expenses for checking and handling unscheduled breakdown as provided at Clause 2.2 this Article is: VND xx,620,000/ 02 days/ a person. In this case, two Parties shall agree the time, the number of personnel necessary for Service implementation and fee (if adjusted) prior to implementing.
+		Phí Dịch vụ sẽ không thay đổi trong suốt thời gian thực hiện Hợp đồng nếu Bên B thực hiện đúng yêu cầu nội dung công việc tại Điều 1 của Hợp đồng và đảm bảo chất lượng công việc.
+		The Service Fee will not change during the term of Contract if Party B executes accurately and fully all Service set forth at Article 1 hereof and ensures the quality of Service. 
+		Bất kỳ sự thay đổi phát sinh về Phí Dịch vụ sau khi ký Hợp đồng này phải được sự thỏa thuận bằng văn bản với chữ ký của Đại diện có thẩm quyền của cả hai bên trước khi thực hiện.
+		Any changes arising in relation to the Service Fee after signing this Contract will be agreed and made in writing by authorized representatives of both Parties before implementing.
+		Điều 3: 	Thanh Toán
+		Article 3: 	Payment
+		Thời hạn thanh toán/ Payment term: 
+				Bên A sẽ thanh toán Phí Dịch vụ cho mỗi đợt thực hiện Dịch vụ và/hoặc cho mỗi lần phát sinh trường hợp xử lý sự cố đột xuất theo Khoản 2.2 và 2.3 Điều 2 Hợp đồng này trong vòng 15 ngày kể từ ngày Bên A nhận được đề nghị thanh toán, biên bản nghiệm thu có xác nhận của hai Bên và hóa đơn GTGT tương ứng hợp lệ.
+			Party A shall make payment of Service Fee for each time of Service implementation and/or for each time of handling unscheduled breakdown under Clause 2.2 and 2.3 Article 2 hereof within 15 days after Party A has receiced fully the payment request, final acceptance minutes having confirmation of both Parties and valid VAT invoice.
+		Đề nghị thanh toán do Bên B phát hành sẽ thể hiện rõ các Dịch vụ đã thực hiện và chi tiết chi phí liên quan cần được chi trả.
+			Payment request issued by Party B will indicate clearly the implemented Service and the details of payable costs and expenses.
+		Phương thức thanh toán: chuyển khoản vào tài khoản ngân hàng của Bên B.
+			Payment method: bank transfer into Party B’s bank account.
+		3.4.	Đồng tiền thanh toán: Việt Nam Đồng.
+			Payment currency: Vietnamese Dong.
+		Điều 4: 	Trách nhiệm các Bên
+		Article 4: 	Liability of Parties
+	4.1.	Trách nhiệm của Bên A
+		Responsibilities of Party A:
+	(i)	Tạo điều kiện thuận lợi để Bên B thực hiện công việc đảm bảo đúng tiến độ;
+		Creating favorable conditions for Party B to ensure agreed progress;
+	(ii) 	Cử đại diện có thẩm quyền để hướng dẫn, kiểm tra, giám sát việc thực hiện Hợp đồng của Bên B và ký xác nhận biên bản nghiệm thu;
+		Appointing the duly representative to instruct, inspect, supervise Party B’s execution and confirm the final acceptance minutes;
+	(iii) 	Khắc phục những vi phạm hoặc hành vi dẫn đến chậm trễ tiến độ của Bên B theo thông báo bằng văn bản của Bên B;
+		Taking remedy of violation which is the reason leading to the delay in completion of Party B in accordance with the written notice of Party B;
+	(iv) 	Vận hành thiết bị máy móc theo đúng yêu cầu kỹ thuật, bảo đảm an toàn.
+		Operating all equipment according safety techniques;
+	(v) 	Thanh toán đầy đủ và đúng hạn cho Bên B như đã thỏa thuận ở Điều 3.
+		Making payment fully and on time to Party B as agreed in Article 3.
+	4.2. 	Trách nhiệm Bên B:
+		Responsibilities of Party B:
+	(i) 	Chịu trách nhiệm về chất lượng Dịch vụ, đảm bảo thực hiện đầy đủ và đúng tiến độ theo thỏa thuận;
+		Being responsible for the quality of Service, ensure full implementation and on schedule as agreed.
+	(ii) 	Thông báo kịp thời cho Bên A những vật tư, thiết bị cần sửa chữa, thay thế;
+		Promptly notifying Party A about the materials and equipments that need to be repaired, replaced;
+	(iii) 	Tuân thủ các chỉ dẫn của nhân sự Bên A và các quy định nội bộ của Bên A trong quá trình thực hiện Dịch vụ.
+		Complying with the instruction of Party A’s personnel and the internal regulations of Party A in the process of Service implementation.
+	Điều 5:	Phạt vi phạm và Bồi thường thiệt hại
+	Article 5:	Penalty and Compensation
+		Nếu một Bên vi phạm bất kỳ nghĩa vụ nào trong Hợp đồng này mà không khắc phục vi phạm trong vòng 05 ngày làm việc kể từ khi nhận được yêu cầu của Bên kia, Bên đó sẽ có nghĩa vụ thanh toán một khoản phạt tương đương 08% phần giá trị hợp đồng bị vi phạm và bồi thường các tổn thất và thiệt hại thực tế gây ra cho Bên kia.
+		If either Party breaches any obligation herein and fails to remedy such breach within 05 working days after receipt of request from the other Party, such Party shall have obligation to pay a penalty of 08% of the breached contract value and to compensate any actual losses and damages caused for the other Party.
+	Điều 6: 	Hiệu lực – Chấm dứt Hợp đồng
+	Article 6: 	Validity – Termination
+	6.1.	Hợp đồng này có hiệu lực 01 (một) năm kể từ ngày ký và có thể chấm dứt trước khi hết hạn theo các quy định tại Khoản 6.2 Điều này. Hợp đồng sẽ tự động được thanh lý nếu cả hai Bên đã thực hiện đầy đủ các nghĩa vụ của mình theo quy định tại Hợp đồng và không phát sinh tranh chấp nào trong thời gian 30 ngày sau đó.
+		This Contract shall maintain effect within 01 (one) year from the signing date and can be terminated prior to the expiration date in accordance with the provisions at Clause 6.2 this Article. This Contract is automatically liquidated if both Parties fulfill all of their obligations under herein and there is no dispute within 30 days after that.
+	6.2.	Hợp đồng này sẽ chấm dứt theo thỏa thuận bằng văn bản của hai Bên hoặc theo thông báo bằng văn bản được gửi bởi một Bên cho Bên kia tối thiếu 30 ngày trước ngày dự kiến chấm dứt hoặc tối thiểu 07 ngày trước ngày dự kiến chấm dứt trong một trong các trường hợp sau đây:
+		This Contract shall be terminated under agreement in writing of two Parties or under a written notice sent by either Party to the other Party at least 30 days prior to the estimated date of termination or at least 07 days prior to the estimated date of termination in one of following circumstances:
+	(i)	Do sự kiện bất khả kháng như được quy định tại Điều 7 Hợp đồng này;
+		Due to Force Majeure events as stipulated at Article 7 herein; 
+	(ii)	Một Bên lâm vào tình trạng phá sản hoặc đang tiến hành giải thể;
+		If either Party engages in corrupt or fraudulent practices;
+	(iii)	Một Bên vi phạm bất kỳ nghĩa vụ nào theo Hợp đồng này và không khắc phục những vi phạm đó trong vòng 15 ngày sau khi được yêu cầu bằng văn bản bởi Bên kia.
+		Either Party violates any of its obligations under this Contract and fails to remedy within 15 days after being required by notice in writing to do so by the other Party.
+	6.3. 	Trong trường hợp chấm dứt theo Khoản 2 Điều này, các Bên sẽ thỏa thuận lại trách nhiệm và giá trị Hợp đồng. Việc chấm dứt Hợp đồng theo quy định này sẽ không loại trừ các Bên khỏi nghĩa vụ phạt vi phạm, bồi thường thiệt hại hoặc giải quyết khiếu nại.	
+		In case of termination under the above Clause 2 hereof, the Parties shall disscuss the contractual liability and Contract value. This termination shall not release the Parties from the obligations of penalty, compensation or handling claims.
+	Điều 7:	Bất khả kháng
+	Article 7: 	Force Majeure
+	7.1.	Bất khả kháng nghĩa là bất kỳ sự kiện nào vượt quá tầm kiểm soát của các Bên trong Hợp đồng này và không thể khắc phục bởi tất cả các biện pháp cần thiết đã được thực hiện, bao gồm (nhưng không giới hạn) quyết định của Chính phủ hoặc cơ quan có thẩm quyền, chiến tranh, bạo động, đóng cửa nhà máy, nổi loạn, dịch bệnh, thiên tai, hỏa hoạn, hoặc bất kỳ sự kiện nào có tính chất tương tự. 
+		Force Majeure means any circumstances beyond the control of the Parties to this Contract and is not able to be remedied by all possible necessary admissible measures being taken, including (but not limited to) requisition by government or authority, wars, strikes, lockouts, riots, epidemic disease, act of God, fire, or any event having similar nature.
+	7.2.	Một Bên sẽ được miễn việc thực hiện nghĩa vụ của mình theo Hợp đồng này khi bị cản trở bởi sự kiện Bất khả kháng nhưng chỉ sau khi Bên bị ảnh hưởng đã gửi thông báo cho Bên kia trong vòng 48 giờ từ ngày bắt đầu của sự kiện đó và đã thực hiện những nỗ lực để ngăn chặn, hạn chế các rủi ro, thiệt hại gây ra bởi sự kiện Bất khả kháng. Nếu hậu quả của sự kiện Bất khả kháng kéo dài hơn 60 ngày liên tiếp, một Bên sẽ có quyền chấm dứt Hợp đồng theo quy định tại Điều 6 của Hợp đồng này.
+		Either Party shall be excused from performing its obligations under this Contract when substantially prevented by the Force Majeure but only after the affected Party has served notice hereof to other Party within 48 hours from the beginning date of the event and make best efforts to prevent, limit risks, damages caused by such Force Majeure. Should the effect of the Force Majeure continue for more than 60 consecutive days, then either Party shall have the right to terminate the Contract under the provision at Article 6 hereof. 
+	Điều 8:	Giải quyết tranh chấp
+	Article 8: 	Dispute resolution 
 	Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
-A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
-
-Điều 9:	Điều khoản chung	
-Article 9: 	Miscellaneous 
-9.1. 	Thay đổi. Mọi thay đổi hoặc sửa đối Hợp đồng này sẽ có hiệu lực chỉ khi được thỏa thuận bằng văn bản và được ký kết bởi người đại diện có thẩm quyền của các Bên trong Hợp đồng.
-	Modification. No change or modification of this Contract shall be effective unless agreed in writing and signed by the authorized representative of the Parties thereto.
-9.2.	Chuyển giao. Không Bên nào có quyền chuyển giao, chuyển nhượng hoặc các hình thức chuyển quyền khác toàn bộ hoặc bất kỳ phần nào của Hợp đồng này và các quyền và nghĩa vụ theo Hợp đồng này cho bất kỳ bên thứ ba nào mà không có sự chấp thuận trước bằng văn bản bởi Bên còn lại. 
-	Assignment. Neither Party may assign, transfer or otherwise dispose of the whole or part of this Contract and the rights and obligations hereunder to any third party without the prior written consent of the other Party.
-9.3.	Hợp đồng này được lập thành 02 bản chính song ngữ (Anh-Việt), mỗi Bên giữ 01 bản chính có hiệu lực như nhau. Trong trường hợp có sự mâu thuẫn giữa nội dung tiếng Anh và nội dung tiếng Việt, nội dung tiếng Việt sẽ được ưu tiên áp dụng.	
-	This Contract is made in 02 bilingual original versions (English – Vietnamese), each Party keeps 01 original versions with the same validity. In case there is any discrepancy between English content and Vietnamese content, Vietnamese content will prevail. 
-"""
+	A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
+	Điều 9:	Điều khoản chung	
+	Article 9: 	Miscellaneous 
+	9.1. 	Thay đổi. Mọi thay đổi hoặc sửa đối Hợp đồng này sẽ có hiệu lực chỉ khi được thỏa thuận bằng văn bản và được ký kết bởi người đại diện có thẩm quyền của các Bên trong Hợp đồng.
+		Modification. No change or modification of this Contract shall be effective unless agreed in writing and signed by the authorized representative of the Parties thereto.
+	9.2.	Chuyển giao. Không Bên nào có quyền chuyển giao, chuyển nhượng hoặc các hình thức chuyển quyền khác toàn bộ hoặc bất kỳ phần nào của Hợp đồng này và các quyền và nghĩa vụ theo Hợp đồng này cho bất kỳ bên thứ ba nào mà không có sự chấp thuận trước bằng văn bản bởi Bên còn lại. 
+		Assignment. Neither Party may assign, transfer or otherwise dispose of the whole or part of this Contract and the rights and obligations hereunder to any third party without the prior written consent of the other Party.
+	9.3.	Hợp đồng này được lập thành 02 bản chính song ngữ (Anh-Việt), mỗi Bên giữ 01 bản chính có hiệu lực như nhau. Trong trường hợp có sự mâu thuẫn giữa nội dung tiếng Anh và nội dung tiếng Việt, nội dung tiếng Việt sẽ được ưu tiên áp dụng.	
+		This Contract is made in 02 bilingual original versions (English – Vietnamese), each Party keeps 01 original versions with the same validity. In case there is any discrepancy between English content and Vietnamese content, Vietnamese content will prevail. 
+Đại diện hợp pháp của Bên A
+On behalf of Party A
+Đại diện hợp pháp của Bên B
+On behalf of Party B
+____________________________
+G
+Tổng Giám đốc / General Director
+___________________________
+Nguyễn A
+Giám Đốc / Director
+	
+				Trang 1/1"""
 Mau_Hop_dong_dich_vu_marketing_tren_mang_internet = """CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 -----------
@@ -2252,6 +2866,64 @@ Căn cứ Luật quảng cáo 2012;
 Căn cứ Nghị định số 72/2013/NĐ-CP của Chính Phủ ngày 15 tháng 07 năm 2013 về quản lý, cung cấp và sử dụng dịch vụ Internet và thông tin điện tử trên Internet;
 Căn cứ vào nhu cầu và khả năng của hai Bên.
 Hôm nay, ngày ... ... tháng ... ... năm ..... tại TP Hà Nội, chúng tôi gồm có:
+BÊN A:
+................
+ 
+Người đại diện:
+ 
+Chức vụ:
+ 
+Địa chỉ:
+ 
+Địa chỉ viết hóa đơn:
+ 
+ 
+Số điện thoại:
+Fax: 
+ 
+Số tài khoản:
+ 
+ 
+Mã số thuế:
+ 
+Website:
+ 
+Email:
+BÊN B:
+ 
+Người đại diện:
+ 
+Chức vụ:
+ 
+Địa chỉ VPĐD:
+ 
+Số điện thoại:
+Fax: 
+ 
+Trụ sở chính:
+ 
+VP GD HN:
+ 
+Số điện thoại:
+Fax: 
+ 
+Website:
+www.                                  Email:
+ 
+Số tài khoản:
+ 
+ 
+Tên tài khoản
+ 
+ 
+Mã số thuế:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  “Hai Bên” trong hợp đồng này được hiểu là Bên A và Bên B.
 Hai Bên thống nhất ký kết hợp đồng dịch vụ này với các điều khoản cụ thể sau:
 ĐIỀU 1: NGUYÊN TẮC GIAO KẾT HỢP ĐỒNG
@@ -2265,10 +2937,83 @@ Website: www.... thuộc sở hữu của Bên A.
 Công cụ tìm kiếm: Google Việt Nam – www.google.com.vn  ngôn ngữ tiếng Việt
 Dịch vụ Bên B cung cấp nhằm đưa 05 từ khóa lên Top 5 kết quả tìm kiếm tự nhiên của www.google.com.vn.
 Danh sách từ khóa yêu cầu lên Top:
+Stt
+Từ khóa
+Stt
+Từ khóa
+Stt
+Từ khóa
+1
+Luật sư
+2
+Tư vấn luật
+3
+Dịch vụ luật sư
+4
+Luật sư tư vấn
+5
+Tư vấn pháp luật
+ 
+ 
 - Thời hạn: Bên B đảm bảo việc đưa số từ khóa yêu cầu lên Top 5 trong vòng 05 tháng. Thời hạn này được tính từ khi Bên B xác nhận Bên A đã hoàn thiện xong yêu cầu chỉnh sửa tối ưu mà Bên B đã gửi sang. Xác nhận này do bộ phận chăm sóc khách hàng của Bên B gửi bằng mail cho người đầu mối làm việc của Bên A có chuyển thư đến 2 email quản lý của hai Bên.
 - Thời gian duy trì: Thời gian Bên A muốn duy trì các từ khóa của mình trên Top 5 là 06 tháng kể từ thời điểm từ khóa được đẩy lên top yêu cầu.
 ĐIỀU 3: PHÍ DỊCH VỤ VÀ PHƯƠNG THỨC THANH TOÁN
 - Phí dịch vụ:
+Stt
+Từ khóa
+Top
+Chi phí đẩy
+Chi phí duy trì
+Số tháng duy trì
+Thành tiền
+1
+Luật sư
+5
+3.000.000
+1.500.000
+06
+12.000.000
+2
+Tư vấn pháp luật
+5
+3.000.000
+1.500.000
+06
+12.000.000
+3
+Tổng đài tư vấn
+5
+2.500.000
+1.250.000
+06
+10.000.000
+4
+Luật sư riêng
+5
+1.500.000
+750.000
+06
+6.000.000
+5
+Dịch vụ luật sư
+5
+3.000.000
+1.500.000
+06
+12.000.000
+Tổng phí
+52.000.000
+Chiết khấu ưu đãi (nếu có)
+1.000.000
+Chiết khấu thanh toán (nếu có)
+0
+Tổng phí thực trả
+51.000.000
+Thuế VAT (10%)
+5.100.000
+Tổng thanh toán
+56.100.000
+                Bằng chữ:             Năm mươi sáu triệu một trăm nghìn đồng chẵn
 - Hình thức thanh toán: Bên A thanh toán cho Bên B thành các lần như sau:
 - Lần 1: Bên A thanh toán cho Bên B số tiền là 17,500,000 VNĐ (Bằng chữ: mười bảy triệu năm trăm nghìn đồng) trong vòng 05 ngày làm việc kể từ ngày hai bên ký kết hợp đồng này. Thanh toán lần 1 được khấu trừ và xuất hóa đơn vào lần thanh toán cuối cùng.
 Thanh toán chi phí đẩy: Khi 1 trong các từ khóa lên Top yêu cầu, Bên A có nghĩa vụ thanh toán cho Bên B toàn bộ chi phí đẩy của từ khóa đã lên Top yêu cầu trong vòng 05 ngày làm việc kể từ ngày Bên A xác nhận Biên bản nghiệm thu. Biên bản nghiệm thu sẽ được Bên B gửi cho Bên A xác nhận sau khi từ khóa lên Top yêu cầu. Biên bản có giá trị khi Bên A xác nhận hoặc không có phản hồi sau 03 ngày làm việc kể từ thời điểm biên bản được gửi tới bên A.
@@ -2276,6 +3021,52 @@ Thanh toán chi phí duy trì: Khoản phí duy trì  được thanh toán 06 th
 Hóa đơn tài chính sẽ được xuất theo từng lần nghiệm thu và trong vòng 07 ngày sau khi bên A thanh toán đầy đủ số tiền trên biên bản nghiệm thu cho bên B.Phương thức thanh toán: Tiền mặt hoặc chuyển khoản bằng Việt Nam đồng. Bên A chịu mọi chi phí phát sinh liên quan đến việc chuyển khoản.
 Cách thức tính phí
 Chi phí đẩy và chi phí duy trì phụ thuộc vào vị trí thực tế đạt được sau thời gian cam kết đẩy lên Top. Bên A  thanh toán cho bên B cụ thể như sau:
+Stt
+Từ khóa
+Top Cam kết
+Phí đẩy (theo hợp đồng)
+Phí duy trì (theo hợp đồng)
+Thanh toán dựa trên kết quả thực tế của vị trí từ khóa
+5
+6
+7, 8
+9, 10
+1
+Dịch vụ luật sư
+5
+6.000.000
+3.000.000
+100%
+80%
+40%
+20%
+2
+Tổng đài tư vấn luật
+5
+6.000.000
+3.000.000
+100%
+80%
+40%
+20%
+3
+Tư vấn luật
+5
+7.000.000
+3.000.000
+100%
+80%
+40%
+20%
+4
+Dịch vụ pháp luật
+5
+7.000.000
+3.000.000
+100%
+80%
+40%
+20%
 Toàn bộ chi phí được tổng kết ở cuối chiến dịch dựa trên các báo cáo được bên B gửi hàng tháng. Hai bên ký biên bản thanh lý, hoàn thành các nghĩa vụ về về việc thanh toán, tối ưu hóa website với các từ khóa lựa chọn.
 ĐIỀU 4: QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
 Quyền của Bên A:
@@ -2330,6 +3121,15 @@ Trường hợp Bên B thực hiện đầy đủ trách nhiệm của mình the
 ĐIỀU 8: ĐIỀU KHOẢN CHUNG
 - Thông báo: Mọi thông báo và thông tin liên lạc chính thức liên quan đến hợp đồng này sẽ được gửi tới địa chỉ của các Bên như nêu tại phần đầu của hợp đồng hoặc gửi qua email của đầu mối liên hệ hai Bên. Mọi thông báo và thông tin liên lạc khác hoặc thừa nhận được thực hiện theo hợp đồng này sẽ chỉ có hiệu lực nếu được lập thành văn bản, bao gồm cả fax và telex, và chỉ được coi là đã gửi và nhận hợp lệ: (i) khi giao bằng tay có giấy biên nhận; (ii) nếu gửi bưu điện thì 7 ngày làm việc sau khi gửi thư bảo đảm cước phí trả trước, có xác nhận bằng văn bản; (iii) trong trường hợp gửi bằng fax hay telex, khi gửi trong giờ làm việc bình thường tới địa điểm kinh doanh của người nhận, nếu có tín hiệu hay giấy xác nhận đã chuyển; và (iv) nếu gửi bằng dịch vụ giao nhận bảo đảm, khi thực tế đã nhận, và trong bất kỳ trường hợp nào, cũng phải gửi cho các bên tại địa chỉ đã được thông báo bằng văn bản tuỳ từng thời điểm.
 - Đầu mối liên hệ:
+ĐẦU MỐI LIÊN HỆ BÊN A
+ 
+ĐẦU MỐI LIÊN HỆ BÊN B
+Ông/Bà……… và các chuyên viên CSKH
+Email:
+           và các email CSKH của ………
+ĐT: 04 3……… Ext 104-105
+Hot line CSKH: 19006816
+Đầu mối liên hệ của mỗi Bên có quyền đại diện cho mỗi Bên trong mọi vấn đề  liên quan đến việc triển khai hợp đồng này. Nếu một trong hai Bên thay đổi đầu mối liên hệ phải có thông báo bằng văn bản đến địa chỉ của Bên còn lại chậm nhất trong vòng 24 giờ kể từ khi có sự thay đổi đó. Mỗi Bên sẽ không chịu trách nhiệm nếu bên còn lại không hoặc chậm nhận được các thông tin tương tác qua email của người phụ trách do không hoặc chậm thông báo về sự thay đổi đầu mối liên hệ
 - Hai Bên thỏa thuận thiện chí thực hiện các điều khoản đã ký kết trong hợp đồng này, nếu có vấn đề gì bất lợi phát sinh trong quá trình thực hiện hợp đồng, các Bên phải kịp thời thông báo cho nhau biết và chủ động bàn bạc giải quyết trên cơ sở thương lượng đảm bảo hai Bên cùng có lợi.
 - Trường hợp có tranh chấp mà hai Bên không thể tự giải quyết được bằng thương lượng thì một trong hai Bên có quyền đưa tranh chấp ra Tòa án nhân dân nơi đặt trụ sở chính của Bên khởi kiện để giải quyết. Phán quyết của Tòa án là phán quyết cuối cùng buộc các Bên phải thi hành. Chi phí Tòa án do Bên thua kiện thanh toán.
 - Trường hợp xảy ra sự kiện Bất Khả Kháng sẽ giải quyết theo quy định của Bộ Luật Dân sự hiện hành.
@@ -2340,13 +3140,13 @@ Trường hợp Bên B thực hiện đầy đủ trách nhiệm của mình the
 - Hợp đồng này vẫn có giá trị trong những trường hợp một trong hai Bên có sự thay đổi về nhân sự và/hoặc thay đổi về cơ cấu quản lý (sáp nhập, hợp nhất, chuyển đổi, chia, tách).
 - Các phụ lục kèm theo hợp đồng này là một phần không thể tách rời tạo thành một thể thống nhất và có giá trị như một điều khoản trong hợp đồng này.
 Hợp đồng này được lập thành 02 bản tiếng Việt có giá trị pháp lý như nhau, mỗi Bên giữ 01 bản.
-
-"""
+ĐẠI DIỆN BÊN A
+ĐẠI DIỆN BÊN B"""
 Mau_Hop_dong_dich_vu_quang_cao = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
----------
+		---------
 HỢP ĐỒNG DỊCH VỤ QUẢNG CÁO THƯƠNG MẠI
-Số: ………….HĐQCDVTM- ……………….
+			Số: ………….HĐQCDVTM- ……………….
 	
 `	Căn cứ Bộ luật Dân sự số 91/2015/QH13, ngày 14 tháng 11 năm 2015;
 	Căn cứ Luật Thương mại số 36/2005/QH11, ngày 14 tháng 6 năm 2005;
@@ -2368,30 +3168,30 @@ Mã số thuế	: ……………………………………………… 
 Tài khoản số	: ……………………………………………… 
 Do ông (bà)	: ……………………………………………… 
 Chức vụ	: …………………………… làm đại diện.
-Sau khi bàn bạc thảo luận hai bên đồng ý ký hợp đồng quảng cáo với những nội dung và điều khoản sau:
+						Sau khi bàn bạc thảo luận hai bên đồng ý ký hợp đồng quảng cáo với những nội dung và điều khoản sau:
 Điều 1: Nội dung công việc
-	 Bên A thuê bên B làm dịch vụ quảng cáo……………………(tên hàng hóa, dịch vụ cần quảng cáo) bằng hình thức…………… Cụ thể: …………………..
+			 Bên A thuê bên B làm dịch vụ quảng cáo……………………(tên hàng hóa, dịch vụ cần quảng cáo) bằng hình thức…………… Cụ thể: …………………..
 Điều 2: Phương thức, phương tiện quảng cáo
 1 – Phương thức: Yêu cầu nêu được hình thức, chất lượng bằng hình ảnh, biểu tượng, âm thanh, lời nói… có sức hấp dẫn lôi cuốn khách hàng.
 2 – Phương tiện: Yêu cầu quay hình ảnh, vẽ biển hiệu, panô, áp phích, bảng có hộp đèn, chữ nổi, hay trên báo chí, tạp chí, truyền hình…
 Điều 3: Phí dịch vụ và phương thức thanh toán
-1 – Tổng chi phí dịch vụ theo hợp đồng là: …………..đồng (viết bằng chữ).
-Trong đó bao gồm:
-- Phí dịch vụ quảng cáo là: …………………đồng
-- Chi phí về nguyên, vật liệu là: ………….. đồng
-- Các chi phí khác (nếu có) là: …………….. đồng
-2 – Bên A thanh toán cho bên B bằng đồng Việt Nam bằng hình thức ………………………và được chia thành các đợt thanh toán sau:
-Đợt 1: Bên A tạm ứng ………% giá trị hợp đồng ngay sau khi hai bên ký kết Hợp đồng này.
-Đợt 2: Bên A tạm ứng đến ………………% giá trị hợp đồng trong vòng ………….. ngày kể từ ngày ký Hợp đồng này.
-Đợt 3: Phí dịch vụ còn lại………………. Bên A thanh toán ngay sau khi Bên A đồng ý nghiệm thu sản phẩm quảng cáo. 
+		1 – Tổng chi phí dịch vụ theo hợp đồng là: …………..đồng (viết bằng chữ).
+		Trong đó bao gồm:
+		- Phí dịch vụ quảng cáo là: …………………đồng
+		- Chi phí về nguyên, vật liệu là: ………….. đồng
+		- Các chi phí khác (nếu có) là: …………….. đồng
+						2 – Bên A thanh toán cho bên B bằng đồng Việt Nam bằng hình thức ………………………và được chia thành các đợt thanh toán sau:
+						Đợt 1: Bên A tạm ứng ………% giá trị hợp đồng ngay sau khi hai bên ký kết Hợp đồng này.
+						Đợt 2: Bên A tạm ứng đến ………………% giá trị hợp đồng trong vòng ………….. ngày kể từ ngày ký Hợp đồng này.
+						Đợt 3: Phí dịch vụ còn lại………………. Bên A thanh toán ngay sau khi Bên A đồng ý nghiệm thu sản phẩm quảng cáo. 
 Điều 4: Quyền và nghĩa vụ của bên A
-- Bên A có nghĩa vụ cung cấp thông tin trung thực, chính xác về hoạt động sản xuất, hàng hóa dịch vụ thương mại của đơn vị mình và chịu trách nhiệm về các thông tin do mình cung cấp cho bên B.
+						- Bên A có nghĩa vụ cung cấp thông tin trung thực, chính xác về hoạt động sản xuất, hàng hóa dịch vụ thương mại của đơn vị mình và chịu trách nhiệm về các thông tin do mình cung cấp cho bên B.
 - Bên A có quyền lựa chọn hình thức, nội dung, phương tiện, phạm vi và thời hạn quảng cáo thương mại.
 - Khi có sự tranh chấp của bên thứ ba về những nội dung thông tin kinh tế, nhãn hiệu hàng hóa, bản quyền… đối với bên A thì bên A phải tự mình giải quyết, trong trường hợp đó bên B có quyền đơn phương đình chỉ hợp đồng và yêu cầu bên A chịu trách nhiệm bồi thường chi phí cho bên B (nếu có).
 - Bên A có quyền kiểm tra, giám sát việc thực hiện hợp đồng dịch vụ quảng cáo theo nội dung, điều khoản đã ký kết.
 - Trả phí dịch vụ quảng cáo theo thỏa thuận nêu tại Điều 2 của hợp đồng.
 Điều 5: Quyền và nghĩa vụ của bên B
-- Yêu cầu bên thuê quảng cáo thương mại cung cấp thông tin quảng cáo trung thực, chính xác theo đúng thời hạn của hợp đồng .
+						- Yêu cầu bên thuê quảng cáo thương mại cung cấp thông tin quảng cáo trung thực, chính xác theo đúng thời hạn của hợp đồng .
 - Thực hiện dịch vụ quảng cáo thương mại theo đúng thỏa thuận trong hợp đồng.
 - Được nhập khẩu vật tư, nguyên liệu và các sản phẩm quảng cáo thương mại cần thiết cho hoạt động dịch vụ quảng cáo của mình theo quy định của pháp luật.
  - Nhận phí quảng cáo theo thỏa thuận trong hợp đồng.
@@ -2411,46 +3211,52 @@ d. Trong các trường hợp này, nếu ngày tương ứng rơi vào ngày ch
 	Hợp đồng này được lập thành 04 (bốn) bản tiếng Việt có giá trị pháp lý như nhau; mỗi Bên giữ 02 (hai) bản. 
 CÁC THỎA THUẬN KHÁC (Nếu có)
 ...................................................................................... 
-
-"""
-Mau_Hop_dong_dich_vu_quan_ly_toa_nha = """
-
-
-
-
-
-
-HỢP ĐỒNG DỊCH VỤ QUẢN LÝ TÒA NHÀ
+ĐẠI DIỆN BÊN A 
+ĐẠI DIỆN BÊN B
+Chức vụ 
+(Ký tên, đóng dấu)
+Chức vụ
+ (Ký tên, đóng dấu)"""
+Mau_Hop_dong_dich_vu_quan_ly_toa_nha = """HỢP ĐỒNG DỊCH VỤ QUẢN LÝ TÒA NHÀ
 Số: 01/2…..-QLVH
-
-
 Giữa
 Chủ Đầu Tư: …………………..
 Và
 Đơn Vị Quản Lý: Công ty cổ phần …….
 MỤC LỤC
-
-
+		1.	NỘI DUNG HỢP ĐỒNG	3
+		2.	THỜI GIAN QUẢN LÝ, VẬN HÀNH TÒA NHÀ	4
+		3.	PHẠM VI CUNG CẤP DỊCH VỤ	4
+		4.	PHÍ DỊCH VỤ, PHƯƠNG THỨC VÀ THỜI HẠN THANH TOÁN	6
+		5.	QUYỀN VÀ TRÁCH NHIỆM CỦA BÊN A	6
+		6.	QUYỀN VÀ TRÁCH NHIỆM CỦA BÊN B	7
+		7.	CHẤT LƯỢNG CỦA DỊCH VỤ	10
+		8.	CHẤM DỨT HỢP ĐỒNG	10
+		9.	SỰ KIỆN BẤT KHẢ KHÁNG	11
+		10.	ĐIỀU KHOẢN CHUNG	11
+	PHỤ LỤC 1. BẢN VẼ KỸ THUẬT CỦA TÒA NHÀ	13
+	PHỤ LỤC 2. THÔNG TIN TRANG THIẾT BỊ, HẠ TẦNG KỸ THUẬT	14
+	PHỤ LỤC 3. MÔ TẢ CÔNG VIỆC	15
+	PHỤ LỤC 4 - NỘI QUY QUẢN LÝ, SỬ DỤNG TÒA NHÀ	16
 Hợp Đồng Dịch Vụ Quản Lý Tòa nhà này (gọi tắt là “Hợp Đồng”) được lập và có hiệu lực từ ngày __ tháng __ năm 20__ giữa Các Bên dưới đây:
-CHỦ ĐẦU TƯ: Ông 
-Mã số thuế: ______________________________
+		CHỦ ĐẦU TƯ: Ông 
+		Mã số thuế: ______________________________
 Địa chỉ		:
 Đại diện bởi	: _____________________		Chức vụ: _____________
 Điện thoại	: 
-Số Tài khoản	: _____________ - Ngân hàng: ____________________________
-(Sau đây gọi tắt là “Bên A”) 
-VÀ 
-ĐƠN VỊ QUẢN LÝ: CÔNG TY CỔ PHẦN …….
-Mã số thuế      : 031xxxx
-Địa chỉ trụ sở	: _____________________, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam
-Đại diện bởi	: Ông _____________________                Chức vụ: Giám đốc
-Điện thoại	: _____________________
-Email		: _____________________
-Số Tài khoản	: _____________ - Ngân hàng: __________________________________
-(Sau đây gọi tắt là “Bên B”) 
-Bên A và Bên B trong Hợp Đồng này khi gọi riêng là “Bên” và gọi chung là “Các Bên”.
+	Số Tài khoản	: _____________ - Ngân hàng: ____________________________
+	(Sau đây gọi tắt là “Bên A”) 
+	VÀ 
+		ĐƠN VỊ QUẢN LÝ: CÔNG TY CỔ PHẦN …….
+		Mã số thuế      : 031xxxx
+		Địa chỉ trụ sở	: _____________________, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam
+		Đại diện bởi	: Ông _____________________                Chức vụ: Giám đốc
+		Điện thoại	: _____________________
+	Email		: _____________________
+	Số Tài khoản	: _____________ - Ngân hàng: __________________________________
+	(Sau đây gọi tắt là “Bên B”) 
+	Bên A và Bên B trong Hợp Đồng này khi gọi riêng là “Bên” và gọi chung là “Các Bên”.
 Các Bên đồng ý như sau:
-
 NỘI DUNG HỢP ĐỒNG 
 Bên A đồng ý thuê và Bên B đồng ý cung cấp dịch vụ quản lý vận hành (“Dịch Vụ”) cho Tòa nhà ______________________, địa chỉ tại: ……………………………………., Quận Bình Thạnh, Tp.Hồ Chí Minh theo các điều kiện, điều khoản quy định chi tiết tại Hợp Đồng này. 
 Bên B cam kết thực hiện Dịch Vụ với các đặc điểm của Tòa nhà như sau:
@@ -2480,12 +3286,12 @@ Thay mặt Bên A quản lý, cập nhật, phát hành thông báo giá thuê v
 Giám sát công ty bảo trì cơ điện thực hiện việc bảo trì các thiết bị cơ điện hàng tháng, hàng quý, hàng năm theo kế hoạch đã lập và báo cáo định kỳ cho Bên A;
 Quản lý vận hành các hệ thống kỹ thuật tòa nhà; bố trí lịch làm việc của nhân viên kỹ thuật làm việc tại Tòa nhà; giám sát công việc hàng ngày của nhân viên kỹ thuật bao gồm các hạng mục phải kiểm tra cũng như những công việc sửa chữa khác;
 Thực hiện việc sửa chữa đơn giản các thiết bị Tòa nhà: thay bóng đèn, công tắc tại khu vực chung. Bên B chỉ chịu chi phí nhân lực sửa chữa; Bên A chịu trách nhiệm về phần vật tư, thiết bị thay thế thuộc phạm vi quỹ bảo trì; trường hợp khi có các sự cố hỏng hóc kỹ thuật lớn phát sinh, Bên B sẽ điều đồng nhân lực và phương tiện kịp thời hỗ trợ bằng chi phí của Bên A. 
-Thay mặt Bên A làm việc với các cơ quan có liên quan và phối hợp với chính quyền địa phương thực hiện các quy định của pháp luật về an ninh trật tự, vệ sinh môi trường và các phong trào chung;
+	Thay mặt Bên A làm việc với các cơ quan có liên quan và phối hợp với chính quyền địa phương thực hiện các quy định của pháp luật về an ninh trật tự, vệ sinh môi trường và các phong trào chung;
 Đôn đốc, nhắc nhở cư dân thực hiện nội quy quản lý, sử dụng Tòa nhà. Nhắc nhở và hỗ trợ cư dân đăng ký tạm trú khi vào sinh sống tại Tòa nhà; tiếp thu ý kiến và giải quyết khiếu nại của cư dân liên quan đến công tác quản lý vận hành Tòa nhà;
 Tổ chức thực tập phòng cháy, chữa cháy nội bộ định kỳ để các thành viên trong Ban quản lý, bộ phận kỹ thuật, lực lượng bảo vệ, an ninh, bộ phận dịch vụ vệ sinh (và có thể có cư dân); phối hợp với Bên A lập phương án phòng cháy, chữa cháy định kỳ theo quy định để hướng dẫn khách hàng/cư dân Tòa nhà nắm được các bước cần thực hiện khi có tình huống khẩn cấp xảy ra;
 Lựa chọn, ký kết hợp đồng dịch vụ với các nhà thầu có năng lực, có uy tín để cung cấp dịch vụ bảo vệ, dịch vụ giữ xe, dịch vụ duy trì vệ sinh hàng ngày, chăm sóc cây cảnh, xử lý côn trùng...; 
 Báo cáo tình hình quản lý và các chi phí hoạt động hàng tháng, hàng năm 
-Trường hợp khách thuê phòng/căn hộ trong Tòa nhà có yêu cầu riêng (nằm ngoài phạm vi thực hiện và bị ràng buộc theo Hợp Đồng, Bên B có quyền cung cấp dịch vụ có thu phí theo thỏa thuận giữa Bên B với khách thuê (ví dụ: dịch vụ sửa chữa nội thất, dịch vụ vệ sinh gia đình, … và những dịch vụ khác không ảnh hưởng đến cảnh quan Tòa nhà và chất lượng Dịch Vụ của Bên B theo Hợp Đồng này 
+	Trường hợp khách thuê phòng/căn hộ trong Tòa nhà có yêu cầu riêng (nằm ngoài phạm vi thực hiện và bị ràng buộc theo Hợp Đồng, Bên B có quyền cung cấp dịch vụ có thu phí theo thỏa thuận giữa Bên B với khách thuê (ví dụ: dịch vụ sửa chữa nội thất, dịch vụ vệ sinh gia đình, … và những dịch vụ khác không ảnh hưởng đến cảnh quan Tòa nhà và chất lượng Dịch Vụ của Bên B theo Hợp Đồng này 
 Bên B thực hiện công việc quản lý vận hành theo hình thức cung cấp và quản lý nhân sự Ban quản lý, kỹ thuật, kiểm soát, điều hành hoạt động Tòa nhà và chỉ thực hiện các công việc theo ủy quyền quản lý của Bên A.
 Trường hợp Bên B có đủ năng lực thực hiện việc bảo trì phần sở hữu chung của Tòa nhà thì Bên A xem xét, quyết định để ký kết hợp đồng thuê Bên B thực hiện bảo trì phần sở hữu chung của Tòa nhà.
 Bên B tiến hành thành lập các bộ phận cần thiết phục vụ cho việc thực hiện Dịch Vụ diễn ra thuận lợi, bao gồm: 
@@ -2502,7 +3308,6 @@ Nhân viên Kỹ thuật: 01 người
 Nhân viên có chuyên môn về điện, nước, vận hành máy móc trang thiết bị, hạ tầng cơ sở, kịp thời giải quyết sự cố (nếu có).
 Đảm bảo máy móc thiết bị luôn hoạt động an toàn  
 Chi tiết công việc của 04 vị trí trên được mô tả cụ thể tùy thuộc vào kết cấu Tòa nhà tại Phụ Lục 3 đính kèm.  
-
 PHÍ DỊCH VỤ, PHƯƠNG THỨC, THỜI HẠN THANH TOÁN VÀ TIỀN ĐẶT CỌC
 Phí Dịch Vụ hàng tháng: 
 Phí Dịch Vụ hàng tháng là: 20,000,000 VNĐ/tháng. 
@@ -2513,33 +3318,32 @@ Doanh số đạt dưới 80% công suất: Bên B chỉ được nhận 50% ph�
 Doanh số đạt được từ 80% đến 85% công suất: Bên B được nhận 100% phí dịch vụ quản lý
 Doanh số đạt trên 85% công suất: Ngoài 100% phí dịch vụ quản lý, Bên B còn được nhận khoản hoa hồng 25% của phần chênh lệch giữa doanh số đạt được so với doanh số 85% chuẩn.
 Đối với các hợp đồng thuê phòng, căn hộ đầu tiên khi bắt đầu tiếp nhận quản lý vận hành tòa nhà, Bên B sẽ được hưởng hoa hồng 30% giá thuê một tháng. Sau đợt đầu tiên này, các hợp đồng mới sẽ chỉ được hưởng mức hoa hồng 20% giá thuê. Khoản hoa hồng này sẽ được Bên A thanh toán cho Bên B ngay sau khi khách thuê hoàn tất việc ký kết hợp đồng thuê và thanh toán đủ tiền cọc, tiền thuê tháng đầu tiên.
-
 Thời hạn và phương thức thanh toán: 
 Thời hạn thanh toán: 
 Đối với Phí Dịch Vụ, Bên A tiến hành thanh toán cho Bên B trong thời hạn 05 (năm) ngày kể từ ngày Bên B gửi hồ sơ thanh toán cho Bên A. Trường hợp chậm thanh toán, Bên A phải chịu một khoản phạt chậm trả tương ứng 0,1% Phí Dịch Vụ của tháng đó.
 Đối với những dịch vụ Bên A ủy quyền cho Bên B thực hiền, Bên A có trách nhiệm thanh toán cho Bên B trong thời hạn 05 (năm) năm ngày kể từ ngày nhận được chứng từ hợp lệ do Bên B cung cấp. Trường hợp không thanh toán, Phí thực hiện Dịch Vụ do Bên A chịu trách nhiệm chi trả cho đơn vị cung cấp Dịch Vụ. 
 Đối với các khoản thu từ các phòng và căn hộ, Bên B có trách nhiệm nộp đầy đủ khoản đã thu vào tài khoản của Bên A trong vòng tối đa 15 ngày làm việc kế tiếp. 
-Phương thức thanh toán: Chuyển khoản vào Tài khoản có thông tin nêu tại phần đầu của Hợp Đồng. 
-Đồng tiền thanh toán: Việt Nam Đồng
+		Phương thức thanh toán: Chuyển khoản vào Tài khoản có thông tin nêu tại phần đầu của Hợp Đồng. 
+		Đồng tiền thanh toán: Việt Nam Đồng
 Đặt cọc. 
 Bên B tiến hành đặt cọc một khoản tiền tương đương Phí Dịch Vụ một tháng theo Hợp Đồng này trong thời hạn 07 (bảy) ngày kể từ ngày ký kết Hợp Đồng
 Trong thời hạn 15 (mười lăm) ngày kể từ ngày chấm dứt Hợp Đồng, Bên A có nghĩa vụ hoàn trả cho Bên B số Tiền cọc mà Bên B thực tế chuyển cho Bên A. Các Bên thống nhất rằng Tiền cọc không được tính lãi trong suốt Thời hạn.
-QUYỀN VÀ TRÁCH NHIỆM CỦA BÊN A
+	QUYỀN VÀ TRÁCH NHIỆM CỦA BÊN A
 Bên A có các quyền sau đây
-Yêu cầu Bên B thông báo kịp thời, đầy đủ các thông tin về việc thực hiện các công việc đã thỏa thuận trong Hợp Đồng hoặc được ủy quyền;
-Được hưởng các khoản doanh thu từ việc Bên B khai thác các dịch vụ tại Tòa nhà;
-Được chấm dứt hợp đồng theo quy định tại Hợp Đồng này;
-Giám sát việc thực hiện Dịch Vụ của Bên B. 
-Chuyển nhượng quyền sở hữu tòa nhà cho Bên Thứ Ba với cam kết vẫn tiếp tục cho Bên B tiếp tục quản lý vận hành tòa nhà theo những điều khoản quy định tại Hợp Đồng này. 
+	Yêu cầu Bên B thông báo kịp thời, đầy đủ các thông tin về việc thực hiện các công việc đã thỏa thuận trong Hợp Đồng hoặc được ủy quyền;
+	Được hưởng các khoản doanh thu từ việc Bên B khai thác các dịch vụ tại Tòa nhà;
+	Được chấm dứt hợp đồng theo quy định tại Hợp Đồng này;
+	Giám sát việc thực hiện Dịch Vụ của Bên B. 
+	Chuyển nhượng quyền sở hữu tòa nhà cho Bên Thứ Ba với cam kết vẫn tiếp tục cho Bên B tiếp tục quản lý vận hành tòa nhà theo những điều khoản quy định tại Hợp Đồng này. 
 Bên A có các trách nhiệm sau đây:
-Thanh toán đúng hạn và đầy đủ cho Bên B Phí Dịch Vụ theo giá thỏa thuận tại Hợp Đồng này.
-Thanh toán đúng hạn và đầy đủ Phí dự phòng cho Bên B theo quy định tại Hợp Đồng này
-Cung cấp hồ sơ lưu trữ nhà Tòa nhà và các thông tin, tài liệu cần thiết theo quy định của pháp luật để Bên B thực hiện Dịch Vụ theo Hợp Đồng này.
-Bố trí cho Bên B khu vực làm việc cho Ban quản lý (một phòng tại tầng trệt) và chỗ để xe cho nhân sự Ban quản lý, bảo vệ và vệ sinh.
-Tạo điều kiện, hỗ trợ và phối hợp chặt chẽ với Bên B trong quá trình thực hiện Hợp Đồng.
-Đại diện và bảo vê quyền lợi hợp pháp của toàn thể khách thuê các phòng và căn hộ trong Tòa nhà.
-Chi trả cho những khoản chi phí chính quyền để giúp tòa nhà được vận hành trơn tru và hợp pháp. 
-Hoàn trả đầy đủ số Tiền cọc cho Bên B theo thời hạn của Hợp Đồng này. 
+	Thanh toán đúng hạn và đầy đủ cho Bên B Phí Dịch Vụ theo giá thỏa thuận tại Hợp Đồng này.
+	Thanh toán đúng hạn và đầy đủ Phí dự phòng cho Bên B theo quy định tại Hợp Đồng này
+	Cung cấp hồ sơ lưu trữ nhà Tòa nhà và các thông tin, tài liệu cần thiết theo quy định của pháp luật để Bên B thực hiện Dịch Vụ theo Hợp Đồng này.
+	Bố trí cho Bên B khu vực làm việc cho Ban quản lý (một phòng tại tầng trệt) và chỗ để xe cho nhân sự Ban quản lý, bảo vệ và vệ sinh.
+	Tạo điều kiện, hỗ trợ và phối hợp chặt chẽ với Bên B trong quá trình thực hiện Hợp Đồng.
+	Đại diện và bảo vê quyền lợi hợp pháp của toàn thể khách thuê các phòng và căn hộ trong Tòa nhà.
+	Chi trả cho những khoản chi phí chính quyền để giúp tòa nhà được vận hành trơn tru và hợp pháp. 
+	Hoàn trả đầy đủ số Tiền cọc cho Bên B theo thời hạn của Hợp Đồng này. 
 QUYỀN VÀ TRÁCH NHIỆM CỦA BÊN B
 Bên B có các quyền sau: 
 Yêu cầu Bên A cung cấp hồ sơ Tòa nhà và các thông tin, tài liệu cần thiết theo quy định của pháp luật để phục vụ cho việc quản lý vận hành Tòa nhà;
@@ -2552,15 +3356,15 @@ Ban hành các quy chế quản lý Tòa nhà nhằm đảm bảo an toàn theo 
 Đơn phương chấm dứt Hợp Đồng theo quy định tại Hợp Đồng này.
 Được quyền thu giữ và sử dụng khoản tiền đặt cọc từ Khách thuê căn hộ (không quá 1,5 tháng tiền thuê) trong suốt thời gian quản lý Tòa nhà. Đồng thời, xử lý khoản tiền đặt cọc khi Khách thuê chấm dứt hợp đồng thuê. Trường hợp Bên B giữ lại khoản tiền đặt cọc do Khách thuê chấm dứt hợp đồng thuê trái pháp luật, Bên B có trách nhiệm nộp lại cho Bên A khoản tiền đặt cọc này. 
 Thu các khoản chi phí theo quy định của Hợp Đồng này dưới sự ủy quyền của Bên A
-Bên B có các trách nhiệm sau đây: 
-Quản lý thu chi: 
-Thu chi phí thuê, các khoản thu bất thường, phí điện, nước, tiền giữ xe của các căn hộ theo sự ủy quyền của Bên A.
-Thu tiền thuê căn hộ theo sự ủy quyền của Bên A
-Thanh toán các khoản tiền chi phí điện nước và chi phí khác sau khi đã thu từ khách thuê, người sử dụng các căn hộ.
-Lưu giữ tất cả các hóa đơn thu chi.
-Thông báo kịp thời những khoản chi bất thường không có kế hoạch trước.
-Lập báo cáo tài chính mỗi tháng và chuyển lại toàn bộ doanh thu của tháng cho Bên A.  
-Bảo trì, vận hành Tòa nhà: 
+	Bên B có các trách nhiệm sau đây: 
+		Quản lý thu chi: 
+		Thu chi phí thuê, các khoản thu bất thường, phí điện, nước, tiền giữ xe của các căn hộ theo sự ủy quyền của Bên A.
+		Thu tiền thuê căn hộ theo sự ủy quyền của Bên A
+		Thanh toán các khoản tiền chi phí điện nước và chi phí khác sau khi đã thu từ khách thuê, người sử dụng các căn hộ.
+		Lưu giữ tất cả các hóa đơn thu chi.
+		Thông báo kịp thời những khoản chi bất thường không có kế hoạch trước.
+		Lập báo cáo tài chính mỗi tháng và chuyển lại toàn bộ doanh thu của tháng cho Bên A.  
+		Bảo trì, vận hành Tòa nhà: 
 Chủ động tìm kiếm, ký kết hợp đồng phụ với các doanh nghiệp khác cung cấp dịch vụ liên quan cho Tòa nhà và giám sát việc cung cấp dịch vụ của các bên đã ký hợp đồng nhằm đảm bảo việc bảo trì các hệ thống trong Tòa nhà
 Thực hiện việc bảo trì Tòa nhà theo Hợp đồng bảo trì đã ký kết với Bên A (nếu có)
 Đảm bảo hệ thống điện, máy phát điện dự phòng, cấp thoát nước, thang máy, chiếu sáng công cộng, thông gió, chống sét và những trang thiết bị hạ tầng kỹ thuật khác trong Tòa nhà được vận hành liên tục 24/24.
@@ -2568,47 +3372,47 @@ Thường xuyên kiểm tra hoạt động của các trang thiết bị trong T
 Chủ động thực hiện các sửa chữa, khắc phục sự cố, hư hỏng nhỏ trong khả năng.
 Có kế hoạch, phương án phòng ngừa và kiểm tra sự hoạt động của các phương án phòng ngừa này để đảm bảo đối phó với sự cố.
 Tuyển nhân viên kỹ thuật nhằm trực và khắc phục sự cố khi cần. 
-Trách nhiệm vệ sinh: 
-Tuyển nhân viên vệ sinh nhằm đảm bảo hiệu quả và thời gian làm việc, tính chuyên nghiệp trong công tác vệ sinh. Số lượng nhân viên vệ sinh được quy định tại Phụ lục đính kèm. 
-Đảm bảo vệ sinh cho toàn bộ phần diện tích chung của Tòa nhà bao gồm: Cổng, đường ra vào  nhà xe, sảnh, hành lang, thang máy, cầu thang bộ, lối thoát hiểm, sân thượng, khu vực công cộng (“Phần Diện Tích Chung”) 
-Trách nhiệm đảm bảo an ninh: 
-Tuyển nhân viên bảo vệ Tòa nhà và đảm bảo bố trí các chốt bảo vệ trực 24/7 (24 giờ trong ngày và bảy ngày trong tuần) kể cả ngày lễ, ngày nghỉ)
-Đảm bảo lý lịch, tính cách, đạo đức, trình độ đào tạo, tính chuyên nghiệp của nhân viên bảo vệ. 
-Phổ biến các quy trình công việc và trách nhiệm của nhân viên bảo vệ, đảm bảo nhân viên bảo vệ hiểu rõ toàn bộ quy trình và yêu cầu công việc. Thực hiện đầy đủ và bảo đảm đúng chất lượng các công việc theo quy định Hợp Đồng này, bao gồm cả công việc ủy quyền (nếu có) và gửi báo cáo cho Bên A về tiến độ, kết quả thực hiện;
-Thường xuyên kiểm tra theo dõi, kiểm soát người, hàng hóa vào ra tại cổng, hành lang và Phần Diện Tích Chung tại Tòa nhà
-Lập sổ trực, giao ca để ghi nhận tình hình trong Tòa nhà, báo cáo cho Bên A khi có yêu cầu 
-Lập biên bản các vụ việc, xử lý theo đúng chức trách và đúng pháp luật
-Thường xuyên theo dõi camera trong phòng kỹ thuật (nếu có)
-Thường xuyên đi tuần vòng quanh Tòa nhà
-Hỗ trợ cư dân trong vấn đề khai báo tạm trú tạm vắng.
-Lễ phép, giúp đỡ, tôn trọng quyền riêng tư của khách thuê, người sử dụng căn hộ.
-Nghiêm túc, công bằng trong giải quyết công việc hay xử lý sai phạm
-Vận động khách thuê, người sử dụng căn hộ thực hiện đúng Nội quy Tòa nhà
-Tiếp nhận thư, báo, giấy báo, v.v và chuyển đến đúng các khách thuê, người sử dụng căn hộ do không phát đến tận nhà. 
-Trách nhiệm về phòng cháy, chữa cháy: 
-Vận hành hệ thống phòng cháy, chữa cháy tại Tòa nhà theo đúng quy định của pháp luật.
-Thường xuyên kiểm tra, bảo dưỡng hệ thống phòng cháy, chữa cháy theo đúng quy định của pháp luật. 
-Tổ chức huấn luyện phòng cháy, chữa cháy, cứu hộ, cứu nạn 
-Xây dựng phương án phòng cháy, chữa cháy trình cơ quan có thẩm quyền khi có yêu cầu 
-Giám sát hệ thống báo cháy tự động 24/24
-Trách nhiệm báo cáo quản lý: 
-Báo cáo hoạt động hàng tháng và định kỳ 01 tháng một lần về: các hoạt động đã thực hiện trong tháng; tình hình thu chi trong tháng; các chi phí phát sinh mà Bên A phải thanh toán (nếu có); tình hình cơ sở vật chất, trang thiết bị và báo cáo hư hỏng (nếu có); kế hoạch hoạt động trong tháng tới.
-Báo cáo hàng năm: Đánh giá hoạt động năm qua và kế hoạch hoạt động cho năm tới; kế hoạch bảo hành, bảo trì Tòa nhà; Lên kế hoạch mua sắm trang thiết bị (nếu có). 
-Trách nhiệm bồi thường các vấn đề liên quan đến an ninh: 
-Việc xác định lỗi làm cơ sở để Các Bên yêu cầu bồi thường thiệt hại sẽ do Các Bên cùng nhất trí hoặc do các cơ quan chức năng có thẩm quyền quyết định chính thức bằng văn bản, ngoại trừ thiệt hại là hậu quả của những việc sau đây: 
-Do Sự Kiện Bất Khả Kháng
-Hủy hoại, trộm cắp, mưu toan trộm cắp hay những thiệt hại gây ra bởi những hành động của Bên A, đại diện Bên A mà hành động đó nằm ngoài tầm kiểm soát của bảo vệ Bên B. 
-Thiệt hại, mất mát, hay thương tổn gây ra bởi sự gian lận, các hành vi làm hại có chủ ý, sự bất cẩn, hành vi cư xử liều lĩnh, ngoan cố khác của Bên A hay nhân viên, đại diện hay những người khách được mời của Bên A nằm ngoài tầm kiểm soát hay can thiệp hợp lý của Bên B
-Sự cố hay hoạt động sai chức năng của Bên A ảnh hưởng đến mục tiêu và nằm ngoài tầm kiểm soát hay can thiệp của Bên B
-Thói quen hay hành vi cư xử có hại của nhân viên Bên B mà Bên A đã biết đến và có cơ sở tin rằng phương hại đến an ninh nhưng Bên A lại không thông báo cho Bên B bằng văn bản. 
-Các sự kiện nằm ngoài phạm vi kiểm soát của Bên B
-Các mất mát thuộc về cá nhân như: tiền bạc, nữ trang, kim loại quý, máy tính xách tay, …
-Những đề nghị hợp lý của Bên B về công tác an ninh hoặc bổ sung hoàn thiện công tác bảo vệ nhưng không nhận được sự đáp ứng kịp thời của Bên A
-Ngoài những thiệt hại trên, Bên B chịu trách nhiệm bồi thường thiệt hại các tài sản của Bên A theo danh sách quy định tại Phụ lục 2 đính kèm nếu xảy ra trộm cắp do bị trộm đột nhập khi có chứng cứ chứng minh. 
-Không được chuyển nhượng Hợp Đồng này cho bất kỳ bên thứ ba nào khi không được sự đồng ý của Bên A. 
-Không được tự ý chiếm dụng và sửa đổi công năng sử dụng đối với những trang thiết bị thuộc phần sở hữu chung.
-Chịu trách nhiệm triển khai bán hàng cho toàn bộ sản phâm căn hộ/phòng thuộc Tòa nhà khi bắt đầu đưa vào vận hành hoặc khi có sản phẩm trống.
-Ban hành Nội quy Tòa nhà theo Phụ lục đính kèm. 
+		Trách nhiệm vệ sinh: 
+	Tuyển nhân viên vệ sinh nhằm đảm bảo hiệu quả và thời gian làm việc, tính chuyên nghiệp trong công tác vệ sinh. Số lượng nhân viên vệ sinh được quy định tại Phụ lục đính kèm. 
+	Đảm bảo vệ sinh cho toàn bộ phần diện tích chung của Tòa nhà bao gồm: Cổng, đường ra vào  nhà xe, sảnh, hành lang, thang máy, cầu thang bộ, lối thoát hiểm, sân thượng, khu vực công cộng (“Phần Diện Tích Chung”) 
+		Trách nhiệm đảm bảo an ninh: 
+	Tuyển nhân viên bảo vệ Tòa nhà và đảm bảo bố trí các chốt bảo vệ trực 24/7 (24 giờ trong ngày và bảy ngày trong tuần) kể cả ngày lễ, ngày nghỉ)
+	Đảm bảo lý lịch, tính cách, đạo đức, trình độ đào tạo, tính chuyên nghiệp của nhân viên bảo vệ. 
+	Phổ biến các quy trình công việc và trách nhiệm của nhân viên bảo vệ, đảm bảo nhân viên bảo vệ hiểu rõ toàn bộ quy trình và yêu cầu công việc. Thực hiện đầy đủ và bảo đảm đúng chất lượng các công việc theo quy định Hợp Đồng này, bao gồm cả công việc ủy quyền (nếu có) và gửi báo cáo cho Bên A về tiến độ, kết quả thực hiện;
+	Thường xuyên kiểm tra theo dõi, kiểm soát người, hàng hóa vào ra tại cổng, hành lang và Phần Diện Tích Chung tại Tòa nhà
+	Lập sổ trực, giao ca để ghi nhận tình hình trong Tòa nhà, báo cáo cho Bên A khi có yêu cầu 
+	Lập biên bản các vụ việc, xử lý theo đúng chức trách và đúng pháp luật
+	Thường xuyên theo dõi camera trong phòng kỹ thuật (nếu có)
+	Thường xuyên đi tuần vòng quanh Tòa nhà
+	Hỗ trợ cư dân trong vấn đề khai báo tạm trú tạm vắng.
+	Lễ phép, giúp đỡ, tôn trọng quyền riêng tư của khách thuê, người sử dụng căn hộ.
+	Nghiêm túc, công bằng trong giải quyết công việc hay xử lý sai phạm
+	Vận động khách thuê, người sử dụng căn hộ thực hiện đúng Nội quy Tòa nhà
+	Tiếp nhận thư, báo, giấy báo, v.v và chuyển đến đúng các khách thuê, người sử dụng căn hộ do không phát đến tận nhà. 
+		Trách nhiệm về phòng cháy, chữa cháy: 
+		Vận hành hệ thống phòng cháy, chữa cháy tại Tòa nhà theo đúng quy định của pháp luật.
+		Thường xuyên kiểm tra, bảo dưỡng hệ thống phòng cháy, chữa cháy theo đúng quy định của pháp luật. 
+		Tổ chức huấn luyện phòng cháy, chữa cháy, cứu hộ, cứu nạn 
+		Xây dựng phương án phòng cháy, chữa cháy trình cơ quan có thẩm quyền khi có yêu cầu 
+		Giám sát hệ thống báo cháy tự động 24/24
+		Trách nhiệm báo cáo quản lý: 
+		Báo cáo hoạt động hàng tháng và định kỳ 01 tháng một lần về: các hoạt động đã thực hiện trong tháng; tình hình thu chi trong tháng; các chi phí phát sinh mà Bên A phải thanh toán (nếu có); tình hình cơ sở vật chất, trang thiết bị và báo cáo hư hỏng (nếu có); kế hoạch hoạt động trong tháng tới.
+		Báo cáo hàng năm: Đánh giá hoạt động năm qua và kế hoạch hoạt động cho năm tới; kế hoạch bảo hành, bảo trì Tòa nhà; Lên kế hoạch mua sắm trang thiết bị (nếu có). 
+		Trách nhiệm bồi thường các vấn đề liên quan đến an ninh: 
+	Việc xác định lỗi làm cơ sở để Các Bên yêu cầu bồi thường thiệt hại sẽ do Các Bên cùng nhất trí hoặc do các cơ quan chức năng có thẩm quyền quyết định chính thức bằng văn bản, ngoại trừ thiệt hại là hậu quả của những việc sau đây: 
+		Do Sự Kiện Bất Khả Kháng
+		Hủy hoại, trộm cắp, mưu toan trộm cắp hay những thiệt hại gây ra bởi những hành động của Bên A, đại diện Bên A mà hành động đó nằm ngoài tầm kiểm soát của bảo vệ Bên B. 
+		Thiệt hại, mất mát, hay thương tổn gây ra bởi sự gian lận, các hành vi làm hại có chủ ý, sự bất cẩn, hành vi cư xử liều lĩnh, ngoan cố khác của Bên A hay nhân viên, đại diện hay những người khách được mời của Bên A nằm ngoài tầm kiểm soát hay can thiệp hợp lý của Bên B
+		Sự cố hay hoạt động sai chức năng của Bên A ảnh hưởng đến mục tiêu và nằm ngoài tầm kiểm soát hay can thiệp của Bên B
+		Thói quen hay hành vi cư xử có hại của nhân viên Bên B mà Bên A đã biết đến và có cơ sở tin rằng phương hại đến an ninh nhưng Bên A lại không thông báo cho Bên B bằng văn bản. 
+		Các sự kiện nằm ngoài phạm vi kiểm soát của Bên B
+		Các mất mát thuộc về cá nhân như: tiền bạc, nữ trang, kim loại quý, máy tính xách tay, …
+		Những đề nghị hợp lý của Bên B về công tác an ninh hoặc bổ sung hoàn thiện công tác bảo vệ nhưng không nhận được sự đáp ứng kịp thời của Bên A
+		Ngoài những thiệt hại trên, Bên B chịu trách nhiệm bồi thường thiệt hại các tài sản của Bên A theo danh sách quy định tại Phụ lục 2 đính kèm nếu xảy ra trộm cắp do bị trộm đột nhập khi có chứng cứ chứng minh. 
+		Không được chuyển nhượng Hợp Đồng này cho bất kỳ bên thứ ba nào khi không được sự đồng ý của Bên A. 
+		Không được tự ý chiếm dụng và sửa đổi công năng sử dụng đối với những trang thiết bị thuộc phần sở hữu chung.
+		Chịu trách nhiệm triển khai bán hàng cho toàn bộ sản phâm căn hộ/phòng thuộc Tòa nhà khi bắt đầu đưa vào vận hành hoặc khi có sản phẩm trống.
+		Ban hành Nội quy Tòa nhà theo Phụ lục đính kèm. 
 CHẤT LƯỢNG CỦA DỊCH VỤ
 Bên B thực hiện Hợp Đồng đảm bảo chất lượng theo các thỏa thuận sau:
 Mặt ngoài của Toà Nhà: Luôn trong tình trạng gọn gàng, thông thoáng, an toàn.
@@ -2623,7 +3427,7 @@ Trật tự giao thông: Xe dừng, đậu đúng vị trí quy định; Bãi xe
 Bảo vệ: Thực hiện chế độ bảo vệ 24/24h. 
 Thái độ nhân viên: Luôn lịch sự, lễ phép và tôn trọng khách thuê, người sử dụng căn hộ. 
 Khách hàng: Luôn đáp ứng kịp thời và đầy đủ những khiếu nại, khó khan, sự cố khách hàng gặp phải khi sống trong Tòa nhà.
-CHẤM DỨT HỢP ĐỒNG
+	CHẤM DỨT HỢP ĐỒNG
 Hợp Đồng này chấm dứt khi có một trong các trường hợp sau đây:
 Hết hạn Hợp Đồng mà các bên nhất trí không gia hạn Hợp Đồng;
 Các Bên cùng thỏa thuận chấm dứt Hợp Đồng trước thời hạn;
@@ -2635,13 +3439,13 @@ Trong trường hợp một bên không khắc phục vi phạm và/hoặc khôn
 Buộc Bên vi phạm khắc phục vi phạm hoặc tự mình/ thuê đơn vị khác khắc phục vi phạm. Bên vi phạm có nghĩa vụ bồi hoàn cho Bên bị vi phạm toàn bộ các chi phí sửa chữa, khắc phục trên cơ sở chứng từ hợp lệ; và/hoặc,
 Đơn phương chấm dứt thực hiện Hợp Đồng. 
 Thực hiện việc phạt vi phạm và bồi thường thiệt hại theo quy định của luật pháp Việt Nam; Mức phạt vi phạm tại Hợp Đồng này không vượt quá 50,000,000VNĐ (Năm mươi triệu đồng chẵn)..
-SỰ KIỆN BẤT KHẢ KHÁNG
-Trong bất kỳ trường hợp nào ngoài sự kiểm soát của mỗi bên, làm ảnh hưởng đến nghĩa vụ thực hiện tất cả hoặc một phần Hợp Đồng của mỗi bên thì thời gian quy định thực hiện nghĩa vụ này sẽ được gia hạn dài ra bằng với khoảng thời gian do hậu quả của trường hợp bất khả kháng gây ra. Những sự kiện mà (sau đây gọi là “Bất Khả Kháng”) bao gồm nhưng không giới hạn bởi: Thiên tai, dịch bệnh, bão, động đất, lũ lụt, chiến tranh, đình công hay bất kỳ hình thức nào khác không thể lường trước hoặc chống lại được, quyết định của Cơ quan nhà nước có thẩm quyền v.v
-Khi sự kiện Bất Khả Kháng xảy ra, Các Bên sẽ thông báo cho nhau về các sự kiện Bất Khả Kháng này, những hậu quả có thể xảy ra cho việc thực hiện Hợp Đồng này và đề xuất biện pháp khắc phục trong vòng 20 (hai mươi) ngày kể từ khi xảy ra sự kiện Bất Khả Kháng. 
-Các Bên được miễn thực hiện nghĩa vụ cho những ngày bị ảnh hưởng bởi sự kiện Bất Khả Kháng. Cho mục đích này, việc miễn thực hiện nghĩa vụ được hiểu là trong thời gian diễn ra sự kiện Bất Khả Kháng, các nghĩa vụ của Các Bên sẽ được miễn trừ và không phải thực hiện.
-
- 
-ĐIỀU KHOẢN CHUNG 
+	SỰ KIỆN BẤT KHẢ KHÁNG
+	Trong bất kỳ trường hợp nào ngoài sự kiểm soát của mỗi bên, làm ảnh hưởng đến nghĩa vụ thực hiện tất cả hoặc một phần Hợp Đồng của mỗi bên thì thời gian quy định thực hiện nghĩa vụ này sẽ được gia hạn dài ra bằng với khoảng thời gian do hậu quả của trường hợp bất khả kháng gây ra. Những sự kiện mà (sau đây gọi là “Bất Khả Kháng”) bao gồm nhưng không giới hạn bởi: Thiên tai, dịch bệnh, bão, động đất, lũ lụt, chiến tranh, đình công hay bất kỳ hình thức nào khác không thể lường trước hoặc chống lại được, quyết định của Cơ quan nhà nước có thẩm quyền v.v
+	Khi sự kiện Bất Khả Kháng xảy ra, Các Bên sẽ thông báo cho nhau về các sự kiện Bất Khả Kháng này, những hậu quả có thể xảy ra cho việc thực hiện Hợp Đồng này và đề xuất biện pháp khắc phục trong vòng 20 (hai mươi) ngày kể từ khi xảy ra sự kiện Bất Khả Kháng. 
+	Các Bên được miễn thực hiện nghĩa vụ cho những ngày bị ảnh hưởng bởi sự kiện Bất Khả Kháng. Cho mục đích này, việc miễn thực hiện nghĩa vụ được hiểu là trong thời gian diễn ra sự kiện Bất Khả Kháng, các nghĩa vụ của Các Bên sẽ được miễn trừ và không phải thực hiện.
+	
+	 
+	ĐIỀU KHOẢN CHUNG 
 Mọi sửa đổi, bổ sung các điều khoản và/hoặc vấn đề nào trong Hợp Đồng này đều phải lập thành Phụ lục Hợp Đồng và phải được sự đồng ý của Các Bên. Phụ lục Hợp Đồng phải có chữ ký hợp pháp của Các Bên và là một phần có hiệu lực của Hợp Đồng này.
 Bảo mật thông tin: Trừ trường hợp theo quy định của Pháp luật hoặc Các Bên có thỏa thuận khác, trước khi và trong thời gian thực hiện Hợp Đồng này, không Bên nào đã công bố hay có thể công bố cho Bên thứ ba những thông tin mật (bao gồm tất cả những bí mật thương mại và những thông tin kỹ thuật và phi kỹ thuật chưa được công bố  bao gồm nhưng không giới hạn như sản phẩm, chi phí, dữ liệu tài chính, kế hoạch tiếp thị, danh sách khách hàng và nhà cung cấp hoặc đề án của Hoạt động Kinh doanh của Hợp Đồng); và
 Duy trì việc bảo mật thông tin cho đến hết thời hạn 03 (ba) năm kể từ ngày chấm dứt Hợp Đồng; 
@@ -2653,46 +3457,217 @@ Nếu bất kỳ quy định nào của Hợp Đồng này trở nên vô hiệu
 Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
 Hợp Đồng này đã được lập thành 02 (hai) bản chính bằng Tiếng Việt, mỗi Bên giữ một (01) bản có giá trị pháp lý như nhau.
 Các bên đã đọc, hiểu rõ nội dung Hợp Đồng và tự nguyện ký tên dưới đây.
-
-
-
-
+          ĐẠI DIỆN BÊN A
+   (Ký, ghi họ tên, đóng dấu)
+__________________________
+                ĐẠI DIỆN BÊN B
+          (Ký, ghi họ tên, đóng dấu)
+            ____________________
 PHỤ LỤC 1. BẢN VẼ KỸ THUẬT CỦA TÒA NHÀ
-
-	
-	
+		
+		
 PHỤ LỤC 2. THÔNG TIN TRANG THIẾT BỊ, HẠ TẦNG KỸ THUẬT
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	
+STT
+Trang thiết bị
+Số lượng
+Tình trạng
+Ghi chú
+Hệ thống thang máy
+Hệ thống nước
+Hệ thống PCCC
+Hệ thống thông tin
+Hệ thống điện
+		
+		
 PHỤ LỤC 3. MÔ TẢ CÔNG VIỆC
-
+STT
+Vị trí
+Chi tiết công việc
+Quỹ lương
+(VNĐ/Tháng)
+Ghi chú
+Quản lý chung 
+- Quản lý nhân sự (lễ tân, bảo vệ, lao công) 
+- Bán hàng & làm việc với sell/môi giới, đơn vị thứ 3 (những đơn vị host của airbnb v.v…)
+- Hợp đồng
+- Quản lý tài sản
+- Xử lý khiếu nại, khúc mắt của K/H
+- Giám sát xử lý kỹ thuật 
+- Lập hóa đơn, truy thu công nợ
+- Thanh toán các chi phí sử dụng dịch vụ của tòa nhà, thanh toán hóa đơn cho các Nhà cung cấp
+- Lập BCTC theo tháng, quý
+- CSKH, tạo mối quan hệ tốt với K/H cũ
+- Thay mặt chủ đầu tư tiếp xúc với khách hàng, nhà thầu, cơ quan chính quyền.
+Được tính trong phí dịch vụ quản lý
+Quỹ lương này chưa bao gồm chi phí tham gia BHXH, BHYT theo quy định của luật lao động và sẽ thay đổi cho phù hợp với sự điều chỉnh về mức lương cơ bản theo Nghị Định Chính Phủ mỗi năm. Bên A sẽ chịu trách nhiệm ký Hợp đồng lao động và đóng các khoản phí BHXH, BHYT cho các vị trí số 2,3,4.
+Nhân viên lễ tân
+- Phụ trách các công việc hành chánh tại khu vực tiếp tân của tòa nhà. Nhận và xử lý các cuộc gọi đến của khách hàng.
+- Xử lý tất cả thư từ / bưu kiện gởi đến. Trợ giúp và hướng dẫn khách hàng khi cần thiết.
+- Chuyển tiếp các yêu cầu bảo trì dịch vụ trong phạm vi tòa nhà từ cư dân / khách thuê đến các phòng ban liên quan.
+- Hỗ trợ gọi xe khi khách có nhu cầu
+- Phối hợp bộ phận an ninh giám sát việc ra vào, đảm bảo an ninh tòa nhà.
+- Thực hiện việc báo động, liên hệ  quản lý khi có sự cố xảy ra.
+7,000,000
+Nhân viên bảo vệ 
+Trông coi bảo vệ tài sản của tòa nhà, cư dân và tài sản của khách hàng khi tới làm việc tại tòa nhà.
+Giám sát lượng khách ra, vào tòa nhà.
+Tuần tra, canh gác các khu vực chung của tòa nhà đảm bảo các vấn đề an ninh, cháy nổ.
+14,000,000
+Nhân viên vệ sinh
+Phụ trách vệ sinh phạm vi công cộng của Tòa nhà tại hành lang, nhà vệ sinh, cầu thang bộ, sảnh, sân.
+Vệ sinh bên trong từng căn hộ (sàn nhà, toilet) mỗi tuần một lần.
+7,000,000
+TỔNG CỘNG
+28,000,000
 PHỤ LỤC 4. BẢNG GIÁ CHO THUÊ 
-
-
-
+STT
+Mã phòng
+Mô tả
+Đơn giá cho thuê (VNĐ/Tháng)
+Số lượng sản phẩm
+Doanh thu cho thuê (VNĐ/Tháng)
+1
+Căn hộ studio giường đôi 17m2
+5,000,000
+8
+40,000,000
+2
+Căn hộ studio giường tầng 15m2
+5,000,000
+8
+40,000,000
+3
+Căn hộ có gác & cửa sổ thoáng 15m2
+6,700,000
+48
+321,600,000
+4
+Căn hộ có gác 15m2
+6,200,000
+15
+93,000,000
+5
+Mặt bằng
+TỔNG CỘNG (VNĐ)
+79
+494,600,000
 PHỤ LỤC 5. BẢNG MINH HỌA QUY CHẾ 
-
+STT
+Tỷ lệ doanh thu đạt được
+Doanh thu đạt được
+ARC REAL
+Chủ đầu tư
+Chi phí vận hành
+Thưởng doanh thu
+1
+75%
+370,950,000
+10,000,000
+0
+360,950,000
+2
+80%
+395,680,000
+20,000,000
+0
+375,680,000
+3
+85%
+420,410,000
+20,000,000
+0
+400,410,000
+4
+86%
+425,356,000
+20,000,000
+1,236,500
+404,119,500
+5
+87%
+430,302,000
+20,000,000
+2,473,000
+407,829,000
+6
+88%
+435,248,000
+20,000,000
+3,709,500
+411,538,500
+7
+89%
+440,194,000
+20,000,000
+4,946,000
+415,248,000
+8
+90%
+445,140,000
+20,000,000
+6,182,500
+418,957,500
+9
+91%
+450,086,000
+20,000,000
+7,419,000
+422,667,000
+10
+92%
+455,032,000
+20,000,000
+8,655,500
+426,376,500
+11
+93%
+459,978,000
+20,000,000
+9,892,000
+430,086,000
+12
+94%
+464,924,000
+20,000,000
+11,128,500
+433,795,500
+13
+95%
+469,870,000
+20,000,000
+12,365,000
+437,505,000
+14
+96%
+474,816,000
+20,000,000
+13,601,500
+441,214,500
+15
+97%
+479,762,000
+20,000,000
+14,838,000
+444,924,000
+16
+98%
+484,708,000
+20,000,000
+16,074,500
+448,633,500
+17
+99%
+489,654,000
+20,000,000
+17,311,000
+452,343,000
+18
+100%
+494,600,000
+20,000,000
+18,547,500
+456,052,500
 PHỤ LỤC 6 - NỘI QUY QUẢN LÝ, SỬ DỤNG TÒA NHÀ
-
 Điều 1. Quy định đối với khách thuê, người sử dụng, người tạm trú và khách ra vào tòa nhà
 1. Khách thuê ở tòa nhà phải chấp hành nghiêm chỉnh Bản nội quy này.
 2. Khách ra vào tòa nhà phải đăng ký, xuất trình giấy tờ chứng minh nhân thân tại quầy lễ tân (nếu có) hoặc tại tổ bảo vệ và phải tuân thủ sự hướng dẫn của lễ tân hoặc bảo vệ tòa nhà. Trong trường hợp cần thiết, lễ tân hoặc bảo vệ tòa nhà được giữ các giấy tờ chứng minh nhân thân của khách ra vào tòa nhà để phục vụ cho việc kiểm soát an ninh, an toàn của tòa nhà. Đối với khu vực dành cho văn phòng, dịch vụ, thương mại thì không cần phải đăng ký, xuất trình giấy tờ chứng minh nhân thân này.
@@ -2738,13 +3713,13 @@ Khách thuê, người sử dụng và khách ra, vào tòa nhà phải tuân th
 Điều 8. Xử lý các hành vi vi phạm
 1. Khách thuê, người sử dụng, người tạm trú và khách ra vào tòa nhà nếu có hành vi vi phạm các quy định của Bản nội quy này thì tùy theo mức độ vi phạm sẽ bị xem xét, xử lý theo quy định của pháp luật và phải bồi thường thiệt hại do hành vi vi phạm của mình gây ra.
 2. Khách thuê, người sử dụng phải nghiêm chỉnh chấp hành quyết định xử lý vi phạm của cá nhân, đơn vị có thẩm quyền.
-
-"""
+		Trang 1
+		
+		Trang 15"""
 Mau_Hop_dong_dich_vu_thiet_ke_Website = """CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
 –––––––––––––
 …………………., ngày … tháng … năm 20…
-
 HỢP ĐỒNG DỊCH VỤ THIẾT KẾ PHẦN MỀM WEBSITE
 Số: ……
 Căn cứ:
@@ -2767,7 +3742,6 @@ CÔNG TY TNHH ABC
 Mã số thuế: …
 Đại diện là Ông/Bà … - Chức vụ: …
 Hai bên thống nhất ký kết hợp đồng dịch vụ với các điều khoản như sau:
-
 ĐIỀU 1: NỘI DUNG HỢP ĐỒNG
 AAA cung cấp dịch vụ thiết kế phần mềm website theo yêu cầu của ABC. Chi tiết nội dung dịch vụ về cấu trúc, chức năng phần mềm website được ghi nhận cụ thể như sau.
 Giao diện website: ABC lựa chọn theo mẫu có sẵn
@@ -2775,12 +3749,10 @@ Ngôn ngữ: tiếng Việt và tiếng Anh
 Nội dung và tính năng:
 Hiển thị trang chủ gồm: Logo, Menu chức năng, Giới thiệu tóm tắt về công ty, Sản phẩm dịch vụ nổi bật, Cảm nhận của khác hàng, Một số tin tức - bài viết chuyên ngành, Thông tin chân trang. Module chính: Giới thiệu công ty, Giới thiệu sản phẩm dịch vụ, Tin tức, Form liên hệ, Hỗ trợ trực tuyến, Bản đồ. Giao diện hiển thị tương thích với thiết bị di động, Website được tối ưu hóa (SEO) mức độ cơ bản. Nếu ABC có nhu cầu sử dụng dịch vụ SEO chuyên sâu (/dich-vu/dich-vu-seo/), 2 bên sẽ thỏa thuận riêng thêm trong Phụ lục
 hợp đồng.
-
 ĐIỀU 2: THỜI GIAN THỰC HIỆN HỢP ĐỒNG THIẾT KẾ WEBSITE
 Thời gian thực hiện hợp đồng bắt đầu tính từ ngày AAA nhận được tiền tạm ứng.
 Thời gian hoàn thành website (/blog/website-la-gi/) là … ngày kể từ ngày AAA nhận được tiền tạm ứng, không tính Thứ bảy, Chủ nhật, ngày Lễ, và không tính thời gian chậm trễ trong quy trình làm việc do chờ ABC cung cấp thông tin.
 Thời gian bàn giao website: Ngay sau khi AAA nhận đủ tiền thanh toán của ABC.
-
 ĐIỀU 3: GIÁ TRỊ HỢP ĐỒNG VÀ THANH TOÁN
 3.1. Giá trị hợp đồng:
 Tổng giá trị hợp đồng: … đồng (Bằng chữ: … triệu đồng chẵn)
@@ -2791,7 +3763,6 @@ Tiền mặt hoặc chuyển khoản.
 ABC tạm ứng …% tổng giá trị hợp đồng cho AAA trong vòng … ngày làm việc kể từ ngày hai bên ký kết hợp đồng.
 Sau đó, ABC thanh toán phần còn lại của tổng trị giá hợp đồng ngay sau khi ký nghiệm thu website. AAA phát hành hóa đơn sau khi nhận đủ thanh toán.
 Trường hợp ABC không thanh toán đúng hạn thì phải chịu lãi suất chậm trả tính theo mức lãi suất cơ bản của Ngân hàng Nhà nước cho thời gian chậm thanh toán.
-
 ĐIỀU 4: QUYỀN VÀ NGHĨA VỤ CỦA ABC
 4.1. Quyền của ABC
 Được AAA cung cấp dịch vụ theo đúng thời hạn đã thoả thuận trong hợp đồng.
@@ -2803,8 +3774,6 @@ Thanh toán đúng thời hạn và phương thức đã thoả thuận trong h�
 Duy trì dữ liệu dự phòng cần thiết sau khi đã nhận bàn giao website.
 Kiểm tra, nghiệm thu, và nhận bàn giao website khi AAA hoàn tất việc thiết kế như quy định trong nội dung của hợp đồng này.
 Tự bổ sung, cập nhật nội dung website sau khi được AAA hướng dẫn cách quản trị.
-
-
 ĐIỀU 5: QUYỀN VÀ NGHĨA VỤ CỦA AAA
 5.1. Quyền của AAA
 Được ABC cung cấp đầy đủ thông tin phục vụ cho việc thiết kế website.
@@ -2822,7 +3791,6 @@ phát sinh.
 Hoàn trả đầy đủ những tài liệu ABC đã cung cấp khi hoàn thành xong công việc được
 thoả thuận trong hợp đồng.
 Tiến hành bảo hành cho ABC theo thỏa thuận trong hợp đồng.
-
 ĐIỀU 5: CÀI ĐẶT, NGHIỆM THU, VÀ BÀN GIAO
 5.1. Cài đặt:
 ABC cung cấp cho AAA thông tin User Name và Password của tài khoản quản lý tên
@@ -2837,7 +3805,6 @@ ABC. Nội dung biên bản bàn giao gồm:
 1. Mã nguồn của phần mềm website ghi trong đĩa CD ROM, hoặc USB do ABC cung cấp,
 hoặc theo cách thức khác do 2 bên thỏa thuận.
 2. User name và password để quản trị hệ thống website.
-
 ĐIỀU 6: BẢO HÀNH VÀ BẢO TRÌ
 6.1. Thời gian bảo hành:
 Thời gian bảo hành là … (…) tháng miễn phí nếu ABC sử dụng hosting của AAA (/dichvu/dich-vu-hosting/).
@@ -2866,7 +3833,6 @@ của hệ thống.
 Phần mềm website bị lỗi do có sự thay đổi, bổ sung, chỉnh sửa vào mã nguồn nhưng
 không do AAA thực hiện. Tuy nhiên, AAA sẽ nghiên cứu, phối hợp với ABC để tìm
 giải pháp khắc phục trong thời gian sớm nhất.
-
 ĐIỀU 7: SỬA ĐỔI, CHẤM DỨT HỢP ĐỒNG
 Toàn bộ hoặc một phần của hợp đồng này và các phụ lục của hợp đồng này (nếu có) có
 thể được sửa đổi theo thoả thuận của hai bên. Thỏa thuận có thể qua hình thức fax hoặc
@@ -2883,7 +3849,6 @@ trả lại toàn bộ số tiền đã nhận của ABC.
 Trong trường hợp chấm dứt hợp đồng, bên có lỗi gây thiệt hại phải bồi thường thiệt hại
 thực tế cho bên bị thiệt hại. Tổng giá trị phải bồi thường không vượt quá 50% giá trị hợp
 đồng.
-
 ĐIỀU 8: BẤT KHẢ KHÁNG
 8.1. Bất cứ bên nào cũng có quyền từ chối thực hiện các nghĩa vụ nêu trong hợp đồng này
 trong trường hợp xảy ra những sự kiện bất khả kháng. Bất khả kháng là các sự kiện như:
@@ -2892,7 +3857,6 @@ của mình trong hợp đồng thiết kế website này.
 8.2. Bên gặp bất khả kháng phải thông báo cho bên kia trong vòng hai mươi bốn (24) giờ kể
 từ khi gặp bất khả kháng. Bất khả kháng phải được xác nhận và giải quyết theo thỏa thuận
 trên tinh thần hợp tác của hai bên.
-
 ĐIỀU 9: ĐIỀU KHOẢN CHUNG
 9.1. Hai bên cam kết bảo mật tất cả những thông tin mà mình nhận được từ phía bên kia và
 toàn bộ thông tin liên quan đến hợp đồng thiết kế website này trong suốt thời hạn và sau khi
@@ -2912,7 +3876,6 @@ có vấn đề gì bất lợi phát sinh trong quá trình thực hiện hợp
 thông báo cho nhau biết và chủ động bàn bạc giải quyết trên cơ sở thương lượng đảm bảo
 hai bên cùng có lợi. 
 Khi có tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này, Các bên sẽ nỗ lực thực hiện việc thương lượng, hòa giải để giải quyết. Nếu trong thời hạn 30 (ba mươi) ngày kể từ ngày xảy ra tranh chấp mà Các bên không thể tự giải quyết thì Các bên tiến hành giải quyết tranh chấp tại Trung tâm trọng tài thương mại Miền Trung (MCAC) theo Quy tắc Tố tụng Trọng tài của Trung tâm này. Chi phí Trọng tài, bao gồm chi phí Luật sư do bên thua kiện chịu.
-
 ĐIỀU 10: THỜI HẠN VÀ HIỆU LỰC CỦA HỢP ĐỒNG
 Hợp đồng này có hiệu lực kể từ ngày ký đến hết ngày .../.../20….
 Trong vòng 05 ngày làm việc kể từ ngày ABC hoàn thành nghĩa vụ thanh toán cho AAA mà
@@ -2924,43 +3887,28 @@ Hợp đồng thiết kế website này gồm … trang, được lập thành 0
 nhau, mỗi bên giữ 01 bản để thực hiện.
 ĐẠI DIỆN ABC 
 (ký tên và đóng dấu)
-
-
 __________________
 Ngày ký: __/__/____
-
-
-
 ĐẠI DIỆN AAA
 (ký tên và đóng dấu)
-
-
-
 _________________
-Ngày ký: __/__/____
-"""
+Ngày ký: __/__/____"""
 Mau_Hop_dong_dich_vu_tu_van_quan_ly_cong_ty = """HỢP ĐỒNG DỊCH VỤ TƯ VẤN QUẢN LÝ CÔNG TY
-
-
 HỢP ĐỒNG DỊCH VỤ TƯ VẤN QUẢN LÝ CÔNG TY (“Hợp đồng”) này, được ký và có hiệu lực từ ngày __ tháng __ năm 20….., giữa:
-
 CÔNG TY	: CÔNG TY CỔ PHẦN ABC
 Trụ sở		: ………………
 Điện thoại	: ………………		Fax: ………………
 ĐKKD/MST	: ………………
 Đại diện	: Ông Nguy………………	Chức vụ: ______________ - Đại diện theo pháp luật
-
 BÊN TƯ VẤN: CÔNG TY CỔ PHẦN ………………
 Trụ sở		: ………………
 Điện thoại/Fax: ………………
 ĐKKD/MST	: ………………
 Tài khoản số	: ………………
 Đại diện	: Ông ………………	Chức vụ: Tổng Giám đốc - Đại diện theo pháp luật
-
 Công ty và Bên Tư vấn sau đây gọi riêng là “Bên” và gọi chung là “Các bên” hoặc “Hai bên”.
 (Các Bên công nhận rằng trong trường hợp Các Bên có từ hai cá nhân/tổ chức trở lên hoặc Các bên có nhiều cá nhân/tổ chức thực thi công việc của Hợp đồng này thì mọi dẫn chiếu đến Bên nào trong Hợp đồng này có nghĩa là từng cá nhân/tổ chức trong số họ và các nghĩa vụ và trách nhiệm của Bên được dẫn chiếu theo quy định tại Hợp đồng này đều là nghĩa vụ liên đới của các cá nhân/tổ chức thuộc Bên được dẫn chiếu. Bên còn lại không có trách nhiệm phải xác định nghĩa vụ cá nhân cũng như tỷ lệ đóng góp của từng cá nhân/tổ chức thuộc Bên được dẫn chiếu, nhưng Bên còn lại có quyền yêu cầu từng cá nhân/tổ chức thuộc Bên được dẫn chiếu thực hiện toàn bộ nghĩa vụ và trách nhiệm của Bên được dẫn chiếu theo quy định tại Hợp đồng này).
-
-ĐỐI TƯỢNG CỦA HỢP ĐỒNG
+	ĐỐI TƯỢNG CỦA HỢP ĐỒNG
 Phạm vi dịch vụ: Bên Tư vấn cung cấp tư vấn, hướng dẫn và trợ giúp điều hành đối với Công ty trong hoạt động kinh doanh hàng ngày, hoạt động của các phòng ban và thực hiện vai trò giám sát nhằm đảm bảo hoạt động kinh doanh của Công ty diễn ra bình thường và đạt được Chỉ tiêu cam kết. 
 Bên Tư vấn bảo đảm Chỉ tiêu cam kết của dịch vụ tư vấn do mình cung cấp như sau: 
 Bên Tư vấn bảo đảm Giá trị của Công ty là: …… tỷ Việt Nam Đồng (VNĐ) trước khi hết thời hạn Hợp đồng tại khoản 1.3 Điều này. 
@@ -2986,14 +3934,13 @@ hoặc đơn vị thẩm định khác được Các Bên đồng ý để xác 
 Nếu Bên Tư vấn không đồng ý với kết quả xác định Chỉ Tiêu Tài Chính tại Khoản 1.5.1, Bên Tư vấn bằng chi phí của mình chỉ định một đơn vị thẩm định khác có năng lực như đã được liệt kê trong danh sách đã được chấp thuận hoặc một đơn vị khác được Các Bên đồng ý. 
 Nếu kết quả thẩm định của hai đơn vị thẩm định tại Khoản 1.5.1 và Khoản 1.5.2 có sự chênh lệch thấp hơn 10% thì Chỉ Tiêu Tài Chính tương ứng sẽ là giá trị trung bình của hai kết quả thẩm định. Nếu kết quả thẩm định chênh lệch trên 10%, hai đơn vị thẩm định chọn một đơn vị thẩm định thứ ba để thẩm định. Kết quả thẩm định của đơn vị thứ ba sẽ là kết quả cuối cùng nếu nó nằm trong khoảng giữa của hai kết quả thẩm định trước đó. Nếu Chỉ Tiêu Tài Chính của kết quả thẩm định của đơn vị thứ ba không nằm trong phạm vi đó thì giá trị bình quân của cả ba đơn vị sẽ được sử dụng là kết quả xác định chỉ tiêu tài chính cuối cùng. Chi phí cho đơn vị thẩm định thứ ba sẽ được chia đều cho Công ty và Bên Tư vấn.
 Khi xác định chỉ tiêu tài chính nêu trên, các đơn vị thẩm định phải căn cứ vào các tiêu chuẩn kế toán, quy định của pháp luật Việt Nam và quy định của Công ty.
-THÙ LAO DỊCH VỤ VÀ THANH TOÁN
+	THÙ LAO DỊCH VỤ VÀ THANH TOÁN
 Thù lao dịch vụ mà Công ty trả cho Bên Tư vấn bao gồm: Phí tư vấn và Thưởng
 Phí Tư vấn mà Bên Tư vấn nhận được được xác định theo nguyên tắc trong phụ lục số 02 và thoả thuận hàng năm trên cơ sở mặt bằng thu nhập của thị trường ứng với hiệu quả đạt được. 
 Trừ khi có sự đồng ý bằng văn bản của Công ty, Công ty chỉ có nghĩa vụ thanh toán cho Bên Tư vấn theo mức thù lao được quy định tại phụ lục số 03 được đính kèm Hợp đồng này. 
 Thù lao dịch vụ được tính vào chi phí hoạt động của Công ty để tính toán các chỉ tiêu tài chính thưởng vượt chỉ tiêu lợi nhuận chi từ lợi nhuận sau thuế.
 Bên Tư vấn được thưởng XX% Vốn Điều lệ của Công ty hoặc nhận số tiền/tài sản với giá trị tương đương tại thời điểm Công ty bán được ….. tỷ Việt Nam Đồng (VNĐ). Phần thưởng không bao gồm phần sở hữu của Công ty trong các doanh nghiệp khác.
-
-KẾ HOẠCH NĂM, CHI PHÍ THỰC HIỆN VÀ TÀI KHOẢN HOẠT ĐỘNG
+	KẾ HOẠCH NĂM, CHI PHÍ THỰC HIỆN VÀ TÀI KHOẢN HOẠT ĐỘNG
 Kế Hoạch Năm
 Bên Tư vấn phải thực hiện lên kế hoạch, hoạt động kinh doanh theo kế hoạch năm trong năm thực hiện Hợp đồng (“Kế Hoạch Năm”). Kế Hoạch Năm bao gồm nhưng không giới hạn các nội dung về kế hoạch kinh doanh và tài chính của Công ty, cụ thể như sau: 
 Các mục tiêu về tài chính của năm;
@@ -3006,7 +3953,6 @@ Tất cả các nội dung khác có thể dẫn đến thay đổi về Kế Ho
 Các loại báo cáo, nội dung báo cáo, thời hạn báo cáo Quý: Theo danh mục Báo cáo tài chính đính kèm (Bổ sung chi tiết phụ lục hợp đồng).
 Bên Tư vấn thực hiện tất cả các công việc cần thiết để đảm bảo Kế Hoạch Năm được thực hiện đầy đủ và đảm bảo tất cả các chi phí không vượt quá chi phí dự kiến tại các kế hoạch này.
 Các chỉ tiêu lợi nhuận hàng năm của Công ty sẽ được các bên điều chỉnh và thống nhất vào ngày 31/12 hàng năm.
-
 Chi phí thực hiện
 Mọi chi phí phục vụ cho việc vận hành Công ty, bao gồm cả chi phí dịch vụ mua ngoài và thuê tư vấn, sẽ được Công ty chi trả theo Kế Hoạch Năm và các yêu cầu hợp lý tùy từng thời điểm của Bên Tư vấn.
 Bên Tư vấn không được quyết định chi bất kỳ khoản tiền nào mà không có sự chấp thuận của Công ty, ngoại trừ các khoản chi cho hoạt động hàng ngày đều nằm trong ngân sách đã được duyệt bởi Công ty.
@@ -3018,15 +3964,13 @@ Các lệnh rút tiền và lệnh chuyển tiền từ 100.000.000 VNĐ trở l
 Việc uỷ quyền trên có thể được điều chỉnh hàng năm tuỳ theo tình hình thực tế yêu cầu.
 Bên Tư vấn không được thực hiện bất kỳ khoản chi và lệnh chuyển tiền nào bằng Tài Khoản Hoạt Động nếu khoản chi đó không nằm trong Kế Hoạch Năm và/hoặc không phải là vấn đề liên quan đến hoạt động kinh doanh hàng ngày của Công ty. 
 Bên Tư vấn cam kết và đảm bảo rằng tất cả các khoản doanh thu với bất kể giá trị nào của Công ty có liên quan đến trách nhiệm tư vấn của Bên Tư vấn đều được thu thông qua Tài Khoản Hoạt Động, trừ khi được chấp thuận khác bằng văn bản của Công ty.
-
-KIỂM TRA, BÁO CÁO TRONG QUÁ TRÌNH THỰC HIỆN HỢP ĐỒNG
+	KIỂM TRA, BÁO CÁO TRONG QUÁ TRÌNH THỰC HIỆN HỢP ĐỒNG
 Trong vòng 05 (năm) ngày làm việc kể từ ngày nhận được yêu cầu của Công ty, Bên Tư vấn có trách nhiệm gửi Báo cáo về tình hình thực hiện dịch vụ tư vấn cho Công ty theo nội dung mà Công ty yêu cầu.
 Công ty có quyền cử một hoặc một số cá nhân để giám sát hoạt động của Bên Tư vấn (“Ban Giám Sát”). Ban Giám Sát bao gồm đại diện pháp luật của Công ty làm trưởng ban và luật sư, kiểm toán viên do Công ty thuê là các thành viên. Ban Giám Sát có quyền giám sát hoạt động của Bên Tư vấn, bao gồm nhưng không giới hạn các quyền sau:
 Tham dự tất cả các cuộc họp của Bên Tư vấn liên quan đến việc tư vấn cho Công ty và thực hiện dịch vụ theo Hợp đồng này;
 Tiếp cận bất kỳ tài liệu nào liên quan đến việc thực hiện dịch vụ tư vấn của Bên Tư vấn; 
 Nếu trong quá trình hoạt động, Công ty nhận thấy có bất kỳ hoạt động của Bên Tư vấn không phù hợp với Hợp đồng này hoặc không vì lợi ích của Công ty (“Vấn Đề Nghi Vấn”), Ban Giám Sát và/hoặc Đại diện theo pháp luật của Công ty sẽ triệu tập một cuộc họp với Bên Tư vấn để giải quyết Vấn Đề Nghi Vấn này. Bên Tư vấn phải tham gia cuộc họp và có trách nhiệm giải thích và trình bày các chứng cứ và tài liệu một cách rõ ràng và thuyết phục liên quan đến Vấn Đề Nghi Vấn.
-
-TRÁCH NHIỆM CỦA BÊN TƯ VẤN
+	TRÁCH NHIỆM CỦA BÊN TƯ VẤN
 Thực hiện đúng các nghĩa vụ của mình tại Hợp đồng này.
 Nếu Công ty bị cơ quan nhà nước xử phạt và/hoặc bị thiệt hại trực tiếp hay gián tiếp từ quyết định tài chính hoặc các hành động khác của Bên Tư vấn (bất kể thời điểm phát sinh thiệt hại là trong thời hạn Hợp đồng, trong thời hạn gia hạn Hợp đồng hay khi Hợp đồng đã hết hiệu lực) thì Công ty có quyền khấu trừ khoản tiền Công ty bị xử phạt/bị thiệt hại vào khoản Phí Tư vấn mà Công ty sẽ trả cho Bên Tư vấn hoặc nếu khoản tiền trên không đủ/không còn để khấu trừ thì Bên Tư vấn có trách nhiệm trả cho Công ty khoản tiền trên trong thời hạn 10 (mười) ngày kể từ ngày nhận được yêu cầu bằng văn bản của Công ty.
 Trong trường hợp Bên Tư vấn khi thực hiện các nghĩa vụ theo Hợp đồng này tạo ra hay góp phần tạo ra bất kỳ sáng chế, kiểu dáng, phát triển mới, thiết bị, sản phẩm, phương pháp hay quy trình (cho dù có khả năng được cấp bằng độc quyền sáng chế, được ứng dụng vào thực tiễn hay bao gồm thông tin do Công ty cung cấp hay không) trực tiếp hay gián tiếp đến công việc kinh doanh mà Công ty đang thực hiện hoặc sẽ thực hiện (“Tài Sản Sở Hữu Trí Tuệ”), thì Bên Tư vấn thừa nhận rằng Tài Sản Sở Hữu Trí Tuệ này là tài sản độc quyền của Công ty và qua Hợp đồng này đồng ý chuyển nhượng toàn bộ không bồi hoàn quyền và lợi ích đối với Tài Sản Sở Hữu Trí Tuệ đó cho Công ty. Bên Tư vấn sẽ ngay lập tức thông báo và cung cấp đầy đủ cho Công ty tất cả các Tài Sản Sở Hữu Trí Tuệ mà Bên Tư vấn đã phát triển và sẽ phối hợp với Công ty để bảo vệ các quyền và lợi ích đối với Tài Sản Sở Hữu Trí Tuệ đó, bao gồm nhưng không giới hạn việc cung cấp các hỗ trợ hợp lý trong việc đăng ký quyền sở hữu trí tuệ với Tài Sản Sở Hữu Trí Tuệ bằng chi phí của Công ty và ký tất cả các văn bản theo yêu cầu hợp lý của Công ty, bất kể yêu cầu đó phát sinh từ trước hay sau khi chấm dứt quan hệ Hợp đồng giữa Công ty và Bên Tư vấn .
@@ -3038,16 +3982,15 @@ Không hạn chế quy định tại về bồi thường khác trong Hợp đ�
 Các chi phí không có trong Kế Hoạch Năm và/hoặc nhưng không được Công ty phê duyệt; và
 Các hành vi gây thiệt hại của Bên Tư gây ra đối với Công ty do Bên Tư vấn đã không thực hiện tốt trách nhiệm của mình tại Hợp đồng theo sự quyết định của Công ty;
 Nếu Bên Tư vấn đơn phương chấm dứt Hợp đồng này trái với quy định của Hợp đồng này và/hoặc trái pháp luật Bên Tư vấn còn phải bồi thường cho Công ty khoản lợi nhuận mục tiêu sau thuế nêu trong các phụ lục hàng năm và phải hoàn trả toàn bộ các khoản chi phí tạm ứng, thưởng, thù lao mà Bên Tư vấn đã nhận.
-
-NGUYÊN TẮC TƯ VẤN, HỖ TRỢ QUẢN LÝ
-	Bên Tư vấn cam kết nỗ lực trọn vẹn để thực hiện tư vấn, hỗ trợ quản lý cho Công ty theo những nguyên tắc sau đây:
+	NGUYÊN TẮC TƯ VẤN, HỖ TRỢ QUẢN LÝ
+		Bên Tư vấn cam kết nỗ lực trọn vẹn để thực hiện tư vấn, hỗ trợ quản lý cho Công ty theo những nguyên tắc sau đây:
 Tư vấn, hỗ trợ quản lý, định hướng cho những Người thực thi công việc tư vấn của mình một cách thận trọng, phù hợp và vì lợi ích của Công ty;
 Đảm bảo việc tư vấn, hỗ trợ quản lý điều hành và Người thực thi công việc tư vấn của mình tuân thủ đúng các quy định của pháp luật, các quy chuẩn, quy chế, tiêu chuẩn, chuyên môn, nghiệp vụ, các thao tác vận hành, điều phối nhằm không có hoặc loại trừ các rủi ro có thể xảy ra khiến Công ty phải gánh chịu các hậu quả không mong muốn;
 Đảm bảo từ kết quả tư vấn, Công ty tiếp tục vận hành theo đúng thông lệ, tập quán thương mại trước đó của Công ty;
 Bên Tư vấn không định hướng cho Người thực thi công việc tư vấn của mình khi chưa có sự chấp thuận của Công ty về bất cứ giao dịch cầm cố, thế chấp, cho thuê hoặc chuyển nhượng tài sản của Công ty;
 Bên Tư vấn cam kết nguyên tắc chịu trách nhiệm toàn bộ và kịp thời nếu trách nhiệm đó phát sinh từ và/hoặc liên quan đến hoạt động tư vấn, hành động của Người thực thi công việc tư vấn.
-
-CHẤM DỨT HỢP ĐỒNG, BÀN GIAO KHI CHẤM DỨT HỢP ĐỒNG
+	
+	CHẤM DỨT HỢP ĐỒNG, BÀN GIAO KHI CHẤM DỨT HỢP ĐỒNG
 Các trường hợp chấm dứt hợp đồng:
 Một bên có quyền đơn phương chấm dứt thực hiện Hợp đồng bằng cách gửi thông báo cho Bên rơi vào Bất khả kháng trước 90 (chín mươi) ngày tính từ ngày chính thức chấm dứt Hợp đồng trong trường hợp Bên kia rơi vào tình trạng Bất Khả kháng được quy định tại Khoản 8.2 Hợp đồng này và không thể khắc phục tình trạng Bất Khả Kháng trong vòng 20 (hai mươi) ngày.
 Công ty có quyền chấm dứt Hợp đồng  này với thời gian thông báo tương ứng với các trường hợp cụ thể như sau: 
@@ -3056,7 +3999,6 @@ Ngay lập tức gửi văn bản chấm dứt Hợp đồng cho Bên Tư vấn 
 Ngay lập tức gửi văn bản chấm dứt Hợp đồng cho Bên Tư vấn nếu Bên Tư vấn bị phá sản hoặc vỡ nợ, bị đóng cửa, bị quản lý tài sản, thương lượng với chủ nợ hoặc tiếp tục kinh doanh dưới sự giám sát của người quản lý tài sản, hoặc có hành động nào được thực hiện hoặc sự kiện xảy ra có ảnh hưởng tương tự như các hoạt động hoặc sự kiện này. 
 Thông báo chấm dứt Hợp đồng bằng văn bản trước 180 (một trăm tám mươi) ngày và không cần lý do với điều kiện Công ty thanh toán cho Bên Tư vấn 100% khoản Phí Tư vấn tính đến thời điểm 31/12/2023 và khoản tiền Thưởng tương ứng với các chỉ tiêu tài chính được quy định tại Phụ lục số 02 tính tại thời điểm chấm dứt.
 Thông báo chấm dứt Hợp đồng bằng văn bản trước 90 (chín mươi) ngày nếu việc tiếp tục thực hiện Hợp đồng không còn có lợi theo đánh giá của Công ty và Công ty thanh toán phần Phí dịch vụ mà Bên Tư vấn đã thực hiện.
-
 Bàn giao khi chấm dứt Hợp đồng:
 Trừ khi Công ty có một quyết định khác, trước 30 (ba mươi) ngày tính từ ngày Chấm dứt Hợp đồng, Bên Tư vấn phải hoàn thành việc thực hiện, bao gồm nhưng không giới hạn các nghĩa vụ dưới đây:
 Quyết toán toàn bộ sổ sách chứng từ và lập báo cáo tổng kết toàn bộ tình hình hoạt động và tài chính của Công ty bao gồm nhưng không giới hạn các nội dung đã thực hiện trên thực tế so với Kế Hoạch Năm;
@@ -3067,8 +4009,7 @@ Không chấm dứt bất kỳ Hợp đồng nào, bao gồm nhưng không giớ
 Chuyển giao toàn bộ tài sản và Tài Sản Sở Hữu Trí Tuệ của Công ty mà Bên Tư vấn đang nắm giữ cho người do Công ty chỉ định; 
 Thực hiện các công việc khác theo yêu cầu của Công ty cần thiết cho việc tiếp quản công việc quản lý Công ty.
 Nếu Bên Tư vấn không thực hiện đúng quy định tại Khoản này thì Bên Tư vấn có trách nhiệm phải trả cho Công ty một khoản phạt là _____.
-
-CAM KẾT CHUNG CỦA CÁC BÊN
+	CAM KẾT CHUNG CỦA CÁC BÊN
 Những thông tin mà mình đã tiết lộ với Bên kia (dưới bất kỳ hình thức nào) là đúng sự thật.
 Các bên có đủ điều kiện, khả năng theo pháp luật để ký và thực hiện Hợp đồng này.
 Mỗi Bên phải chịu các khoản phí của mình (bao gồm bất kỳ khoản thuế liên quan đến các khoản phí này) phát sinh từ việc đàm phán, chuẩn bị và ký kết Hợp đồng này, bao gồm cả chi phí thuê tư vấn, luật sư của mỗi bên.
@@ -3085,8 +4026,7 @@ Thông tin mà một bên thứ ba có được không phải do việc vi phạ
 Bên còn lại có được thông tin trước ngày ký Hợp đồng  này; và
 Thông tin buộc phải công bố theo yêu cầu của pháp luật hoặc bởi cơ quan có thẩm quyền.
 Trong trường hợp xảy ra hành vi vi phạm, Bên vi phạm phải bồi thường những thiệt hại thực tế cho bị vi phạm.
-
-ĐIỀU KHOẢN CHUNG
+	ĐIỀU KHOẢN CHUNG
 Tất cả các thông báo được trao đổi theo Hợp đồng được thực hiện dưới dạng văn bản và được xem là đã được gửi đến bên kia hợp lệ khi (a) vào ngày nhận được nếu giao tận tay, bằng chuyển phát có hồi báo hoặc bằng email; và (b) 7 (bảy) ngày làm việc sau khi gửi nếu gửi bằng dịch vụ bưu điện khác. 
 “Bất Khả Kháng” có nghĩa là một sự kiện xảy ra một cách khách quan mà Các bên không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép. Nếu một Bên bị cản trở thực hiện bất cứ nghĩa vụ của mình theo Hợp đồng do tình trạng Bất khả kháng, Bên đó phải gửi thông báo cho Bên còn lại về sự việc hoặc trường hợp gây nên tình trạng Bất khả kháng và phải nêu rõ nghĩa vụ, công việc đã và/hoặc sẽ bị cản trở. Thông báo phải được gửi trong vòng 14 (mười bốn) ngày sau khi bên đó nhận biết được tình trạng (hoặc lẽ ra đã nhận biết được) về sự việc hoặc trường hợp gây nên tình trạng Bất Khả Kháng. Bên đó, khi đã thực hiện nghĩa vụ thông báo trong thời hạn nêu trên, được miễn cho việc thực hiện công việc thuộc nghĩa vụ của mình trong thời gian mà tình trạng Bất khả kháng cản trở việc thực hiện của họ.
 Luật Việt Nam điều chỉnh và giải thích Hợp đồng này.
@@ -3095,16 +4035,22 @@ Các tiêu đề của các điều khoản của Hợp đồng này chỉ nhằ
 Bất kỳ điều khoản nào của Hợp đồng này không hợp pháp, không có hiệu lực hoặc không thể thực thi được theo luật của bất kỳ cơ quan thẩm quyền nào sẽ không ảnh hưởng đến hiệu lực, tính hợp pháp hoặc tính thực thi theo luật của bất kỳ cơ quan thẩm quyền khác hoặc hiệu lực, tính hợp pháp hoặc tính thực thi của bất kỳ điều khoản nào khác.
 Hợp đồng này có hiệu lực từ ngày Các bên ký kết và thay thế toàn bộ các thỏa thuận bằng văn bản hay bằng lời nói trước đây liên quan đến các nội dung được nêu tại Hợp đồng này. Hợp đồng này không thể được thay đổi hoặc sửa đổi trừ khi được thỏa thuận bằng văn bản ký kết bởi Các bên.
 Hợp đồng này được lập thành 04 (bốn) bản, có hiệu lực pháp lý như nhau. Mỗi bên giữ 02 (hai) bản để thực hiện.
-
-"""
+CÔNG TY CỔ PHẦN 
+LONG TRƯỜNG VŨ
+(Ký, đóng dấu)
+CÔNG TY CỔ PHẦN TƯ VẤN 
+VÀ ĐẦU TƯ VTIMES
+(Ký, đóng dấu)
+Họ và Tên : Ông …………….
+Chức vụ  :  _____________
+Họ và Tên : Ông …………..
+              Chức vụ  : Tổng Giám đốc
+Trang 1/10"""
 Mau_Hop_dong_gia_cong_hang_hoa = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 -------
-
-
 HỢP ĐỒNG GIA CÔNG ĐẶT HÀNG
 Số:……………………
-
 	Căn cứ Bộ luật Dân sự số 91/2015/QH13, ngày 14 tháng 11 năm 2015;
 	Căn cứ Luật Thương mại số 36/2005/QH11, ngày 14 tháng 6 năm 2005;
 	Theo nhu cầu của hai bên,		
@@ -3156,7 +4102,6 @@ c) Bán, tiêu hủy, tặng biếu tại chỗ sản phẩm gia công, máy mó
 d) Đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại khi bên B vi phạm nghiêm trọng hợp đồng;
 e) Trong trường hợp sản phẩm không bảo đảm chất lượng mà bên A đồng ý nhận sản phẩm và yêu cầu sửa chữa nhưng bên B không thể sửa chữa được trong thời hạn đã thoả thuận thì bên A có quyền hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại;
 f) Các quyền khác theo quy định tại Hợp đồng này và theo quy đinh pháp luật.
-
 ĐIỀU 4: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
 4.1. Bên B có các nghĩa vụ sau đây:
 a) Bảo quản nguyên vật liệu do bên A cung cấp;
@@ -3229,7 +4174,6 @@ d. Trong các trường hợp này, nếu ngày tương ứng rơi vào ngày ch
 11.4. Nếu một Bên vi phạm quy định về bảo mật thông tin và không khắc phục trong thời hạn 30 ngày kể từ ngày nhận được thông báo của Bên bị vi phạm, hoặc vi phạm lần 2 thì Bên bị vi phạm có quyền chấm dứt Hợp đồng này, sau khi thông báo bằng văn bản cho Bên vi phạm.
 ĐIỀU 12. GIẢI QUYẾT TRANH CHẤP
 Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt. 
-
 ĐIỀU 13. ĐIỀU KHOẢN CHUNG
 13.1. Hợp đồng này được giải thích và hiểu theo pháp luật Việt Nam.
 13.2.Các bên cam kết thực hiện đúng và đầy đủ tất cả các điều khoản của Hợp đồng. Các điều khoản, nội dung công việc cam kết trong Hợp đồng khi cần có thể được sửa đổi, bổ sung, lập phụ lục thỏa thuận Hợp đồng giữa Hai bên. Bất kỳ sự sửa đổi, bổ sung hoặc lập Phụ lục Hợp đồng phải được lập thành văn bản, có chữ ký của Hai bên và là một bộ phận không thể tách rời của Hợp đồng.
@@ -3238,67 +4182,78 @@ Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ
 13.5. Hợp đồng này được ký bởi đại diện có thẩm quyền của các Bên vào ngày được nêu ở phần đầu.  
 CÁC THỎA THUẬN KHÁC (Nếu có)
 ...................................................................................... 
-
-"""
-Mau_Hop_dong_hop_tac_gop_von_dau_tu = """
-
-
-
-
-
-
-
-
-
-
-
-HỢP ĐỒNG HỢP TÁC GÓP VỐN ĐẦU TƯ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ĐẠI DIỆN BÊN A 
+ĐẠI DIỆN BÊN B
+Chức vụ 
+(Ký tên, đóng dấu)
+Chức vụ
+ (Ký tên, đóng dấu)"""
+Mau_Hop_dong_hop_tac_gop_von_dau_tu = """HỢP ĐỒNG HỢP TÁC GÓP VỐN ĐẦU TƯ
 Hợp Đồng Hợp Tác Góp Vốn Đầu Tư (sau đây gọi chung là “Hợp đồng”) được lập vào ngày….tháng….năm 20….., tại địa chỉ x đường số ………, Phường …………, Quận x, TP. Hồ Chí Minh, Chúng tôi gồm có:
-
 BÊN A:
+Tên cá nhân/tổ chức
+:
+……………………………………………………………
+Ngày sinh/thành lập
+:
+……………………………………………………………
+Mst/CMND/CCCD
+:
+……………………………………………………………
+Địa chỉ
+:
+……………………………………………………………
+Số điện thoại
+:
+……………………………………………………………
+Đại diện (nếu có)
+:
+……………………………………………………………
   Sau đây gọi tắt là “Nhà đầu tư” hoặc “Khách hàng”
-
-
 BÊN B:
+Tên cá nhân/tổ chức
+:
+CÔNG TY CỔ PHẦN ĐẦU TƯ ABC 
+Ngày sinh/thành lập
+:
+18/03/…..
+Mst/CMND/CCCD
+:
+0317208xxx
+Địa chỉ
+:
+x đường số x, Phường x, Quận x, TP. Hồ Chí Minh
+Số điện thoại
+:
+……………………………………………………………
+Đại diện (nếu có)
+:
+Nguyễn Thị Kim T
   Sau đây gọi tắt là “ABC ”
-
-Xét rằng:
-Nhằm mục đích tối ưu nguồn tài chính và phát sinh lợi nhuận tối đa, tất cả hướng đến mục tiêu cao nhất là vì quyền lợi của khách hàng, nhà đầu tư, ABC  qua đây nhận sự uỷ thác toàn quyền của Nhà đầu tư để đại diện thực hiện các giao dịch liên quan đến đầu tư, tích luỹ các sản phẩm tài chính (sau đây gọi tắt là “Sản phẩm”)
-Nhà đầu tư có nguồn tiền hợp pháp và có nhu cầu tích luỹ, đầu tư vào các Sản phẩm tài chính từ nguồn tiền này.
-Thông qua Hợp đồng này, Nhà đầu tư và ABC  đồng ý hợp tác để triển khai kinh doanh các Sản phẩm như được nêu tại Điều 2 của Hợp đồng.
-ĐIỀU 1. GIẢI THÍCH TỪ NGỮ 
-Hợp tác góp vốn đầu tư: được hiểu là hoạt động hợp tác giữa Nhà đầu tư và ABC  để kinh doanh các Sản phẩm như được nêu tại Điều 2 của Hợp đồng;
-Sản phẩm: là danh mục các sản phẩm tài chính được chia thành từng Gói đầu tư với cách thức phân chia lợi nhuận, lãi lỗ và thời hạn khác nhau.
-Pháp luật: là pháp luật hiện hành của Việt Nam, bao gồm nhưng không giới hạn ở các luật, bộ luật, nghị định, thông tư, quyết định, ... có hiệu lực do các cơ quan nhà nước có thẩm quyền của Việt Nam ban hành tùy từng thời điểm.
-Phí: là các loại phí/lệ phí/chi phí khác mà Nhà đầu tư đồng ý sử dụng và cho phép Công ty sử dụng từ Vốn hợp tác kinh doanh để thanh toán như được quy định tại Hợp đồng này.
-Số tiền vốn góp/Vốn hợp tác kinh doanh: là tổng số tiền Nhà đầu tư góp vốn vào Hợp đồng hợp tác góp vốn đầu tư  này dưới hình thức Nhà đầu tư chuyển tiền thông qua tài khoản ngân hàng hoặc bất kỳ hình thức nào theo yêu cầu của Nhà đầu tư dưới sự cho phép của ABC .
-Sự kiện bất khả kháng: là bất kỳ sự kiện hoặc trường hợp nào nằm ngoài khả năng kiểm soát của các Bên hoặc các Bên không thể dự liệu một cách hợp lý trước khi ký kết hoặc trong thời gian triển khai thực hiện Hợp đồng này, bao gồm nhưng không chỉ giới hạn ở các sự kiện sau đây: dịch bệnh, hỏa hoạn, bão, lũ lụt, động đất hoặc thiên tai khác, bạo loạn, khủng bố, cháy nổ nghiêm trọng, chiến tranh, bạo động dân sự, chính biến, thay đổi của pháp luật và chính sách của nhà nước.
-Lợi nhuận khoán: được hiểu là khoản lợi nhuận cố định của mỗi Gói đầu tư trong danh mục Sản phẩm đầu tư không phân biệt hiệu quả của Gói đầu tư.
-Ngày hiệu lực: Ngày hiệu lực là ngày Hợp đồng này được giao kết và phát sinh hiệu lực giữa các bên.
-Thuế: bao gồm thuế thu nhập cá nhân, các khoản thuế theo quy định và là khoản tiền bắt buộc phải nộp và ABC  có toàn quyền cấn trừ trước khi trả Lợi nhuận khoán.
-ĐIỀU 2. NỘI DUNG HỢP TÁC GÓP VỐN ĐẦU TƯ
-ABC  bằng các kiến thức, kinh nghiệm và bí quyết kinh doanh của mình đóng góp vào hợp tác để tiến hành nhận sự uỷ thác toàn quyền của Nhà đầu tư nhằm hỗ trợ Nhà đầu tư lựa chọn Gói đầu tư trong Danh mục Sản phẩm đầu tư đồng thời tiến hành thực hiện đầu tư thông qua các kênh tài chính mang thuộc hệ thống ABC  hoặc các đơn vị quản lý đầu tư, tài chính, tuy nhiên, Nhà đầu tư vẫn là người hưởng lợi duy nhất đối với Gói đầu tư mà mình đã lựa chọn.
-ABC  cam kết sẽ thực hiện phân chia Lợi nhuận khoán cho Nhà đầu tư tuỳ vào Gói đầu tư mà Nhà đầu tư lựa chọn, ngoài trừ sự kiến bất khả kháng và trở ngại phát sinh.
-Nhà đầu thực hiện lựa chọn các Gói đầu tư trong danh mục Sản phẩm đầu tư được mô tả chi tiết tại Phụ lục 1 như sau: 
-Tên gói đầu tư: ………………………………………………………………..
-Thời hạn góp vốn: ……………………………………………………………
- Nhà đầu tư tiến hành góp tài sản bằng tiền mặt bằng cách chuyển trực tiếp tiền vào Tài khoản của ABC  hoặc chuyển tiền vào một đơn vị do ABC  chỉ định. Việc góp tiền vào hợp tác thực hiện như Điều 3.
-
-ĐIỀU 3. GÓP VỐN HỢP TÁC ĐẦU TƯ
+	
+	Xét rằng:
+	Nhằm mục đích tối ưu nguồn tài chính và phát sinh lợi nhuận tối đa, tất cả hướng đến mục tiêu cao nhất là vì quyền lợi của khách hàng, nhà đầu tư, ABC  qua đây nhận sự uỷ thác toàn quyền của Nhà đầu tư để đại diện thực hiện các giao dịch liên quan đến đầu tư, tích luỹ các sản phẩm tài chính (sau đây gọi tắt là “Sản phẩm”)
+	Nhà đầu tư có nguồn tiền hợp pháp và có nhu cầu tích luỹ, đầu tư vào các Sản phẩm tài chính từ nguồn tiền này.
+	Thông qua Hợp đồng này, Nhà đầu tư và ABC  đồng ý hợp tác để triển khai kinh doanh các Sản phẩm như được nêu tại Điều 2 của Hợp đồng.
+	ĐIỀU 1. GIẢI THÍCH TỪ NGỮ 
+	Hợp tác góp vốn đầu tư: được hiểu là hoạt động hợp tác giữa Nhà đầu tư và ABC  để kinh doanh các Sản phẩm như được nêu tại Điều 2 của Hợp đồng;
+	Sản phẩm: là danh mục các sản phẩm tài chính được chia thành từng Gói đầu tư với cách thức phân chia lợi nhuận, lãi lỗ và thời hạn khác nhau.
+	Pháp luật: là pháp luật hiện hành của Việt Nam, bao gồm nhưng không giới hạn ở các luật, bộ luật, nghị định, thông tư, quyết định, ... có hiệu lực do các cơ quan nhà nước có thẩm quyền của Việt Nam ban hành tùy từng thời điểm.
+	Phí: là các loại phí/lệ phí/chi phí khác mà Nhà đầu tư đồng ý sử dụng và cho phép Công ty sử dụng từ Vốn hợp tác kinh doanh để thanh toán như được quy định tại Hợp đồng này.
+	Số tiền vốn góp/Vốn hợp tác kinh doanh: là tổng số tiền Nhà đầu tư góp vốn vào Hợp đồng hợp tác góp vốn đầu tư  này dưới hình thức Nhà đầu tư chuyển tiền thông qua tài khoản ngân hàng hoặc bất kỳ hình thức nào theo yêu cầu của Nhà đầu tư dưới sự cho phép của ABC .
+	Sự kiện bất khả kháng: là bất kỳ sự kiện hoặc trường hợp nào nằm ngoài khả năng kiểm soát của các Bên hoặc các Bên không thể dự liệu một cách hợp lý trước khi ký kết hoặc trong thời gian triển khai thực hiện Hợp đồng này, bao gồm nhưng không chỉ giới hạn ở các sự kiện sau đây: dịch bệnh, hỏa hoạn, bão, lũ lụt, động đất hoặc thiên tai khác, bạo loạn, khủng bố, cháy nổ nghiêm trọng, chiến tranh, bạo động dân sự, chính biến, thay đổi của pháp luật và chính sách của nhà nước.
+	Lợi nhuận khoán: được hiểu là khoản lợi nhuận cố định của mỗi Gói đầu tư trong danh mục Sản phẩm đầu tư không phân biệt hiệu quả của Gói đầu tư.
+	Ngày hiệu lực: Ngày hiệu lực là ngày Hợp đồng này được giao kết và phát sinh hiệu lực giữa các bên.
+	Thuế: bao gồm thuế thu nhập cá nhân, các khoản thuế theo quy định và là khoản tiền bắt buộc phải nộp và ABC  có toàn quyền cấn trừ trước khi trả Lợi nhuận khoán.
+	ĐIỀU 2. NỘI DUNG HỢP TÁC GÓP VỐN ĐẦU TƯ
+	ABC  bằng các kiến thức, kinh nghiệm và bí quyết kinh doanh của mình đóng góp vào hợp tác để tiến hành nhận sự uỷ thác toàn quyền của Nhà đầu tư nhằm hỗ trợ Nhà đầu tư lựa chọn Gói đầu tư trong Danh mục Sản phẩm đầu tư đồng thời tiến hành thực hiện đầu tư thông qua các kênh tài chính mang thuộc hệ thống ABC  hoặc các đơn vị quản lý đầu tư, tài chính, tuy nhiên, Nhà đầu tư vẫn là người hưởng lợi duy nhất đối với Gói đầu tư mà mình đã lựa chọn.
+	ABC  cam kết sẽ thực hiện phân chia Lợi nhuận khoán cho Nhà đầu tư tuỳ vào Gói đầu tư mà Nhà đầu tư lựa chọn, ngoài trừ sự kiến bất khả kháng và trở ngại phát sinh.
+	Nhà đầu thực hiện lựa chọn các Gói đầu tư trong danh mục Sản phẩm đầu tư được mô tả chi tiết tại Phụ lục 1 như sau: 
+	Tên gói đầu tư: ………………………………………………………………..
+	Thời hạn góp vốn: ……………………………………………………………
+	 Nhà đầu tư tiến hành góp tài sản bằng tiền mặt bằng cách chuyển trực tiếp tiền vào Tài khoản của ABC  hoặc chuyển tiền vào một đơn vị do ABC  chỉ định. Việc góp tiền vào hợp tác thực hiện như Điều 3.
+	
+	ĐIỀU 3. GÓP VỐN HỢP TÁC ĐẦU TƯ
 Nhà đầu tư lựa chọn hình thức góp vốn là:
 Góp vốn theo gói đầu tư bằng một số tiền cụ thể là:
 Bằng số		: ……………………………………………………………………
@@ -3313,7 +4268,7 @@ Số tài khoản: 060282583xxx  – Ngân hàng: Sacombank – CN Tân Thuận.
 Chủ tài khoản: Công Ty Cổ Phần Đầu Tư ABC 
 Nội dung: gop von hop tac theo hop dong dau tu
 Nếu ABC có thay đổi thông tin nhận góp vốn, ABC  sẽ thông báo cho Nhà đầu tư được biết và thực hiện.
-ĐIỀU 4. PHÂN CHIA KẾT QUẢ ĐẦU TƯ VÀ TRẢ LỢI NHUẬN 
+	ĐIỀU 4. PHÂN CHIA KẾT QUẢ ĐẦU TƯ VÀ TRẢ LỢI NHUẬN 
 Lợi nhuận khoán được xác định theo từng Gói đầu tư. Nhà đầu tư sẽ được ABC  phân chia lợi nhuận sau khi đã trừ đi các chi phí tại mục 3 Điều này và thuế TNCN theo quy định của pháp luật (sau đây gọi tắt là “Lợi nhuận thực hưởng”) với công thức sau:
 Lợi nhuận thực hưởng = Lợi nhuận khoán – Chi phí – Thuế TNCN
 Điều kiện để Nhà đầu tư được ABC  chấp nhận phân chia Lợi nhuận thực hưởng là số tiền Lợi nhuận thực hưởng tối thiếu phải lớn hơn 1.000.000 đồng và số ngày tích luỹ tối thiểu từ 05 (năm) ngày trở lên.
@@ -3324,7 +4279,6 @@ Nhà đầu tư lựa chọn hình thức thanh toán lợi nhuận thực hư�
 £ Toàn bộ số tiền góp vốn thực tế được trả vào Ngày đến hạn và lợi nhuận được trả vào ngày 15 hàng tháng.
 Ngày đến hạn là ngày cuối cùng của thời hạn góp vốn đầu tư và được cộng thêm ít nhất 30 (ba mươi) ngày nhằm tính toán chính xác và xác định số tiền mà ABC  sẽ thanh toán cho Nhà đầu tư. Việc thanh toán được thực hiện trong thời hạn 07 (bảy) ngày làm việc.
 Việc thanh toán Lợi nhuận thực hưởng được chuyển khoản vào số tài khoản của Nhà đầu tư như được nêu tại phần mở đầu của hợp đồng này. Nhà đầu tư đảm bảo tính chính xác của thông tin thanh toán và nếu có thay đổi phải thông báo bằng văn bản cho ABC  được biết.
-
 ĐIỀU 5. CHI PHÍ LIÊN QUAN VÀ QUY ĐỊNH TẤT TOÁN KHOẢN GÓP VỐN
 Nhà đầu tư qua đây thừa nhận rằng, ABC  đã và đang nỗ lực và sử dụng mọi phương pháp hợp lý nhằm làm gia tăng kết quả và hiệu quả của hợp tác góp vốn đầu tư. Do vậy, ABC  trong một số trường hợp phải trả các khoản phí, phụ phí cho bên thứ ba hoặc các dịch vụ nhằm đảm bảo khai thác các Gói đầu tư. 
 Các khoản phí phụ phí có thể bao gồm và không giới hạn sau đây:
@@ -3337,13 +4291,12 @@ Các khoản phí, lệ phí liên quan khác.
 Khi muốn tất toán trước hạn đối với các khoản đầu tư có giá trị từ 500,000,000đ (năm trăm triệu đồng) trở lên, Nhà đầu tư phải tiến hành đăng ký rút và chờ xác nhận từ phía ABC  ít nhất 30 (ba mươi) ngày làm việc.
 Lợi nhuận khoán được điều chỉnh về mức 3%/năm (gọi tắt là “Lợi nhuận khoán không thời hạn”) không phân biệt gói đầu tư.
 Thời gian đã thực hiện của Gói đầu tư phải đạt được tối thiểu một phần ba của thời hạn Gói đầu tư và Nhà đầu tư phải đóng các khoản phạt do tất toán trước hạn.
-
-ĐIỀU 6. XÁC ĐỊNH LỢI NHUẬN KHOÁN 
+	ĐIỀU 6. XÁC ĐỊNH LỢI NHUẬN KHOÁN 
 Phương thức tính Lợi nhuận khoán của Khoản tiền đầu tư 
 Thời hạn tính: Được xác định từ ngày gửi tiền đến hết ngày liền kề trước ngày đến hạn của Khoản Tiền đầu tư (tính ngày đầu, bỏ ngày cuối của thời hạn) và thời điểm xác định số dư để tính Lợi nhuận khoán là cuối mỗi ngày trong thời hạn tính Lợi nhuận khoán
 Công thức tính: Số tiền lãi được xác định theo công thức sau:
 Số tiền Lợi nhuận khoán = [( Số dư tiền gửi thực tế x Số ngày duy trì số dư tiền gửi thực tế x Mức Lợi nhuận khoán đối với khoản tiền gửi của Khách Hàng)]/365
-		Trong đó:
+			Trong đó:
 Lãi suất tính lãi: tính theo tỷ lệ %/năm (lãi suất năm); một năm là ba trăm sáu mươi lăm ngày.
 Số dư tiền gửi thực tế: là số dư cuối ngày của số dư tiền gửi được sử dụng để tính lãi.
 Số ngày duy trì số dư tiền gửi thực tế: là số ngày mà số dư tiền gửi thực tế cuối mỗi ngày không thay đổi.
@@ -3352,10 +4305,10 @@ Nếu ngày đến hạn của Khoản Tiền Gửi trùng với ngày nghỉ, n
 Nếu vào ngày tích luỹ định kỳ mà Nhà đầu tư không thực hiện góp vốn (gửi tiền) cho ABC  thì số tiền đã góp vốn được giữ nguyên theo số dư vào ngày đã chốt liền kề trước ngày đến hạn tích luỹ. 
 ĐIỀU 7. CHÍNH SÁCH ĐẦU TƯ 
 Trừ trường hợp quy định khác tại Chính sách đầu tư áp dụng cho Danh mục Đầu tư được quy định tại Phụ lục  của Hợp đồng này (“Chính sách Đầu tư”), các hạn chế đầu tư của Danh mục đầu tư như sau:
-Không đầu tư vào các ngành: Không hạn chế
-Không đầu tư vào công ty:  Không hạn chế 
-Tỷ lệ đầu tư tối đa mỗi loại tài sản trong Danh mục: Không hạn chế 
-Không được sử dụng tài sản ủy thác để đầu tư vào quỹ đại chúng, công ty đầu tư chứng khoán đại chúng khác.
+	Không đầu tư vào các ngành: Không hạn chế
+	Không đầu tư vào công ty:  Không hạn chế 
+	Tỷ lệ đầu tư tối đa mỗi loại tài sản trong Danh mục: Không hạn chế 
+	Không được sử dụng tài sản ủy thác để đầu tư vào quỹ đại chúng, công ty đầu tư chứng khoán đại chúng khác.
 Tùy vào tình hình diễn biến của thị trường, Nhà đầu tư hoặc ABC  có thể đề nghị thay đổi Chính sách Đầu tư nhưng phải thông báo cho cho Bên còn lại bằng văn bản trước ngày đề nghị thay đổi ít nhất 05 Ngày làm việc. Các thay đổi liên quan đến Chính sách Đầu tư có hiệu lực kể từ thời điểm mà Bên còn lại chấp thuận.
 ĐIỀU 8. CAM KẾT CỦA KHÁCH HÀNG
 Nhà đầu tư đồng ý và cam kết: 
@@ -3380,53 +4333,132 @@ Các loại, số lượng và giá trị tài sản trong danh mục đầu tư
 Các loại, số lượng và giá trị của từng loại tài sản trong Danh mục đầu tư vào cuối thời kỳ; 
 ĐIỀU 11. BẢO MẬT THÔNG TIN
 Các Bên cam kết giữ bí mật nội dung và việc thực hiện Hợp đồng này và/hoặc bất kỳ thông tin liên quan mà một Bên có được trong quá trình thương lượng, ký kết và thực hiện Hợp đồng này; trừ các trường hợp sau:
-Việc cung cấp thông tin được sự đồng ý của Bên còn lại;
-Thông tin cung cấp đã được phổ biến rộng rãi nhưng không phải do hành vi vi phạm bảo mật thông tin của Bên cung cấp;
-Thông tin được cung cấp theo quy định của pháp luật Việt Nam hoặc quyết định, yêu cầu của cơ quan Nhà nước có thẩm quyền;
+	Việc cung cấp thông tin được sự đồng ý của Bên còn lại;
+	Thông tin cung cấp đã được phổ biến rộng rãi nhưng không phải do hành vi vi phạm bảo mật thông tin của Bên cung cấp;
+	Thông tin được cung cấp theo quy định của pháp luật Việt Nam hoặc quyết định, yêu cầu của cơ quan Nhà nước có thẩm quyền;
 Bất kỳ trường hợp nào mà một Bên cần cung cấp, tiết lộ, mua bán, trao đổi thông tin cho bất kỳ bên thứ ba nào và dưới bất kỳ hình thức nào trái với quy định tại Điều này đều phải được sự đồng ý bằng văn bản của Bên còn lại.
 ĐIỀU 12. SỰ KIỆN BẤT KHẢ KHÁNG
 Không Bên nào sẽ phải chịu trách nhiệm hay nghĩa vụ đối với bất kỳ việc chậm trễ hay không thực hiện nghĩa vụ của mình theo Hợp Đồng này nếu việc chậm trễ hoặc không thực hiện đó là do Sự kiện bất khả kháng. Nếu sự chậm trễ hay không thực hiện nghĩa vụ của một Bên bị gây ra bởi hoặc được dự báo là do Sự kiện bất khả kháng thì các nghĩa vụ của Bên đó sẽ được tạm ngưng.
 Bên có nghĩa vụ hoặc bất kỳ Bên nào bị tạm ngưng bởi Sự kiện bất khả kháng nào (“Bên bị ảnh hưởng”) sẽ ngay lập tức thông báo cho Bên kia về việc tạm ngưng thực hiện nghĩa vụ đó, nguyên nhân, dự đoán thời gian tạm ngưng và các hành động của Bên bị ảnh hưởng để khắc phục Sự kiện bất khả kháng và Bên bị ảnh hưởng sẽ cung cấp cho Bên kia tất cả các bằng chứng về Sự kiện bất khả kháng có thể có được một cách hợp lý. Việc không thông báo cho Bên kia sẽ làm cho Bên bị ảnh hưởng không được tạm ngưng thực hiện nghĩa vụ của mình theo Hợp Đồng này. Bên bị ảnh hưởng sẽ tiếp tục thực hiện nghĩa vụ của mình trong thời hạn sớm nhất có thể. 
 Cho mục đích của Hợp đồng này, “Sự kiện bất khả kháng” được hiểu là bất kỳ hành vi, sự kiện hoặc nguyên nhân nào nằm ngoài tầm kiểm soát hợp lý của Bên có liên quan, bao gồm: 
-việc thay đổi chính sách, pháp luật của các cơ quan nhà nước có thẩm quyền; 
-các thảm họa thiên nhiên như lũ lụt, lốc, động đất;
-hoạt động của Công ty chứng khoán bị gián đoạn hoặc gặp sự cố mà không cung cấp dịch vụ được cho ABC ;
-chiến tranh, hành động phá hoại, bạo loạn, nổi dậy, bạo động trong nước, tính trạng khẩn cấp, (trên thực tế hay theo quy định của pháp luật), tình trạng thiết quân luật, đình công, chống đối phá hoại;
-các trường hợp khác theo quy định của pháp luật.
+	việc thay đổi chính sách, pháp luật của các cơ quan nhà nước có thẩm quyền; 
+	các thảm họa thiên nhiên như lũ lụt, lốc, động đất;
+	hoạt động của Công ty chứng khoán bị gián đoạn hoặc gặp sự cố mà không cung cấp dịch vụ được cho ABC ;
+	chiến tranh, hành động phá hoại, bạo loạn, nổi dậy, bạo động trong nước, tính trạng khẩn cấp, (trên thực tế hay theo quy định của pháp luật), tình trạng thiết quân luật, đình công, chống đối phá hoại;
+	các trường hợp khác theo quy định của pháp luật.
 ĐIỀU 13. ĐIỀU KHOẢN CHUNG 
 Hợp đồng này và có hiệu lực kể từ ngày ký và được giải thích và áp dụng bởi pháp luật Việt Nam.
 Mọi tranh chấp phát sinh từ Hợp đồng này sẽ được giải quyết trước hết bằng thương lượng và hòa giải thiện chí. Trường hợp hòa giải không thành trong vòng 60 (sáu mươi) ngày kể từ ngày phát sinh tranh chấp, mọi tranh chấp phát sinh từ hoặc liên quan đến hợp đồng này sẽ được giải quyết bằng trọng tài tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. 
 Các Bên cam kết bảo mật tất cả những giấy tờ tài liệu, thông tin trao đổi, nội dung liên quan đến Hợp đồng này và chỉ tiết lộ cho bên thứ ba nếu được bên kia đồng ý trước bằng văn bản trừ trường hợp tiết lộ cho (i) Công ty chứng khoán, những người ủy quyền, người  kế nhiệm của ABC  hoặc của các tổ chức này và những người này phải tuân thủ nghĩa vụ bảo mật như là một Bên của Hợp đồng và/hoặc (ii) theo quy định của pháp luật và/hoặc (iii) theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 Hợp đồng này được lập thành hai (02) bản gốc có giá trị như nhau. Mỗi Bên giữ một (01) bản. 
 Đại diện hợp pháp của Các Bên đã đọc kỹ, chấp thuận Hợp đồng này và cùng nhau ký tên dưới đây
-
-
-
-
-
-
-
- DANH MỤC GÓI ĐẦU TƯ
-PHẦN A. GÓP VỐN LINH HOẠT - AN TÂM SINH LỜI
-
-
+NHÀ ĐẦU TƯ
+CÔNG TY CỔ PHẦN ĐẦU TƯ ABC 
+Chủ tịch Hội đồng quản trị
+	
+	
+	
+	Các gói đầu tư
+	Thời hạn
+	Tối thiểu
+	Quyền lợi
+	
+	Gói 1. Đầu tư tích luỹ
+	12 tháng
+	Lợi nhuận khoán: 2%/năm
+	
+	Gói 2. Đầu tư linh hoạt
+	Không thời hạn
+	Lợi nhuận khoán: 6%/năm
+	Lợi nhuận khoán kép theo ngày và được tất toán bất kỳ khi nào.
+	
+	Gói 3. Đầu tư Phát lộc
+	6 tháng
+	Lợi nhuận khoán: 8%/năm
+	
+	Gói 4. Đầu tư thần tài
+	3 tháng
+	Lợi nhuận khoán: 6%/năm
+	
+	 DANH MỤC GÓI ĐẦU TƯ
+	PHẦN A. GÓP VỐN LINH HOẠT - AN TÂM SINH LỜI
+	
+	Các gói đầu tư
+	Thời hạn
+	Tối thiểu
+	Quyền lợi
+	Ghi chú
+	Gói 1. Đầu tư tích luỹ
+	12 tháng
+	Lợi nhuận khoán
+	
+	Gói 2. Đầu tư linh hoạt
+	Không thời hạn
+	Lợi nhuận khoán: 6%/năm
+	Lợi nhuận khoán kép theo ngày và được tất toán bất kỳ khi nào.
+	
+	Gói 3. Đầu tư Phát lộc
+	6 tháng
+	Lợi nhuận khoán: 8%/năm
+	
+	Gói 4. Đầu tư thần tài
+	3 tháng
+	Lợi nhuận khoán: 6%/năm
+	
 PHẦN B. GÓI TRẢI NGHIỆM
-
-
-
-
-
-
-"""
+Số tiền đầu tư (VND)
+Thời hạn
+Tỉ lệ lợi nhuận tương ứng
+Lợi nhuận khoán theo năm
+Quyền lợi
+…………….. đồng
+12 tháng
+22%/năm
+………… 
+Kết thúc thời hạn hợp đồng nhận được tổng …………
+24 tháng
+25%/năm
+……………..
+Kết thúc thời hạn hợp đồng nhận được tổng cộng ………….."""
 Mau_Hop_dong_hop_tac_kinh_doanh = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 -------***-------
-
 HỢP ĐỒNG HỢP TÁC KINH DOANH
 Số: ......./2023/HDHTKD
 Căn cứ qui định tại Bộ luật Dân sự năm 2015 do Quốc hội nước CHXHCN Việt Nam ban hành;
 Căn cứ vào khả năng và nhu cầu của hai bên và dựa trên tinh thần trung thực và thiện chí hợp tác của các bên.
 Hôm nay ngày … tháng … năm 2023, tại ………………………………. chúng tôi gồm có:
+BÊN A
+:
+ÔNG ……………………………………………………………………….
+CCCD số
+: 
+………………………….. cấp ngày ………. tại ………………………….
+Địa chỉ
+Điện thoại
+Email
+:
+:
+:
+……………………………………………………………………………..
+……………………………………………………………………………...
+……………………………………………………………………………...
+Là chủ sở hữu hộ kinh doanh …………… theo Giấy chứng nhận hộ kinh doanh số…………... do ………………………… cấp ngày ………
+Và:
+Bên B
+:
+……………………………………………………………………..
+Hộ chiếu số
+:
+………………………………………………………………………
+Địa chỉ
+Điện thoại
+:
+: 
+……………………………………………………………………..
+Email
+:
+…………………………………….
 XÉT RẰNG:
 Bên A hiện đang là chủ hộ kinh doanh………………… theo Giấy chứng nhận hộ kinh doanh số…………... do ………………………… cấp ngày ………. Bên A có đầy đủ giấy phép kinh doanh theo quy định pháp luật để kinh doanh lĩnh vực …………………. tại địa chỉ ……………………………………………………………. 
 Bên A đang ký kết Hợp đồng thuê …………………. tại địa chỉ trên với chủ sở hữu là ông/bà ……………….. ngày …/…/….. đã được công chứng tại ……………..., với thời hạn ………… năm, giá tiền thuê là …………. đồng/tháng. Hiện tại Bên A đã thanh toán tiền thuê nhà đến hết tháng …………………
@@ -3434,16 +4466,16 @@ Bên B sở hữu thương hiệu “……………………….” và có kin
 Với mong muốn hợp tác để khai thác các lợi thế của nhau trong việc kinh …………………. hai bên đồng ý ký kết hợp đồng hợp tác kinh doanh với các thỏa thuận sau:
 ĐIỀU 1. ĐỊNH NGHĨA 
 Các từ và cụm từ trong Hợp đồng này, nếu được viết hoa sẽ có nghĩa được diễn dịch dưới đây và chỉ thay đổi trừ khi được định nghĩa khác đi trong các điều khoản trong Hợp đồng:
-“Hợp Đồng”: có nghĩa là Hợp đồng hợp tác kinh doanh này giữa ông ………………… và ông………………… cùng với tất cả các phụ lục, thỏa thuận và tài liệu đính kèm. 
-“Địa điểm hợp tác”: ……………………………………………………..
-“Đơn vị hợp tác”: là ……………… mà hai bên hợp tác để kinh doanh tại địa điểm ………………………………………………………………………………………..
- “Thời Hạn Hợp Đồng”: được hiểu là khoảng thời gian quy định tại Điều 4 của Hợp đồng này;
-“Hàng Hóa”: nghĩa là thức ăn, thực phẩm, đồ uống, thuốc lá, trò chơi, dịch vụ tiêu khiển và các Hàng Hóa hợp pháp khác mà Bên B đưa vào phục vụ kinh doanh tại Đơn vị hợp tác. 
-“Giấy phép kinh doanh”: là giấy chứng nhận hộ kinh doanh số………..ngày………do ……..cấp cùng các giấy phép chứng minh đủ điều kiện hoạt động kinh doanh của Đơn vị hợp tác theo quy định của pháp luật để kinh doanh nh……………….bao gồm nhưng không giới hạn ở Giấy chứng nhận đảm bảo vệ sinh an toàn thực phẩm, Giấy chứng nhận đủ điều kiện an ninh trật tự, Giấy phép bán rượu tiêu dùng tại chỗ ….
-“Bên thứ 3”: là bất kỳ bên nào khác ngoài Bên A và Bên B.
-“Hộ kinh doanh”: là Hộ kinh doanh của ông………được cấp giấy chứng nhận hộ kinh doanh số………..ngày………do ……..cấp mà Bên B sử dụng để góp vốn kinh doanh tại Đơn vị hợp tác
-“Doanh thu”: là giá trị Dịch vụ thu được thực tế (chưa bao gồm thuế GTGT) tại Đơn vị hợp tác.
-“Lợi nhuận”: là khoản tiền Đơn vị hợp tác thu được khi thực hiện kinh doanh sau khi trừ đi tất cả các chi phí vốn và chi phí thuế liên quan. Chi phí vốn bao gồm nhưng không giới hạn ở chi phí nhân sự, chi phí thuê quyền sử dụng đất, tài sản, chi phí thuê chuyên gia, chi phí đầu tư cơ sở vật chất, trang thiết bị, chi phí quan hệ… Chi phí thuế bao gồm nhưng không giới hạn ở mọi loại thuế mà hộ kinh doanh phải đóng theo quy định pháp luật Việt Nam.
+	“Hợp Đồng”: có nghĩa là Hợp đồng hợp tác kinh doanh này giữa ông ………………… và ông………………… cùng với tất cả các phụ lục, thỏa thuận và tài liệu đính kèm. 
+	“Địa điểm hợp tác”: ……………………………………………………..
+	“Đơn vị hợp tác”: là ……………… mà hai bên hợp tác để kinh doanh tại địa điểm ………………………………………………………………………………………..
+	 “Thời Hạn Hợp Đồng”: được hiểu là khoảng thời gian quy định tại Điều 4 của Hợp đồng này;
+	“Hàng Hóa”: nghĩa là thức ăn, thực phẩm, đồ uống, thuốc lá, trò chơi, dịch vụ tiêu khiển và các Hàng Hóa hợp pháp khác mà Bên B đưa vào phục vụ kinh doanh tại Đơn vị hợp tác. 
+	“Giấy phép kinh doanh”: là giấy chứng nhận hộ kinh doanh số………..ngày………do ……..cấp cùng các giấy phép chứng minh đủ điều kiện hoạt động kinh doanh của Đơn vị hợp tác theo quy định của pháp luật để kinh doanh nh……………….bao gồm nhưng không giới hạn ở Giấy chứng nhận đảm bảo vệ sinh an toàn thực phẩm, Giấy chứng nhận đủ điều kiện an ninh trật tự, Giấy phép bán rượu tiêu dùng tại chỗ ….
+	“Bên thứ 3”: là bất kỳ bên nào khác ngoài Bên A và Bên B.
+	“Hộ kinh doanh”: là Hộ kinh doanh của ông………được cấp giấy chứng nhận hộ kinh doanh số………..ngày………do ……..cấp mà Bên B sử dụng để góp vốn kinh doanh tại Đơn vị hợp tác
+	“Doanh thu”: là giá trị Dịch vụ thu được thực tế (chưa bao gồm thuế GTGT) tại Đơn vị hợp tác.
+	“Lợi nhuận”: là khoản tiền Đơn vị hợp tác thu được khi thực hiện kinh doanh sau khi trừ đi tất cả các chi phí vốn và chi phí thuế liên quan. Chi phí vốn bao gồm nhưng không giới hạn ở chi phí nhân sự, chi phí thuê quyền sử dụng đất, tài sản, chi phí thuê chuyên gia, chi phí đầu tư cơ sở vật chất, trang thiết bị, chi phí quan hệ… Chi phí thuế bao gồm nhưng không giới hạn ở mọi loại thuế mà hộ kinh doanh phải đóng theo quy định pháp luật Việt Nam.
 ĐIỀU 2.  MỤC TIÊU VÀ PHẠM VI HỢP TÁC KINH DOANH
 Bên A và Bên B nhất trí cùng nhau hợp tác kinh doanh và phân chia lợi nhuận bằng việc sử dụng tư cách của Hộ kinh doanh ………... để vận hành nhà hàng, quán bar có thông tin sau đây (sau đây gọi tắt là “Đơn vị hợp tác”):
 Hộ kinh doanh …………….. theo Giấy chứng nhận đăng ký hộ kinh doanh số ……….. do …………… cấp ngày …………. với ngành nghề đăng ký kinh doanh là ……………………. Bên A cam kết Hộ kinh doanh ……………… đã đủ các điều kiện theo pháp luật Việt Nam để kinh doanh nhà hàng, quán bar với các giấy phép sau:
@@ -3471,12 +4503,8 @@ Khi Bên B có nhu cầu bổ sung vốn cho Đơn vị hợp tác, Bên B sẽ 
 Ngân hàng:………………………………….
 Số tài khoản:………………………………..
 Trong suốt thời gian hợp tác, Đơn vị hợp tác sẽ được vận hành công khai dưới tên gọi “………………”. Hai bên xác nhận rằng tên, logo, menu, địa chỉ email và tất cả các yếu tố khác liên quan đến “………………… đều thuộc quyền sở hữu của Bên B trước, trong suốt thời hạn hợp tác và sau khi chấm dứt hợp đồng này. Việc hợp tác kinh doanh theo hợp đồng này không được xem là Bên B chuyển nhượng quyền sở hữu, sử dụng thương hiệu “………………] cho Bên A hay Hộ kinh doanh của Bên A.
-
-
-
 ĐIỀU 3.  THỜI HẠN HỢP ĐỒNG.
 Hợp đồng hợp tác có hiệu lực kể từ ngày ký và kéo dài đến khi hai bên thỏa thuận chấm dứt hợp đồng nhưng thời hạn hợp đồng tối thiểu là 03 (ba) năm hoặc khi xảy ra bất kỳ sự kiện chấm dứt hợp đồng được quy định tại hợp đồng này.
-
 ĐIỀU 4.  PHÂN CHIA KẾT QUẢ KINH DOANH
 4.1. Chậm nhất ngày 10 hàng tháng, Bên B phải tổng kết Doanh thu và Lợi nhuận của tháng trước gửi đến Bên A.
 4.2. Việc phân chia Lợi nhuận được thực hiện như sau:
@@ -3484,12 +4512,10 @@ Nếu việc kinh doanh tại Đơn vị hợp tác của tháng đó có Lợi 
 Nếu việc kinh doanh tại Đơn vị hợp tác của tháng đó bị thua lỗ, Bên A chịu 75%, Bên B chịu 25% lỗ của tháng đó. Trường hợp này, các Bên góp đủ số tiền bù lỗ vào tài khoản nêu tại Điều 2.2 Hợp Đồng để bù lỗ cho Đơn vị hợp tác (nếu có) trong vòng 07 ngày kể từ ngày Bên B gửi báo cáo kết quả kinh doanh tháng cho Bên A.
 Trường hợp xảy ra sự kiện như thiên tai, bão lũ, trộm cắp, hỏa hoạn hoặc các sự kiện khác làm thiệt hại đến Đơn vị hợp tác hoặc tài sản của Đơn vị hợp tác bị hư hỏng, nếu khoản lợi nhuận của tháng phát sinh sự kiện đó không đủ để chi trả chi phí sữa chữa thì các bên sẽ chịu chi phí sửa chữa theo tỷ lệ Bên A chịu 75 % và Bên B chịu 25 %. Trường hợp này, các Bên góp đủ số tiền vào tài khoản được chỉ định tại Điều 2.2 để bù lỗ cho Đơn vị hợp tác (nếu có) trong vòng 07 ngày kể từ ngày Bên B gửi báo cáo kết quả kinh doanh tháng cho Bên A.
 4.3. Đối với khoản tiền thuê nhà từ tháng …………….., Bên A sẽ thanh toán cho bên cho thuê với giá thuê ………………./tháng. Đơn vị hợp tác sẽ thanh toán lại tiền thuê cho Bên A từng tháng.
-
 ĐIỀU 5.   CÁC NGUYÊN TẮC TÀI CHÍNH
 Hai bên phải tuân thủ các nguyên tắc tài chính kế toán theo quy định của pháp luật về kế toán của nước Cộng hoà xã hội chủ nghĩa Việt Nam. Các hoạt động về tài chính kế toán của “Đơn vị hợp tác” được hạch toán, quyết toán vào Bên A.
 Mọi khoản thu chi cho hoạt động kinh doanh sẽ được Bên B ghi chép rõ ràng, đầy đủ, xác thực và cung cấp cho Bên A khi Bên A yêu cầu.
 Bên A sẽ phụ trách các hoạt động về kê khai, nộp thuế, làm việc với cơ quan nhà nước thực hiện các thủ tục hành chính đảm bảo Đơn vị hợp tác hoạt động theo đúng quy định của pháp luật Việt Nam.
-
 ĐIỀU 6.  QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
 Hưởng lợi nhuận kinh doanh theo Điều 4 Hợp đồng này.
 Nhận tiền thuê nhà là 100.000.000 VNĐ/tháng từ Đơn vị hợp tác đến hết tháng 12/2024 sau khi cung cấp bằng chứng có xác nhận của Bên cho thuê về việc Bên A đã thanh toán đủ tiền thuê đến tháng 12/2024.
@@ -3503,7 +4529,6 @@ Không được phép sử dụng Giấy phép kinh doanh của Bên A để th�
 Bên A chịu trách nhiệm đứng tên trên các giấy phép để đảm bảo Hộ kinh doanh đủ điều kiện hoạt động và là bên đứng ra làm việc với các cơ quan nhà nước, cá nhân, tổ chức về các hoạt động kinh doanh của Đơn vị hợp tác.
 Có trách nhiệm ký tên trên các giấy tờ, văn bản phát sinh khi thực hiện hoạt động kinh doanh của Đơn vị hợp tác, chứng từ nộp thuế….do Bên B cung cấp.
 Các nghĩa vụ, cam kết khác theo quy định tại Hợp đồng này và theo quy định pháp luật.
-
 ĐIỀU 7.  QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
 Hưởng lợi nhuận kinh doanh theo Điều 4 của hợp đồng này.
 Tổ chức quản lý, điều hành các hoạt động kinh doanh của Đơn vị hợp tác một cách hợp pháp, yêu cầu bên B hoàn thiện các Giấy phép kinh doanh trước khi đơn vị hợp tác bắt đầu kinh doanh.
@@ -3512,19 +4537,16 @@ Cung cấp chứng từ, tài liệu ghi ghép thu chi của Đơn vị hợp t�
 Góp vốn đầy đủ và đúng hạn và theo quy định tại Hợp đồng này.
 Miễn toàn bộ trách nhiệm trong trường hợp xảy ra tranh chấp giữa chủ sở hữu căn nhà tại địa điểm ………………………………… và Đơn vị hợp tác.
 Các quyền lợi khác quy định trong Hợp đồng này và theo quy định pháp luật.
-
 ĐIỀU 8. BẤT KHẢ KHÁNG
-Sự kiện bất khả kháng là sự kiện xảy ra mang tính khách quan, không thể lường trước được và nằm ngoài tầm kiểm sóat của Bên không thể thực hiện được nghĩa vụ của mình theo Hợp Đồng bao gồm nhưng không giới hạn ở các sự kiện như: động đất, bão, lụt, lũ, lốc, sóng thần, lở đất, hỏa hoạn, chiến tranh hoặc có nguy cơ xảy ra chiến tranh,... và các thảm họa khác chưa lường được, sự thay đổi chính sách hoặc ngăn cấm của cơ quan có thẩm quyền của Việt Nam.
-Việc một Bên không hoàn thành nghĩa vụ của mình do sự kiện bất khả kháng (gọi tắt là “Bên Bị ảnh hưởng”) sẽ không bị coi là vi phạm nghĩa vụ Hợp đồng và không phải là cơ sở để Bên kia chấm dứt Hợp đồng nếu Bên Bị ảnh hưởng đã:
-Tiến hành các biện pháp ngăn ngừa hợp lý và các biện pháp thay thế cần thiết để hạn chế tối đa ảnh hưởng do sự kiện bất khả kháng gây ra; và
-Thông báo ngay cho Bên kia về sự kiện bất khả kháng xảy ra trong vòng hai (02) ngày kể từ ngày xảy ra sự kiện bất khả kháng.
-Trong trường hợp xảy ra sự kiện bất khả kháng, thời gian thực hiện Hợp đồng sẽ được kéo dài thêm bằng thời gian diễn ra sự kiện bất khả kháng mà Bên Bị ảnh hưởng đã không thể thực hiện nghĩa vụ của mình theo Hợp đồng. 
-Trong trường hợp sự kiện bất khả kháng kéo dài quá 30 ngày khiến cho một trong các Bên không thể thực hiện nghĩa vụ của mình thì bất kỳ Bên nào cũng có quyền yêu cầu đơn phương chấm dứt Hợp đồng. Trong trường hợp này, Hai Bên sẽ cùng bàn bạc giải quyết quyền lợi trên cơ sở phân chia kết quả kinh doanh tại Điều 4 của Hợp đồng này. 
-
+	Sự kiện bất khả kháng là sự kiện xảy ra mang tính khách quan, không thể lường trước được và nằm ngoài tầm kiểm sóat của Bên không thể thực hiện được nghĩa vụ của mình theo Hợp Đồng bao gồm nhưng không giới hạn ở các sự kiện như: động đất, bão, lụt, lũ, lốc, sóng thần, lở đất, hỏa hoạn, chiến tranh hoặc có nguy cơ xảy ra chiến tranh,... và các thảm họa khác chưa lường được, sự thay đổi chính sách hoặc ngăn cấm của cơ quan có thẩm quyền của Việt Nam.
+	Việc một Bên không hoàn thành nghĩa vụ của mình do sự kiện bất khả kháng (gọi tắt là “Bên Bị ảnh hưởng”) sẽ không bị coi là vi phạm nghĩa vụ Hợp đồng và không phải là cơ sở để Bên kia chấm dứt Hợp đồng nếu Bên Bị ảnh hưởng đã:
+	Tiến hành các biện pháp ngăn ngừa hợp lý và các biện pháp thay thế cần thiết để hạn chế tối đa ảnh hưởng do sự kiện bất khả kháng gây ra; và
+	Thông báo ngay cho Bên kia về sự kiện bất khả kháng xảy ra trong vòng hai (02) ngày kể từ ngày xảy ra sự kiện bất khả kháng.
+	Trong trường hợp xảy ra sự kiện bất khả kháng, thời gian thực hiện Hợp đồng sẽ được kéo dài thêm bằng thời gian diễn ra sự kiện bất khả kháng mà Bên Bị ảnh hưởng đã không thể thực hiện nghĩa vụ của mình theo Hợp đồng. 
+		Trong trường hợp sự kiện bất khả kháng kéo dài quá 30 ngày khiến cho một trong các Bên không thể thực hiện nghĩa vụ của mình thì bất kỳ Bên nào cũng có quyền yêu cầu đơn phương chấm dứt Hợp đồng. Trong trường hợp này, Hai Bên sẽ cùng bàn bạc giải quyết quyền lợi trên cơ sở phân chia kết quả kinh doanh tại Điều 4 của Hợp đồng này. 
 ĐIỀU 9. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
 Nếu Bên A vi phạm một hoặc nhiều các nghĩa vụ, cam kết theo hợp đồng này hoặc tự ý chấm dứt hợp đồng mà không được sự đồng ý bằng văn bản của Bên B sẽ phải chịu phạt vi phạm cho Bên B số tiền 300.000.000 đồng (Ba trăm triệu đồng) và bồi thường thiệt hại cho Bên B các khoản chi phí đã đầu tư để thực hiện hợp đồng, các thiệt hại phát sinh theo hóa đơn hợp lệ. Trong vòng 7 (bảy) ngày kể từ ngày nhận được yêu cầu thanh toán tiền phạt vi phạm và bồi thường thiện hại, nếu Bên A có nghĩa vụ thanh toán , nếu chậm thanh toán sẽ phải chịu lãi suất chậm trả theo lãi suất nợ quá hạn của Ngân hàng Vietcombank tại Thành phố Hội An tại thời điểm chậm trả, tính từ ngày trễ hạn đến ngày Bên A thực hiện xong nghĩa vụ của mình. 
 Ngoài chịu phạt vi phạm và bồi thường thiệt hại theo Điều 9.1 nêu trên trường hợp Bên B vi phạm Điều 6.7 và Điều 8.2 của Hợp đồng này, Bên B còn phải nộp lại cho Bên A các khoản lợi thu được từ việc sử dụng thương hiệu “Burger Republic”.
-
 ĐIỀU 10. CHẤM DỨT HỢP ĐỒNG 
 10.1. Hợp đồng này sẽ chấm dứt trong một số trường hợp sau:
 Hết hạn thời hạn hợp tác;
@@ -3544,23 +4566,30 @@ Thông báo của một Bên cho Bên kia phải được thể hiện bằng v�
 Trừ khi có quy định rõ ràng khác đi trong Hợp đồng này, tất cả các thông báo và thông tin khác được đưa ra theo Hợp Đồng này phải lập thành văn bản và được gửi theo ít nhất một trong các hình thức sau:  (i) đường bưu điện, (ii) giao tận tay, (iii) fax (và bản gốc được gửi bằng đường bưu điện hoặc giao tận tay trong vòng hai (02) ngày làm việc sau khi fax), và/ hoặc (iv) bằng thư điện tử (email) theo địa chỉ và/hoặc các thông tin khác được ghi cụ thể tại Hợp Đồng này.
 Mọi thông báo và thông tin được coi là Bên kia đã nhận được khi: (i) có xác nhận của Bưu điện, nếu gửi bằng bưu điện, (ii) giao cho người nhận và ký biên bản giao nhận, nếu giao tận tay, (iii) hệ thống fax xác nhận về việc fax thành công, nếu gửi bằng fax, và/ hoặc (iv) có xác nhận “Sent“ trong Server của bên gửi thông tin.
 Địa chỉ nhận thông báo là địa chỉ ghi tại phần thông tin Hợp đồng này. Mỗi Bên sẽ thông báo cho Bên kia bất kỳ thay đổi nào về địa chỉ, số điện thoại hoặc số fax, địa chỉ email trong vòng 02 (hai) ngày kể từ ngày có sự thay đổi.
-
 ĐIỀU 12. LUẬT ÁP DỤNG VÀ PHƯƠNG THỨC GIẢI QUYẾT TRANH CHẤP
 	Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt. 
-
-ĐIỀU 13. ĐIỀU KHOẢN CHUNG 
+				ĐIỀU 13. ĐIỀU KHOẢN CHUNG 
 Hợp đồng này sẽ thay thế cho tất cả các thỏa thuận trước đây, dù bằng lời nói hay văn bản, cũng như mọi sự trình bày khác. 
 Mọi điều khoản và mọi phần trong hợp đồng này đều riêng biệt và tách rời khỏi các điều khoản khác, và nếu ở bất cứ thời điểm nào, một điều khoản bị xem là vô hiệu, không hợp pháp hoặc không thể thực thi theo luật pháp hiện hành của Việt Nam, tính hiệu lực, hợp pháp và khả thi của những điều khoản còn lại trong hợp đồng này vẫn không bị ảnh hưởng. Hai bên đồng ý sẽ lập tức thảo luận với tinh thần thiện chí nhằm thiết lập một điều khoản thay thế để bảo vệ quyền lợi của các bên trong phạm vi pháp luật cho phép.
 Việc từ bỏ không thực hiện bất kỳ quy định nào của hợp đồng này của một bên sẽ không được hiểu là sự từ bỏ hoặc hạn chế quyền của bên đó trong việc yêu cầu bên kia thực thi và tuân thủ nghiêm chỉnh các quy định khác của hợp đồng. 
 Bất cứ sự chỉnh sửa, điều chỉnh, thay đổi hợp đồng này đều phải lập thành văn bản và có chữ ký của hai bên.
 Bằng việc ký tên dưới đây, hai bên thống nhất và đồng ý rằng, mình đã đọc kỹ, hiểu rõ từng nội dung và điều khoản của hợp đồng trên cơ sở tự nguyện và chịu mọi trách nhiệm pháp lý khi thực hiện các nội dung của hợp đồng này.
-Hợp đồng này được lập thành bốn (04) bản, mỗi bản có ……… trang, các hợp đồng có giá trị pháp lý như nhau. Mỗi bên giữ hai (02) bản./.
-"""
+			Hợp đồng này được lập thành bốn (04) bản, mỗi bản có ……… trang, các hợp đồng có giá trị pháp lý như nhau. Mỗi bên giữ hai (02) bản./.
+				BÊN A
+				
+				
+				
+				
+				BÊN B
+				
+				
+				
+				
+5"""
 Mau_Hop_dong_hop_tac_kinh_doanh_thanh_lap_doanh_nghiep = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------***--------
 HỢP ĐỒNG HỢP TÁC ĐẦU TƯ
-
 - Căn cứ Bộ luật Dân sự số 91/2015/QH13, ngày 24 tháng 11 năm 2015; 
 - Căn cứ Luật Doanh nghiệp số 59/2020/QH14, ngày 17 tháng 6 năm 2020 ;
 - Căn cứ Luật Đầu tư số 61/2020/QH14, ngày 17 tháng 6 năm 2020 ;
@@ -3574,8 +4603,8 @@ Giấy đăng ký kinh doanh	:…………………………………...……�
 Sinh ngày	: ………………. 	Quốc  tịch: ………….…………………...…
 Hộ chiếu	:…………………………………………….…………………….
 Địa chỉ	: ……...............………………………….………………….
-Điện thoại	: …………………………. 	
-	XÉT RẰNG: Các Bên mong muốn thành lập một Công ty………………………..hoạt động tạiViệt Nam và có trụ sở tại …………… theo quy định của pháp luật về pháp luật doanh nghiệp, pháp luật đầu tư.
+		Điện thoại	: …………………………. 	
+			XÉT RẰNG: Các Bên mong muốn thành lập một Công ty………………………..hoạt động tạiViệt Nam và có trụ sở tại …………… theo quy định của pháp luật về pháp luật doanh nghiệp, pháp luật đầu tư.
 Vì vậy, các Bên nhất trí ký kết Hợp đồng hợp tác kinh doanh theo những điều khoản sau:
 ĐIỀU 1.	ĐỊNH NGHĨA
 Các thuật ngữ sử dụng trong Hợp đồng này sẽ có nghĩa như sau:
@@ -3592,40 +4621,63 @@ Các thuật ngữ sử dụng trong Hợp đồng này sẽ có nghĩa như sau
 1.11	Vốn đầu tư  nghĩa là phần vốn góp của các Bên để thành lập Công ty;
 1.12	Vốn Điều lệ là vốn của các bên đăng ký trong Điều lệ công ty;
 1.13     Lãi ròng là lợi nhuận Công ty giữ lại sau khi đã thanh toán hết các nghĩa vụ tài chính đối với Nhà nước, trích lập các quỹ, chi phí khác của Công ty trên cơ sở quy chế tài chính của Công ty. 
-
 ĐIỀU 2.	TÊN VÀ ĐỊA CHỈ CỦA CÔNG TY DỰ KIẾN THÀNH LẬP ĐỂ THỰC HIỆN DỰ ÁN ĐẦU TƯ
 2.1	Tên tiếng Việt của Công ty được thành lập theo Hợp đồng này là: 
 	 Công ty ……………..…………………………………………………….. 
-2.2      Tên giao dịch của Công ty được thành lập theo Hợp đồng này là: 
-                   ………………………………………………………………….……… 
+	2.2      Tên giao dịch của Công ty được thành lập theo Hợp đồng này là: 
+	                   ………………………………………………………………….……… 
 2.3 	Địa chỉ đăng ký hoạt động của Công ty: Công ty đóng trên địa bàn thành phố Đà Nẵng. 
-
 ĐIỀU 3.	 PHẠM VI HOẠT ĐỘNG CỦA DỰ ÁN ĐẦU TƯ
 3.1. Hai bên sẽ đăng ký thành lập Công ty để thực hiện dự án đầu tư với những ngành nghề sau đây mà không giới hạn phạm vi lãnh thổ:
+STT
+Tên ngành, nghề đăng ký kinh doanh
+Mã ngành
+1
+2
+3
+4
 Trong quá trình hoạt động, Công ty có thể mở rộng thêm lĩnh vực ngành nghề và thực hiện việc thay đổi đó theo các quy định của pháp luật Việt Nam.
 3.2.	Công ty có thể tham gia hợp tác dưới mọi hình thức với các tổ chức Việt Nam hoặc nước ngoài khác nhằm đạt được những mục tiêu kinh doanh phù hợp với Luật hiện hành.
-
 ĐIỀU 4.	 THỜI HẠN HOẠT ĐỘNG CỦA CÔNG TY 
 4.1.	Thời hạn hoạt động của Công ty kể từ ngày được đăng ký hoạt động đến khi các bên thỏa thuận chấm dứt hoặc bị chấm dứt hoạt động theo quy định của pháp luật.
 4.2.     Các thủ tục xin phép gia hạn hoạt động được Công ty thực hiện theo các quy định pháp luật hiện hành. 
-
 ĐIỀU 5.	 VỐN ĐẦU TƯ CỦA VÀ VỐN ĐIỀU LỆ CỦA CÔNG TY
 5.1.	Vốn đầu tư của các bên để thành lập Công ty là  …………………. VNĐ (……………………………… đồng). 
 5.2.	Các bên cùng nhau thống nhất thỏa thuận và xác định giá trị sản phẩm công nghệ mà Bên ....................... có là:
 Tên sản phẩm công nghệ:
 Giá trị tính đến ngày .................... : ................................ VNĐ (........................................... đồng).
 Trong đó phân chia cho các thành viên với tỷ lệ như sau: 
-
+TT
+Các bên
+Tên tài sản (sản phẩm công nghệ)
+Giá trị tài sản (VNĐ)
+1
+Bên A
+2
+Bên B
+Tổng cộng:
 5.3.	Tỷ lệ góp vốn đầu tư thành lập Công ty được xác định như sau:
 	
-
+TT
+Các bên
+Tên tài sản 
+(sản phẩm công nghệ)
+Giá trị tài sản
+Tỷ lệ vốn góp
+Hình thức góp vốn
+1
+Bên A
+Tài sản
+2
+Bên B
+Tài sản
+Tiền mặt
+Tiền mặt
 ĐIỀU 6.	THỜI HẠN GÓP VỐN
 6.1.	 Việc góp đầu tư của Bên B để thực hiện dự án sẽ được thực hiện chậm nhất là sau ....... ngày kể từ ngày ký hợp đồng này. Mỗi Bên sẽ chịu trách nhiệm riêng bằng chính phần vốn góp của mình và trách nhiệm với tư cách thành viên theo quy định của pháp luật. 
 6.2.	Trong trường hợp một Bên không thể thực hiện được nghĩa vụ nêu trên, trong vòng 07 ngày làm việc kể từ ngày góp vốn đã định, Bên đó phải thông báo cho các Bên kia biết lý do không thể thực hiện và biện pháp đã và đang được thực hiện để khắc phục vi phạm đó. Trong mọi trường hợp, các Bên phải thiện chí đàm phán để tìm ra giải pháp thích hợp cho tình huống đó.
-
 ĐIỀU 7. 	TĂNG VỐN
 Vốn Điều lệ của Công ty khi thực hiện dự án có thể được tăng bằng cách tái đầu tư lợi nhuận thu được của Công ty hoặc góp vốn bổ sung hoặc kết nạp thành viên mới theo những điều kiện và quy định của Luật Hiện hành.
-
 ĐIỀU 8. 	CHUYỂN NHƯỢNG VỐN GÓP 
 Các bên có quyền chuyển nhượng một phần hoặc toàn bộ phần vốn góp của mình cho người khác theo quy định sau đây:
 8.1.	Phải chào bán phần vốn đó cho các thành viên còn lại của Công ty theo tỷ lệ tương ứng với phần vốn góp của họ trong công ty với cùng điều kiện;
@@ -3635,22 +4687,17 @@ Các trường hợp khác thực hiện theo Luật hiện hành.
  9.1.	Ngoài Vốn như quy định tại Điều 5 tại Hợp đồng này, bất kỳ nhu cầu nào về tài chính sau này của Công ty sẽ được thực hiện bằng cách vay từ các ngân hàng và/hoặc những nguồn vay khác phù hợp với các quy định của pháp luật Việt Nam và trong khuôn khổ cho phép của Giấy đăng ký hoạt động cũng như phải tuân theo các điều kiện, điều khoản được các Bên nhất trí. 
 9.2.	Khoản vốn vay sẽ do các Bên quyết định căn cứ trên nhu cầu tài chính của Công ty, sau khi có một luận chứng khả thi.
 9.3. 	Các Hợp đồng vay sẽ đứng tên Công ty và Công ty sẽ chịu và hoàn trả tất cả các chi phí liên quan đến khoản vay theo các điều kiện, điều khoản đã được các bên phê chuẩn.
-
 ĐIỀU 10.	TRÁCH NHIỆM CỦA CÁC BÊN
-10.1.	 Các Bên cam kết hoàn thành mọi nghĩa vụ của mình đã được quy định trong Hợp đồng này, Điều lệ và quy định của Luật hiện hành.
+	10.1.	 Các Bên cam kết hoàn thành mọi nghĩa vụ của mình đã được quy định trong Hợp đồng này, Điều lệ và quy định của Luật hiện hành.
  10.2.	Các Bên phải hợp tác và hỗ trợ lẫn nhau trong việc xin các Cơ quan Việt Nam có thẩm quyền cấp Giấy đăng ký kinh doanh và sự chấp thuận cần thiết khác cho việc thành lập và hoạt động của Công ty. 
 10.3.	Công ty sẽ chịu mọi khoản chi phí và phí tổn phát sinh từ trách nhiệm nêu trên của các Bên, với điều kiện được các bên nhất trí.
 10.4.	Các Bên sẽ luôn tâm huyết, luôn cố gắng hết sức để xây dựng, cống hiến, phát triển Công ty. 
-
 ĐIỀU 11.	PHÂN CHIA LÃI LỖ
 Tất cả các khoản lãi và lỗ của Công ty, trong phạm vi trách nhiệm của các Bên, sẽ được chia cho Các Bên tương ứng với tỷ lệ Vốn đầu tư mà các Bên đóng góp vào Công ty. Việc phân chia lãi lỗ ghi trong Điều lệ của Công ty được thực hiện theo quy định tại Điều này. 
-
 ĐIỀU 12.	QUẢN LÝ ĐIỀU HÀNH 
 Việc quản lý và điều hành Công ty được thực hiện bới các bên theo sự thỏa thuận về tổ chức bộ máy, tổ chức hoạt động của Công ty theo Quy định cụ thể tại Điều lệ, Quy chế hoạt động của Công ty và theo Luật hiện hành. 
-
 ĐIỀU 13.	 CÁC CHÍNH SÁCH TÀI CHÍNH KẾ TOÁN
 Các quy định về chính sách lao động, tiền lương; quy định về mở tài khoản ngân hàng; quy định về chế độ tài chính, kế toán và các chính sách cụ thể khác sẽ được thể hiện rõ trong Điều lệ Công ty và các Quy chế nội bộ của Công ty. 
-
 ĐIỀU 14.	 CHẤM DỨT HỢP ĐỒNG HỢP TÁC KINH DOANH
 Hợp đồng này sẽ bị chấm dứt trong những trường hợp sau:
 Hết thời hạn của Công ty theo quy định trong Giấy đăng ký hoạt động, kể cả thời gian gia hạn; 
@@ -3658,10 +4705,8 @@ Hết thời hạn của Công ty theo quy định trong Giấy đăng ký hoạ
 Các Bên cùng đồng ý chấm dứt hoạt động của Công ty;
 Công ty hoạt động thua lỗ và rơi vào tình trạng phá sản; 
 Một sự kiện Bất khả kháng xảy ra và kéo dài 09 tháng khiến cho Công ty không thể tiếp tục hoạt động bình thường. 
-
 ĐIỀU 15.	THANH LÝ
 Trong trường hợp chấm dứt Hợp đồng hợp tác kinh doanh, một Ban thanh lý do các Bên chỉ định sẽ tiến hành các thủ tục thanh lý phù hợp với quy định của Luật Hiện hành và Điều lệ Công ty. 
-
 ĐIỀU 16. 	GIẢI QUYẾT TRANH CHẤP
 Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
 ĐIỀU 17. THÔNG BÁO
@@ -3673,32 +4718,24 @@ b.Khi gửi qua bưu điện: sau 02 (hai) ngày làm việc kể từ ngày đ�
 c. Khi gửi qua fax: là thời điểm Bên đó nhận được được tín hiệu chuyển fax thành công;
 d. Trong các trường hợp này, nếu ngày tương ứng rơi vào ngày chủ nhật hoặc ngày lễ của Việt Nam thì các thông báo, yêu cầu, khiếu nại hoặc thư từ giao dịch… nói trên sẽ được xem như bên kia nhận được vào ngày kế tiếp.
 17.4.Hai Bên phải thông báo bằng văn bản cho nhau biết nếu có đề nghị thay đổi địa chỉ, hình thức, tên người nhận thông báo…Nếu Bên có thay đổi không thông báo lại cho Bên kia biết thì Bên gửi thông báo không chịu trách nhiệm về việc Bên có thay đổi không nhận được các văn bản thông báo.
-
 ĐIỀU 18.	 CÁC QUY ĐỊNH KHÁC
 18.1.	Mọi vấn đề khác liên quan đến hoạt động của Công ty mà không được quy định trong Hợp đồng này hoặc Điều lệ sẽ được các Bên giải quyết dựa trên những quy định tương ứng của Luật Hiện hành và Giấy đăng ký hoạt động.
 18.2.	Hợp đồng này là toàn bộ các thỏa thuận của Các Bên và thay thế mọi thỏa thuận và ghi nhận trước đây giữa Các Bên. 
 18.3.	 Mọi sửa đổi của Hợp đồng này chỉ có hiệu lực khi được Các Bên nhất trí bằng văn bản. 
-
 ĐIỀU 19.	HIỆU LỰC
 19.1.	Hợp đồng này sẽ có hiệu lực và ràng buộc Các Bên kể từ ngày ký.
 19.2.	Trong trường hợp có sự khác biệt và/hoặc mâu thuẫn về giữa các quy định của Hợp đồng này và các quy định của Điều lệ thì các quy định của Hợp đồng này sẽ được áp dụng. 
 19.3.	Hợp đồng này được ký vào ngày …. tháng … năm ……….., tại …………….. được lập thành 02 bản có giá trị như nhau, mỗi bản gồm có 06 trang, mỗi bên giữ 01 bản. 
 CÁC THỎA THUẬN KHÁC (Nếu có)
 ...................................................................................... 
-
-
-
-
-
-"""
-Mau_Hop_dong_kiem_toan_ = """
-
-
- 
-
-
-HỢP ĐỒNG KIỂM TOÁN
-
+ĐẠI DIỆN BÊN A 
+ĐẠI DIỆN BÊN B
+Chức vụ 
+(Ký tên, đóng dấu)
+Chức vụ
+ (Ký tên, đóng dấu)
+1"""
+Mau_Hop_dong_kiem_toan_ = """HỢP ĐỒNG KIỂM TOÁN
 HỢP ĐỒNG KIỂM TOÁN
 (V/v: Kiểm toán báo cáo quyết toán dự án hoàn thành
 Dự án:..................................................................................)
@@ -3784,14 +4821,29 @@ Khi có tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này
 ĐIỀU 7: HIỆU LỰC, NGÔN NGỮ VÀ THỜI HẠN HỢP ĐỒNG
 - Hợp đồng này được lập thành …… bản bằng tiếng Việt, Bên A giữ …... bản, Bên B giữ …... bản, có giá trị pháp lý như nhau.
 - Hợp đồng có hiệu lực kể từ ngày hai Bên đã ký, đến khi hai Bên lập biên bản Thanh lý hợp đồng hoặc tự động được thanh lý sau khi Bên A và Bên B đã hoàn thành trách nhiệm của mỗi bên.
-"""
-Mau_Hop_dong_lao_dong_song_ngu = """
+ Đại diện Bên A
+Công ty …………………
+Giám đốc
+(Chữ ký, họ và tên, đóng dấu)
+Đại diện Bên B
+Công ty kiểm toán XYZ
+Giám đốc
+(Chữ ký, họ và tên, đóng dấu)"""
+Mau_Hop_dong_lao_dong_song_ngu = """CÔNG TY TNHH
+………..
+COMPANY LIMITED
+Số: ___/HĐLĐ
+No.: ____/HDLD
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆTNAM
+Độc lập - Tự do - Hạnh phúc
+THE SOCIALIST REPUBLIC OF VIETNAM
+Independence - Freedom - Happiness
+Thành phố Hồ Chí Minh, ngày __ tháng __ năm ____
+Ho Chi Minh City, date __ month __ year ____
 HỢP ĐỒNG LAO ĐỘNG
 EMPLOYMENT CONTRACT
-
 Hợp đồng lao động này (“Hợp đồng”) được lập và có hiệu lực từ ngày __ tháng __ năm 20.. bởi và giữa Các Bên dưới đây:
 This Employee Contract (the “Contract”) is made and entered into effective as of the __ day of ____, 20.. by and between the following Parties:
-
 Người lao động/Employee: ……
 Ngày sinh/Date of birth: __/__/19__   
 Giới tính/Gender: ……   Quốc tịch/Nationality……….
@@ -3804,7 +4856,6 @@ Chi nhánh/Branch: ……………..
 Email: ………………
 Địa chỉ cư trú/Resident Address: ………………
 Địa chỉ thường trú/Permanent Address: …………….  
-
 VÀ/AND
 Công ty/Company: …………..
 Địa chỉ/Address: …………….
@@ -3820,7 +4871,6 @@ Nơi cấp/Issue Place: ……………..
 Địa chỉ thường trú/Permanent Address: …………
 Công ty và Người lao động sau đây được gọi riêng là “Bên” và gọi chung là “Các Bên”. Các bên dưới đây thống nhất ký Hợp đồng lao động với các điều kiện và điều khoản như sau:
 Company and Employee may be collectively referred to as the “Parties” and individually as a “Party”. The Parties hereby agree to sign the Employment Contract with the following terms and conditions:
-
 LOẠI HỢP ĐỒNG LAO ĐỘNG/ TYPE OF EMPLOYMENT CONTRACT 
 Loại Hợp đồng lao động: Hợp đồng lao động có thời hạn 12 tháng từ ngày __ tháng __ năm 20_ đến ngày __ tháng __ năm 20_
 Type of employment contract: definite-term employment contract within a period of 12 months commencing on date __ month __ year 20_ to date __ month __ year 20_.
@@ -3842,7 +4892,6 @@ Công ty có thể thay đổi thời giờ làm việc, thời giờ nghỉ ng�
 Company may change the working time, rest time from time to time by notifying the Employee 05 (five) working days in advance.
 Công cụ làm việc được cấp phát: được trang bị theo nhu cầu công việc 
 Equipments to be provided: to be equipped as per required by the work demand.
-
 QUYỀN LỢI CỦA NGƯỜI LAO ĐỘNG/ BENEFITS OF EMPLOYEE
 Phương tiện đi lại làm việc/ Means of transportation: ………
 Lương/Basic Salary:
@@ -3855,7 +4904,7 @@ Promotion and Salary raise regulations: In accordance with the working performan
 Các chế độ và phúc lợi khác/ Other benefits:
 Công ty sẽ trả các chi phí sau cho Người lao động khi làm việc cho Công ty:
 Company shall pay Employee the following expenses when working for Company:
-Thuế thu nhập cá nhân tại Việt Nam;
+	Thuế thu nhập cá nhân tại Việt Nam;
 Local Personal income tax
 Tiền ăn: Chi phí đồ ăn hàng ngày tại văn phòng làm việc;
 Food Expenses: Expenses for daily food at working office;
@@ -3886,7 +4935,6 @@ Trang bị kiến thức liên quan đến phòng chống cháy nổ và an toà
 Equipped with knowledge about fire prevention and labor safety: trained in fire and explosion prevention and labor safety according to the general regulations of the Company.
 Các quyền khác theo quy định pháp luật có liên quan
 Other rights according to regulations of relating laws
-
 NGHĨA VỤ CỦA NGƯỜI LAO ĐỘNG/ OBLIGATIONS OF EMPLOYEE
 Người lao động phải hoàn thành công việc được quy định tại Hợp đồng này, các phụ lục, các sửa đổi và bổ sung Hợp đồng này và các công việc được phân công từ của người có thẩm quyền của Công ty
 Employee has to fulfill works as regulated in this Contract; Annexs, adjustments and supplements of this Contract and works assigned by the competent person of the Company
@@ -3904,7 +4952,6 @@ Vượt qua cuộc xét nghiệm chất kích thích post-officer và có thể 
 Pass a post-officer drug screen and may be subject to periodic random screening, reasonable suspicion screening and/or post-incident screening. Employee agrees that Company can termination this Contract without paying any compensation for Employee when one of the following cases happened: a) There are positive screening results; or b) Employee refuses to be screened or to take the screening within the designated timeframe, or any other attempt to affect the screening results or screening sample will result.
 Các nghĩa vụ khác theo quy định pháp luật có liên quan;
 Other obligations according to regulations of relating laws;
-
 QUYỀN VÀ NGHĨA VỤ CỦA CÔNG TY/ RIGHTS AND OBLIGATIONS OF COMPANY
 Quyền của Công ty/ Rights of Company
 Điều hành Người lao động nhằm mục đích thực hiện công việc được quy định tại Hợp đồng này, các phụ lục, sửa đổi, bổ sung Hợp đồng.
@@ -3922,7 +4969,6 @@ Thanh toán thu nhập cho Người lao động đúng và đầy đủ theo quy
 Pay correctly and fully the salary and other benefits for the Employee according to the regulations in this Contract; annexs, adjustments and supplements of Contract.
 Các nghĩa vụ khác theo quy định pháp luật có liên quan;
 Other obligations according to regulations of relating laws;
-
 QUYỀN SỞ HỮU SẢN PHẨM LÀM VIỆC VÀ QUYỀN SỞ HỮU TRÍ TUỆ
 OWNERSHIP OF WORK PRODUCT AND INTELLECTUAL PROPERTY RIGHTS
 Các Bên đồng ý rằng tất cả các sản phẩm làm việc, thông tin hoặc tài liệu khác tạo ra và phát triển bởi Người lao động liên quan đến việc thực hiện Công việc theo Hợp đồng này và mọi quyền sở hữu trí tuệ kết quả (gọi chung là “Sản phẩm làm việc”) là tài sản duy nhất và độc quyền của Công ty. Các Bên thừa nhận rằng Sản phẩm làm việc sẽ, trong phạm vi được pháp luật cho phép, Người lao động qua đây chuyển nhượng cho Công ty tất cả quyền lợi, quyền và lợi ích trong và đối với Sản phẩm công việc, bao gồm nhưng không giới hạn ở tất cả bản quyền, quyền xuất bản để sử dụng, sao chép và mặt khác khai thác Sản phẩm làm việc ở bất kỳ và tất cả các định dạng, phương tiện hoặc tất cả các kênh, cho dù hiện tại đã được biết đến hoặc được tạo sau này.
@@ -3931,7 +4977,6 @@ Không có điều gì trong Hợp đồng này được hiểu là cấp bất 
 Nothing in this Contract shall be construed as granting any rights under any patent, copyright or other intellectual property right of the Company, nor shall this Contract grant Employee any rights in or to the Company’s Confidential Information, except the limited right to use the Confidential Information in connection with the Works.
 Người lao động sẽ thực hiện tất cả các bước cần thiết một cách hợp lý để hỗ trợ Công ty có được và thực thi quyền sở hữu của mình đối với bất kỳ Quyền sở hữu trí tuệ nào tạo ra bởi Người lao động theo tiểu mục i) của Mục này. Nghĩa vụ hỗ trợ Công ty của Người lao động sẽ tiếp tục ngay cả khi chấm dứt mối quan hệ lao động của Người lao động với Công ty.
 Employee shall take all steps reasonably necessary to assist the Company in obtaining and enforcing in its own name any Intellectual Property right created by Employee according to subsection i) of this Section. Employee’s obligation to assist the Company shall continue beyond the termination of Employee’s employment relationship with the Company.
-
 BẢO MẬT VÀ KHÔNG LÔI KÉO / CONFIDENTIALITY AND NON-SOLICIT
 Người lao động thừa nhận rằng / Employee acknowledges that:
 Người lao động sẽ chiếm một vị trí tin cậy và đáng tin với Công ty và trở nên quen thuộc với những điều tiếp theo, bất kỳ và tất cả của những thứ tạo nên thông tin bảo mật của Công ty, (gọi chung là “Thông Tin Bảo Mật"): (i) bất kỳ và tất cả các bí mật thương mại liên quan đến việc kinh doanh và công việc của Công ty, dữ liệu, bí quyết, tác phẩm, quy trình, thiết kế, mẫu, phát minh và ý tưởng, nghiên cứu và phát triển quá khứ/hiện tại/đã được lên kế hoạch, phương thức và quy trình tuyển dụng hiện tại/đã được lên kế hoạch, các phương pháp, danh sách khách hàng, yêu cầu của khách hàng hiện tại/dự đoán, bảng giá, nghiên cứu thị trường và kế hoạch kinh doanh, của Công ty và bất kỳ thông tin nào khác, nhưng được ghi lại, của Công ty mà là một bí mật thương mại; (ii) bất kỳ và tất cả các thông tin liên quan đến hoạt động kinh doanh và các vấn đề của Công ty (bao gồm lịch sử báo cáo tài chính, dự báo tài chính và ngân sách, bán hàng lịch sử/dự kiến, ngân sách và kế hoạch chi tiêu vốn, tên và lý lịch của nhân sự chủ chốt, đào tạo cá nhân và kỹ thuật cá nhân và lợi ích vật chất cá nhân); và (iii) bất kỳ và tất cả các ghi chú, phân tích, tổng hợp, nghiên cứu, tóm tắt, và các tư liệu khác chuẩn bị bởi hoặc cho Công ty chứa hoặc là dựa trên, toàn bộ hoặc một phần, dựa trên bất kỳ thông tin nào bao gồm thông tin ở trên.
@@ -3962,7 +5007,6 @@ Công ty sẽ không được phép thực hiện bất kỳ biện pháp khắc
 Company shall not be entitled to exercise any remedies under this Section 7 unless and until Company has provided written notice to Employee of the alleged breach and Employee has failed to (i) to cure the alleged breach, if such breach is capable of cure, within one week after receipt of written notice from Company to Employee and (ii) cure such breach as soon as practicable thereafter.
 Mục này sẽ có hiệu lực ngay cả khi Hợp đồng chấm dứt.
 This Section shall survive the termination of this Contract.
-
 KHÔNG MÂU THUẪN VÀ KHÔNG CẠNH TRANH
 NO CONFLICTS AND NON COMPETITION 
 Không mâu thuẫn: Người lao động tuyên bố rằng việc Tuân thủ của Người lao động đối với các điều khoản của Hợp đồng này sẽ không vi phạm bất kỳ nghĩa vụ nào mà Người lao động có thể phải đối với bất kỳ cá nhân hoặc tổ chức nào khác (như Công ty hiện tại hoặc trước đây) và Người lao động đồng ý rằng Người lao động sẽ không làm bất cứ điều gì trong việc thực hiện Công việc dưới đây sẽ vi phạm bất kỳ nghĩa vụ nào như vậy. Ngoài ra, Người lao động đồng ý rằng, trong thời hạn của Hợp đồng này, Người lao động sẽ kịp thời thông báo cho Công ty bằng văn bản về bất kỳ đối thủ cạnh tranh nào của Công ty mà Người lao động cũng đang thực hiện các Công việc. Điều này được hiểu rằng trong trường hợp đó, Công ty sẽ xem xét liệu các hoạt động của Người lao động có phù hợp với Người lao động với tư cách hiện tại là Người lao động của Công ty hay không.
@@ -3970,18 +5014,14 @@ No conflicts: Employee represents that Employee’s compliance with the terms of
 Không cạnh tranh: Người lao động đồng ý và thống nhất rằng trong thời hạn của Hợp đồng này và trong thời gian 24 tháng sau khi chấm dứt Hợp đồng này, Người lao động sẽ không, trực tiếp hoặc gián tiếp, thực hiện hoặc tham gia vào các hoạt động giống hoặc tương tự như đã thực hiện cho Công ty cho bất kỳ doanh nghiệp nào trực tiếp hoặc gián tiếp cạnh tranh với Công ty.
 Non competition: Employee agrees and convenants that during the term of this Contract, and for a period of 24 months following the termination of this Contract, Employee will not, directly or indirectly, perform or engage in the same or similar activities as were performed for Company 
 for any business that is directly or indirectly in completion with Company
-
-
 KHÔNG CHUYỂN NHƯỢNG / NON ASSIGNMENT
 Hợp đồng này và/hoặc nghĩa vụ thực hiện Hợp đồng này là không được phép chuyển nhượng bởi Người lao động cho bất kỳ người nào khác trừ khi được Công ty cho phép.
 This Contract and/or the obligation to perform this Contract is not transferable by the Employee to any other person except as permitted by the Company.
 Quyền của Người lao động hoặc bất kỳ người thụ hưởng nào khác theo Hợp đồng này để nhận các khoản thanh toán theo Mục 3 ở trên không được chuyển nhượng, cầm cố hoặc tích lũy mà không có sự cho phép của Công ty mà Công ty có thể giữ lại theo quyết định riêng và tuyệt đối của nó.
 The right of Employee or any other beneficiary under this Contract to receive payments under Section 3 above may not be assigned, pledged or encumbered, without the permission of Company which Company may withhold in its sole and absolute discretion.
-
 TOÀN BỘ HỢP ĐỒNG / COMPLETE CONTRACT
 Hợp đồng này thể hiện toàn bộ Hợp đồng giữa Công ty và Người lao động liên quan đến các vấn đề tại đây và thay thế tất cả các Hợp đồng hoặc hiểu biết trước đó, bằng văn bản hoặc bằng lời nói.
 This Contract represents the complete Contract between Company and Employee concerning the subject matter hereof and supersedes all prior Contracts or understandings, written or oral.
-
 ĐIỀU KHOẢN CHUNG / MISCELLANEOUS
 Luật Việt Nam sẽ điều chỉnh Hợp đồng này
 The Vietnam Law shall govern this Contract
@@ -3993,22 +5033,20 @@ Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này p
 Any dispute arising from or in connection with this Contract shall be agreed, negotiated for settlement by the Parties, if can not be settled, the Parties may request the competent court to resolve the case.
 Mọi sự thay đổi liên quan đến Hợp đồng này thì phải được Các Bên ký kết bằng văn bản. Khi Các Bên ký kết phụ lục Hợp đồng, các sửa đổi, bổ sung  thì nội dung của phụ lục Hợp đồng, các sửa đổi, bổ sung đó cũng có giá trị như các nội dung của bản Hợp đồng này.
 Any changes related to this Contract must be signed in writing by the Parties. In case the Parties sign the Annexs, amendments and additions of the Contract, the contents of such Contract Annexs, amendments and supplements are also valid as the contents of this Contract.
-
 CHỨNG NHẬN DƯỚI ĐÂY, các bên theo đây đã ký Hợp đồng này vào ngày được viết ở trên.
 IN WITNESS WHEREOF, the parties hereto have executed this Contract as of the date written above.
-
-
-
-
+CÔNG TY/COMPANY
+NGƯỜI LAO  ĐỘNG/EMPLOYEE
  
 Đại diện/One behalf of: 					Số hộ chiếu/Passport number: _______                                                          
 ………..				                                        Ngày cấp/Issue date: __/__/____	
 MSDN/Business Code: ……			            Quốc tịch/Nationality: Úc/Australia
-Email: ____________					Email: __________"""
+Email: ____________					Email: __________
+2
+10"""
 Mau_Hop_dong_Li_xang_HD_chuyen_giao_quyen_su_dung_nhan_hieu = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 -------
-
 HỢP ĐỒNG LI-XĂNG
 CHUYỂN GIAO QUYỀN SỬ DỤNG NHÃN HIỆU
 Số: ………………./HĐCGQSDNH
@@ -4076,7 +5114,6 @@ Bên Giao đảm bảo có đầy đủ quyền hợp pháp và chính đáng đ
  
 ĐIỀU 9. PHƯƠNG THỨC GIẢI QUYẾT TRANH CHẤP
 	Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
-
 ĐIỀU 10: SỰ KIỆN BẤT KHẢ KHÁNG
 10.1. Sự kiện bất khả kháng có nghĩa là những sự kiện nằm ngoài sự kiểm soát của các Bên, không thể lường trước được khiến cho bất cứ Bên nào hoặc cả Hai bên không thể thực hiện nghĩa vụ của mình theo Hợp đồng này: Sự cấm đoán, hành vi hoặc sự trì hoãn của Chính phủ, của chính quyền địa phương; bạo loạn, chiến tranh, tình trạng khẩn cấp của Quốc gia (cho dù có tuyên bố hay không) bạo động hoặc đình công, động đất hoặc các thiện tai khác; Sự thay đổi của chính sách, pháp và tất cả các sự kiện khác nằm ngoài tầm kiểm soát của các Bên (“Sự Kiện Bất Khả Kháng”).
 10.2. Trường hợp một Bên bị trì hoãn hoặc cản trở thực hiện các nghĩa vụ của mình theo Hợp Đồng do Sự Kiện Bất Khả Kháng (“Bên Bị Ảnh Hưởng”), Bên Bị Ảnh Hưởng phải:
@@ -4105,60 +5142,62 @@ d. Trong các trường hợp này, nếu ngày tương ứng rơi vào ngày ch
 13.3 Hợp đồng này có hiệu lực kể từ ngày Hai Bên ký kết. Hợp đồng này là toàn bộ thỏa thuận giữa các bên và thay thế bất kỳ thỏa thuận, cam kết, sắp xếp, thông đạt hoặc diễn đạt ý định nào mà có liên quan đến nội dung Hợp đồng này. Hợp đồng này được xem là kết thúc khi có Biên bản thanh lý Hợp đồng được đại diện hợp pháp của 02 Bên ký kết.
 13.4.Hợp đồng này được lập thành 04 (bốn) bản tiếng Việt có giá trị pháp lý như nhau; mỗi Bên giữ 02 (hai) bản. 
 13.5. Hợp đồng này được ký bởi đại diện có thẩm quyền của các Bên vào ngày được nêu ở phần đầu.  
-                 ĐẠI DIỆN BÊN GIAO                                            ĐẠI DIỆN BÊN NHẬN
- 
-"""
+                 ĐẠI DIỆN BÊN GIAO                                            ĐẠI DIỆN BÊN NHẬN"""
 Mau_Hop_dong_mua_ban_hang_hoa = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
------oOo------
-
-HỢP ĐỒNG MUA BÁN HÀNG HÓA
+		Độc lập - Tự do - Hạnh phúc
+		-----oOo------
+	
+	HỢP ĐỒNG MUA BÁN HÀNG HÓA
 Số: …………….
 -	Căn cứ Bộ luật dân sự số 91/2015/QH13 đã được Quốc hội nước CHXHCN Việt Nam thông qua ngày 24/11/2015;
 -    Căn cứ Luật Thương mại đã được Quốc hội nước CHXHCN Việt Nam khóa XI,  thông qua ngày 14/06/2005; 
 Hôm nay, ngày …. tháng …… năm…… , chúng tôi gồm:
 Bên mua (Bên A)    :
-Địa chỉ	: 
-Điện thoại	:  		 Fax: 
-Mã số thuế	: 
-Tài khoản	: 
-Hoặc Tài khoản  : 
-Đại diện      :				Chức vụ: 
-
-Bên bán (Bên B)   : …………………….
-Địa chỉ	: 
-Điện thoại	:  		 Fax: 
-Mã số thuế	: 
-Tài khoản	: 
-Hoặc Tài khoản  : 
-Đại diện      :				Chức vụ: 
-
-	Sau khi bàn bạc đã cùng tiến hành thống nhất ký kết hợp đồng mua bán với các điều khoản sau:
+		Địa chỉ	: 
+		Điện thoại	:  		 Fax: 
+		Mã số thuế	: 
+		Tài khoản	: 
+		Hoặc Tài khoản  : 
+		Đại diện      :				Chức vụ: 
+	Bên bán (Bên B)   : …………………….
+		Địa chỉ	: 
+		Điện thoại	:  		 Fax: 
+		Mã số thuế	: 
+		Tài khoản	: 
+		Hoặc Tài khoản  : 
+		Đại diện      :				Chức vụ: 
+		Sau khi bàn bạc đã cùng tiến hành thống nhất ký kết hợp đồng mua bán với các điều khoản sau:
 ĐIỀU 1. TÊN HÀNG – GIÁ CẢ - SỐ LƯỢNG – CHỦNG LOẠI – QUY CÁCH
 Bên A đồng ý mua, Bên B đồng ý bán sản phẩm là : ......................................................................, cụ thể như sau :
+STT
+TÊN SẢN PHẨM
+ĐVT
+SỐ LƯỢNG
+ĐƠN GIÁ
+(VNĐ)
+THÀNH TIẾN
+(VNĐ)
+Tổng cộng : 
 Chi tiết sản phẩm mua bán thể hiện tại Phụ lục đính kèm Hợp đồng này. Phụ lục là một bộ phận không thể tách rời Hợp đồng này.
 Tổng giá trị hợp đồng là :………………….. VNĐ (Bằng chữ :…………………..……..).
 Đơn giá trên đã bao gồm thuế VAT 10% và các chi phí vận chuyển bốc xếp (nếu có).
 Trong trường hợp giá cả thị trường có biến động thay đổi tăng hoặc giảm, Bên B sẽ thông báo điều chỉnh giá cho Bên A bằng văn bản và các bên áp dụng theo mức giá mà Bên B đã đưa ra.
 Khối lượng trên là tạm tính. Khối lượng thanh toán căn cứ vào khối lượng hàng hóa giao nhận thực tế theo xác nhận giao hàng có ký nhận giữa hai bên. Trong thời gian kể từ ngày ký kết Hợp đồng này đến trước khi Bên B thực hiện các thủ tục nhập khẩu hàng hóa, trường hợp Bên A yêu cầu thay đổi/bổ sung số lượng, chủng loại, quy cách kỹ thuật và xuất xứ hàng hóa so với Bảng giá trị tại Khoản 1.1 Điều 1 của hợp đồng thì Bên A phải gửi thông báo bằng văn bản cho Bên B để Bên B xem xét. Nếu Bên B đồng ý với yêu cầu của Bên A thì Hai Bên ký kết Phụ lục Hợp đồng. Mọi chi phí phát sinh do yêu cầu thay đổi/bổ sung này của Bên A do Bên A chịu trách nhiệm chi trả. Trong trường hợp Bên B không đồng ý với yêu cầu của Bên A thì Bên A phải có trách nhiệm thực hiện  đầy đủ các nghĩa vụ của Hợp đồng này và có nghĩa vụ nhận toàn bộ hàng hóa theo số lượng, chủng loại, quy cách kỹ thuật, xuất xứ hàng hóa… nêu tại Hợp đồng này và các Phụ lục liên quan (nếu có). 
-
 ĐIỀU 2. PHƯƠNG THỨC THANH TOÁN
 Bên A sẽ thanh toán cho Bên B bằng hình thức : ……………………. (Tiền mặt/Chuyển khoản).
 Tiến độ thanh toán : 
 Đợt 1 : Bên A tạm ứng cho Bên B 30% giá trị Hợp đồng tương ứng số tiền: …………………… VNĐ (Bằng chữ : ………………. đồng) trong thời hạn 03 ngày sau khi ký hợp đồng này.
 Đợt 2 : Bên A thanh toán cho Bên B đến 70% giá trị Hợp đồng (trong đó đã bao gồm tạm ứng Đợt 1), tương ứng số tiền : …………............ VNĐ (Bằng chữ : …………………….. đồng) trong thời hạn 02 ngày Bên B thông báo giao hàng đến Bên A và trước khi Bên B giao hàng.
 Đợt 3 Quyết toán : Bên A thanh toán cho Bên B đến 100% giá trị đơn hàng cụ thể (trong đó đã bao gồm tạm ứng đợt 1, thanh toán Đợt 2) trong vòng 05 ngày sau khi giao hàng và Bên B cung cấp các hồ sơ thanh toán sau:
--	 Hoá đơn GTGT			
--	 Phiếu xuất xưởng tủ điện 
--	 CO-CQ đối với thiết bị nhập khẩu 
-- 	 Biên bản giao nhận hàng.
-
+	-	 Hoá đơn GTGT			
+	-	 Phiếu xuất xưởng tủ điện 
+	-	 CO-CQ đối với thiết bị nhập khẩu 
+	- 	 Biên bản giao nhận hàng.
 ĐIỀU 3. CHẤT LƯỢNG SẢN PHẨM VÀ YÊU CẦU KỸ THUẬT
 Các loại hàng hóa do Bên B cung cấp cho Bên A đảm bảo tính hợp pháp, đúng điều kiện tiêu chuẩn, nguồn gốc, thông số kỹ thuật và chất lượng như Bên A đã yêu cầu.
 Bên B sẽ giao hàng có chất lượng tương đương với chất lượng hàng đã nghiệm thu sơ bộ và được Bên A chấp nhận trước khi giao hàng.
 Khi giao nhận hàng, hai Bên phải ký vào Biên bản giao nhận. Đây là cơ sở để làm chứng từ thanh toán sau này.
 Bên B xuất hàng kèm theo đầy đủ các hồ sơ chứng từ, chứng chỉ xuất kho, xuất xưởng, chứng nhận chất lượng….theo yêu cầu của Bên A (nếu có).
-
 ĐIỀU 4. PHƯƠNG THỨC GIAO NHẬN  HÀNG
 Thời gian thực hiện Hợp đồng: Bên B thực hiện công việc theo quy định tại Điều 1.1 Hợp đồng này trong thời hạn 90 (chín mươi) ngày, kể từ ngày nhận được tiền tạm ứng của Bên A.
 Địa điểm giao hàng: Bên B sẽ giao hàng cho Bên A trong phạm vi TP Đà Nẵng trên phương tiện bên bán, tại địa chỉ (ghi địa chỉ cụ thể).
@@ -4167,7 +5206,6 @@ Trường hợp Bên A không có người nhận hàng, không chuẩn bị kho
 Thông báo giao hàng: Bộ phận bán hàng của Bên B sẽ thông báo cho Bên A trước 03 ngày khi giao hàng, Bên A có nghĩa vụ thực hiện nghĩa vụ thanh toán lần 2 theo Điều 2 Hợp đồng này và có nghĩa vụ bố trí người nhận hàng, chuẩn bị kho hàng trước thời điểm giao hàng.
 Khi nhận được thông báo giao hàng của Bên B thì Bên A có trách nhiệm cử cán bộ kỹ thuật đến xưởng của Bên B để kiểm tra hàng hoá trước khi nhận hàng. Trường hợp Bên A không cử cán bộ kỹ thuật đến sau 02 ngày Bên B thông báo thì Các Bên thống nhất xác định hàng hóa đã được kiểm tra hoàn thành và đủ điều kiện để Bên B giao hàng cho Bên A.
 Thời điểm chuyển quyền sở hữu đối với hàng hóa từ Bên B sang Bên A được tính kể từ thời điểm Bên A hoàn thành 100% việc thanh toán cho Bên B. Trường hợp Bên A chưa thanh toán đầy đủ 100% giá trị hợp đồng này cho Bên B thì Bên B được bảo lưu quyền sở hữu đối với toàn bộ hàng hóa đã ban giao cho Bên A.
-
 ĐIỀU 5. TRÁCH NHIỆM CỦA CÁC BÊN
 Trách nhiệm của Bên mua (Bên A)
 Phải gửi Đơn đặt hàng cho Bên B trước ………….. ngày.
@@ -4187,14 +5225,12 @@ Có quyền từ chối thực hiện các yêu cầu trái pháp luật.
 Đồng thời, cho đến khi Bên A thực hiện đầy đủ trách nhiệm thanh toán đúng hạn 100% giá trị Hợp đồng này, Bên B có quyền bảo lưu quyền sở hữu toàn bộ hàng hóa theo Hợp đồng này và có quyền thu hồi lại hàng hóa đã trước đó đã bàn giao cho Bên A khi Bên A chưa thanh toán đủ 100% giá trị Hợp đồng.
 Trường hợp Bên A không dùng hết hàng sau khi nhận, Bên B có quyền xem xét nhập lại những chủng loại hàng hóa còn nguyên đai, nguyên kiện, chưa qua sử dụng và đáp ứng các yêu cầu khác của Bên B theo giá trị do Bên B yêu cầu. Trong trường hợp Bên B không đồng ý nhập lại hàng hóa này, Bên A có trách nhiệm nhận, bảo quản và tự chịu trách nhiệm đối với hàng hóa đồng thời phải thực hiện thanh toán đầy đủ, các nghĩa vụ khác theo Hợp đồng này.
 Các quyền hạn khác theo quy định tại Hợp đồng này, theo pháp luật.
-
 ĐIỀU 6. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
 Phạt do không nhận giao hàng: Trường hợp Bên A không nhận bàn giao trong thời hạn theo yêu cầu của Bên B thì Bên A phải chịu phạt 2% (hai phần trăm) giá trị hợp đồng cho mỗi ngày chậm nhận giao hàng nhưng không quá 10 ngày. Nếu quá 10 ngày Bên B có quyền phạt vi phạm Bên A  với mức phạt là 8% (tám phần trăm) giá trị hợp đồng, yêu cầu Bên A thanh toán các chi phí phát sinh, bồi thường thiệt hại cho Bên B trong thời hạn 10 ngày kể từ ngày Bên B yêu cầu.
 Phạt do thanh toán không đúng đầy đủ, đúng thời hạn: Trong trường hợp Bên A vi phạm nghĩa vụ thanh toán nêu tại Hợp đồng này thì Bên A phải chịu phạt 2% (hai phần trăm) giá trị hợp đồng cho mỗi ngày chậm thanh toán nhưng không quá 10 ngày. Nếu quá 10 ngày Bên B có quyền phạt vi phạm Bên A  với mức phạt là 8% (tám phần trăm) giá trị hợp đồng. Đồng thời, Bên B có quyền tiến hành chấm dứt Hợp đồng đối với Bên A mà không phải chịu bất cứ một khoản phạt hay bồi thường nào; Bên B được quyền thu hồi lại toàn bộ hàng hóa đã bàn giao trước đó, thu hồi các bảo lãnh (nếu có); giữ lại toàn bộ các khoản tiền đã nhận đồng thời yêu cầu Bên A  phải bồi thường cho Bên B các khoản thiệt hại phát sinh do việc chấm dứt Hợp đồng này.
 Trường hợp Bên A vi phạm bất cứ quy định nào tại Hợp đồng này, Bên A phải chịu phạt 8% (tám phần trăm) giá trị Hợp đồng và bồi thường thiệt hại phát sinh cho Bên B theo yêu cầu của Bên B.
 Phạt đơn phương chấm dứt hợp đồng: Bên A không được đơn phương chấm dứt hợp đồng trước thời hạn, ngoại trừ trường hợp quy định tại Điều 13 và Điều 15 hợp đồng này. Nếu Bên A vi phạm, Bên B có quyền thu hồi và sở hữu toàn bộ hàng hóa đã giao cho Bên A, thu hồi bảo lãnh (nếu có), được quyền giữ lại toàn bộ số tiền đã nhận từ Bên A và phạt Bên A 8% (tám phần trăm) giá trị hợp đồng bị vi phạm, đồng thời Bên A phải bồi thường cho Bên B các khoản thiệt hại phát sinh do việc chấm dứt hợp đồng này.
 Bồi thường thiệt hại do vi phạm hợp đồng: Trong quá trình thực hiện hợp đồng này, nếu Bên nào vi phạm gây thiệt hại cho Bên kia thì có trách nhiệm bồi thường thiệt hại căn cứ vào mức thiệt hại xảy ra trên thực tế và các Bên phải có nghĩa vụ chứng minh khi được yêu cầu.
-
 ĐIỀU 7. BẢO HÀNH
 Bên B đảm bảo hàng hóa cung cấp là hàng mới 100%, chất lượng tốt và các chỉ tiêu kỹ thuật phù hợp với yêu cầu kỹ thuật được mô tả trong hợp đồng. Mọi lý do sử dụng không đúng với bản hướng dẫn Bên B sẽ không chịu trách nhiệm bảo hành.
 Thời hạn bảo hành là ……… tháng kể từ ngày Bên B giao hàng cho Bên A.
@@ -4202,7 +5238,6 @@ Trong thời gian bảo hành, nếu có bất kỳ một phần hoặc toàn b�
 Sau khi nhận được Thông báo hợp lệ của Bên A, Bên B tiến hành xem xét lỗi, nếu lỗi được xác định là do vật liệu và kỹ thuật sản xuất của Bên B không đạt chất lượng như quy định trong Hợp đồng thì Bên B sẽ chịu mọi chi phí sửa chữa và khắc phục, nếu không thể sửa chửa được thì Bên B thay thế bằng sản phẩm mới cho Bên A. Bên B không chịu trách nhiệm bảo hành nếu lỗi được xác định không phải là do vật liệu và kỹ thuật sản xuất của Bên B. Đồng thời, Bên B sẽ không chịu trách nhiệm nào đối với công việc sửa chữa do Bên A và Bên thứ ba thực hiện.
 Nếu do Bên A mà hàng hóa bị trễ hạn bàn giao trong thời hạn 02 tháng thì nghĩa vụ bảo hành của Bên B sẽ không áp dụng cho bất kỳ khiếm khuyết, khuyết tật nào được phát hiện quá 02 tháng sau ngày hết hạn bảo hành theo kế hoạch thông thường. 
 (03) Ba tháng trước khi hết hạn bảo hành, Bên A sẽ thực hiện kiểm tra Hàng hóa được lắp đặt để kiểm tra xem có khiếm khuyết, khuyết tật nào hay không. Bên B có quyền được tham gia cuộc kiểm tra này. Trong vòng 10 ngày sau khi kiểm tra, Bên A phải thông báo cho Bên B bất kỳ lỗi nào được phát hiện. Nếu không có khiếm khuyết, khuyết tật nào được phát hiện trong đợt kiểm tra này thì Bên A không có quyền thông báo hoặc yêu cầu bảo hành sau đó.
-
 ĐIỀU 8. ĐƠN PHƯƠNG CHẤM DỨT HỢP ĐỒNG
 Bên B quyền tạm ngưng thực hiện Hợp đồng và được quyền đơn phương chấm dứt Hợp đồng trước thời hạn trong các trường hợp sau:
 Trường hợp Bên A không thực hiện nghĩa vụ thanh toán theo Hợp đồng và/hoặc bất kỳ nghĩa vụ nào tại Hợp đồng này và/hoặc đia điểm làm việc không an toàn, bất hợp pháp thì Bên B, sau khi thông báo cho Bên A được quyền tạm ngưng hoặc giảm tỷ lệ thực hiện Hợp đồng. Nếu sau đó Bên B nhận được các khoản tiền thanh toán từ Bên A và các trường hợp khác được khắc phục trước khi Bên B đưa ra thông báo đơn phương chấm dứt Hợp đồng thì Bên B sẽ tiếp tục làm việc bình thường ngay khi có thể.
@@ -4213,14 +5248,12 @@ Bên A chuyển nhượng Hợp đồng mà không có sự chấp nhận của 
 Bên A lâm vào tình trạng phá sản, bị tuyên bố phá sản, phải kinh doanh dưới sự giám sát hoặc bất kỳ trường hợp nào tương tự như vậy đe dọa nghiêm trọng đến khả năng thực hiện hợp đồng này.
 Bên B đơn phương chấm dứt hợp đồng trước thời hạn phải thông báo cho Bên A bằng văn bản trước ít nhất 03 (ba) ngày trước khi thực hiện. Riêng trường hợp tại điểm iii, iv phần B Điều này, Bên B được quyền chấm dứt hợp đồng ngay lập tức. Việc Bên B chấm dứt hợp đồng theo các trường hợp trên sẽ không được làm ảnh hưởng đến các quyền lợi khác của Bên B theo hợp đồng.
 Sớm nhất có thể sau khi thông báo chấm dứt hợp đồng và không muộn hơn 35 (ba mươi lăm) ngày sau khi thông báo, Bên A và Bên B sẽ thảo luận và xác định giá trị hợp đồng tại thời điểm chấm dứt hợp đồng và tiến hành hoàn tất thủ tục thanh toán trước khi thanh lý hợp đồng. Kết quả của việc hợp đồng bị chấm dứt là Bên A phải hoàn trả lại cho Bên B bảo lãnh tạm ứng, bảo lãnh thực hiện hợp đồng; Bên B được quyền thu hồi và sở hữu hợp pháp tất cả hàng hóa nêu tại Hợp đồng này và yêu cầu Bên A bồi thường thiệt hại cho Bên B theo yêu cầu của Bên B.
-
 ĐIỀU 9. THANH LÝ HỢP ĐỒNG
 Hợp đồng được thanh lý trong trường hợp:
 Các Bên đã hoàn thành mọi quyền và nghĩa vụ đối với nhau theo hợp đồng này.
 Hợp đồng bị chấm dứt theo Điều 8 Hợp đồng này.
 Theo thỏa thuận giữa các Bên.
 Việc thanh lý hợp đồng phải được lập thành văn bản có chữ ký của đại diện có thẩm quyền của hai Bên và phải được thực hiện trong thời hạn 45 (bốn mươi lăm) ngày kể từ ngày đủ điều kiện thanh lý.
-
 ĐIỀU 10.  TRƯỜNG HỢP BẤT KHẢ KHÁNG
 Sau khi hợp đồng có hiệu lực, tất cả các trường hợp xảy ra ngoài sự kiểm soát của các bên ảnh hưởng trực tiếp đến việc thực hiện toàn bộ hoặc một phần nghĩa vụ hợp đồng được coi là trường hợp bất khả kháng.
 Trường hợp bất khả kháng bao gồm, nhưng không hạn chế, các trường hợp sau đây:
@@ -4229,7 +5262,6 @@ Thiên tai.
 Chiến tranh, phá hoại, nội chiến.
 Bên bị cản trở việc thực hiện nghĩa vụ hợp đồng do trường hợp bất khả kháng phải thông báo ngay bằng văn bản cho phía bên kia và không quá 15 ngày sau khi sự việc xảy ra, nêu rõ sự bắt đầu, ngày bắt đầu, ngày dự tính kết thúc của sự việc.
 Trong trường hợp sự việc bất khả kháng được hai bên công nhận là đúng, bên gặp trường hợp bất khả kháng sẽ được trì hoãn thực hiện nghĩa vụ hợp đồng với thời gian tương ứng xảy ra bất khả kháng và không phải chịu bất cứ một thiệt hại nào do việc bất khả kháng gây ra.
-
 ĐIỀU 11. CÁC QUY ĐỊNH KHÁC
 Chống trục lợi
 	Trục lợi là hành vi lợi dụng chức vụ, vị trí công tác, lợi dụng thẩm quyền được giao, lợi dụng hoàn cảnh, cơ hội để đem lại lợi ích cho cá nhân/nhóm cá nhân trong quá trình chào giá, đàm phán, ký kết, thực hiện Hợp đồng này.
@@ -4242,7 +5274,6 @@ Bên A sẽ không phát tán thông tin, hình ảnh, video/audio có chứa n�
 Bên A sẽ không phát tán, truyền bá những thông tin sai lệch, xuyên tạc nội dung thông tin liên quan đến Dự án, Chủ đầu tư, Tổng thầu…	
 Nếu Bên A vi phạm quy định về việc đăng tải thông tin trên mạng xã hội, phương tiên truyền thông thì Bên B có quyền chấm dứt hợp tác, chấm dứt Hợp đồng đang có hiệu lực với Bên A mà không phải chịu bất kỳ chế tài nào; Bên A phải có nghĩa vụ bồi thường đối với những thiệt hại mà Bên B phải chịu từ việc chấm dứt hợp đồng trên. Ngoài ra, Bên A còn phải chịu phạt 8% tổng giá trị Hợp đồng này và bồi thường thiệt hại do hành vi của Bên A gây ra
 Hiệu lực của Điều 11 không phụ thuộc vào hiệu lực của Hợp đồng, và chỉ hết hiệu lực sau 5 năm kể từ ngày Hợp đồng này chấm dứt.
-
 ĐIỀU 12. THÔNG BÁO
 	12.1. Bất kỳ thông báo, yêu cầu, thông tin, mọi thay đổi về trách nhiệm, nghĩa vụ và quyền lợi trong các điều khoản đã thỏa thuận, khiếu nại phát sinh liên quan đến Hợp đồng này phải được lập thành văn bản bằng Tiếng Việt và gửi đến các địa chỉ ở phần đầu Hợp đồng này hoặc địa chỉ thay đổi sau này theo thông báo của Hai Bên.
 	12.2. Trong trường hợp không có thỏa thuận khác, tất cả các thông báo sẽ được gửi qua bưu điện hoặc giao trực tiếp. Khi bưu điện không phát thư được vì bất kỳ lý do gì thì Bên thông báo sẽ thông tin cho Bên kia được biết và gửi thông báo bằng fax hoặc thư điện tử cho Bên kia. Trong một số trường hợp đặc biệt khẩn cấp, một trong Hai Bên đồng ý hình thức thông báo cho Bên kia bằng điện thoại trực tiếp.
@@ -4259,198 +5290,236 @@ Hiệu lực của Điều 11 không phụ thuộc vào hiệu lực của Hợp
 	13.4. Nếu một Bên vi phạm quy định về bảo mật thông tin và không khắc phục trong thời hạn 30 ngày kể từ ngày nhận được thông báo của Bên bị vi phạm, hoặc vi phạm lần 2 thì Bên bị vi phạm có quyền chấm dứt Hợp đồng này, sau khi thông báo bằng văn bản cho Bên vi phạm.
 ĐIỀU 14. GIẢI QUYẾT TRANH CHẤP
 	Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt. 
-
 ĐIỀU 15. ĐIỀU KHOẢN THI HÀNH
 	15.1. Hai bên cam kết thực hiện nghiêm chỉnh các điều khoản quy định trong hợp đồng và phụ lục khác kèm theo của hợp đồng này. 
 	15.2. Các vấn đề còn lại không đề cập trong hợp đồng này sẽ được thực hiện theo pháp luật Việt Nam hiện hành.
 	15.3. Hợp đồng này có thể sửa đổi, bổ sung theo thỏa thuận bằng phụ lục hợp đồng, có đầy đủ dấu, chữ ký của người đại diện có thẩm quyền của hai Bên. Các phụ lục hợp đồng này là phần không tách rời và có giá trị pháp lý như hợp đồng.
 	15.4. Hợp đồng này có hiệu lực kể từ ngày ký cho đến ngày thanh lý.
 	15.5. Hợp đồng này được lập thành 05 bản bằng tiếng Việt và có giá trị pháp lý như nhau, Bên A giữ 04 bản, Bên B giữ 01 bản.
-
-
-
-
-
-
-"""
-Mau_Hop_dong_mua_ban_hang_hoa_song_ngu = """	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM	
+ĐẠI DIỆN BÊN A
+       ĐẠI DIỆN BÊN B
+9"""
+Mau_Hop_dong_mua_ban_hang_hoa_song_ngu = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM	
 Độc lập – Tự do – Hạnh phúc
 SOCIALIST REPUBLIC OF VIETNAM
 Independence – Freedom – Happiness 
-
-
 HỢP ĐỒNG MUA BÁN GĂNG TAY
 GLOVES SALES CONTRACT
-
 Số: ………………/HĐMB/MNAG - …
 No: …………………/HĐMB/MNAG – …
-
 Căn cứ Luật Thương Mại số 36/2005/QH11 do Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam ban hành ngày 14/06/2005 và các văn bản hướng dẫn thi hành;
 Pursuant to the Commercial Law No. 36/2005/QH11 issued by National Assembly of Socialist Republic of Vietnam dated on June 14th, 2005 and guiding documents;
-
 Căn cứ Bộ Luật Dân sự số 91/2015/QH13 được Quốc hội nước Cộng hòa XHCN Việt Nam thông qua ngày 24/11/2015;
 Pursuant to Civil Code No. 91/2015/QH13 passed by the National Assembly of the Socialist Republic of Vietnam on November 24th, 2015;
-
 Căn cứ vào nhu cầu và khả năng của hai Bên.
 Based on the demand and abilities of the Parties.
-
 HỢP ĐỒNG MUA BÁN GĂNG TAY (sau đây gọi tắt là “Hợp đồng”) được ký vào ngày …../…../2020 giữa:
 GLOVES SALES CONTRACT (hereinafter referred to as “Contract”) is made on this day of …/……./2020 by and between:
-
-
-
+BÊN BÁN / SELLER
+Địa chỉ / Address
+Mã số thuế / Tax code
+: 
+Điện thoại / Tel
+: 
+Đại diện / Represented by
+: Ông 
+Chức vụ / Position
+: Giám đốc
+Director
+Sau đây gọi chung là “ Bên A”
+Hereinafter referred to as “Party A”
+BÊN MUA / BUYER
+: 
+Địa chỉ / Address
+:
+Mã số thuế / Tax Number 
+: 
+Điện thoại / Tel
+: 
+Đại diện / Represented by
+: 
+Chức vụ / Position
+: Giám đốc
+Director
+Sau đây gọi chung là “ Bên B”
+Hereinafter referred to as “Party B”
 Bên A và Bên B thống nhất ký kết hợp đồng này với những điều khoản và điều kiện như sau:                            
 Party A and Party B agree to sign this contract with the following terms and conditions:
-
 ĐIỀU 1: MÔ TẢ HÀNG HÓA
 ARTICLE 1: PRODUCT DESCRIPTION
 	
-Mô tả sản phẩm
-	Commodity Specification
-
+	Mô tả sản phẩm
+		Commodity Specification
+	
+	Hàng hóa:
+	Commodity:
+	Găng tay không bột Nitrile
+	Non-powdered Gloves Nitrile
+	Thương hiệu:
+	Brand:
+	
+	Xuất xứ:
+	Origin	
+	Việt Nam
+	Vietnam
+	Chất lượng:
+	Quality
+	Bên A đảm bảo chất lượng sản phẩm giao còn nguyên mới 100% chưa qua sử dụng.
+	Party A ensures that the quality of the products delivered is 100% new and unused.
+	Tỷ lệ Sizes tham khảo:
+	Reference Standard of Sizes
+	Small (S): 10%; Medium (M): 40%; Large (L): 40%, Extra-large (XL): 10%
+	Đóng gói:
+	Packing
+	10 hộp / thùng, 100 cái / hộp, 1000 cái / thùng. Sản phẩm được đóng gói tuân thủ các tiêu chuẩn vận chuyển hàng hóa quốc tế.
+	10 boxes/carton, 100 pieces/box, 1000 pieces/carton. Products are packed in accordance with international freight standards.
+	Chứng chỉ:
+	Certificate
+	ISO 9001:2015; ISO 13485:2016; FDA; CE.
  
 Chất lượng Sản phẩm
           	Quality of Commodity
 Bên A phải sản xuất, đóng gói và cung cấp Sản phẩm theo đúng tiêu chuẩn, chất lượng, chức năng và thời hạn sử dụng như đã tự công bố hoặc đăng ký với cơ quan chức năng.
 Party A shall manufacture, pack and supply the Commodity in accordance with industry standards, quality, functionality, expiry date declared itself or registered to the authorities.
-
 ĐIỀU 2: NHẬN HÀNG VÀ TRẢ HÀNG  
 ARTICLE 2: ACCEPTANCE AND REJECTTION/RETURN
-
-Việc giao nhận hàng giữa hai bên sẽ được xác nhận thông qua Biên bản Giao hàng.
-	The delivery of Commodity taken by Party B from Party A shall be nominated with Delivery Note.
-
-Vào thời điểm nhận hàng, Bên B có quyền từ chối nhận các Hàng hóa khiếm khuyết có thể nhìn thấy và xác định rõ bằng mắt thường. Theo đó, Bên A có trách nhiệm đổi Hàng hóa thay thế sớm nhất có thể và vào ngày Bên B yêu cầu.
+	Việc giao nhận hàng giữa hai bên sẽ được xác nhận thông qua Biên bản Giao hàng.
+		The delivery of Commodity taken by Party B from Party A shall be nominated with Delivery Note.
+	
+	Vào thời điểm nhận hàng, Bên B có quyền từ chối nhận các Hàng hóa khiếm khuyết có thể nhìn thấy và xác định rõ bằng mắt thường. Theo đó, Bên A có trách nhiệm đổi Hàng hóa thay thế sớm nhất có thể và vào ngày Bên B yêu cầu.
 	In case of a defect detected during the delivery of Commodity, Party B may reject the defective Commodity visible or apparent. Thereby, Party A is responsible for exchanging replacement Commodity as soon as possible and at the requested date by Party B.
-
 ĐIỀU 3: NGHĨA VỤ CỦA CÁC BÊN
 ARTICLE 3: OBLIGATIONS OF PARTIES
-
 Trách nhiệm của Bên B
             Obligations of Party B
-
 Thanh toán đơn hàng đầy đủ theo thỏa thuận. Nếu Bên B không thanh toán đúng hạn, Bên B sẽ mất khoản tiền cọc (nếu có). Trừ trường hợp không thanh toán đúng hạn là do lỗi của Bên A trong việc giao hàng trễ hạn hoặc vi phạm những thỏa thuận dưới đây.
-	Paying invoice in fullness as agreed. If Party B fails to pay by the due date, Party B shall lose the deposit (if any). Except for the case that the late payment is at Party A's fault for late delivery and/or breach any terms agreed herein.
-
+		Paying invoice in fullness as agreed. If Party B fails to pay by the due date, Party B shall lose the deposit (if any). Except for the case that the late payment is at Party A's fault for late delivery and/or breach any terms agreed herein.
 Bố trí đại lí vận chuyển, nhân lực, phương tiện để tiếp nhận hàng.
-	Preparing the shipping agent, manpower, facilities to take delivery.
-
-Trong trường hợp Bên B đơn phương chấm dứt Hợp đồng này không do lỗi của Bên A, Bên B sẽ bị mất khoản tiền đặt cọc (nếu có).
-	In the case of unilateral termination of this Contract without fault of Party A, Party B shall lose the deposit (if any).
-
-Sắp xếp lịch kiểm tra hàng hoá theo dạng Final Random Inspection với bên thứ 3 (SGS) và thông báo đến Bên A lịch kiểm tra cụ thể. Trong mọi trường hợp nếu Bên B không thực hiện quyền kiểm tra trong quá trình giao nhận hàng hóa thì Bên A sẽ không chịu trách nhiệm về mọi sự không phù hợp của hàng hóa được giao.
-	Arrange schedule of goods inspection under the process of Final Random Inspection (FRI) with the third party (SGS) and notify Party A the specific time. In any case if Party B does not exercise its right to inspect during the delivery and receiving the goods, Party A will not be responsible for any non-conformity of the delivered products
-
-Các nghĩa vụ khác theo quy định của Hợp đồng.
-		Other obligations stated in this Contract.
-
-Trách nhiệm của Bên A
-Obligations of Party A
-
-	3.2.1	Cam kết đảm bảo hàng giao đúng chất lượng, số lượng sản phẩm và thời gian như thỏa thuận trong hợp đồng này.
-	Commit to delivery the goods with quantity, quality, and delivery times as agreed in this Contract.
+		Preparing the shipping agent, manpower, facilities to take delivery.
 	
-	3.2.2	Chuẩn bị đầy đủ bộ hồ sơ khi giao hàng cho Bên B bao gồm: biên bản giao hàng, hóa đơn, packing list.
-	Preparing a completed set of documents when delivering goods to Party B, including: delivery note, invoice, packing list.
-
-3.2.3	Đảm bảo cung cấp cho Bên B đúng, đầy đủ số lượng, chất lượng, quy cách bao bì và mẫu mã sản phẩm như trong tại Điều 1 của hợp đồng này. Bên A có trách nhiệm thay thế ngay lập tức hoặc theo quy định tại khoản 2.2 của hợp đồng này nếu hàng hoá không tuân thủ quy định trên. 
-	Ensure to provide to Party B with exact number of products with quality, specifications, packaging and design of the products as enquired in Article 1 of this contract. Party A is responsible for immediate replacement or according to the provisions of Clause 2.2 of this contract if the goods do not comply with the above regulations.
-
-	3.2.4	Các nghĩa vụ khác theo quy định của Hợp đồng.
+	Trong trường hợp Bên B đơn phương chấm dứt Hợp đồng này không do lỗi của Bên A, Bên B sẽ bị mất khoản tiền đặt cọc (nếu có).
+		In the case of unilateral termination of this Contract without fault of Party A, Party B shall lose the deposit (if any).
+	
+	Sắp xếp lịch kiểm tra hàng hoá theo dạng Final Random Inspection với bên thứ 3 (SGS) và thông báo đến Bên A lịch kiểm tra cụ thể. Trong mọi trường hợp nếu Bên B không thực hiện quyền kiểm tra trong quá trình giao nhận hàng hóa thì Bên A sẽ không chịu trách nhiệm về mọi sự không phù hợp của hàng hóa được giao.
+		Arrange schedule of goods inspection under the process of Final Random Inspection (FRI) with the third party (SGS) and notify Party A the specific time. In any case if Party B does not exercise its right to inspect during the delivery and receiving the goods, Party A will not be responsible for any non-conformity of the delivered products
+	
+	Các nghĩa vụ khác theo quy định của Hợp đồng.
+			Other obligations stated in this Contract.
+	
+	Trách nhiệm của Bên A
+Obligations of Party A
+		3.2.1	Cam kết đảm bảo hàng giao đúng chất lượng, số lượng sản phẩm và thời gian như thỏa thuận trong hợp đồng này.
+		Commit to delivery the goods with quantity, quality, and delivery times as agreed in this Contract.
+		
+		3.2.2	Chuẩn bị đầy đủ bộ hồ sơ khi giao hàng cho Bên B bao gồm: biên bản giao hàng, hóa đơn, packing list.
+		Preparing a completed set of documents when delivering goods to Party B, including: delivery note, invoice, packing list.
+	
+	3.2.3	Đảm bảo cung cấp cho Bên B đúng, đầy đủ số lượng, chất lượng, quy cách bao bì và mẫu mã sản phẩm như trong tại Điều 1 của hợp đồng này. Bên A có trách nhiệm thay thế ngay lập tức hoặc theo quy định tại khoản 2.2 của hợp đồng này nếu hàng hoá không tuân thủ quy định trên. 
+		Ensure to provide to Party B with exact number of products with quality, specifications, packaging and design of the products as enquired in Article 1 of this contract. Party A is responsible for immediate replacement or according to the provisions of Clause 2.2 of this contract if the goods do not comply with the above regulations.
+	
+		3.2.4	Các nghĩa vụ khác theo quy định của Hợp đồng.
 Other obligations stated in this Contract.
-
 3.2.5	Trong trường hợp Bên A không thể giao hàng đúng thời hạn và không thể sắp xếp giao hàng theo thỏa thuận tại đây trước ngày thanh toán như đã nêu trong Phụ lục của Hợp đồng này, Bên B có quyền đơn phương chấm dứt hợp đồng và Bên A sẽ hoàn trả tiền đặt cọc cho Bên B trong thời gian Bên B yêu cầu.
 	In case that Party A can’t make delivery on time and can’t arrange for delivery as agreed herein before payment date as stated in the Annex here to, Party B reserves the right to unilaterally terminate the contract and Party A shall refund the deposit to Party B within requested time by Party B.
-
  ĐIỀU 4: CHẤM DỨT VÀ PHẠT VI PHẠM HỢP ĐỒNG
 ARTICLE 4: TERMINATION AND BREACH OF THE AGREEMENT
-
-4.1	Bất kỳ vi phạm các quyền và nghĩa vụ nào theo quy định của Hợp đồng này sẽ đều được coi là vi phạm Hợp đồng với điều kiện là bên bị vi phạm đã có thông báo mà bên vi phạm vẫn không tiến hành khắc phục toàn bộ vi phạm trong vòng ba (03) ngày kể từ ngày nhận được thông báo.
+	
+	4.1	Bất kỳ vi phạm các quyền và nghĩa vụ nào theo quy định của Hợp đồng này sẽ đều được coi là vi phạm Hợp đồng với điều kiện là bên bị vi phạm đã có thông báo mà bên vi phạm vẫn không tiến hành khắc phục toàn bộ vi phạm trong vòng ba (03) ngày kể từ ngày nhận được thông báo.
 Any violation of rights and obligations specified in this Agreement shall be deemed a breach of Agreement provided that the violated Party has given a notice hereof and violating Party still resists the remedy for its actual or alleged infrigement within three (03) days from the receipt of such notice.
-
-4.2      Nếu một trong hai bên vi phạm Hợp đồng dẫn đến thiệt cho bên kia, thì bên vi phạm ngoài việc phải bồi thường toàn bộ các khoản thiệt hại và tổn thất trực tiếp phát sinh do vi phạm đó gây ra cho bên bị vi phạm và bên bị vi phạm có quyền chấm dứt Hợp đồng trước thời hạn mà không phải tiến hành bồi thường cho bên kia hay chịu bất kỳ chế tài nào theo quy định của Hợp đồng này.
-	Without prejudice to that the indemnifying Parties shall indemnify indemnified party against all liabilities, costs, expenses, damages and losses directly suffered or incurred by the indemnified party rising out of or in connection with actual or alleged infringement of the indemnifying Parties, the indemnified Party is entitled to terminate the Agreement without any indemnifying other Party or any penalties provided herein.
-
-
-4.3       Hợp đồng này chấm dứt khi:
-	This contract shall terminate upon:
-
-	4.3.1	Hai Bên đã hoàn thành tất cả các nghĩa vụ theo Hợp đồng này;   
-			The fulfillment of all obligations of the Parties provided in this Contract;
-
-	4.3.2	Hai bên thỏa thuận chấm dứt Hợp đồng trước thời hạn;
-			The Parties’ agreed termination of Contract prior to its expiry;
-
-	4.3.3	Một trong các bên vi phạm nghĩa vụ thanh toán hoặc giao hàng;
-			One of the parties violates the payment or delivery obligation;
-		
-	4.3.4	Các trường hợp khác quy theo quy định tại Hợp đồng này.
-			Other cases as specified in this Contract.
-
-4.3.5    Khi hai bên đã hoàn thành tất cả các nghĩa vụ theo quy định tại Hợp đồng thì Hợp đồng sẽ được xem như đã được thanh lý mà không cần lập một văn bản thanh lý riêng.
-	The Contract shall be deem liquidated upon the fulfillment of all obligations of the Parties.
-
-4.4      	Việc chấm dứt Hợp đồng này không ảnh hưởng đến quyền và các biện pháp khắc phục của các bên có được hay phát sinh trước khi Hợp đồng chấm dứt.
-Termination of this Contract shall not prejudice any of the parties' rights and remedies which have accrued as at termination.
+	4.2      Nếu một trong hai bên vi phạm Hợp đồng dẫn đến thiệt cho bên kia, thì bên vi phạm ngoài việc phải bồi thường toàn bộ các khoản thiệt hại và tổn thất trực tiếp phát sinh do vi phạm đó gây ra cho bên bị vi phạm và bên bị vi phạm có quyền chấm dứt Hợp đồng trước thời hạn mà không phải tiến hành bồi thường cho bên kia hay chịu bất kỳ chế tài nào theo quy định của Hợp đồng này.
+		Without prejudice to that the indemnifying Parties shall indemnify indemnified party against all liabilities, costs, expenses, damages and losses directly suffered or incurred by the indemnified party rising out of or in connection with actual or alleged infringement of the indemnifying Parties, the indemnified Party is entitled to terminate the Agreement without any indemnifying other Party or any penalties provided herein.
+	
+	
+	4.3       Hợp đồng này chấm dứt khi:
+		This contract shall terminate upon:
+	
+		4.3.1	Hai Bên đã hoàn thành tất cả các nghĩa vụ theo Hợp đồng này;   
+				The fulfillment of all obligations of the Parties provided in this Contract;
+	
+		4.3.2	Hai bên thỏa thuận chấm dứt Hợp đồng trước thời hạn;
+				The Parties’ agreed termination of Contract prior to its expiry;
+	
+		4.3.3	Một trong các bên vi phạm nghĩa vụ thanh toán hoặc giao hàng;
+				One of the parties violates the payment or delivery obligation;
+			
+		4.3.4	Các trường hợp khác quy theo quy định tại Hợp đồng này.
+				Other cases as specified in this Contract.
+	
+	4.3.5    Khi hai bên đã hoàn thành tất cả các nghĩa vụ theo quy định tại Hợp đồng thì Hợp đồng sẽ được xem như đã được thanh lý mà không cần lập một văn bản thanh lý riêng.
+		The Contract shall be deem liquidated upon the fulfillment of all obligations of the Parties.
+	
+	4.4      	Việc chấm dứt Hợp đồng này không ảnh hưởng đến quyền và các biện pháp khắc phục của các bên có được hay phát sinh trước khi Hợp đồng chấm dứt.
+	Termination of this Contract shall not prejudice any of the parties' rights and remedies which have accrued as at termination.
  
 ĐIỀU 5: GIẢI QUYẾT TRANH CHẤP
 ARTICLE 5: DISPUTE RESOLUTION
-
-5.1      	
+	
+	5.1      	
 	Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
-A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
-
-5.2      	Hợp đồng này và bất kì tranh chấp, khiếu nại nào phát sinh từ hoặc liên quan đến đối tượng hoặc hình thức (bao gồm cả các tranh chấp và/hoặc khiếu nại ngoài hợp đồng) sẽ được điều chỉnh và giải thích theo pháp luật Việt Nam.
-	This Contract and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of Vietnam.
-
-5.3      Trong thời gian có mâu thuẫn hoặc có tranh chấp đang được giải quyết thì các Bên phải tiếp tục thực hiện nghĩa vụ của mình theo Hợp đồng này, ngoại trừ vấn đề đang bị tranh chấp.
-	During the time of conflict or dispute, the Parties shall continue to perform their duties under this Contract, except for the matter being contested.
+	A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
+	
+	5.2      	Hợp đồng này và bất kì tranh chấp, khiếu nại nào phát sinh từ hoặc liên quan đến đối tượng hoặc hình thức (bao gồm cả các tranh chấp và/hoặc khiếu nại ngoài hợp đồng) sẽ được điều chỉnh và giải thích theo pháp luật Việt Nam.
+		This Contract and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of Vietnam.
+	
+	5.3      Trong thời gian có mâu thuẫn hoặc có tranh chấp đang được giải quyết thì các Bên phải tiếp tục thực hiện nghĩa vụ của mình theo Hợp đồng này, ngoại trừ vấn đề đang bị tranh chấp.
+		During the time of conflict or dispute, the Parties shall continue to perform their duties under this Contract, except for the matter being contested.
  
-ĐIỀU 6: SỰ KIỆN BẤT KHẢ KHÁNG
-ARTICLE 6: FORCE MAJEURE EVENT
-
-Không bên nào phải chịu trách nhiệm đối với bất cứ sự chậm trễ hay vi phạm nào trong việc thực hiện bất cứ nội dung nào của Hợp đồng này trong trường hợp những chậm trễ hay vi phạm đó gây ra bởi các sự kiện cháy nổ, bão lụt, chiến tranh, cấm vận, yêu cầu của chính phủ, quân đội, thiên tai, hay các nguyên nhân khác tương tự vượt khỏi tầm kiểm soát của mỗi bên và Bên vi phạm và/hoặc chậm trễ không có lỗi (sau đây gọi là các “Sự Kiện Bất Khả Kháng”). Bên chịu ảnh hưởng bởi các Sự Kiện Bất Khả Kháng có nghĩa vụ thông báo cho bên kia bằng văn bản trong vòng 10 (mười) ngày kể từ ngày Sự Kiện Bất Khả Kháng bắt đầu tác động lên việc thực hiện hợp đồng của Bên bị ảnh hưởng. Trong trường hợp việc thực hiện hợp đồng bị chậm trễ quá 30 (ba mươi) ngày kể từ ngày một bên nhận được thông báo theo quy định này, bên bị ảnh hưởng có quyền đơn phương chấm dứt hợp đồng mà không phải chịu trách nhiệm pháp lý đối với bên kia. Bên đơn phương chấm dứt hợp đồng có nghĩa vụ thông báo cho bên kia về việc đơn phương chấm dứt hợp đồng.
-Neither party shall be held responsible for any delay or failure in performance of any part of this Agreement to the extent such delay or failure is caused by fire, flood, explosion, war, embargo, government requirement, civil or military authority, act of God, or other similar causes beyond its control and without the fault or negligence of the delayed or non-performing party (hereinafter referred to as “Force Majeure Event”). The affected Party shall notify the other party in writing within 10 (ten) days after the beginning of any such cause that would affect its performance. Notwithstanding, if a Party’s performance is delayed for a period exceeding 30 (thirty) days from the date the other Party receives notice under this paragraph, the non-affected Party shall have the right, without any liability to the other party, to terminate this Contract. The Party unilaterally terminating the contract shall inform the other party of the termination.
-
-ĐIỀU 7: TRÁCH NHIỆM BẢO MẬT THÔNG TIN
-ARTICLE 7: RESPONSIBILITIES NON-DISCLOSE INFORMATION
-
+	ĐIỀU 6: SỰ KIỆN BẤT KHẢ KHÁNG
+	ARTICLE 6: FORCE MAJEURE EVENT
+	
+	Không bên nào phải chịu trách nhiệm đối với bất cứ sự chậm trễ hay vi phạm nào trong việc thực hiện bất cứ nội dung nào của Hợp đồng này trong trường hợp những chậm trễ hay vi phạm đó gây ra bởi các sự kiện cháy nổ, bão lụt, chiến tranh, cấm vận, yêu cầu của chính phủ, quân đội, thiên tai, hay các nguyên nhân khác tương tự vượt khỏi tầm kiểm soát của mỗi bên và Bên vi phạm và/hoặc chậm trễ không có lỗi (sau đây gọi là các “Sự Kiện Bất Khả Kháng”). Bên chịu ảnh hưởng bởi các Sự Kiện Bất Khả Kháng có nghĩa vụ thông báo cho bên kia bằng văn bản trong vòng 10 (mười) ngày kể từ ngày Sự Kiện Bất Khả Kháng bắt đầu tác động lên việc thực hiện hợp đồng của Bên bị ảnh hưởng. Trong trường hợp việc thực hiện hợp đồng bị chậm trễ quá 30 (ba mươi) ngày kể từ ngày một bên nhận được thông báo theo quy định này, bên bị ảnh hưởng có quyền đơn phương chấm dứt hợp đồng mà không phải chịu trách nhiệm pháp lý đối với bên kia. Bên đơn phương chấm dứt hợp đồng có nghĩa vụ thông báo cho bên kia về việc đơn phương chấm dứt hợp đồng.
+	Neither party shall be held responsible for any delay or failure in performance of any part of this Agreement to the extent such delay or failure is caused by fire, flood, explosion, war, embargo, government requirement, civil or military authority, act of God, or other similar causes beyond its control and without the fault or negligence of the delayed or non-performing party (hereinafter referred to as “Force Majeure Event”). The affected Party shall notify the other party in writing within 10 (ten) days after the beginning of any such cause that would affect its performance. Notwithstanding, if a Party’s performance is delayed for a period exceeding 30 (thirty) days from the date the other Party receives notice under this paragraph, the non-affected Party shall have the right, without any liability to the other party, to terminate this Contract. The Party unilaterally terminating the contract shall inform the other party of the termination.
+	ĐIỀU 7: TRÁCH NHIỆM BẢO MẬT THÔNG TIN
+	ARTICLE 7: RESPONSIBILITIES NON-DISCLOSE INFORMATION
+	
 Các bên thỏa thuận rằng: Trong mọi trường hợp Bên B sẽ chỉ sử dụng những Thông Tin Bảo Mật (bao gồm và không hạn chế các thông tin về giá, quyền và nghĩa vụ của các bên,…) cho mục đích thực hiện các công việc theo thỏa thuận bao gồm việc nộp hợp đồng mua/bán này để đăng ký với cơ quan nhà nước nhằm thực hiện việc giao hàng và theo yêu cầu của các cơ quan nhà nước, và sẽ không cung cấp hay tiết lộ bất cứ Thông Tin Bảo Mật cho bất cứ bên thứ ba nào trừ trường hợp đó là nhân viên được Bên B chỉ định thực hiện trực tiếp công việc và cần biết những Thông Tin Bảo Mật đó. 
 The parties agree that: In all cases, Party B will only use The Confidential Information (including and without limitation information on prices, rights and obligations of the parties, ...) for the purpose of performing the work by agreement including submitting this purchase / sale contract for registration with a governmental authority to carry out the delivery and as requested by the state authorities, and will not provide or disclose any The Confidential Information to any third party unless it is an employee appointed by Party B to perform the work directly and need to know The Confidential Information.
-
 Bên Nhận thông tin phải ngay lập tức thông báo với nhân viên, đại diện, nhà thầu hay nhà tư vấn độc lập được cung cấp Thông Tin Bảo Mật về nghĩa vụ theo Thỏa Thuận này và phải thực hiện những biện pháp cần thiết để đảm bảo tính bảo mật của Thông Tin Bảo Mật sẽ được duy trì theo Hợp đồng này.
 The Recipient of the information must immediately notify an employee, representative, contractor or independent consultant provided with Confidential Information about the obligations under this Contract and must take the necessary measures to ensure The Confidential Information will be maintained in accordance with this Contract.
-
 Trong trường hợp Bên B phát tán, phổ biến hoặc bị tiết lộ những Thông Tin Bảo Mật cho một bên thứ ba trừ các trường hợp quy định tại khoản 7.1 của Điều này, Bên A có quyền đơn phương chấm dứt hợp đồng này và không có nghĩa vụ hoàn trả số tiền đã đặt cọc (nếu có) lại cho Bên B.
 In the event that Party B distributes, disseminates or discloses The Confidential Information to a third party except for the cases specified in Clause 6.1 of this Article, Party A has the right to unilaterally terminate this contract and not obliged to return the amount of the deposit (if any) back to Party B.
-
+	
 ĐIỀU 8: ĐIỀU KHOẢN CHUNG
 ARTICLE 8: GENERAL TERMS 
-
-8.1     	Trong quá trình thực hiện, tất cả phụ lục, sửa đổi nào đối với Hợp đồng này các Bên phải lập thành văn bản và nội dung sửa đổi, bổ sung, thay thế chỉ có hiệu lực khi được đại diện có thẩm quyền của mỗi bên ký.
-	During the term of this Contract, all appendix, amendment to this Contract must be in writing and only take effect as concluded by sufficient authorized representatives of the parties.
-
-8.2     	Ngoài các thỏa thuận trên những vấn đề phát sinh mà chưa được đề cập trong Hợp đồng này sẽ được giải quyết dựa trên quy định của pháp luật có liên quan của Việt Nam.
-	Issues that are not mentioned in this Contract shall be in accordance with the laws of Vietnam.
-
-8.3     	Nếu bất kì nội dung nào trong Hợp đồng này vô hiệu, trái pháp luật hoặc không thể thực hiện được, nội dung đó sẽ được xem là đương nhiên sửa đổi trong giới hạn thấp nhất có thể để trở nên có hiệu lực, đúng pháp luật và có thể thực hiện được. Trong trường hợp những thay đổi đó không thể thực hiện được, các nội dung đó được xem như huỷ bỏ. Việc một hoặc một số nội dung trong Hợp đồng bị sửa đổi hoặc huỷ bỏ không làm ảnh hưởng đến hiệu lực và việc thực hiện của các nội dung khác của Hợp đồng.
-	If any provision or part-provision of this Contract is or becomes invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this clause shall not affect the validity and enforceability of the rest of this Contract.
-
-8.4     	Hợp đồng này sẽ có hiệu lực sau khi đại diện hợp pháp hoặc đại diện ủy quyền của các bên ký kết vào Hợp đồng.
-	The Contract shall take effect after concluded by a duly authorized representative of the parties.
-
-8.5     	Hợp đồng này sẽ tự động hết hiệu lực ngay sau khi các bên hoàn thành xong các nghĩa vụ trong Hợp đồng.
-	The Contract shall automatically invalid after the parties fulfill their obligations in this Contract.
-
-8.6     	Tất cả các văn bản, thông báo có liên quan đến Hợp đồng này đều được lập bằng tiếng Việt và tiếng Anh hoặc có bản dịch tiếng Việt/tiếng Anh đính kèm. Trong trường hợp có bất kì sự khác biệt giữa bản tiếng Việt và bản tiếng Anh, bản tiếng Anh sẽ có giá trị áp dụng.
-	All other documents or notices provided under or in connection with this Contract shall be in both Vietnamese and English, or accompanied by Vietnamese and English translation.  In case of any discrepancies or inconsistencies between the English version and Vietnamese version, the English shall prevail.
-
-8.7     Hợp đồng này được lập thành 04 (bốn) bản, có giá trị pháp lý như nhau, mỗi bên giữ 02 (hai) bản làm cơ sở để thực hiện.
-	This Contract is made in two 04 (four) copies, with the equal validity, each party keeps 02 (two) copy.
-
-
-
-"""
+	8.1     	Trong quá trình thực hiện, tất cả phụ lục, sửa đổi nào đối với Hợp đồng này các Bên phải lập thành văn bản và nội dung sửa đổi, bổ sung, thay thế chỉ có hiệu lực khi được đại diện có thẩm quyền của mỗi bên ký.
+		During the term of this Contract, all appendix, amendment to this Contract must be in writing and only take effect as concluded by sufficient authorized representatives of the parties.
+	
+	8.2     	Ngoài các thỏa thuận trên những vấn đề phát sinh mà chưa được đề cập trong Hợp đồng này sẽ được giải quyết dựa trên quy định của pháp luật có liên quan của Việt Nam.
+		Issues that are not mentioned in this Contract shall be in accordance with the laws of Vietnam.
+	
+	8.3     	Nếu bất kì nội dung nào trong Hợp đồng này vô hiệu, trái pháp luật hoặc không thể thực hiện được, nội dung đó sẽ được xem là đương nhiên sửa đổi trong giới hạn thấp nhất có thể để trở nên có hiệu lực, đúng pháp luật và có thể thực hiện được. Trong trường hợp những thay đổi đó không thể thực hiện được, các nội dung đó được xem như huỷ bỏ. Việc một hoặc một số nội dung trong Hợp đồng bị sửa đổi hoặc huỷ bỏ không làm ảnh hưởng đến hiệu lực và việc thực hiện của các nội dung khác của Hợp đồng.
+		If any provision or part-provision of this Contract is or becomes invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this clause shall not affect the validity and enforceability of the rest of this Contract.
+	
+	8.4     	Hợp đồng này sẽ có hiệu lực sau khi đại diện hợp pháp hoặc đại diện ủy quyền của các bên ký kết vào Hợp đồng.
+		The Contract shall take effect after concluded by a duly authorized representative of the parties.
+	
+	8.5     	Hợp đồng này sẽ tự động hết hiệu lực ngay sau khi các bên hoàn thành xong các nghĩa vụ trong Hợp đồng.
+		The Contract shall automatically invalid after the parties fulfill their obligations in this Contract.
+	
+	8.6     	Tất cả các văn bản, thông báo có liên quan đến Hợp đồng này đều được lập bằng tiếng Việt và tiếng Anh hoặc có bản dịch tiếng Việt/tiếng Anh đính kèm. Trong trường hợp có bất kì sự khác biệt giữa bản tiếng Việt và bản tiếng Anh, bản tiếng Anh sẽ có giá trị áp dụng.
+		All other documents or notices provided under or in connection with this Contract shall be in both Vietnamese and English, or accompanied by Vietnamese and English translation.  In case of any discrepancies or inconsistencies between the English version and Vietnamese version, the English shall prevail.
+	
+	8.7     Hợp đồng này được lập thành 04 (bốn) bản, có giá trị pháp lý như nhau, mỗi bên giữ 02 (hai) bản làm cơ sở để thực hiện.
+		This Contract is made in two 04 (four) copies, with the equal validity, each party keeps 02 (two) copy.
+	
+	
+ĐẠI DIỆN BÊN B
+REPRESENTATIVE OF PARTY B 
+(ký tên, đóng dấu)
+(sign and seal)
+___________________________________________
+	Họ và tên/Full Name:
+	Chức vụ/Positon:
+ĐẠI DIỆN BÊN A
+REPRESENTATIVE OF PARTY A
+(ký tên, đóng dấu)
+(sign and seal)
+___________________________________________
+	Họ và tên/Full Name: 
+		Chức vụ/Positon:
+	
+|
+		2"""
 Mau_Hop_dong_mua_ban_dien_cua_Nha_may_thuy_dien_voi_Cong_ty_dien_luc = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 -------------------
@@ -4649,7 +5718,6 @@ c) Trong trường hợp bất khả kháng, nếu một bên bị cản trở t
 Điều 11. Giải quyết tranh chấp
 1. Trường hợp xảy ra tranh chấp giữa các bên trong Hợp đồng, bên tranh chấp phải thông báo bằng văn bản cho bên kia về nội dung tranh chấp. Các bên có trách nhiệm trao đổi để giải quyết tranh chấp trong thời hạn 60 ngày kể từ ngày có thông báo của bên đưa ra tranh chấp. Đối với các tranh chấp về thanh toán các khoản chi phí, các bên có trách nhiệm trao đổi trong thời hạn 15 ngày. Các bên có quyền thỏa thuận bằng văn bản về việc kéo dài thời hạn trao đổi để giải quyết tranh chấp.
 2. Trường hợp hai bên không thể giải quyết tranh chấp thông qua trao đổi trong thời hạn quy định tại Khoản 1 Điều này, hai bên thống nhất chuyển vụ việc tranh chấp đến Cục Điều tiết điện lực hoặc Các bên tiến hành giải quyết tranh chấp tại Trung tâm trọng tài thương mại Miền Trung (MCAC) theo Quy tắc Tố tụng Trọng tài của Trung tâm này. Chi phí Trọng tài, bao gồm chi phí Luật sư do bên thua kiện chịu.
-
 Điều 12. Giai đoạn chuyển tiếp sang thị trường bán lẻ cạnh tranh
 Trong thời hạn Hợp đồng, trường hợp Thị trường bán buôn cạnh tranh được thay thế bằng thị trường bán lẻ cạnh tranh hoặc loại hình thị trường khác do cơ quan nhà nước có thẩm quyền quyết định, các bên có nghĩa vụ đàm phán để sửa đổi hoặc thay thế Hợp đồng này phù hợp với cấu trúc thị trường điện mới với điều kiện giá trị kinh tế của Hợp đồng đối với các bên không bị ảnh hưởng.
 Điều 13. Lưu giữ hồ sơ và cung cấp thông tin
@@ -4662,6 +5730,12 @@ Mỗi bên có trách nhiệm nộp các khoản thuế và phí hoặc thanh to
 Điều 15. Đại diện có thẩm quyền và trao đổi thông tin
 1. Đại diện có thẩm quyền
 Đại diện có thẩm quyền của hai bên trong Hợp đồng là:
+Bên bán:
+_______________________
+_______________________
+Bên mua:
+_______________________
+_______________________
 2. Trao đổi thông tin
 a) Các thông báo, hóa đơn hoặc các trao đổi thông tin cần thiết khác trong quá trình thực hiện Hợp đồng phải được lập thành văn bản, nêu rõ ngày lập, sự liên quan đến Hợp đồng. Trường hợp gửi bằng fax thì phải gửi bản gốc đến sau bằng dịch vụ bưu điện với bưu phí đã được trả trước. Thông báo, hóa đơn hoặc các trao đổi thông tin phải được gửi theo các địa chỉ sau:
 Bên bán: ______________________________
@@ -4697,6 +5771,14 @@ Việc giải thích và thực hiện Hợp đồng này được thực hiện
 Trường hợp một phần nội dung trong Hợp đồng không phù hợp với quy định của pháp luật hoặc vô hiệu theo quyết định của cơ quan nhà nước có thẩm quyền thì các nội dung khác của Hợp đồng vẫn có hiệu lực nếu phần còn lại thể hiện đầy đủ nội dung mà không liên quan tới phần bị vô hiệu.
 Hợp đồng được lập thành 09 bản có giá trị như nhau, mỗi bên giữ 04 bản. Bên bán có trách nhiệm gửi 01 bản tới Cục Điều tiết điện lực.
  
+ĐẠI DIỆN BÊN MUA
+(Chức danh)
+(Đóng dấu và chữ ký)
+(Họ tên đầy đủ)
+ĐẠI DIỆN BÊN BÁN
+(Chức danh)
+(Đóng dấu và chữ ký)
+(Họ tên đầy đủ)
  
 PHỤ LỤC I
 CÁC THÔNG SỐ CHÍNH CỦA NHÀ MÁY ĐIỆN
@@ -4761,6 +5843,18 @@ a) Công suất phát tối thiểu: ……….. MW.
 b) Công suất phát tối đa:………….. MW.
 2. Thời gian để khởi động và hòa đồng bộ
 Thời gian để khởi động tổ máy và hòa đồng bộ vào Hệ thống điện quốc gia kể từ khi ngừng máy như sau:
+Tình trạng
+Thời gian ngừng
+Thời gian khởi động đến lúc hòa vào lưới
+Khởi động lạnh
+Từ … giờ trở lên
+… giờ
+Khởi động ấm
+Từ … đến … giờ
+… giờ
+Khởi động nóng
+Dưới … giờ
+… giờ
 3. Tốc độ thay đổi phụ tải
 a) Tốc độ giảm tải trung bình: … MW/phút.
 b) Tốc độ tăng tải: … MW/phút.
@@ -4785,25 +5879,21 @@ FOMCj,t: Giá vận hành và bảo dưỡng tháng t, năm j (đồng/kWh).
 Giá cố định bình quân nhiều năm (chưa bao gồm thuế giá trị gia tăng, thuế tài nguyên nước, mức chi trả tiền dịch vụ môi trường rừng) là... (đồng/kWh).
 1.3. Giá vận hành và bảo dưỡng:
 Giá vận hành và bảo dưỡng tháng t, năm j FOMCj,t (chưa bao gồm thuế giá trị gia tăng, thuế tài nguyên nước, mức chi trả tiền dịch vụ môi trường rừng) được xác định theo công thức sau:
-
 Trong đó:
 : Thành phần giá vận hành và bảo dưỡng theo chi phí sửa chữa lớn và chi phí khác năm j (đồng/kWh);
 : Thành phần giá vận hành và bảo dưỡng theo chi phí nhân công tháng t, năm j (đồng/kWh).
 a) Thành phần giá vận hành và bảo dưỡng theo chi phí sửa chữa lớn và chi phí khác năm j () được xác định theo công thức sau (đồng/kWh):
-
 Trong đó:
 : Thành phần giá vận hành và bảo dưỡng theo chi phí sửa chữa lớn và chi phí khác năm áp dụng giá là... (đồng/kWh);
 i: Tỷ lệ trượt thành phần giá vận hành và bảo dưỡng theo chi phí khác là 2,5%/năm;
 j: Số thứ tự năm thanh toán tính từ năm áp dụng giá (đối với năm áp dụng giá j = 1, I = 0).
 b) Thành phần giá vận hành và bảo dưỡng theo chi phí nhân công tháng t, năm j () được xác định theo công thức sau (đồng/kWh):
-
 Trong đó:
 : Thành phần giá vận hành và bảo dưỡng theo chi phí nhân công năm áp dụng giá là... (đồng/kWh);
 i: Tỷ lệ trượt thành phần giá vận hành và bảo dưỡng theo chi phí nhân công là 2,5%/năm;
 j: Số thứ tự năm thanh toán tính từ năm áp dụng giá (đối với năm áp dụng giá j = 1, i = 0).
 2. Giá Hợp đồng của nhà máy điện đã hết khấu hao các tài sản chính
 Giá Hợp đồng của nhà máy điện đã hết khấu hao các tài sản chính tại thời điểm thanh toán tiền điện tháng t, năm j (PC,j,t) (chưa bao gồm thuế giá trị gia tăng, thuế tài nguyên nước, mức chi trả tiền dịch vụ môi trường rừng) được xác định theo công thức sau (đồng/kWh):
-
 Trong đó:
 CCK: Tổng chi phí bình quân năm của nhà máy thủy điện chiến lược đa mục tiêu trong chu kỳ tính giá;
 LN: Lợi nhuận định mức của nhà máy điện, được xác định trên cơ sở vốn chủ sở hữu tương ứng với giá trị tài sản còn lại của nhà máy và tỷ suất lợi nhuận trước thuế trên vốn chủ sở hữu theo quy định;
@@ -4815,15 +5905,12 @@ Abq: Điện năng xuất tuyến bình quân năm trong 5 năm gần nhất th
 4. Sản lượng hợp đồng tháng, sản lượng hợp đồng của các chu kỳ giao dịch trong tháng tới của Nhà máy điện được Đơn vị vận hành hệ thống điện và thị trường điện quốc gia xác định trong quá trình lập kế hoạch vận hành năm tới theo Quy định vận hành thị trường bán buôn điện cạnh tranh.
 II. Thanh toán tiền điện theo Hợp đồng
 (Cơ chế thanh toán theo quy định thị trường bán buôn điện cạnh tranh).
-
 Nguồn: Thông tư 26/2017/TT-BCT"""
 Mau_Hop_dong_moi_gioi_bat_dong_san = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc 
 ---------------
-
 HỢP ĐỒNG MÔI GIỚI MUA BÁN BẤT ĐỘNG SẢN
 (Số: ……………./HĐMGMBBĐS)
-
 Hôm nay, ngày …………. tháng …………. năm …………….., Tại …………………………
 Chúng tôi gồm có:
 BÊN MÔI GIỚI (BÊN A): ……………………………………………………………….
@@ -4937,37 +6024,11 @@ d. Trong các trường hợp này, nếu ngày tương ứng rơi vào ngày ch
 ĐIỀU 11: CÁC THỎA THUẬN KHÁC (Nếu có)
 ...................................................................................... 
 Hợp đồng được lập thành ………. (………..) bản, mỗi bên giữ một bản và có giá trị như nhau.
-
                   ĐẠI DIỆN BÊN A                                          ĐẠI DIỆN BÊN B
                          Chức vụ                                                             Chức vụ
                 (Ký tên đóng dấu)                                              (Ký tên đóng dấu)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 BIÊN BẢN THANH LÝ
 HỢP ĐỒNG …………………….
-
 - Căn cứ vào hợp đồng số …………………… ký ngày ………………….;
 - Căn cứ theo nhu cầu và khả năng của hai bên.
 Hôm nay, ngày …………. tháng …………. năm …………….., Tại …………………………
@@ -4980,7 +6041,6 @@ Mã số thuế: ………………………………………………………
 Tài khoản số: …………………………………………………………………………………………
 Do ông (bà): ……………………………………………………….…………………………………
 Chức vụ: ……………………………………………………………………………………………… làm đại diện.
-
 BÊN ĐƯỢC MÔI GIỚI (BÊN B):
 a) Trường hợp là cá nhân:
 Ông/bà: …………………………………………………Năm sinh: ……………………………..
@@ -5004,30 +6064,24 @@ Là đồng sở hữu bất động sản: ………………………………
 Các chứng từ sở hữu và tham khảo về bất động sản đã được cơ quan có thẩm quyền cấp cho Bên B gồm có:
 …………………………………………………………………………………………………………
 Sau khi bàn bạc, hai bên cùng ký thanh lý hợp đồng số ………………. ký ngày……………..
-
 ĐIỀU 1: NỘI DUNG THANH LÝ HỢP ĐỒNG
 - Hai bên đồng ý thanh lý hợp đồng số ………………. ký ngày……………..
 - Hai bên chấm dứt quyền và nghĩa vụ quy định trong hợp đồng số ………………. ký ngày…………….. kể từ ngày biên bản thanh lý hợp đồng này được ký.
-
 ĐIỀU 2: ĐIỀU KHOẢN CHUNG
 - Biên bản thanh lý hợp đồng này là cơ sở để hai bên thanh quyết toán và chấm dứt nghĩa vụ của hai bên trong hợp đồng số ………………. ký ngày……………..
 - Việc thanh lý này không ảnh hưởng đến khoản 7.7 Điều 7 được hai bên thỏa thuận trong hợp đồng.
 Biên bản thanh lý hợp đồng này được lập thành …….  bản, Bên A giữ ……. (……..) bản, Bên B giữ …….. (……….) bản, có giá trị như nhau và có hiệu lực kể từ ngày ký.
-
                   ĐẠI DIỆN BÊN A                                           ĐẠI DIỆN BÊN B
                         Chức vụ                                                        Chức vụ
                  (Ký tên, đóng dấu)                                        (Ký tên, đóng dấu)
-
 Ghi chú:
 (1) Gồm thù lao và hoa hồng:
 - Thù lao môi giới không phụ thuộc vào kết quả giao dịch mua/bán BĐS giữa bên B và người thứ ba; Mức thù lao do các bên thỏa thuận, không phụ thuộc vào giá của giao dịch.
-- Hoa hồng môi giới theo hợp đồng môi giới khi bên B ký hợp đồng mua/bán BĐS; Mức hoa hồng môi giới theo tỷ lệ % giá trị trị hợp đồng mua/bán BĐS hoặc chênh lệch giữa giá mua/bán và giá của bên B đưa ra hoặc một số tiền cụ thể do các bên thỏa thuận trong  hợp đồng môi giới.
-"""
+- Hoa hồng môi giới theo hợp đồng môi giới khi bên B ký hợp đồng mua/bán BĐS; Mức hoa hồng môi giới theo tỷ lệ % giá trị trị hợp đồng mua/bán BĐS hoặc chênh lệch giữa giá mua/bán và giá của bên B đưa ra hoặc một số tiền cụ thể do các bên thỏa thuận trong  hợp đồng môi giới."""
 Mau_Hop_dong_nguyen_tac_ve_viec_mua_ban_hang_hoa = """CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
 -----***-----
 Đà Nẵng, ngày ….tháng……năm 2023
-
 HỢP ĐỒNG NGUYÊN TẮC
 (Số: …./HĐNT/….-…..)
 	Hôm nay, ngày…..tháng…..năm ….., tại………………….....................chúng tôi gồm có:
@@ -5043,9 +6097,7 @@ BÊN B: .……………………………………………………………�
 Điện thoại : …………………….Fax : ..……………… 
 Mã số thuế : …………………… 
 Tài khoản số : ……………………..Tại …………………………………………….
-
 	Sau khi thỏa thuận, hai Bên cùng đồng ý ký kết Hợp đồng nguyên tắc (sau đây gọi là “Hợp đồng”) với các điều khoản sau: 
-
 Điều 1. Các nguyên tắc chung  
 Hai Bên tham gia ký kết Hợp đồng này trên cơ sở quan hệ hợp tác kinh doanh nhằm mục đích sử dụng hợp lý, phát huy khả năng, tiềm lực, tạo nguồn thu, mang lại hiệu quả lợi ích cho các bên. Các Bên liên kết trên cơ sở bình đẳng, tôn trọng lẫn nhau, phù hợp với các quy định của pháp luật hiện hành. Cùng nhau hưởng lợi và phân chia lợi nhuận theo theo sự thỏa thuận phù hợp. Không bên nào được tự ý đơn phương hành động vi phạm lợi ích của bên kia, trừ trường hợp các bên có thỏa thuận hoặc pháp luật cho phép. 
 Các nội dung trong bản Hợp đồng nguyên tắc này chỉ được sửa đổi khi có sự thỏa thuận của hai bên và được thống nhất bằng văn bản. Văn bản thay đổi nội dung Hợp đồng nguyên tắc này được xem là Phụ lục và là một phần không thể tách rời của Hợp đồng. 
@@ -5090,11 +6142,11 @@ Thực hiện đúng và đầy đủ các quy định khác theo nội dung H�
 5.1.	Bất cứ sự chỉnh sửa, điều chỉnh, thay đổi hợp đồng này đều phải lập thành văn bản và có chữ ký của người có thẩm quyền của hai Bên.
 5.2.	Trong thời hạn có hiệu lực của hợp đồng, các Bên không được quyền chuyển giao các quyền và nghĩa vụ của mình theo hợp đồng này cho bất cứ bên thứ ba nào trừ trường hợp được sự đồng ý bằng văn bản của Bên kia. 
 Điều 6. Bất khả kháng 
-	Bất khả kháng là những sự kiện xảy ra một cách khách quan, không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng các biện pháp cần thiết trong khả năng cho phép. Sự kiện bất khả kháng bao gồm nhưng không giới hạn bởi: 
-		(i) Sự thay đổi của chính sách pháp luật, quyết định của cơ quan nhà nước có thẩm quyền;
-		(ii) Thiên tai bao gồm: Bão, động đất, lũ lụt hay bất kỳ hình thức nào khác do thiên nhiên gây ra mà sức mạnh và sự tàn phá của nó không thể lường trước hoặc chống lại được;
-		(iii) Chiến tranh (tuyên bố hoặc không tuyên bố), chiến sự, xâm lược, hoạt động của kẻ thù bên ngoài, đe dọa hoặc chuẩn bị chiến tranh, bạo động, khởi nghĩa, xáo trộn công cộng, nổi loạn, cách mạng, nội chiến, các đình công, phá hoại của công nhân.
-		Khi xảy ra sự kiện bất khả kháng, các bên sẽ thông báo cho nhau về các biến cố của trường hợp này, và cả những hậu quả có thể xảy ra cho việc thực hiện hợp đồng này trong vòng 20 ngày kể từ khi xảy ra biến cố. Trong trường hợp các thiệt hại xảy ra do sự cố bất khả kháng, không bên nào phải bồi thường.
+		Bất khả kháng là những sự kiện xảy ra một cách khách quan, không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng các biện pháp cần thiết trong khả năng cho phép. Sự kiện bất khả kháng bao gồm nhưng không giới hạn bởi: 
+			(i) Sự thay đổi của chính sách pháp luật, quyết định của cơ quan nhà nước có thẩm quyền;
+			(ii) Thiên tai bao gồm: Bão, động đất, lũ lụt hay bất kỳ hình thức nào khác do thiên nhiên gây ra mà sức mạnh và sự tàn phá của nó không thể lường trước hoặc chống lại được;
+			(iii) Chiến tranh (tuyên bố hoặc không tuyên bố), chiến sự, xâm lược, hoạt động của kẻ thù bên ngoài, đe dọa hoặc chuẩn bị chiến tranh, bạo động, khởi nghĩa, xáo trộn công cộng, nổi loạn, cách mạng, nội chiến, các đình công, phá hoại của công nhân.
+			Khi xảy ra sự kiện bất khả kháng, các bên sẽ thông báo cho nhau về các biến cố của trường hợp này, và cả những hậu quả có thể xảy ra cho việc thực hiện hợp đồng này trong vòng 20 ngày kể từ khi xảy ra biến cố. Trong trường hợp các thiệt hại xảy ra do sự cố bất khả kháng, không bên nào phải bồi thường.
 Điều 7.  Bồi thường thiệt hại và phạt vi phạm hợp đồng
 	Trong trường hợp mỗi bên thực hiện không đúng hoặc không đầy đủ nghĩa vụ của mình theo Hợp đồng này, bên đó phải chịu trách nhiệm bồi thường cho những tổn thất mà bên kia phải gánh chịu do việc thực hiện không đúng nghĩa vụ đó, bao gồm cả thiệt hại trực tiếp và gián tiếp xảy ra.
 	Mỗi bên thực hiện không đúng hoặc không đầy đủ nghĩa vụ của mình theo Hợp đồng này còn phải chịu một khoản tiền phạt vi phạm hợp đồng với số tiền phạt vi phạm tương đương ……………… 
@@ -5126,13 +6178,12 @@ Thực hiện đúng và đầy đủ các quy định khác theo nội dung H�
 13.4.	Bằng việc ký tên dưới đây, hai bên thống nhất và đồng ý rằng, mình đã đọc kỹ, hiễu rõ từng nội dung và điều khoản của hợp đồng. Trên cơ sở tự nguyện và chịu mọi trách nhiệm pháp lý khi thực hiện các nội dung của hợp đồng này.
 13.5.	Hợp đồng này được lập thành bốn (04) bản, mỗi bản có sáu (06) trang, các hợp đồng có giá trị pháp lý như nhau. Mỗi bên giữ hai (02) bản./.
 CÁC THỎA THUẬN KHÁC (nếu có): …………………………………………...
-
-"""
+Đại diện Bên A
+Đại diện Bên B
+1"""
 Mau_Hop_dong_nhuong_quyen_thuong_mai = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
-
 HỢP ĐỒNG NHƯỢNG QUYỀN THƯƠNG MẠI
-
 - Căn cứ Luật thương mại năm 2005;
 - Căn cứ Nghị định số 35/2006/NĐ-CP Quy định chi tiết Luật thương mại về hoạt động nhượng quyền thương mại
 - Căn cứ vào nhu cầu và khả năng giữa các bên;
@@ -5200,7 +6251,6 @@ Bên B chỉ được thay đổi địa điểm Cửa hàng hoặc mở thêm C
 Những tiêu chuẩn này là tập hợp các yếu tố đặc trưng riêng để nhận diện thương hiệu ................................, bao gồm các yếu tố về chất lượng ................................, về phong cách phục vụ và các yếu tố nhận biết được bằng thị giác như kiến trúc, bài trí, trang phục.
 4.2. Bên B có các nghĩa vụ như sau:
 4.2.1. Trả phí nhượng quyền và các khoản thanh toán khác theo hợp đồng nhượng quyền thương mại này theo quy định tại Điều 6 của Hợp đồng.
-
 4.2.2. Tự mình đầu tư các cơ sở vật chất, nguồn tài chính và nhân lực theo yêu cầu của Bên A bao gồm:
 - Trực tiếp đứng ra ký kết hợp đồng thuê mặt bằng/ cửa hàng với bên cho thuê sau khi được Bên A phê duyệt về địa điểm Cửa hàng của Bên B;
 - Thanh toán toàn bộ chi phí đầu tư để Cửa hàng theo chuẩn của Hệ thống, bao gồm cả thanh toán tiền lương cho nhân viên làm việc tại cửa hàng của Bên B.
@@ -5287,21 +6337,16 @@ d. Trong các trường hợp này, nếu ngày tương ứng rơi vào ngày ch
 14.2. Các bên có trách nhiệm thông tin kịp thời cho nhau tiến độ thực hiện công việc. Mọi sửa đổi, bổ sung hợp đồng này đều phải được làm bằng văn bản và có chữ ký của hai bên. Các phụ lục là phần không tách rời của hợp đồng.
 14.3.  Hợp đồng có giá trị trong 5 năm và chỉ áp dụng tại 01 Cửa hàng.
 Hợp đồng này gồm…trang, có hiệu lực kể từ ngày ký và được lập thành hai bản, mỗi bên giữ một bản, các bản có giá trị pháp lý như nhau.
-                                 Bên A                                                                                     Bên B
-"""
-Mau_Hop_dong_phat_trien_phan_mem_song_ngu = """
-HỢP ĐỒNG PHÁT TRIỂN PHẦN MỀM
+                                 Bên A                                                                                     Bên B"""
+Mau_Hop_dong_phat_trien_phan_mem_song_ngu = """HỢP ĐỒNG PHÁT TRIỂN PHẦN MỀM
 SOFTWARE DEVELOPMENT CONTRACT
-
 Hợp Đồng Phát Triển Phần Mềm này (sau đây gọi chung là “Hợp đồng”), được ký kết vào ngày…./…./….. (“Ngày Hiệu Lực”) và giữa các Bên sau:
 This Software Development Contract (hereinafter collectively referred to as "Contract is entered into on ... / ... / ... .. ("Effective Date") by and between the Parties:
-
 BÊN A hoặc BÊN PHÁT TRIỂN/ PARTY A or DEVELOPER
 …………………. - là một Công ty được thành lập theo pháp luật Việt Nam.,có địa chỉ trụ sở tại số: ……….; với mã số doanh nghiệp: ……………. được cấp lần đầu vào ngày: ……………  đại diện bởi: …………………., chức vụ: ………….
 …………………… is a Company incorporated under the laws of Vietnam, with registered office at: ……….. Tax code: …………; Issued on: ……………; represented by: …………………., position: …………….
 Sau đây gọi tắt là Bên A.
 Hereinafter referred to as Party A.
-
 BÊN B hoặc KHÁCH HÀNG/ PARTY B or CUSTOMER 
 …………………. - là một Công ty được thành lập theo pháp luật Việt Nam.,có địa chỉ trụ sở tại số: ……….; với mã số doanh nghiệp: ……………. được cấp lần đầu vào ngày: ……………  đại diện bởi: …………………., chức vụ: ………….
 …………………… is a Company incorporated under the laws of Vietnam, with registered office at: ……….. Tax code: …………; Issued on: ……………; represented by: …………………., position: …………….
@@ -5309,26 +6354,20 @@ Sau đây gọi tắt là Bên A.
 Hereinafter referred to as Party A.
 Sau đây gọi tắt là Bên B.
 Hereinafter referred to as Party B.
-
 Trên cơ sở Bên B mong muốn mời Bên A cung cấp, phát triển một số Phần mềm theo yêu cầu cụ thể cho Bên B và Bên A sẵn sàng hỗ trợ phát triển Phần mềm đó, các Bên đồng ý các điều khoản ký kết và tuân thủ đầy đủ các điều kiện được quy định trong Hợp đồng này, cụ thể như sau:
 Considering that Party B wishes to invite Party A to provide, develop certain Software according to the specific requirements to Party B and Party A is willing to support the development of such Software, the Parties agree to the signed terms and comply with the conditions set forth in this Contract, specifically as follows:
-
 ĐIỀU 1:  PHẠM VI CÔNG VIỆC
 ARTICLE 1: SCOPE OF WORK
 Theo các điều khoản, điều kiện của Hợp đồng này, Bên B đồng ý chỉ định Bên A là đối tác trong việc cung cấp các vấn đề liên quan đến công nghệ bao gồm nhưng không giới hạn các hạng mục liên quan đến thiết kế và phát triển các phần mềm theo yêu cầu của Bên B, vận hành, bảo trì, quản lý, phát triển, quảng cáo, cập nhật nội dung trên website, ứng dụng, phần mềm cho Bên B (sau đây gọi tắt là “Dịch vụ” và/hoặc “Phần mềm”).
 Subject to the terms and conditions of this Contract, Party B hereby agrees to designate Party A is a partner in the provision of technology-related issues including but not limited to items related to designing software, website as requested by Party B, operating, maintaining, managing, developing, advertising, updating contents on website, apps, software for Party B (hereinafter referred to as "Services" and/or "Software").
-
 Tùy thuộc vào nhu cầu và tình hình phát triển của Bên B, vào mỗi thời điểm tương ứng Bên B sẽ gửi đến Bên A những đề xuất cung cấp dịch vụ (“Đề Xuất Dịch Vụ”) cho Phần mềm với hình thức do hai bên đồng thuận. Đề Xuất Dịch Vụ được đính kèm là một phần không tách rời Hợp đồng này.
 Depending on the needs and development situation of Party B, at each corresponding time, Party B will send the request to Party A for service provision ("Service Proposals") for the Software which agreed by the two parties. The attached service proposals are an integral part of this Contract.
-
 Bên A có thể sử dụng nhân viên và/hoặc Bên cung cấp thứ ba có khả năng thiết kế và thực hiện một hoặc một số hạng mục Dịch vụ nêu tại Điều 1.1 trên đây. Bên B sẽ hợp tác với các yêu cầu của Bên A một cách thiện chí về thông tin cần thiết để hoàn thành nhiệm vụ và công việc. 
 Party A may use its employees and/or third party suppliers who have capable of designing and implementing one or more of the Service items mentioned in Article 1.1 above. Party B will cooperate with the requirements of Party A in good faith about the information needed to complete the task and work.
-
 ĐIỀU 2: GIÁ TRỊ HỢP ĐỒNG VÀ THANH TOÁN
 ARTICLE 2: CONTRACT VALUE AND PAYMENT
 Giá trị Hợp đồng là tổng giá trị các hạng mục dịch vụ Bên A cung cấp cho Bên B theo từng thời điểm yêu cầu dịch vụ tương ứng của Bên B.
 The Contract Value is the total value of the service items provided by Party A to Party B according to each time of requesting corresponding service of Party B.
-
 Chi phí Dịch vụ phát sinh/Service fees incurred
 Trong quá trình thực hiện Hợp đồng này, Bên B có thể gửi thông báo cho Bên A để yêu cầu thay đổi, bổ sung về Dịch vụ đã được hai Bên Hợp đồng tại Điều 1 Hợp đồng này. Bất cứ sự thay đổi, bổ sung Dịch vụ nào từ phía Bên B theo Điều này dẫn đến thay đổi các Hợp đồng tại Hợp đồng này bao gồm nhưng không giới hạn thay đổi: phạm vi, nội dung, Chi phí, giá trị Hợp đồng, thời gian, tiến độ thực hiện và hoàn thành Dịch vụ… sẽ được các Bên thỏa thuận trong Phụ lụcvà được đính kèm Hợp đồng này.
 During the implementation of this Contract, Party B may send a notice to Party A requesting a change or addition to the Services mutually agreed upon in Article 1 of this Contract. Any change or addition to the Services by Party B under this Article resulting in changes in the terms of this Contract including but not limited to: scope, content, cost, Contract value, time, progress of implementation and completion of the Services shall be agreed upon by the Parties in the Annexes and attached to this Contract. 
@@ -5336,23 +6375,17 @@ Các Dịch vụ bổ sung sẽ được các Bên Hợp đồng, thống nh�
 Additional services shall be mutually agreed upon to adjust, and subject to the provisions of the Contract, but still meet Party B's requirements. 
 Mọi Chi phí phát sinh cho Dịch vụ thay đổi, bổ sung sẽ được duyệt bởi Bên B và do Bên B chịu trách nhiệm chi trả.
 All fees incurred for the changed, added Services shall be approved and paid by Party B.
-
 Thanh toán/Payment
 Việc thanh toán sẽ tùy thuộc vào hạng mục yêu cầu giữa các Bên cho từng thời điểm tương ứng. Chi tiết tiến độ, giá trị thanh toán và điều kiện thanh toán sẽ do hai Bên thống nhất từng đợt các Hợp đồng thanh toán được đính kèm Hợp đồng này và là một phần không tách rời Hợp đồng này.
 Payment will depend on the item required by the parties for each corresponding time. Details of schedule, payment value and terms of payment will be agreed upon between the parties for each installment. Terms of payment are attached to this Contract and are an integral part of this Contract.
-
 Trường hợp Bên B vi phạm nghĩa vụ thanh toán, Bên B phải chịu thêm lãi suất nợ quá hạn theo quy định của Ngân hàng nhà nước Việt Nam tại thời điểm Bên B vi phạm nghĩa vụ thanh toán cho số tiền chậm trả và số ngày chậm trả.
 In case Party B breaches its payment obligations, Party B shall bear the overdue interest rate in accordance with the regulations of the State Bank of Vietnam at the time when Party B breaches its payment obligations on the amount and the number of days of late payment.
-
 ĐIỀU 3: NGHIỆM THU, VẬN HÀNH VÀ PHÁT TRIỂN DỊCH VỤ
 ARTICLE 3: ACCEPTANCE, OPERATION AND DEVELOPMENT OF SERVICES
-
 Bên B đồng ý chỉ định và ủy quyền cho Bên A là đơn vị phát triển liên tục, không gián đoạn các hạng mục Phần mềm của Bên B trong suốt thời hạn Hợp tác. Bên A theo đó thay mặt Bên B thực hiện thiết kế, vận hành, phát triển theo yêu cầu, đề nghị của Bên B. 
 Party B agrees to designate and authorize Party A to be the continuous, uninterrupted developer of Party B’s Software items during cooperation. Accordingly, Party A performs design, operation and development on behalf of Party B at the request, proposal of Party B. 
-
 Để tránh hiểu lầm, Bên B cam kết là đơn vị chịu trách nhiệm và đảm bảo tuân thủ các điều kiện pháp lý có liên quan trong việc hợp tác này. Bên A theo đây được miễn trừ toàn bộ trách nhiệm pháp lý về nội dung, cách thức tổ chức kinh doanh bao gồm nhưng không giới hạn: (i) điều kiện để Bên B hoạt động kinh doanh, vận hành và phát triển các sản phẩm do Bên A thực hiện theo Hợp đồng này cho Bên B; (ii) điều kiện về hình thức, nội dung, hình ảnh và các tài liệu, thông tin được đăng tải, sử dụng trong quá trình thực hiện, quản lý và vận hành Dịch vụ.
 To avoid misunderstanding, Party B is committed to be the responsible unit and ensuring compliance with the legal conditions involved in this cooperation. Party A hereby is exempt from all liability for the contents and how to organize business including but not limited to: (i) conditions for Party B to conduct business, operate and develop products performed by Party A under this Contract for Party B; (ii) conditions of the form, contents, photos and documents, information posted and used during the implementation, management and operation of the Services.
-
 Nghiệm thu/Acceptance:
 Nhiệm vụ được giao: Bên A đồng ý thực hiện tất cả nhiệm vụ được giao như được quy định trong Hợp đồng này, Đề xuất Dịch vụ, Phụ lục Hợp đồng và cung cấp tất cả sự hỗ trợ và hợp tác cho Bên B để hoàn thành kịp thời hiệu quả công việc và thực hiện mọi yêu cầu thay đổi (nếu có). Bên B có trách nhiệm tự chịu trách nhiệm về chi phí của mình, bất kỳ thay đổi hoặc bổ sung nào đối với hệ thống bao gồm phần mềm và phần cứng, các thông tin, hình ảnh, tài liệu, nội dung được sử dụng, cung cấp cho Dịch vụ.
 Assigned tasks: Party A agrees to perform all assigned tasks as setforth in this Contract, the Service Proposals, the Annexes to the Contract, and provide all assistance and cooperation to Party B to timely and effectively complete the work and to implement any change request (if any). Party B is responsible for its own costs, any changes or additions to the system including software and hardware, information, photos, documents and contents used and provided for the Service.
@@ -5365,11 +6398,9 @@ Sau ngày nhận được thông báo hoàn thành xây dựng Phần mềm, Bê
 Upon the date of receipt of the notice of completion of the software development, Party B shall arrange and determine the time to test and evaluate the Software and determine whether it meets the acceptance criteria in accordance with the procedures outlined in the Specifications attached to the Service Proposals. The acceptance test must be conducted by Party B in accordance with the acceptance test plan.
 Mục đích sử dụng: Bên B cam kết và tự chịu trách nhiệm toàn bộ về việc sử dụng, vận hành Dịch vụ theo quy định của pháp luật.
 Purpose of use: Party B undertakes and assumes full responsibility for the use and operation of the Services in accordance with the law.
-
 Từ chối/Refusal:
 Nếu Bên B từ chối chấp thuận kiểm tra nghiệm thu, việc từ chối đó sẽ được giải thích bằng văn bản. Bên A phải thông báo bằng văn bản cho Bên B khi việc phát triển hoặc sửa chữa đã hoàn thành và Bên B sẽ nhanh chóng tiếp tục kiểm tra nghiệm thu. 
 If Party B refuses to accept the acceptance test, the refusal will be explained in writing. Party A must notify Party B in writing when the development or repair has been completed and Party B will quickly continue to conduct the acceptance test. 
-
 Vận hành, quản lý/Operation and management
 Dịch vụ sẽ được đưa vào hoạt động thường xuyên sau khi kiểm tra nghiệm thu của Bên B đã được hoàn thành và phê duyệt thành công. Bên A sẽ tiếp tục thực hiện phát triển, cập nhật, quảng cáo Dịch vụ theo Đề Xuất Dịch Vụ của Bên B.
 The Services will be put into regular operation after the acceptance test by Party B has been completed and approved successfully. Party A will continue to develop, update, advertise the Services under the Service Proposals of Party B.
@@ -5381,7 +6412,6 @@ Duy trì mối quan hệ hợp tác, thực hiện quản lý, vận hành các 
 To maintain cooperation relationship, implement management and operation of service products and improve features, adjust, change as required by Party B.
 Miễn trừ mọi trách nhiệm liên quan đến việc đầu tư, phát triển, kinh doanh các sản phẩm trước pháp luật và bất kỳ bên thứ ba khác.
 To exempt all liability in connection with the investment, development and business of the products before the law and any other third party.
-
 ĐIỀU 4: QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN
 ARTICLE 4: RIGHTS AND OBLIGATIONS OF THE PARTIES
 Quyền và nghĩa vụ của Bên A/Rights and obligations of Party A
@@ -5391,7 +6421,6 @@ Tuân thủ các quy định về quyền sở hữu trí tuệ và chịu trác
 Comply with the regulations on intellectual property rights and be responsible for settling claims arising due to Party A's fault.
 Bên A sẽ: (a) thực hiện công việc theo Hợp đồng; (b) nỗ lực để chuyển Phần mềm cho Bên B theo thời hạn giao hàng được quy định trong lịch trình thời gian được mô tả trong Đề Xuất Dịch Vụ của Bên B hoặc ngay sau khi có tính thương mại phù hợp với quy định; và (c) chỉ định người quản lý dự án chịu trách nhiệm quản lý các hoạt động hàng ngày, báo cáo, cập nhật nội dung và quảng cáo Phần mềm.
 Party A will: (a) perform the work as agreed; (b) attempt to deliver the Software to Party B within the delivery period set forth in the time schedule as described in the Party B's Service Proposals or immediately after commercialization in accordance with regulations; and (c) designate the project manager responsible for managing day-to-day operations, reporting, updating contents, and advertising the Software.
-
 Bên A chỉ có trách nhiệm cung cấp và thực hiện những dịch vụ chuyên nghiệp được xác định cụ thể trong Đề Xuất Dịch Vụ và Bên A không chịu trách nhiệm về nội dung, sự tuân thủ và sử dụng phần mềm của Bên B theo các luật liên quan.
 Party A is responsible only for providing and performing professional services specifically identified in the Service Proposals and not for the contents, compliance and use of software by Party B according to relevant laws.
 Bên A bảo hành miễn phí và vận hành, quản lý, phát triển dịch vụ trong suốt thời gian Hợp tác. Trong quá trình thực hiện Hợp đồng này và trong thời gian bảo hành, nếu có lỗi phát sinh đối với Dịch vụ thì:
@@ -5402,7 +6431,6 @@ Nếu lỗi được xác định phát sinh từ Bên A và có xác nhận b�
 If the error is identified as arising from Party A and confirmed by Party A, Party A is responsible for correcting the error free of charge. The time for correction depends on the error and is mutually agreed upon, but not exceeding 03 working days from the date of receipt of the notice from Party B.
 Các quyền và nghĩa vụ khác theo quy định của pháp luật.
 Other rights and obligations as prescribed by law.
-
 Quyền và nghĩa vụ của Bên B/Rights and obligations of Party B:
 Cung cấp cho Bên A các công cụ, thông tin, hồ sơ và tài liệu liên quan đến công việc Bên A sẽ thực hiện.
 Provide Party A with tools, information, records and documents related to the work to be performed by Party A.
@@ -5418,15 +6446,12 @@ Nghiệm thu và thanh toán đúng hạn, đầy đủ cho Bên A theo quy đ�
 Carry out acceptance and make payment on time and in full to Party A as specified in this Contract.
 Duyệt các Dịch vụ và Chi phí phát sinh trong việc điều chỉnh, thay đổi các nội dung yêu cầu thực hiện Dịch vụ theo quy định tại Hợp đồng này.
 Approve the Services and Expenses incurred in adjusting or changing the contents required to implement the Services as specified in this Contract.
-
 Đảm bảo tuân thủ và tự chịu trách nhiệm trước cơ quan nhà nước về điều kiện đầu tư, kinh doanh và phát triển các hạng mục Dịch vụ theo Hợp đồng này và đồng ý cam kết miễn trừ toàn bộ trách nhiệm cho Bên A trong mọi trường hợp có phát sinh tranh chấp và hoặc vi phạm nào.
 Be sure to comply with and be solely responsible to state agencies for conditions of investment, business and development of the Service items under this Contract and agree to exempt Party A from all liability in all cases of dispute and/or violation.
 Yêu cầu Bên A báo cáo tiến độ thực hiện Hợp đồng.
 Request Party A to report the implementation progress of the Contract.
 Các quyền và nghĩa vụ khác theo quy định của pháp luật.
 Other rights and obligations as prescribed by law.
-
-
 ĐIỀU 5: QUYỀN SỞ HỮU VÀ BẢO MẬT
 ARTICLE 5: OWNERSHIP AND CONFIDENTIALITY
 Quyền sở hữu/Ownership
@@ -5434,115 +6459,137 @@ Mọi tài sản hữu hình và vô hình, bao gồm nhưng không giới hạn
 All tangible and intangible assets, including but not limited to working tools, documents and information provided by Party B to Party A during the implementation of this Contract and the attached Annexes will always belong to Party B. Except with prior permission of Party B, Party A may not use such assets for any purpose other than for the purpose of performing the work specified in the Contract.
 Bên A cam kết giữ Bên B được miễn thường và vô hại đối với các tranh chấp với bên thứ ba liên quan đến việc thực hiện Hợp đồng này. Bên B không chịu trách nhiệm về các nội dung, thông tin Dịch vụ do Bên A cung cấp, không chịu trách nhiệm khi có tranh chấp, sự cố với Bên thứ ba, hay cơ quan nhà nước có thẩm quyền.
 Party B undertakes to keep Party A indemnified and harmless from and against disputes with third parties relating to the performance of this Contract. Party A is not responsible for the contents and information, sottfware of Party B provided by Party A, for any disputes, incidents with third parties or competent state agencies.
-
 Bảo mật/Confidentiality
 Hai Bên có trách nhiệm và cam kết tuyệt đối bảo mật thông tin có được của nhau trong quá trình triển khai Hợp đồng. Trường hợp cần thiết sẽ ký Hợp đồng bảo mật thông tin. Hai Bên không được sử dụng tài liệu hai Bên trao đổi để trao đổi với bất kỳ tổ chức thứ ba nào nếu không được sự đồng ý của Bên cung cấp tài liệu, trừ trường hợp theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 The two parties have the responsibility and undertake to strictly keep confidential each other's information during the implementation of the Contract. In case of necessity, a Confidentiality Agreement will be signed. The two Parties may not use documents exchanged between themselves for exchange with any third party without the consent of the document provider, except for cases required by competent state agencies.
-
 ĐIỀU 6: PHẠT VI PHẠM, BỒI THƯỜNG
 ARTICLE 6: PENALTY, COMPENSATION
 Trường hợp một Bên vi phạm nghĩa vụ của mình theo Hợp đồng này, Bên bị vi phạm có quyền (nhưng không phải là nghĩa vụ) đơn phương chấm dứt Hợp đồng và yêu cầu Bên vi phạm nộp phạt một khoản tiền tương đương 08% giá trị các hạng mục Dịch vụ bị vi phạm và bồi thường mọi thiệt hại do lỗi của Bên vi phạm gây ra, kể cả việc bồi thường đối với Bên thứ ba (nếu có).
 If a Party breaches its obligations under this Contract, the breached party has the right (but not the obligation) to unilaterally terminate the Contract and request the breaching party to pay a penalty equal to 08% the value of the breached Service items and compensate for any damages caused by the breaching party, including any compensation to the third parties (if any). 
-
 Ngoài các Khoản phạt vi phạm tại Điều này, Bên vi phạm phải có nghĩa vụ bồi thường cho Bên bị vi phạm toàn bộ giá trị thiệt hại bao gồm: thiệt hại thực tế và các tổn thất về uy tín do hành vi trực tiếp hoặc gián tiếp của Bên vi phạm gây ra.
 In addition to the penalties provided for in this Article, the breaching party shall be obliged to compensate the breached party for all damages including actual damages and losses of prestige directly or indirectly caused by the breaching party.
-
 ĐIỀU 7: SỰ KIỆN BẤT KHẢ KHÁNG
 ARTICLE 7: FORCE MAJEURE
 Sự kiện bất khả kháng là các sự kiện xảy ra một cách khách quan không thể lường trước được và không thể ngăn chặn, khắc phục được mặc dù đã áp dụng mọi biện pháp và khả năng cho phép, khiến cho các Bên không thể thực hiện hoặc thực hiện không đúng và đầy đủ nghĩa vụ của mình theo Hợp đồng, bao gồm nhưng không giới hạn ở: Thay đổi về pháp luật, hành động hoặc quyết định của cơ quan nhà nước, thiên tai, dịch bệnh, chiến tranh, hỏa hoạn, đình công, việc ngưng trệ hoặc gián đoạn các phương tiện giao thông hoặc các tiện ích khác như vấn đề khách quan liên quan đến cáp quang hay đường truyền Internet.
 Force Majeure events are events that occur objectively and unpredictably and can not be prevented or overcome even though all measures and possibilities have been applied, causing the Parties not to perform or to perform improperly and fully its obligations under the Contract, including but not limited to: changes in laws, actions or decisions of state agencies, natural disasters, epidemics, wars, fires, strikes, suspension or interruption of means of transport or other utilities such as objective issues related to fiber optic cable or Internet connection.
-
 Khi một Bên bị ảnh hưởng bởi sự kiện bất khả kháng, thì phải thông báo cho Bên kia biết trong thời hạn 24 (hai mươi bốn) giờ kể từ thời điểm xảy ra sự kiện bất khả kháng, nêu rõ căn cứ chứng minh có sự kiện bất khả kháng và các biện pháp mà Bên bị ảnh hưởng đã nỗ lực thực hiện để khắc phục. Thời gian xảy ra sự kiện bất khả kháng sẽ không được tính vào thời hạn thực hiện công việc được các Bên Hợp đồng.
 When a Party is affected by a Force Majeure event, it must notify the other Party within 24 (twenty-four) hours from the occurrence of the Force Majeure event, clearly stating evidence of the force majeure event and measures that the affected Party has attempted to take to overcome. The time of occurrence of the force majeure event shall not be included in the time for performance of work agreed upon by the Parties.
-
 Khi Hợp đồng chấm dứt do sự kiện bất khả kháng, Bên A sẽ được thanh toán tương ứng với công việc, chi phí đã bỏ ra cho việc thực hiện Hợp đồng. Không Bên nào có nghĩa vụ với Bên kia đối với những thiệt hại phát sinh sau khi xảy ra sự kiện bất khả kháng hay liên quan đến việc chấm dứt Hợp đồng này do sự kiện bất khả kháng.
 When the Contract is terminated due to a force majeure event, Party A shall be paid proportionally to the work, expenses incurred for the implementation of the Contract. Neither Party shall be liable to the other Party for damages arising after the occurrence of the force majeure event or in connection with the termination of this Contract due to the force majeure event.
-
 Mọi trường hợp bất khả kháng sẽ không được xem xét nếu sự kiện đó không là nguyên nhân trực tiếp gây ra trở ngại hoặc cản trở Bên bị ảnh hưởng thực hiện các trách nhiệm của mình theo Hợp đồng và Bên bị ảnh hưởng không thông báo cho Bên còn lại trong thời hạn 24 (hai mươi bốn) giờ kể từ thời điểm xảy ra sự kiện bất khả kháng, chưa thực hiện hết sức bằng nỗ lực của mình để làm giảm, hoặc tránh thiệt hại, và khắc phục hậu quả do sự kiện bất khả kháng gây ra. Trường hợp khó khăn đơn thuần về mặt tài chính, nhân sự của các Bên không được xem là sự kiện bất khả kháng theo quy định tại Điều này.
 Any force majeure shall not be considered if the event does not directly prevent the affected party from carrying out its responsibilities under the Contract and the affected party fails to notify the other Party within 24 (twenty-four) hours from the occurrence of the Force Majeure event, fails to make as much effort as possible to reduce or avoid the damages, and remedy the consequences caused by the force majeure event. The financial and personnel difficulties of the Parties shall not be considered as force majeure events as provided for in this Article.
-
 ĐIỀU 8: BẢO ĐẢM VÀ KHUYẾN NGHỊ
 ARTICLE 8: WARRANTIES AND RECOMMENDATIONS
-
 Dịch vụ/Services:
 Dịch vụ được cung cấp theo Hợp đồng này được cung cấp trên cơ sở yêu cầu của Bên B và “nguyên trạng”, không có bất kỳ bảo đảm nào rằng các sản phẩm, hạng mục thuộc Dịch vụ được cung cấp sẽ đáp ứng nhu cầu của Bên B một cách trọn vẹn và/hoặc không xảy ra bất kỳ lỗi trong việc vận hành, phát triển của các hạng mục thuộc Dịch vụ như bị gián đoạn, bị chậm hoặc hình thức lỗi khác liên quan đến kỹ thuật, công nghệ và hệ thống thông tin, truyền thông, tín hiệu được cung cấp bởi bên thứ ba khác. Các loại trừ và tuyên bố từ chối nói trên là một phần thiết yếu của Hợp đồng này và hình thành cơ sở để xác định giá được tính cho Dịch vụ.
 Services provided under this Contract are provided on the basis of the request from Party B and "original", without any warranty that the products or items under the Services provided will meet Party B's demand completely and/or not occur any error in the operation, development of the items under the Services such as interruption, slow down or other forms of error related to technique, technology and information, communication, signal systems provided by other third parties. These exclusions and disclaimers are an essential part of this Contract and constitute the basis for determining the price charged for the Services.
-
 Tiêu chuẩn/Standards
 Bên A đảm bảo công việc sẽ được thực hiện phù hợp với các tiêu chuẩn về Dịch vụ một cách phổ biến theo quy định và sự phát triển hiện hành. Bên B phải thường xuyên kiểm tra, theo dõi và thiết lập một báo cáo về Dịch vụ cho Bên A bằng văn bản để Bên A tiến hành hỗ trợ, bảo hành, chỉnh sửa và cập nhật để duy trì phát triển Dịch vụ theo đúng mong muốn của Bên B. Biện pháp khắc phục đối với việc thực hiện công việc này được thực hiện trong thời gian hợp lý về mặt thương mại nhằm đảm bảo duy trì hoạt động kinh doanh của Bên B. Cam kết này của Bên A thay cho bất kỳ văn bản, đề xuất hoặc tuyên bố bằng miệng khác giữa hai Bên (nếu có).
 Party A ensures that the work will be carried out in accordance with the standards of Service in accordance with current regulations and developments. Party B must regularly check, monitor and set up a report on the Services to Party A in writing for Party A to provide support, warranty, correction and updating in order to maintain the development of the Services according to the wishes of Party B. Remedies for the performance of this work are made in a commercially reasonable time in order to maintain business operations of Party B. This commitment of Party A replaces any other document, proposal or oral statement between the two Parties (if any).
-
 Không vi phạm/Non-breach 
 Bên A bảo đảm Dịch vụ được cung cấp sẽ không vi phạm bất kỳ quyền tác giả, bằng sáng chế, bí mật thương mại hoặc lợi ích sở hữu trí tuệ khác của bất kỳ bên thứ ba nào, trừ các vi phạm về nội dung do Bên B cung cấp theo quy định tại Hợp đồng này. Bên A sẽ bồi thường và giữ cho Bên B vô hại và chống lại tất cả các khiếu nại, tổn thất, và thiệt hại như vậy, bao gồm, nhưng không giới hạn các khoản phí và chi phí của luật sư. Theo sau mọi khiếu nại vi phạm, Bên A phải sửa chữa kịp thời các hạng mục thuộc Dịch vụ bị vi phạm cho Bên B.
 Party A ensures that the Services provided will not infringe any copyright, patent, trade secret or other intellectual property right of any third party, except for infringement of contents provided by Party B under the provisions of this Contract. Party A shall indemnify and hold Party B harmless from and against all such claims, losses and damages, including but not limited to attorneys' fees and expenses. Subsequent to any claim, Party A must timely correct the breached items under the Services for Party B.
-
 ĐIỀU 9: GIỚI HẠN TRÁCH NHIỆM
 ARTICLE 9: LIMITATION OF LIABILITY
 Không Bên nào chịu trách nhiệm với Bên kia về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, hậu quả, đặc biệt, trừng phạt hoặc thiệt hại phát sinh do kết quả hoặc liên quan đến việc thực hiện công việc, bất kể loại khiếu nại và ngay cả khi Bên đó đã được thông báo về khả năng thiệt hại như vậy, chẳng hạn như, nhưng không giới hạn, lợi nhuận bị mất, mất doanh thu hoặc lợi nhuận dự kiến ​​hoặc phá sản. Trong phạm vi được pháp luật cho phép, Bên B sẽ bồi thường và giữ Bên A vô hại trước bất kỳ khiếu nại nào phát sinh từ việc vi phạm Hợp đồng này của Bên B cũng như chi phí hợp lý và phí luật sư phát sinh trong đó.
 Neither Party shall be liable to the other Party for any indirect, incidental, consequential, special, punitive or other damages arising out of or in connection with performance of the work, regardless of the type of claim and even if the Party has been advised of the possibility of such damages, including, but not limited to, loss of profit, loss of revenue or expected profit or bankruptcy. To the extent permitted by law, Party B shall indemnify and hold Party A harmless from and against any claims arising out of the breach of this Contract by Party B as well as reasonable expenses and attorneys' fees incurred therein.
-
 ĐIỀU 10: CÁC ĐIỀU KHOẢN CHUNG
 ARTICLE 10: GENERAL PROVISIONS
 Hợp đồng này có hiệu lực kể từ ngày ký và thay thế mọi Hợp đồng và/hoặc những cam kết trước đó, bằng miệng hoặc bằng văn bản giữa Hai Bên liên quan đến vấn đề nêu trong Hợp đồng.
 This Contract is effective from the date of its signing and supersedes all prior agreements and/or commitments, whether oral or written, between the Parties relating to the subject matter contained in the Contract.
-
 Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
 A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
-
 Hợp đồng hết hiệu lực khi hoàn thành các công việc tại Điều 1 hoặc do các Bên Hợp đồng hoặc theo quy định của pháp luật.
 The Contract shall cease to be effective upon completion of works in Article 1 or as agreed by the Parties or in accordance with the law.
-
 Trong trường hợp một hoặc vài điều khoản/ điều kiện trong Hợp đồng này được hai Bên Hợp đồng hủy bỏ bằng văn bản, hoặc bị vô hiệu, những điều kiện/điều khoản còn lại của Hợp đồng vẫn giữ nguyên giá trị và hiệu lực.
 In the event one or more of the terms and conditions of this Contract are mutually agreed to cancel in writing or are void, the remaining terms and conditions of this Contract shall remain in full force and effect.
-
 Không một Bên nào trong Hợp đồng này được chuyển nhượng hoặc chuyển giao các quyền và nghĩa vụ của mình theo Hợp đồng này nếu không có sự nhất trí trước bằng văn bản của Bên kia.
 Neither Party to this Contract may assign or transfer its rights and obligations under this Contract without the prior written consent of the other Party.
-
 Hợp đồng này được giải thích và điều chỉnh theo Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
 This Contract is interpreted and governed by the laws of the Socialist Republic of Vietnam.
-
 Trong quá trình thực hiện Hợp đồng, các vấn đề phát sinh sẽ được Hai Bên bàn bạc và thống nhất bằng Phụ lục sửa đổi, bổ sung Hợp đồng thông qua người đại diện của các Bên. Phụ lục Hợp đồng có hiệu lực và là một phần không tách rời Hợp đồng này.
 In the course of implementation of the Contract, any amendments and supplements arising shall be discussed and agreed upon by the Parties in the Annexes to the Contract through the representatives of the Parties. The Annexes to the Contract are in effect and are an integral part of this Contract.
-
 Hợp đồng này được lập thành hai (02) bản, có giá trị như nhau, Bên A giữ hai (01) bản, Bên B giữ một (01) bản.
 This Contract is made in two (02) copies with equal legal validity, Party A holds one (01) copy, Party B holds one (01) copy.
-
-
+BÊN A
+PARTY A
+BÊN B
+PARTY B
 SERVICE PROPOSAL
 Proposal content: [PLEASE INSERT]
 Bcash Exchange Platform
 Crypto ATM Machine
 Servers Maintenance and Service Provider Service
 Profit Distribution
-"""
+		1/1"""
 Mau_Hop_dong_phan_phoi_hang_hoa = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
-
-
 HỢP ĐỒNG PHÂN PHỐI
 Số: ………/2023/………………………
-
 Hợp đồng phân phối này (“Hợp đồng”) được lập vào ngày ...... tháng ...... năm........tại ……………….………………………giữa:
-
+	
 BÊN 	A	       : ………………………………………………………………………
+		Giấy ĐKKD
+		:
+		………………. do Sở Kế hoạch và Đầu tư …………….. cấp ngày …………………………………………………………….
+		Địa chỉ
+		:
+			............................................................................................
+		Điện thoại
+		:
+		………………………………………………………………..…
+		Đại diện
+		:
+		..................................     Chức vụ: ......................................
+		Ngân hàng
+		:
+		………………………………………………………………..…
+		Tài khoản
+		:
+		………………………………………………………………..…
 (Sau đây gọi là “Công Ty”)
-
-
 BÊN B: ……………………………………………………………………………………. 
+		Giấy ĐKKD
+		:
+		………………. do Sở Kế hoạch và Đầu tư …………….. cấp ngày …………………………………………………………….
+		Địa chỉ
+		:
+			.......................................................................................................
+			.......................................................................................................
+		Điện thoại
+		:
+		………………………………………………………………..…
+		Đại diện
+		:
+		Ông/Bà .............................  Chức vụ: ...........................................
+		Ngân hàng
+		:
+		………………………………………………………………..…
+		Tài khoản
+		:
+		………………………………………………………………..…
 (Sau đây gọi là “Nhà Phân Phối”)
-
 (Công Ty và Nhà Phân Phối sau đây được gọi chung là “Các Bên” và được gọi riêng là “Bên”)
-
-XÉT RẰNG:
-Công ty ………. là nhà sản xuất các sản phẩm ………………….. có nhu cầu thiết lập mạng lưới các Nhà Phân Phối tại Việt Nam nhằm mục đích mở rộng thị trường thông qua hệ thống khách hàng đa dạng và thương mại hóa sản phẩm.
-Nhà Phân Phối là doanh nghiệp được thành lập theo pháp luật Việt Nam, có đăng ký hoạt động, kinh nghiệm và năng lực phân phối các sản phẩm thực phẩm theo quy định pháp luật và mong muốn trở thành Nhà phân phối các sản phẩm ………………… cho Bên A. 
+	XÉT RẰNG:
+			Công ty ………. là nhà sản xuất các sản phẩm ………………….. có nhu cầu thiết lập mạng lưới các Nhà Phân Phối tại Việt Nam nhằm mục đích mở rộng thị trường thông qua hệ thống khách hàng đa dạng và thương mại hóa sản phẩm.
+			Nhà Phân Phối là doanh nghiệp được thành lập theo pháp luật Việt Nam, có đăng ký hoạt động, kinh nghiệm và năng lực phân phối các sản phẩm thực phẩm theo quy định pháp luật và mong muốn trở thành Nhà phân phối các sản phẩm ………………… cho Bên A. 
 Bằng Hợp Đồng này, Công Ty chỉ định Nhà Phân Phối làm nhà phân phối độc quyền của Công Ty để phân phối và bán các sản phẩm ……………. (như định nghĩa tại Điều 1 Hợp đồng này) tại Khu Vực Phân Phối và Nhà Phân Phối chấp nhận sự chỉ định, bổ nhiệm này cũng với điều kiện và điều khoản nêu tại Hợp đồng này, cụ thể:
-
 ĐIỀU 1. SẢN PHẨM, GIÁ BÁN, KHU VỰC PHÂN PHỐI, MỤC TIÊU DOANH SỐ
 Sản phẩm giao phân phối: bao gồm …………….do Công Ty sản xuất. Trường hợp thay thế sản phẩm hoặc ra mới sản phẩm khác, Công Ty sẽ thông báo chính thức về các dòng sản phẩm cho Nhà Phân Phối trước ít nhất 30 (ba mươi) ngày (sau đây gọi là “Sản Phẩm”).
 Công Ty đảm bảo các Sản Phẩm cung cấp cho Nhà Phân Phối có nguồn gốc xuất xứ hợp pháp, đảm bảo đầy đủ các tiêu chuẩn chất lượng, bao bì đóng gói, vệ sinh an toàn thực phẩm theo quy định pháp luật Việt Nam.
 Gía  bán Sản Phẩm: Là giá bán do Công Ty công bố và được thông báo đến Nhà Phân Phối bằng văn bản. Gía bán tại thời điểm ký Hợp đồng này được quy định như sau và có thể thay đổi nhưng phải được thông báo trước ít nhất 30 (ba mươi) ngày bằng văn bản cho Nhà Phân Phối và việc thay đổi Gía bán không áp dụng với những đơn hàng trước đó.
 Danh mục và giá bán Sản phẩm
+STT
+Sản Phẩm
+Quy cách thùng/hũ
+Giá bán thùng/hũ
+(VND)
+(Chưa VAT)
+(Có VAT)
+1.
+2.
+3.
+4.
 Khu Vực Phân Phối: Nhà Phân Phối được Công Ty giao độc quyền phân phối Sản Phẩm trong phạm vi ……………tỉnh thành ………… bao gồm tỉnh ……………..
 Khu Vực Phân Phối có thể được thay đổi tại từng thời điểm theo đề xuất của Nhà Phân Phối. Công Ty cam kết không tự ý cắt giảm Khu Vực Phân Phối độc quyền của Nhà Phân Phối trong suốt thời hạn Hợp đồng.
 Mục tiêu Doanh số:
@@ -5580,6 +6627,21 @@ Tại Ngân hàng	     : ………………………………………………�
 Chính sách chiết khẩu: 
 Hai Bên thống nhất trong suốt Thời Hạn Hợp Đồng, Nhà Phân Phối sẽ được hưởng mức chiết khẩu là …………..% (ba mươi bảy phần trăm) giá trị Đơn Hàng. Nhà Phân Phối được hưởng mức chiết khấu trực tiếp vào mỗi Gía trị Đơn Hàng.
 Trường hợp Nhà Phân Phối bán hàng vượt doanh số cam kết nêu tại khoản 4 Điều 1, Nhà Phân Phối được thưởng doanh số với mức như sau:
+NĂM
+DOANH SỐ (VND)
+TỈ LỆ ĐẠT/DS
+MỨC THƯỞNG
+01
+Đạt từng năm
+……..%
+…. %
+………%
+…. %
+……….%
+….. %
+02
+…………
+……………
 ĐIỀU 5. GIẢI QUYẾT SẢN PHẨM HƯ HỎNG HOẶC XUỐNG CẤP, QUÁ HẠN SỬ DỤNG VÀ GIẢI QUYẾT KHIẾU NẠI CỦA KHÁCH HÀNG VỀ CHẤT LƯỢNG SẢN PHẨM
 Công Ty sẽ thu hồi Sản Phẩm bị lỗi, hư hỏng, xuống cấp, quá hạn sử dụng và giao lại cho Nhà Phân Phối một số lượng Sản Phẩm mới tương đương hoặc thanh toán lại tiền hàng bị trả tùy theo quyết định của Nhà Phân Phối trong thời hạn không quá 07 (bảy) ngày làm việc kể từ ngày nhận được thông báo của Nhà Phân Phối.
 Trường hợp có phát sinh khiếu nại về chất lượng của Sản Phẩm thì Nhà Phân Phối sẽ gửi mẫu Sản Phẩm và ý kiến của khách hàng về Công ty. Trong thời gian …. ngày kể từ ngày Nhà Phân Phối gửi yêu cầu, Công Ty có trách nhiệm làm việc trực tiếp với người khiếu nại, đưa ra các biện pháp giải quyết hợp lý, thay thế Sản phẩm lỗi bằng Sản phẩm khác.
@@ -5617,8 +6679,8 @@ Công Ty bị thanh lý, phá sản, tích biên tài sản hoặc các tình hu
 Trong các trường hợp này, Nhà Phân Phối được quyền chấm dứt Hợp Đồng ngay lập tức. Công Ty phải chịu bồi thường thiệt hại cho Nhà Phân Phối cũng như thay Nhà Phân Phối chịu các chế tài xử lý có trong thỏa thuận giữa Nhà Phân Phối và các đối tác.
 Các quyền và nghĩa vụ khác theo quy định tại Hợp Đồng này và theo pháp luật.
 ĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG
-Sự kiện bất khả kháng là sự kiện xảy ra mang tính khách quan không thể lường trước được, nằm ngoài tầm kiểm soát của một (Các) Bên và ngăn cản một (Các) Bên thực hiện nghĩa vụ theo Hợp Đồng mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép, bao gồm nhưng không giới hạn: chiến tranh, thiên tai, bạo động, hỏa hoạn, dịch bệnh, tình trạng khẩn cấp hoặc các sự kiện khác theo lệnh cấm hoặc quyết định của cơ quan nhà nước có thẩm quyền (gọi chung là “Sự Kiện Bất Khả Kháng”). Sự thiếu hụt về tài chính, lâm vào tình trạng mất khả năng thanh toán, tạm ngừng/ngừng kinh doanh, giải thể hay phá sản doanh nghiệp không được coi là Sự Kiện Bất Khả Kháng. 
-Khi xảy ra Sự Kiện Bất Khả Kháng, Bên bị ảnh hưởng phải có nghĩa vụ:
+	Sự kiện bất khả kháng là sự kiện xảy ra mang tính khách quan không thể lường trước được, nằm ngoài tầm kiểm soát của một (Các) Bên và ngăn cản một (Các) Bên thực hiện nghĩa vụ theo Hợp Đồng mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép, bao gồm nhưng không giới hạn: chiến tranh, thiên tai, bạo động, hỏa hoạn, dịch bệnh, tình trạng khẩn cấp hoặc các sự kiện khác theo lệnh cấm hoặc quyết định của cơ quan nhà nước có thẩm quyền (gọi chung là “Sự Kiện Bất Khả Kháng”). Sự thiếu hụt về tài chính, lâm vào tình trạng mất khả năng thanh toán, tạm ngừng/ngừng kinh doanh, giải thể hay phá sản doanh nghiệp không được coi là Sự Kiện Bất Khả Kháng. 
+	Khi xảy ra Sự Kiện Bất Khả Kháng, Bên bị ảnh hưởng phải có nghĩa vụ:
 tiến hành các biện pháp ngăn ngừa hợp lý và các biện pháp cần thiết để hạn chế tối đa các ảnh hưởng do Sự Kiện Bất Khả Kháng gây ra; và
 thông báo bằng văn bản cho Bên còn lại trong vòng 7 (bảy) ngày sau khi Bên đó biết được tình trạng về sự việc hoặc trường hợp gây nên tình trạng bất khả kháng và phải nêu rõ các nghĩa vụ, công việc đã và/hoặc sẽ bị cản trở do Sự Kiện Bất Khả Kháng.
 Sau khi đã thông báo, Bên bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng sẽ được tạm ngừng thực hiện (các) nghĩa vụ bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng trong thời gian mà Sự Kiện Bất Khả Kháng cản trở việc thực hiện (các) nghĩa vụ đó. Thời gian thực hiện nghĩa vụ bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng sẽ được kéo dài bằng thời gian diễn ra Sự Kiện Bất Khả Kháng và Bên bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng có nghĩa vụ cung cấp tài liệu chứng minh việc bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng. Thời gian kéo dài để thực hiện nghĩa vụ bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng sẽ được Các Bên cùng nhau xác nhận bằng văn bản.
@@ -5629,37 +6691,30 @@ Trong trường hợp một Bên vi phạm việc bảo mật thông tin theo th
 ĐIỀU 10. GIAO NHẬN THÔNG TIN
 Mọi thông báo, yêu cầu, khiếu nại hoặc thư từ giao dịch mà một Bên gửi cho Bên còn lại theo Hợp Đồng này và/hoặc để thảo luận các nội dung liên quan đến Hợp Đồng (“Thông Báo”) phải được lập thành văn bản và gửi đến Bên còn lại như địa chỉ liên hệ và/hoặc địa chỉ thư điện tử (email) đã nêu ở phần đầu Hợp Đồng hoặc tại văn bản thông báo của mỗi Bên (“Địa Chỉ Liên Lạc”). Mỗi Bên phải thông báo ngay cho Bên còn lại sự thay đổi Địa Chỉ Liên Lạc (nếu có) để được loại trừ lỗi trong trường hợp không nhận được Thông Báo.
 Mọi Thông Báo mà một Bên gửi cho Bên còn lại theo Địa Chỉ Liên Lạc quy định trong Hợp Đồng này được xem là Bên còn lại nhận được:
-Vào ngày gửi trong trường hợp thư giao tận tay có ký biên nhận; hoặc
-Vào ngày người gửi nhận được báo chuyển fax, email thành công trong trường hợp gửi bằng fax, email; hoặc
-Vào ngày thứ hai kể từ ngày đóng dấu bưu điện trong trường hợp thư chuyển phát nhanh hoặc thư bảo đảm (có hồi báo).
+	Vào ngày gửi trong trường hợp thư giao tận tay có ký biên nhận; hoặc
+	Vào ngày người gửi nhận được báo chuyển fax, email thành công trong trường hợp gửi bằng fax, email; hoặc
+	Vào ngày thứ hai kể từ ngày đóng dấu bưu điện trong trường hợp thư chuyển phát nhanh hoặc thư bảo đảm (có hồi báo).
 ĐIỀU 11. GIẢI QUYẾT TRANH CHẤP
 	Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
-
 ĐIỀU 12. ĐIỀU KHOẢN CHUNG
-Hợp đồng được giải thích và điều chỉnh bởi pháp luật Việt Nam.
-Các Bên cam kết thực hiện đúng các điều khoản và điều kiện đã được quy định trong Hợp Đồng này và các Phụ Lục kèm theo. Trong quá trình thực hiện, nếu có gì bổ sung hoặc thay đổi, Các Bên sẽ tiến hành đàm phán, thương lượng để ký kết các văn bản điều chỉnh, bổ sung hoặc ký lại hợp đồng mới.
-Mỗi bên không được chuyển giao, chuyển nhượng quyền và nghĩa vụ của mình theo Hợp Đồng này cho bất kỳ bên nào khác mà không có sự đồng ý bằng văn bản của bên còn lại.
-Trừ trường hợp được quy định trong Hợp Đồng này, Hợp Đồng này bao gồm toàn bộ thỏa thuận giữa Các Bên đối với các nội dung của Hợp Đồng và sẽ thay thế cho tất cả các hợp đồng hoặc thỏa thuận trước đây giữa Các Bên, bằng lời nói hoặc bằng văn bản.
-Mỗi điều khoản và từng phần của Hợp Đồng này có giá trị tách rời và độc lập với những điều khoản khác. Nếu bất kỳ điều khoản nào bị vô hiệu, vi phạm pháp luật hoặc không thể thi hành theo quy định của luật, thì giá trị pháp lý, tính hợp pháp, và giá trị thi hành của các điều khoản còn lại sẽ không vì thế mà bị ảnh hưởng. Trong phạm vi luật cho phép, Các Bên trong Hợp Đồng này qua đây từ bỏ việc áp dụng bất kỳ quy định nào của luật mà làm cho bất kỳ điều khoản nào của Hợp Đồng này bị cấm thực hiện hoặc không thể thi hành tại bất kỳ phương diện nào.
-Hợp Đồng này được ký thành 04 (bốn) bản tiếng Việt có giá trị pháp lý như nhau. Mỗi bên giữ 02 (hai) bản để cùng thực hiện. Hợp đồng có hiệu lực kể từ ngày ký. 
+	Hợp đồng được giải thích và điều chỉnh bởi pháp luật Việt Nam.
+	Các Bên cam kết thực hiện đúng các điều khoản và điều kiện đã được quy định trong Hợp Đồng này và các Phụ Lục kèm theo. Trong quá trình thực hiện, nếu có gì bổ sung hoặc thay đổi, Các Bên sẽ tiến hành đàm phán, thương lượng để ký kết các văn bản điều chỉnh, bổ sung hoặc ký lại hợp đồng mới.
+	Mỗi bên không được chuyển giao, chuyển nhượng quyền và nghĩa vụ của mình theo Hợp Đồng này cho bất kỳ bên nào khác mà không có sự đồng ý bằng văn bản của bên còn lại.
+	Trừ trường hợp được quy định trong Hợp Đồng này, Hợp Đồng này bao gồm toàn bộ thỏa thuận giữa Các Bên đối với các nội dung của Hợp Đồng và sẽ thay thế cho tất cả các hợp đồng hoặc thỏa thuận trước đây giữa Các Bên, bằng lời nói hoặc bằng văn bản.
+	Mỗi điều khoản và từng phần của Hợp Đồng này có giá trị tách rời và độc lập với những điều khoản khác. Nếu bất kỳ điều khoản nào bị vô hiệu, vi phạm pháp luật hoặc không thể thi hành theo quy định của luật, thì giá trị pháp lý, tính hợp pháp, và giá trị thi hành của các điều khoản còn lại sẽ không vì thế mà bị ảnh hưởng. Trong phạm vi luật cho phép, Các Bên trong Hợp Đồng này qua đây từ bỏ việc áp dụng bất kỳ quy định nào của luật mà làm cho bất kỳ điều khoản nào của Hợp Đồng này bị cấm thực hiện hoặc không thể thi hành tại bất kỳ phương diện nào.
+	Hợp Đồng này được ký thành 04 (bốn) bản tiếng Việt có giá trị pháp lý như nhau. Mỗi bên giữ 02 (hai) bản để cùng thực hiện. Hợp đồng có hiệu lực kể từ ngày ký. 
 	CÁC THỎA THUẬN KHÁC (Nếu có)
 	...................................................................................... 
-
-             ĐẠI DIỆN NHÀ PHÂN PHỐI	ĐẠI DIỆN CÔNG TY
-   (Ký tên, đóng dấu & ghi rõ họ tên)	 (Ký tên, đóng dấu & ghi rõ họ tên)
-
-
- """
+	
+		             ĐẠI DIỆN NHÀ PHÂN PHỐI	ĐẠI DIỆN CÔNG TY
+		   (Ký tên, đóng dấu & ghi rõ họ tên)	 (Ký tên, đóng dấu & ghi rõ họ tên)"""
 Mau_Hop_dong_san_xuat_phan_mem = """CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
-
-
 HỢP ĐỒNG DỊCH VỤ SẢN XUẤT PHẦN MỀM
 Số: _____
-
 Hợp Đồng Dịch Vụ Sản Xuất Phần Mềm này (“Hợp Đồng”) được lập và có hiệu lực từ ngày __ tháng __ năm 20__ bởi Các Bên dưới đây:
 CÔNG TY	: …………….	
-Mã số thuế	: …………….		
+					Mã số thuế	: …………….		
 Địa chỉ		: …………….
 Đại diện bởi	: Ông …………….		 Chức vụ: Giám Đốc 
 Điện thoại	: _________________ 	 Email: ______________________	    
@@ -5671,7 +6726,6 @@ Mã số thuế	: ___________________________
 Đại diện bởi	: Ông/Bà __________________ Chức vụ: __________________
 Điện thoại	: _________________________ Email: _____________________   
 Số tài khoản	: _________________________ Tại Ngân hàng: ____________________	
-
 KHÁCH HÀNG và CÔNG TY khi gọi riêng là “Bên” và gọi chung là “Các Bên”
 Các Bên thống nhất các điều kiện và điều khoản của Hợp Đồng như sau:
 PHẠM VI DỊCH VỤ VÀ PHÍ DỊCH VỤ
@@ -5697,19 +6751,18 @@ Lập trình, viết mã lệnh, bao gồm một trong những tác nghiệp nh�
 Kiểm tra, thử nghiệm phần mềm, bao gồm một trong những tác nghiệp như: xây dựng các kịch bản kiểm tra, thử nghiệm các đơn vị, mô đun phần mềm; thử nghiệm phần mềm; kiểm thử hệ thống phần mềm; kiểm thử chức năng phần mềm; thẩm định chất lượng phần mềm; đánh giá khả năng gây lỗi; xác định thỏa mãn yêu cầu khách hàng; nghiệm thu phần mềm.
 Hoàn thiện, đóng gói phần mềm, bao gồm một trong những tác nghiệp như: xây dựng tài liệu mô tả phần mềm, tài liệu hướng dẫn cài đặt, sử dụng phần mềm; đóng gói phần mềm; đăng ký mẫu mã; đăng ký quyền sở hữu trí tuệ.
 Cài đặt, chuyển giao, hướng dẫn sử dụng, bảo trì, bảo hành phần mềm, bao gồm một trong những tác nghiệp như: hướng dẫn cài đặt phần mềm; triển khai cài đặt phần mềm; đào tạo, hướng dẫn người sử dụng; kiểm tra phần mềm sau khi bàn giao; sửa lỗi phần mềm sau bàn giao; hỗ trợ sau bàn giao, bảo hành phần mềm (nếu có); bảo trì phần mềm.
-
 ĐIỀU KHOẢN THANH TOÁN
 Thanh toán được thực hiện thành 03 Đợt, cụ thể như sau:
 Đợt 1: Khách Hàng thanh toán cho Công Ty 50% tổng giá trị Hợp Đồng như quy định tại Phụ lục A – Phạm vi Dịch vụ và Phí Dịch vụ trong thời hạn 03 (ba) ngày kể từ ngày ký Hợp Đồng này.
 Đợt 2: Khách Hàng thanh toán cho Công Ty 30% tổng giá trị Hợp Đồng như quy định tại Phụ lục A – Phạm vi Dịch vụ và Phí Dịch vụ trong thời hạn 03 (ba) ngày tính từ ngày tiếp theo của ngày Các Bên ký kết Phụ lục B – Bản Thiết Kế. 
 Đợt 3: Khách Hàng thanh toán cho Công Ty giá trị còn lại của tổng giá trị Hợp Đồng và các chi phí phát sinh thêm (chi phí này đã được Các Bên xác nhận trước đó) trong thời hạn 03 (ba) ngày kể từ ngày kế tiếp ngày xảy ra một trong các sự kiện sau: (a) Các Bên ký kết Phụ lục C - Biên Bản nghiệm thu và bàn giao hoặc (b) Xảy ra sự kiện được quy định tại Khoản ii.3 Điều 3.6 Hợp Đồng này.
 Công Ty sẽ xuất hóa đơn Giá trị gia tăng cho Khách Hàng trong vòng 03 (ba) ngày, kể từ ngày nhận được khoản thanh toán của Khách Hàng.
-Khách Hàng thanh toán cho Công Ty bằng tiền mặt hoặc chuyển khoản theo thông tin nêu ở phần đầu của Hợp Đồng này.
-Đồng tiền thanh toán: Việt Nam Đồng
-
+	Khách Hàng thanh toán cho Công Ty bằng tiền mặt hoặc chuyển khoản theo thông tin nêu ở phần đầu của Hợp Đồng này.
+	Đồng tiền thanh toán: Việt Nam Đồng
+	
 TIẾN ĐỘ THỰC HIỆN HỢP ĐỒNG 	
 Thời hạn để thực hiện Hợp Đồng là ___ ngày (bằng chữ: __________________________) kể từ ngày Công Ty nhận được khoản thanh toán Đợt 1 từ Khách Hàng. 
-Thời hạn thực hiện Dịch vụ của Công Ty tại Điều 3.1 ở trên sẽ tính theo thời gian Công Ty làm việc thực tế, nghĩa là không bao gồm thời gian Công Ty không thể thực hiện Dịch vụ do chờ thông tin/phản hồi/thanh toán/xét duyệt từ Khách Hàng. Công Ty sẽ được miễn trừ mọi trách nhiệm đối với Khách Hàng/Bất kỳ Bên thứ ba nào khác do sự chậm trễ của Khách Hàng trong việc cung cấp thông tin/phản hồi/thanh toán/xét duyệt.
+	Thời hạn thực hiện Dịch vụ của Công Ty tại Điều 3.1 ở trên sẽ tính theo thời gian Công Ty làm việc thực tế, nghĩa là không bao gồm thời gian Công Ty không thể thực hiện Dịch vụ do chờ thông tin/phản hồi/thanh toán/xét duyệt từ Khách Hàng. Công Ty sẽ được miễn trừ mọi trách nhiệm đối với Khách Hàng/Bất kỳ Bên thứ ba nào khác do sự chậm trễ của Khách Hàng trong việc cung cấp thông tin/phản hồi/thanh toán/xét duyệt.
 Khách Hàng tiến hành cung cấp các thông tin, tài liệu, các ý tưởng, sáng kiến, mô tả Sản phẩm mong muốn tại và gửi đến Công Ty theo nội dung và thời hạn được Công Ty yêu cầu;
 Công Ty tiến hành thiết kế và gửi đến Khách Hàng. Và,
 Ngay sau khi nhận được Bản thiết kế, Khách Hàng và Công Ty sẽ tiến hành xem xét bản thiết kế và điều chỉnh thống nhất. Khách Hàng có tối đa 02 (hai) lần được điều chỉnh Bản thiết kế, mỗi lần xem xét, điều chỉnh Bản thiết kế thực hiện trong thời hạn 05 (năm) ngày, kể từ ngày Khách Hàng nhận được Bản thiết kế;
@@ -5735,13 +6788,11 @@ Khi nhận được thông báo đề nghị bảo hành từ Khách Hàng, Côn
 Trong trường hợp sau 02 (hai) lần sửa chữa mà Sản phẩm vẫn còn tình trạng hư hỏng tại phần được sửa chữa, Khách Hàng có quyền yêu cầu Công Ty thay thế phần được sửa chữa đó.
 Công Ty được miễn nghĩa vụ bảo hành nếu các sai sót được xác định do lỗi Khách Hàng (bao gồm những người quản lý, nhân viên, người làm công của Khách Hàng) đã tự mình can thiệp hoặc để cho Bên thứ ba khác can thiệp vào mã nguồn làm thay đổi cấu trúc mã nguồn trước đó. Trường hợp này, Công Ty sẽ đề xuất một gói Dịch vụ phù hợp để Khách Hàng lựa chọn và sử dụng nếu có nhu cầu.
 Trong mọi trường hợp, trách nhiệm bảo hành của Công Ty sẽ được đảm bảo không vượt giá trị gói Sản phẩm mà Khách Hàng sử dụng. 
-
 QUYỀN SỞ HỮU TRÍ TUỆ
 Công Ty cam kết tất cả Sản phẩm, tài liệu do mình thực hiện cũng như việc sử dụng bản quyền chương trình phần mềm, phần cứng trong quá trình thực hiện công việc của Công Ty là không xâm phạm bất kỳ quyền sở hữu trí tuệ của bên thứ ba nào khác.
 Trong và sau thời hạn Hợp Đồng này, Công Ty miễn trừ cho Khách Hàng cũng như mọi nhân viên, quản lý, đối tác của Khách Hàng trước bất kỳ cáo buộc, khiếu nại nào liên quan đến bản quyền (các) Sản phẩm mà Công Ty thực hiện. Công Ty chịu trách nhiệm, đối chất giải thích (nếu có) và giải quyết tất cả khiếu nại/tranh chấp/yêu cầu bồi thường từ Bên thứ ba liên quan đến bản quyền của Sản phẩm.
 Trong và sau thời hạn Hợp Đồng này, Khách Hàng miễn trừ cho Công Ty cũng như mọi nhân viên, quản lý, đối tác của Công Ty trước bất kỳ cáo buộc, khiếu nại nào liên quan đến việc sử dụng Sản phẩm. Công Ty sẽ không chịu trách nhiệm khi Sản phẩm bị tin tặc tấn công, lấy mất dữ liệu hoặc các sự cố khác phát sinh sau thời điểm bàn giao Sản phẩm mà không phải do lỗi của Công Ty. Khách Hàng chịu trách nhiệm, đối chất giải thích (nếu có) và giải quyết tất cả khiếu nại/tranh chấp/yêu cầu bồi thường từ Bên thứ ba liên quan đến việc sử dụng Sản phẩm. 
 Không phụ thuộc vào mức độ hoàn thiện Sản phẩm, Công Ty sẽ chuyển quyền quyền sở hữu (các) Sản phẩm mà Công Ty đang thực hiện cho Khách Hàng tương ứng với mức độ hoàn thiện (các) Sản phẩm theo quy định Hợp Đồng này. Công Ty sẽ giữ quyền sở hữu và bảo lưu quyền thu hồi đối với (các) Sản phẩm đã bàn giao cho tới khi Công Ty nhận được đầy đủ Giá trị Hợp Đồng tại Điều 2 của Hợp Đồng và Phụ lục A – Phạm vi Dịch vụ và Phí Dịch vụ và các khoản tiền khác mà Khách Hàng có nghĩa vụ thanh toán cho Công Ty theo Hợp Đồng này.
-
 QUYỀN LỢI VÀ TRÁCH NHIỆM CỦA CÁC BÊN
 Quyền lợi và trách nhiệm của Khách Hàng
 Có quyền sở hữu Sản phẩm theo các quy định tại Hợp Đồng này;
@@ -5767,7 +6818,6 @@ Nhanh chóng giải quyết các khiếu nại của Khách Hàng về chất l�
 Chấm dứt Hợp Đồng theo quy định tại Điều 6 Hợp Đồng này;
 Được quyền sử dụng Sản phẩm cho mục đích showcase;
 Các quyền và nghĩa vụ khác theo quy định Hợp Đồng, Phụ lục Hợp Đồng và pháp luật.
-
 CHẤM DỨT VÀ PHẠT VI PHẠM HỢP ĐỒNG
 Hợp Đồng chấm dứt trong các trường hợp sau:
 Khi Dịch vụ được hoàn thành theo các điều kiện tại Hợp Đồng này;
@@ -5779,7 +6829,6 @@ Một Bên bị thu hồi giấy phép hoạt động/bị phá sản/vỡ nợ 
 Trong trường hợp Hợp Đồng chấm dứt theo quy định tại điểm i, điểm ii và điểm iv Điều 6.1 trên đây, trong vòng 03 (ba) ngày kể từ ngày chấm dứt Hợp Đồng, Các Bên sẽ cùng nhau quyết toán và thanh lý Hợp Đồng.
 Trường hợp Hợp Đồng chấm dứt theo điểm iii Điều 6.1 Hợp Đồng này, Hợp Đồng chấm dứt kể từ thời điểm bên kia nhận được thông báo chấm dứt. Các Bên không phải thực hiện nghĩa vụ, trừ các nghĩa vụ được quy định tương ứng tại điểm iii.1 và iii.2 Điều 6.1 Hợp Đồng. Bên vi phạm hoàn thành các nghĩa vụ này trong thời hạn 10 (mười) ngày kể từ ngày nhận được yêu cầu của Bên bị vi phạm.
 Mọi trường hợp chấm dứt Hợp Đồng mà không đúng với quy định tại Hợp Đồng này được coi là vi phạm Hợp Đồng và phải gánh chịu hậu quả được quy định tại Điều 7 Hợp Đồng.
-
 PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
 Khi một Bên không thể khắc phục các vi phạm của mình trong vòng 05 (năm) ngày làm việc kể từ ngày nhận được thông báo vi phạm của Bên kia thì Bên bị vi phạm có quyền yêu cầu Bên vi phạm trả một khoản tiền phạt cho sự vi phạm này. Tuy nhiên, tổng mức phạt không được vượt quá 8%/1 lần vi phạm.
 Trường hợp hành vi vi phạm nghĩa vụ trong Hợp Đồng mà gây ra thiệt hại thì Bên bị vi phạm có quyền yêu cầu Bên vi phạm bồi thường thiệt hại thực tế gây ra trên cơ sở:
@@ -5789,8 +6838,8 @@ Phải có muối quan hệ nhân quả giữa hành vi vi phạm và thiệt h�
 Hành vi vi phạm phải là hành vi vi phạm nghĩa vụ Hợp Đồng.
 Trường hợp không hoặc khó xác định được thiệt hại thực tế phát sinh thì mức bồi thường tối đa mà Bên vi phạm phải bồi thường cho Bên bị vi phạm không vượt quá 100% giá trị Hợp Đồng.
 Trừ trường hợp có sự quy định khác đi trong Hợp Đồng này, việc thực hiện trách nhiệm phạt vi phạm và bồi thường thiệt hại được thực hiện trên nguyên tắc toàn bộ, nhanh chóng và kịp thời trong thời hạn 10 (mười) ngày kể từ ngày nhận được yêu cầu của Bên bị vi phạm. 
-Trường hợp Khách Hàng chậm thanh toán, Công Ty có quyền (a) áp dụng mức lãi chậm thanh toán là 0.05%/ngày tương ứng với thời gian và số tiền chậm thanh toán và (b) kéo dài thời hạn thực hiện Dịch vụ tương ứng với thời gian Khách Hàng chậm thanh toán. Nếu Khách Hàng chậm thanh toán quá 20 (hai mươi) ngày kể từ ngày đến hạn thanh toán, Công Ty có thể tùy vào quyết định của mình tạm ngừng thực hiện Hợp Đồng và/hoặc Đình chỉ thực hiện Hợp Đồng bằng cách gửi thông báo cho Khách Hàng trước 03 (ba) ngày làm việc kể từ ngày dự kiến chấm dứt mà không phải chịu bất kỳ nghĩa vụ nào với Khách Hàng hoặc Bên thứ ba khác có thể bị ảnh hưởng bởi quyết định trên của Công Ty. Theo đó, Khách Hàng phải thanh toán cho Công Ty toàn bộ các chi phí tương ứng với công việc mà Công Ty đã thực hiện, các khoản lãi chậm trả (nếu có) và bồi thường thiệt hại cho Công Ty (nếu có).
-
+	Trường hợp Khách Hàng chậm thanh toán, Công Ty có quyền (a) áp dụng mức lãi chậm thanh toán là 0.05%/ngày tương ứng với thời gian và số tiền chậm thanh toán và (b) kéo dài thời hạn thực hiện Dịch vụ tương ứng với thời gian Khách Hàng chậm thanh toán. Nếu Khách Hàng chậm thanh toán quá 20 (hai mươi) ngày kể từ ngày đến hạn thanh toán, Công Ty có thể tùy vào quyết định của mình tạm ngừng thực hiện Hợp Đồng và/hoặc Đình chỉ thực hiện Hợp Đồng bằng cách gửi thông báo cho Khách Hàng trước 03 (ba) ngày làm việc kể từ ngày dự kiến chấm dứt mà không phải chịu bất kỳ nghĩa vụ nào với Khách Hàng hoặc Bên thứ ba khác có thể bị ảnh hưởng bởi quyết định trên của Công Ty. Theo đó, Khách Hàng phải thanh toán cho Công Ty toàn bộ các chi phí tương ứng với công việc mà Công Ty đã thực hiện, các khoản lãi chậm trả (nếu có) và bồi thường thiệt hại cho Công Ty (nếu có).
+	
 ĐIỀU KHOẢN CHUNG
 Các Bên cam kết rằng Các Bên đáp ứng đủ các yêu cầu theo quy định của pháp luật Việt Nam để ký kết, thực hiện Hợp Đồng này mà không vi phạm bất kỳ quy định nào của pháp luật hiện hành. 
 Mọi thông báo từ một bên gửi cho bên còn lại phải được gửi đến các địa chỉ tại phần đầu Hợp Đồng trừ trường hợp Các Bên có thỏa thuận khác. Mọi sửa đổi trong các địa chỉ trên sẽ có hiệu lực khi Bên kia nhận được thông báo bằng văn bản từ Bên sửa đổi.
@@ -5808,9 +6857,13 @@ Mọi tranh chấp phát sinh từ Hợp đồng này sẽ được giải quy�
 Nếu có điều khoản trong Hợp Đồng bị cơ quan Nhà nước có thẩm quyền xác định là vô hiệu/không có giá trị pháp lý/không có hiệu lực áp dụng, các điều khoản còn lại của Hợp Đồng cũng sẽ không bị ảnh hưởng về mặt hiệu lực. Các Bên sẽ thỏa thuận để sửa đổi điều khoản bị xác định là vô hiệu/không có giá trị pháp lý/không có hiệu lực áp dụng đó cho phù hợp với ý chí Các Bên và quy định pháp luật trong thời gian sớm nhất. Các Bên sẽ tiếp tục và không làm gián đoạn việc thực hiện các điều khoản, quy định khác vẫn đang có giá trị của Hợp Đồng.
 Mọi sự thay đổi, bổ sung liên quan đến Hợp Đồng này thì phải được Các Bên ký kết bằng văn bản Phụ lục. Khi Các Bên ký kết Phụ lục Hợp Đồng thì nội dung của (các) Phụ lục Hợp Đồng đó cũng có giá trị như các nội dung của bản Hợp Đồng này và theo đó, Điều 1.2 của Hợp Đồng sẽ tự động được điều chỉnh để ghi nhận thêm và/hoặc xóa bỏ bộ phận cấu thành Hợp Đồng.
 Hợp Đồng này lập thành 02 (hai) bản có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản để thực hiện.
-
 Để làm bằng chứng, mỗi Bên thông qua đại diện hợp pháp của mình đã đọc, hiểu đầy đủ về các nội dung trong Hợp Đồng và tự nguyện ký tên dưới đây.
-
+KHÁCH HÀNG
+(Ký tên, đóng dấu )
+____________________
+CÔNG TY
+(Ký tên, đóng dấu)
+…………….	
 PHỤ LỤC A. PHẠM VI DỊCH VỤ VÀ PHÍ DỊCH VỤ
 (Đính kèm Hợp Đồng Dịch Vụ Sản Xuất Phần Mềm số ____)
 Phụ lục này được lập và có hiệu lực từ ngày __ tháng __ năm 20__ bởi Các Bên dưới đây:
@@ -5827,16 +6880,26 @@ Mã số thuế	: ___________________________
 Số tài khoản	: _________________________ Tại Ngân hàng: ____________________
 Tổng Giá trị Hợp đồng: ___________________ VNĐ (Bằng chữ: ________________ Việt Nam Đồng). 
 Gói dịch vụ và phí dịch vụ: 
+STT
+Gói Dịch vụ
+Đơn giá (VNĐ)
+Thành tiền (VNĐ)
+	
+	
 Các lưu ý:
 Đơn giá trên đã/chưa bao gồm các khoản phí, lệ phí khác liên quan đến việc thực hiện Dịch vụ theo quy định.
 Dịch vụ do Công Ty cung cấp thuộc đối tượng không chịu thuế GTGT.
 Phụ lục này là một phần không thể tách rời Hợp Đồng và là bộ phận cấu thành của Hợp Đồng.
 Phụ lục này được lập thành 02 (hai) bản có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản.
-
+KHÁCH HÀNG
+(Ký tên, đóng dấu)
+___________________
+CÔNG TY
+(Ký tên, đóng dấu)
+___________________
 PHỤ LỤC B. BẢN THIẾT KẾ
 (Đính kèm Hợp Đồng Dịch Vụ Sản Xuất Phần Mềm số _____)
 Phụ lục này được lập và có hiệu lực từ ngày __ tháng __ năm 20__ bởi Các Bên dưới đây:
-
 CÔNG TY	: …………….	
 Mã số thuế	: …………….	
 Địa chỉ		: …………….	
@@ -5854,10 +6917,14 @@ Thống nhất sẽ thực hiện Dịch vụ tại Hợp đồng theo Bản Thi
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Phụ lục này là một phần không thể tách rời của Hợp đồng và có hiệu lực như Hợp đồng.
 Phụ lục này được lập thành 02 (hai) bản có giá trị pháp lý ngang nhau, mỗi bên giữa 01 (một) bản.
-
-PHỤ LỤC C. BIÊN BẢN NGHIỆM THU VÀ BÀN GIAO
+KHÁCH HÀNG
+(Ký tên, đóng dấu)
+___________________
+CÔNG TY
+(Ký tên, đóng dấu)
+___________________
+		PHỤ LỤC C. BIÊN BẢN NGHIỆM THU VÀ BÀN GIAO
 (Đính kèm Hợp Đồng Dịch Vụ Sản Xuất Phần Mềm số _____)
-
 MỤC I – BÀN GIAO SẢN PHẨM
 Thời gian và địa điểm bàn giao:
 Thời gian: _____________
@@ -5878,8 +6945,12 @@ Sản phẩm đã hoàn thành 100% và sẵn sàng để đưa vào vận hành
 …………………………
 …………………………
 ………………………..
-
-
+KHÁCH HÀNG
+(Ký tên, đóng dấu)
+___________________
+CÔNG TY
+(Ký tên, đóng dấu)
+___________________
 MỤC II – NGHIỆM THU SẢN PHẨM
 Thời gian và địa điểm nghiệm thu:
 Thời gian: _____________
@@ -5902,7 +6973,15 @@ Sản phẩm vận hành tốt và không có sự cố, lỗi xảy ra;
 ………………………..
 Kết luận: ĐẠT/KHÔNG ĐẠT (Cần khắc phục)
 Kể từ ngày ký Biên bản nghiệm thu này và có kết luận Đạt, Công Ty được xem là đã hoàn thành nghĩa vụ trong Hợp đồng và theo đó, Khách Hàng có trách nhiệm hoàn thành việc thanh toán trong thời hạn mà Hợp đồng quy định.
-"""
+KHÁCH HÀNG
+(Ký tên, đóng dấu)
+___________________
+CÔNG TY
+(Ký tên, đóng dấu)
+___________________
+						Trang 1/12
+		
+		Trang 12/13"""
 Mau_Hop_dong_thiet_ke_cung_cap_thiet_bi_cong_nghe_va_thi_cong_xay_dung_cong_trinh = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------
@@ -5912,20 +6991,14 @@ Thành phố Hồ Chí Minh, ngày … …tháng… ….. năm …..
  
 HỢP ĐỒNG THIẾT KẾ - CUNG CẤP THIẾT BỊ CÔNG NGHỆ VÀ THI CÔNG XÂY DỰNG CÔNG TRÌNH 
 (HỢP ĐỒNG CHÌA KHOÁ TRAO TAY)
-
 Số: ......../.....(Năm) /...(ký hiệu hợp đồng)
-
  
  
 DỰ ÁN (TÊN DỰ ÁN) HOẶC GÓI THẦU (TÊN GÓI THẦU) SỐ ………
 THUỘC DỰ ÁN (TÊN DỰ ÁN) .........
-
 GIỮA
-
 (TÊN GIAO DỊCH CỦA CHỦ ĐẦU TƯ)
-
 VÀ
-
 (TÊN GIAO DỊCH CỦA NHÀ THẦU)
  
  
@@ -6824,424 +7897,228 @@ b) Hợp đồng bị chấm dứt theo khoản 18.7. [Chấm dứt hợp đ�
 26.1. Hai bên cam kết thực hiện đúng những điều đã quy định trong hợp đồng này. Hợp đồng này bao gồm ... trang, và ……… Phụ lục được lập thành ... bản bằng tiếng Việt có hiệu lực pháp lý như nhau. Chủ đầu tư sẽ giữ ... bản tiếng Việt. Nhà thầu sẽ giữ ... bản tiếng Việt (Trường hợp có sử dụng từ hai thứ Ngôn ngữ trở lên thì quy định thêm về số bản hợp đồng bằng các Ngôn ngữ khác).
 26.2. Hợp đồng này có hiệu lực kể từ ngày....tháng….năm….. (hoặc thời điểm do các bên thỏa thuận) và sau khi Chủ đầu tư đã nhận được bảo đảm thực hiện hợp đồng theo khoản 11.1. [Bảo đảm thực hiện hợp đồng].
  
-"""
-Mau_Hop_dong_thue_nha_xuong_song_ngu = """
-
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM SOCIALIST REPUBLIC OF VIETNAM 
+ĐẠI DIỆN NHÀ THẦU
+ĐẠI DIỆN CHỦ ĐẦU TƯ
+1"""
+Mau_Hop_dong_thue_nha_xuong_song_ngu = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM SOCIALIST REPUBLIC OF VIETNAM 
 Độc lập – Tự Do – Hạnh Phúc 
 Independence – Freedom - Happiness
-
-
 HỢP ĐỒNG CHO THUÊ NHÀ XƯỞNG
-
 FACTORY LEASE AGREEMENT
-
-
-
 Hợp đồng thuê nhà xưởng nhà (Sau đây gọi là “Hợp đồng”) được ký kết vào ngày …, bởi:
-
 This Factory lease Agreement (Hereinafter referred to as “Agreement”) is made as of…………
-
 between:
-
 BÊN CHO THUÊ:
-
 LESSOR:
-
 CÔNG TY ............................................................................................................
-
 MSDN: ............................................................................................................................... Tax Code: ........................................................................................................................... Địa chỉ: ............................................................................................................................... Address: .............................................................................................................................. Điện thoại (Tel) : ............................................... Fax: ....................................................... Tài khoản:....................................... Tại: ...................................... Ngân hàng:.................. Bank account:................................. At: .............................................................................. Đại diện: ............................................................................................................................. Represented by: .................................................................................................................. Chức vụ: ............................................................................................................................. Position: ............................................................................................................................. Sau đây gọi là “Bên A”
 Hereinafter referred to as “Party A”
-
 VÀ/AND
 BÊN THUÊ:
-
 LEASEE:
-
 CÔNG TY ............................................................................................................
-
 MSDN: ............................................................................................................................... Tax Code: ........................................................................................................................... Địa chỉ: ............................................................................................................................... Address: .............................................................................................................................. Điện thoại (Tel) : ............................................... Fax: ....................................................... Tài khoản:....................................... Tại: ...................................... Ngân hàng:.................. Bank account:................................. At: .............................................................................. Đại diện: ............................................................................................................................. Represented by: .................................................................................................................. Chức vụ: ............................................................................................................................. Position: ............................................................................................................................. Sau đây gọi là “Bên B”
 Hereinafter referred to as “Party B”
-
 XÉT RẰNG:
-
 WHEREAS:
-
-Bên A là chủ sở hữu nhà xưởng theo Giấy chứng nhận quyền sở hữu nhà xưởng số …….. do … ngày ……. cho bên A và nay bên A có nhu cầu cho thuê toàn bộ NHÀ XƯỞNG này;
+	Bên A là chủ sở hữu nhà xưởng theo Giấy chứng nhận quyền sở hữu nhà xưởng số …….. do … ngày ……. cho bên A và nay bên A có nhu cầu cho thuê toàn bộ NHÀ XƯỞNG này;
 Party A is the owner of the FACTORY under Certificate of ownership No. …….. issued on party A and now party A wishes to lease out the whole FACTORY.
-
-Bên B là Công ty ……………. có nhu cầu thuê NHÀ XƯỞNG của bên A để tiến hành sản xuất
-
+	Bên B là Công ty ……………. có nhu cầu thuê NHÀ XƯỞNG của bên A để tiến hành sản xuất
 Party B is …………………. Company and has demand to rent the FACTORY to conduct busin
-
 Hai Bên đồng ý ký kết HỢP ĐỒNG THUÊ NHÀ XƯỞNG này với các điều khoản như sau:
-
 The Parties agree to sign this FACTORY LEASE AGREEMENT with the conditions as follows:
-
 ĐIỀU 1: ĐỊNH NGHĨA VÀ GIẢI THÍCH TỪ NGỮ
-
 ARTICLE 1: DEFINITION AND INTERPRETATION
-
-1.1.	“Hợp đồng thuê nhà xưởng” được hiểu là Hợp đồng này cùng các Phụ lục đính kèm (nếu có) thỏa thuận được ký kết giữa bên A cùng bên B để thuê NHÀ XƯỞNG cùng với máy móc, thiết b thuận khác được ghi nhận trong Hợp đồng này;
-
+	1.1.	“Hợp đồng thuê nhà xưởng” được hiểu là Hợp đồng này cùng các Phụ lục đính kèm (nếu có) thỏa thuận được ký kết giữa bên A cùng bên B để thuê NHÀ XƯỞNG cùng với máy móc, thiết b thuận khác được ghi nhận trong Hợp đồng này;
 "Factory Lease Agreement" means this Agreement and the Appendices attached (if recognise the agreement signed between party A and party B to rent the FACTORY toget machinery, equipment and other negotiations as set out in this Agreement;
-
-1.2.	“Máy móc thiết bị” được hiểu là toàn bộ máy móc thiết bị hiện có trong NHÀ XƯỞNG vào kết Hợp đồng này. Chi tiết được liệt lê tại Phụ lục 2 của Hợp đồng này; máy móc thiết bị được xe phận thống nhất, không tách rời khỏi NHÀ XƯỞNG và không được xem là đối tượng cho thuê độ
-
+	1.2.	“Máy móc thiết bị” được hiểu là toàn bộ máy móc thiết bị hiện có trong NHÀ XƯỞNG vào kết Hợp đồng này. Chi tiết được liệt lê tại Phụ lục 2 của Hợp đồng này; máy móc thiết bị được xe phận thống nhất, không tách rời khỏi NHÀ XƯỞNG và không được xem là đối tượng cho thuê độ
+	
 "Machinery and Equipment" means all machinery and equipment in FACTORY at the tim this Agreement. Details are listed in Appendix 2 of this Agreement; MACHINERY AND EQU considered an integral part, which is not separated from the FACTORY and not to be consi independent rental objects;
-
-1.3.	“Thời hạn của Hợp đồng” hay “Thời hạn thuê” được hiểu là thời hạn có hiệu lực của Hợp đ hạn thuê NHÀ XƯỞNG, bao gồm cả thời gian gia hạn (nếu có);
-
+	1.3.	“Thời hạn của Hợp đồng” hay “Thời hạn thuê” được hiểu là thời hạn có hiệu lực của Hợp đ hạn thuê NHÀ XƯỞNG, bao gồm cả thời gian gia hạn (nếu có);
 "Term of Contract" or "Term of lease" means the effective period of the Agreement or lease of the FACTORY, including the extension period (if any);
-1.4.	“Bên thuê lại” được hiểu là bất cứ ai không phải là bên A và bên B;
-
+	1.4.	“Bên thuê lại” được hiểu là bất cứ ai không phải là bên A và bên B;
 "The inherit leasee" means a third party leasing the FACTORY from party B;
-
-1.5.	“ngày” và “tháng” được tính theo quy định cụ thể tại Bộ luật Dân sự số 91/2015/QH13 (/phap-dan-su-2015-682) được Quốc hội thông qua ngày 24/11/2015;
-
+	1.5.	“ngày” và “tháng” được tính theo quy định cụ thể tại Bộ luật Dân sự số 91/2015/QH13 (/phap-dan-su-2015-682) được Quốc hội thông qua ngày 24/11/2015;
 "Date" and "month" is calculated as specified in the Civil Code No. 91/2015/QH13 (/phap-l dan-su-2015-682) accepted by the National Assembly on 24/11/2015;
-
-1.6.	“Vi phạm nghĩa vụ” được hiểu là một Bên không thực hiện đúng nghĩa vụ/cam kết của mình the này. Ngoài các chứng cứ chứng minh cho sự vi phạm, một Bên sẽ chỉ bị xem là vi phạm nghĩa vụ được thông báo của Bên kia rằng mình vi phạm một nghĩa vụ/cam kết; và (ii) Đồng ý với Thông b qua một Thông báo xác nhận hay không có phản hồi cho Bên kia rằng mình không vi phạm nghĩ trong thời hạn ….. ngày làm việc kể từ ngày nhận được Thông báo;
-
+	1.6.	“Vi phạm nghĩa vụ” được hiểu là một Bên không thực hiện đúng nghĩa vụ/cam kết của mình the này. Ngoài các chứng cứ chứng minh cho sự vi phạm, một Bên sẽ chỉ bị xem là vi phạm nghĩa vụ được thông báo của Bên kia rằng mình vi phạm một nghĩa vụ/cam kết; và (ii) Đồng ý với Thông b qua một Thông báo xác nhận hay không có phản hồi cho Bên kia rằng mình không vi phạm nghĩ trong thời hạn ….. ngày làm việc kể từ ngày nhận được Thông báo;
 "Violation of the obligation" means a fact that a party fail to comply obligations/commitments under this Agreement. In addition to the evidence for the violat shall only be considered as having a violated the obligation when: (i) receive notice of the that they had violated obligations/commitments themselve, and (ii) agree with this n confirmation notice or abstention response to the other party that it does not bre obligations/commitments within ten (10) working days from the date of receipt of the notice;
-
-1.7.	“Chế tài” được hiểu là hình thức (i) Phạt vi hạm và (ii) Bồi thường thiệt hại. Theo đó, Bên Vi p phải gánh chịu các hậu quả bất lợi theo quy định trong Hợp đồng này, trừ trường hợp Bất khả khán "Sanctions" means the form of a (i) Penalty and (ii) Compensation for damages. Acco defaulting party shall have to suffer adverse consequences under the provisions of this except for events of Force Majeure;
-
+	1.7.	“Chế tài” được hiểu là hình thức (i) Phạt vi hạm và (ii) Bồi thường thiệt hại. Theo đó, Bên Vi p phải gánh chịu các hậu quả bất lợi theo quy định trong Hợp đồng này, trừ trường hợp Bất khả khán "Sanctions" means the form of a (i) Penalty and (ii) Compensation for damages. Acco defaulting party shall have to suffer adverse consequences under the provisions of this except for events of Force Majeure;
 ĐIỀU 2: ĐỐI TƯỢNG HỢP ĐỒNG
-
 ARTICLE 2: OBJECTS OF THE AGREEMENT
-
 Bên A đồng ý thuê và bên B đồng ý cho thuê NHÀ XƯỞNG cùng MÁY MÓC THIẾT BỊ đi kèm có c cụ thể như sau:
-
 Party A agrees to rent and party B agrees to lease out the FACTORY, together with the MACH EQUIPMENT as attached to the characteristics as follows:
-
-2.1	Tổng diện tích của NHÀ XƯỞNG cho thuê là ……..m2 gồm:
-
+	2.1	Tổng diện tích của NHÀ XƯỞNG cho thuê là ……..m2 gồm:
 The total area of the lease FACTORY is ………m2 including:
-
--	Tòa nhà dùng Xưởng sản xuất và Nhà kho có diện tích: ……..m2;
-
+	-	Tòa nhà dùng Xưởng sản xuất và Nhà kho có diện tích: ……..m2;
 Building used as a production FACTORY and warehouse with the area of …….m2;
-
-Nhà ăn có diện tích: ……..m2;
+	Nhà ăn có diện tích: ……..m2;
 A cantine with the area of ……..m2;
-
-Các nhà vệ sinh cùng với khung viên cảnh quan có diện tích: ……..m2; The toilets and the campus with the area of ……m2.
-
+	Các nhà vệ sinh cùng với khung viên cảnh quan có diện tích: ……..m2; The toilets and the campus with the area of ……m2.
 Chi tiết kết cấu Nhà và Khuôn viên được thể hiện trong Phụ lục 1: Bản vẽ đính kèm Hợp đồng này.
-
 The detailed drawing of the factory and the campus is shown in Appendix 1: The drawing atta Agreement.
-2.2	MÁY MÓC THIẾT BỊ:
-
+	2.2	MÁY MÓC THIẾT BỊ:
 MACHINERY AND EQUIPMENT:
-
 Chủng loại, số lượng, chất lượng, xuất xứ của máy móc thiết bị được liệt kê chi tiết tạo Phụ lục Hợp đồng này.
-
 Type, quantity, quality and origin of MACHINERY AND EQUIPMENT are listed in details 2 and attached to this Agreement;
-
-2.3	Bên B đảm bảo quyền cho thuê NHÀ XƯỞNG, MÁY MÓC THIẾT BỊ của bên B là hợp phá cho bên A được sử dụng NHÀ XƯỞNG, MÁY MÓC THIẾT BỊ một cách trọn vẹn, riêng biệt, k chấp thuận của bên B nếu sử dụng đúng mục đích thuê tại Điều 3.
-
+	2.3	Bên B đảm bảo quyền cho thuê NHÀ XƯỞNG, MÁY MÓC THIẾT BỊ của bên B là hợp phá cho bên A được sử dụng NHÀ XƯỞNG, MÁY MÓC THIẾT BỊ một cách trọn vẹn, riêng biệt, k chấp thuận của bên B nếu sử dụng đúng mục đích thuê tại Điều 3.
 Party B ensure that its rights to lease out the FACTORY, MACHINERY AND EQUIPMEN and commit for party A to use the FACTORY, MACHINERY AND EQUIPMENT completely without the consent of the DGM if using rental purpose in Article 3 (for example, changed FACTORY...).
-
 ĐIỀU 3: MỤC ĐÍCH THUÊ
-
 ARTICLE 3: PURPOSE OF LEASING
-
 Bên A ký kết thuê NHÀ XƯỞNG cùng MÁY MÓC THIẾT BỊ này với mục đích sản xuất, kinh doanh.
-
 Party A signs this Agreement to lease the FACTORY, MACHINERY and EQUIPMENT with the production, business.
-
 ĐIỀU 4: THỜI HẠN CỦA HỢP ĐỒNG VÀ GIA HẠN
-
 ARTICLE 4: DURATION OF AGREEMENT AND RENEWAL
-
-4.1.	Thời hạn của Hợp đồng là ……….. năm;
-
+	4.1.	Thời hạn của Hợp đồng là ……….. năm;
 Duration of the Agreement is ……… year;
-
-4.2.	Hợp đồng sẽ không bị chấm dứt trong vòng ….. năm kể từ ngày ký, trừ trường hợp hai bên c
-
+	4.2.	Hợp đồng sẽ không bị chấm dứt trong vòng ….. năm kể từ ngày ký, trừ trường hợp hai bên c
 khác. Sau thời hạn này, Hai Bên đều có quyền chấm dứt Hợp đồng trước thời hạn nhưng phải báo ít nhất ……… trước ngày dự định chấm dứt;
-
 This Agreement shall not be terminated within …….. year from the date signed, unless the P
-
 otherwise. After this period, two Parties have the right to terminate the Agreement ahead they must notify the other Party at least …….. year before the intended date of termination;
-
-4.3.	Ít nhất …….. trước ngày hết Thời hạn thuê, bên B hoặc bên A sẽ gửi chi Bên kia một Thông báo
-
+	4.3.	Ít nhất …….. trước ngày hết Thời hạn thuê, bên B hoặc bên A sẽ gửi chi Bên kia một Thông báo
 đồng, trong đó, giá thuê NHÀ XƯỞNG sẽ được thương lượng lại dựa trên giá thị trường. Tron ngày kể từ ngày nhận được Thông báo, Bên nhận được Thông báo phải có văn bản trả lời về việ
-
 gia hạn hay không gia hạn. Trường hợp cùng đòng ý gia hạn, Hai Bên sẽ ký bản Phụ lục về việc đồng. Trường hợp bên A hoặc bên B không gửi Thông báo trả lời thì Hợp đồng sẽ mặc nhiên ngày hết hạn của Hợp đồng;
-
 At least ……. before the date of expiry, party B or party A shall send to other Party a noti
-
 the Agreement, which the price to rent the FACTORY shall be negotiated based on market p thirty ……. after receiving the notice, the receiver must give a written reply on the approve
-
 or not. In case agree to have extension, two Parties shall sign the Annex on the exten Agreement. In case party A or party B does not send notice of reply, the Agreement sha automatically on the expiry of the Agreement;
-4.4.	Ngày bàn giao NHÀ XƯỞNG và máy móc thiết bị là ngày …. tháng …. năm …… Vào ngày bả
-
+	4.4.	Ngày bàn giao NHÀ XƯỞNG và máy móc thiết bị là ngày …. tháng …. năm …… Vào ngày bả
 XƯỞNG và MÁY MÓC THIẾT BỊ, Hai Bên sẽ tiến hành lập và ký Biên bản bàn giao NHÀ MÁY MÓC THIẾT BỊ;
-
 On the date of delivering the FACTORY, MACHINE and EQUIPMENT is ………. On
-
 delivering the FACTORY, MACHINERY and EQUIPMENT, two Parties shall make and sign minutes of the FACTORY, MACHINERY AND EQUIPMENT;
-
 Ngày bàn giao NHÀ XƯỞNG theo quy định tại khoản này có thể sớm hơn hoặc muộn hơn ….. ngà
-
 đến hạn.
-
 The date of delivery of the FACTORY as specified in this clause may be earlier or later than … the date of maturity.
-
 ĐIỀU 5: TIỀN THUÊ, THANH TOÁN VÀ XUẤT HÓA ĐƠN GTGT
-
 ARTICLE 5: RENT AND PAYMENT AND VAT INVOICE
-
-
-5.1	Tiền thuê NHÀ XƯỞNG:
-
+	5.1	Tiền thuê NHÀ XƯỞNG:
 FACTORY Rental:
-
-Giá thuê: ..............VND/tháng (Bằng chữ: .............................................cho một tháng) đã b
-
+	Giá thuê: ..............VND/tháng (Bằng chữ: .............................................cho một tháng) đã b
 GTGT;
-
 The price of rent: …….VND/month (By word: ………………….per month) including VAT;
-
-Tiền thuê NHÀ XƯỞNG đã bao gồm tất cả các khoản thuế, phí và lệ phí liên quan.
+	Tiền thuê NHÀ XƯỞNG đã bao gồm tất cả các khoản thuế, phí và lệ phí liên quan.
 Rent of FACTORY includes all taxes, charges and fees involved.
-
-5.2	Phương thức thanh toán:
-
+	5.2	Phương thức thanh toán:
 Mode of payment:
-
-Bên B có thể thanh toán bằng tiền mặt hoặc chuyển khoản;
+	Bên B có thể thanh toán bằng tiền mặt hoặc chuyển khoản;
 Party B can payment by cash or by bank transfer;
-
-Trường hợp thanh toán bằng hình thức chuyển khoản, bên B sẽ thanh toán cho bên A khi đ
-
+	Trường hợp thanh toán bằng hình thức chuyển khoản, bên B sẽ thanh toán cho bên A khi đ
 toán bằng hình thức chuyển tiền điện tử vào tài khoản ngân hàng tương ứng được đề xuất của b
-
 In case of payment by bank transfer, Party B shall make payments to Party A by bank tra accounts designated by Party A;
-5.3	Xuất hóa đơn GTGT:
-
+	5.3	Xuất hóa đơn GTGT:
 Issue the VAT Invoice:
-
-Trong thời hạn ..... ngày làm việc kể từ ngày nhận được tiền thuê NHÀ XƯỞNG trong tháng xuất Hóa đơn GTGT và gửi cho bên B;
-
+	Trong thời hạn ..... ngày làm việc kể từ ngày nhận được tiền thuê NHÀ XƯỞNG trong tháng xuất Hóa đơn GTGT và gửi cho bên B;
+	
 Within ……. working days from receiving the FACTORY Rental in the month, party A mu
-
 invoice and sending to party B;
-
-Hóa đơn được xuất phải ghi rõ nội dung xuất Hóa đơn là “......................” với tổng số tiền b
-
+	Hóa đơn được xuất phải ghi rõ nội dung xuất Hóa đơn là “......................” với tổng số tiền b
 thuê trong tháng.
-
 Issued invoice must clearly state the content of invoice as "……………….." for a total a
-
 to the price during the month.
-
 ĐIỀU 6: SỬA CHỮA VÀ HOÀN TRẢ NHÀ XƯỞNG, MÁY MÓC THIẾT BỊ
-
 ARTICLE 6: REPAIR AND REFUND THE FACTORY, MACHINERY AND EQUIPMENT
-
-6.1	Bên B thông báo ngay cho bên A mọi hỏng hóc đã xảy ra hoặc có thể xảy ra cho NHÀ XƯ MÓC THIẾT BỊ theo quan sát bình thường của bên B và được quyền yêu cầu bên A sửa chữa lỗi của bên B; bên A phải tiến hành sửa chữa trong thời hạn hai mươi bốn (24) giờ kể từ khi nhận báo. Việc sửa chữa nếu có ảnh hưởng đến hoạt động sản xuất của bên B thì phải báo trước, nếu k bồi thường các thiệt hại phát sinh;
-
+	6.1	Bên B thông báo ngay cho bên A mọi hỏng hóc đã xảy ra hoặc có thể xảy ra cho NHÀ XƯ MÓC THIẾT BỊ theo quan sát bình thường của bên B và được quyền yêu cầu bên A sửa chữa lỗi của bên B; bên A phải tiến hành sửa chữa trong thời hạn hai mươi bốn (24) giờ kể từ khi nhận báo. Việc sửa chữa nếu có ảnh hưởng đến hoạt động sản xuất của bên B thì phải báo trước, nếu k bồi thường các thiệt hại phát sinh;
 Party B immediatelly notify to the party A any damages has occurred or may occur for W MACHINERY AND EQUIPMENT following the regular observation of party B without no f B and have the right to request for party A to carry out the repair within twenty-four (24) receiving the notice. The repair, if that affects the production of party B, party A shall have otherwise you shall have to compensate for losses incurred;
-
-6.2	Thông báo cho bên A trong trường hợp bên B có nhu cầu sửa chữa, cải tạo, nâng cấp NHÀ XƯ MÓC THIẾT BỊ. Bên A chỉ được phản đối khi có lý do chính đáng. Những thay đổi sau khi sửa cần phải được dỡ bỏ hoặc khôi phục lại như trình trạng ban đầu khi kết thúc Hợp đồng, mọi th thành tài sản của bên A khi bên B trả lại NHÀ XƯỞNG mà bên A không phải bồi hoàn chi phí ch trường hợp bên A chấm dứt Hợp đồng trước thời hạn không do lỗi của bên B;
-
+	6.2	Thông báo cho bên A trong trường hợp bên B có nhu cầu sửa chữa, cải tạo, nâng cấp NHÀ XƯ MÓC THIẾT BỊ. Bên A chỉ được phản đối khi có lý do chính đáng. Những thay đổi sau khi sửa cần phải được dỡ bỏ hoặc khôi phục lại như trình trạng ban đầu khi kết thúc Hợp đồng, mọi th thành tài sản của bên A khi bên B trả lại NHÀ XƯỞNG mà bên A không phải bồi hoàn chi phí ch trường hợp bên A chấm dứt Hợp đồng trước thời hạn không do lỗi của bên B;
 Notice to party A in the case of party B needs repair, renovation, upgrading FACTORY, M AND EQUIPMENT. Party A protests only when there is good reason. Changes after the cor not need to be lifted or restore the original state as set at the end of the Agreement, any c become property of the DGM when AHS returns the FACTORY that party A are not reim costs for party B, except for terminating the Agreement by party A before the deadline with party B;
-
-6.3	Bàn giao lại NHÀ XƯỞNG, MÁY MÓC THIẾT BỊ cho bên A ngay khi hết Thời hạn thuê h đồng này chấm dứt trước thời hạn bằng văn bản bàn giao được thỏa thuận và ký bởi Hai Bên. Delivering the FACTORY, MACHINERY AND EQUIPMENT for DGM as soon as the lease t or when this Agreement is terminated ahead of time by handover minutes of that negotiated by both parties.
-
+	6.3	Bàn giao lại NHÀ XƯỞNG, MÁY MÓC THIẾT BỊ cho bên A ngay khi hết Thời hạn thuê h đồng này chấm dứt trước thời hạn bằng văn bản bàn giao được thỏa thuận và ký bởi Hai Bên. Delivering the FACTORY, MACHINERY AND EQUIPMENT for DGM as soon as the lease t or when this Agreement is terminated ahead of time by handover minutes of that negotiated by both parties.
 ĐIỀU 7: CHO THUÊ LẠI NHÀ XƯỞNG
-
 ARTICLE 8: SUBLEASE THE FACTORY
-
-7.1	Bên B được quyền cho thuê lại NHÀ XƯỞNG cho Bên thứ ba khi thỏa mãn các điều kiện sau:
-
+	7.1	Bên B được quyền cho thuê lại NHÀ XƯỞNG cho Bên thứ ba khi thỏa mãn các điều kiện sau:
 Party B has the right to sublease FACTORY for third party when satisfying the following con
-
-Thông báo cho bên A trước ít nhất …… ngày kể từ ngày dự định cho thuê lại;
-
+	Thông báo cho bên A trước ít nhất …… ngày kể từ ngày dự định cho thuê lại;
 Notify to party A at least thirty ……. day since the date having plan to lease;
-
-Bên thứ ba đồng ý cam kết với bên A tiếp tục thực hiện thay cho bên B đầy đủ các các quyề theo Hợp đồng này.
+	Bên thứ ba đồng ý cam kết với bên A tiếp tục thực hiện thay cho bên B đầy đủ các các quyề theo Hợp đồng này.
 The third party agrees to commit to continue performing on behalf of party B full o obligation under this Agreement.
-
-7.2	Khi đáp ứng các điều kiện tại Điều 7.1 của Hợp đồng này thì bên B, bên A và Bên thứ ba sẽ lập Hợp đồng để thể hiện việc chuyển giao quyền và nghĩa vụ của bên B cho Bên thứ ba.
-
+	7.2	Khi đáp ứng các điều kiện tại Điều 7.1 của Hợp đồng này thì bên B, bên A và Bên thứ ba sẽ lập Hợp đồng để thể hiện việc chuyển giao quyền và nghĩa vụ của bên B cho Bên thứ ba.
 When having the conditions in Article 7.1 of this Agreement, party B, party A and a Third establish the Appendix of Agreement to reflect the transfer of rights and obligations of party party.
-
 ĐIỀU 8: HẠ TẦNG, ĐIỆN, NƯỚC, VIỄN THÔNG
-
 ARTICLE 8: INFRASTRUCTURE, POWER, WATER AND TELECOMMUNICATIONS
-
-8.1	Bên A có trách nhiệm đảm bảo cung cấp điện, liên tục và ổn định cho hoạt động của bên B tr thuê, trừ trường hợp bất khả kháng;
-
+	8.1	Bên A có trách nhiệm đảm bảo cung cấp điện, liên tục và ổn định cho hoạt động của bên B tr thuê, trừ trường hợp bất khả kháng;
 Party A has the responsibility for ensuring a supply of power, continuous and stable for o party B in the lease term, except for force majeure
-
-8.2	Tất cả NHÀ XƯỞNG đều được trang bị hệ thống đền chiếu sáng cho sản xuất, hệ thống điện, internet. Bên B phải tự trả các khoản chi phí này khi sử dụng;
-
+	8.2	Tất cả NHÀ XƯỞNG đều được trang bị hệ thống đền chiếu sáng cho sản xuất, hệ thống điện, internet. Bên B phải tự trả các khoản chi phí này khi sử dụng;
 All FACTORIES are equipped with lighting system for manufacturing, electrical, telephone a Party B must pay the costs when using this; electrical, telephone and internet. Party B m costs when using this systems;
 8.3  Bên A sẽ cung cấp đầy đủ nước sinh hoạt cho bên B trong thời gian thuê, trừ trường hợp bất khả k Party A shall provide sufficient water for party B in the lease term, except for force majeure
-
 ĐIỀU 9: CHẾ TÀI DO VI PHẠM NGHĨA VỤ
-
 ARTICLE 9: SANCTION DUE TO VIOLATING THE OBLIGATION
-
-9.1	Phạt vi phạm:
-
+	9.1	Phạt vi phạm:
 Impose violation:
-
-Khi một Bên bị xem là Vi phạm nghĩa vụ sẽ chịu mức phạt tám phần trăm (08%) giá trị phần n đồng bị vi phạm;
-
+	Khi một Bên bị xem là Vi phạm nghĩa vụ sẽ chịu mức phạt tám phần trăm (08%) giá trị phần n đồng bị vi phạm;
 When a party is considered in violation of obligation, they shall be bear the penalty as e (08%) of the value of violated obligation Agreement;
-
-Bên bị xem là Vi phạm nghĩa vụ sẽ phải thanh toán bằng hình thức chuyển khoản vào tài khoản số tiền phạt trong thời hạn ...... ngày làm việc kể từ ngày bị xem là Vi phạm nghĩa vụ.
-
+	Bên bị xem là Vi phạm nghĩa vụ sẽ phải thanh toán bằng hình thức chuyển khoản vào tài khoản số tiền phạt trong thời hạn ...... ngày làm việc kể từ ngày bị xem là Vi phạm nghĩa vụ.
 The Party is considered violating shall pay in the form of transfering the fine to the ot within …….. working days from the date the violation was considered obligation.
-
-9.2	Bồi thường thiệt hại:
-
+	9.2	Bồi thường thiệt hại:
 Compensation:
-
-Khi một Bên bị xem là Vi phạm nghĩa vụ dẫn đến gây thiệt hại cho Bên kia thì phải bồi thường thiệt hại bằng hình thức chuyển khoản vào tài khoản của Bên kia trong thời hạn ……. ngày là ngày xác định được giá trị thiệt hại;
-
+	Khi một Bên bị xem là Vi phạm nghĩa vụ dẫn đến gây thiệt hại cho Bên kia thì phải bồi thường thiệt hại bằng hình thức chuyển khoản vào tài khoản của Bên kia trong thời hạn ……. ngày là ngày xác định được giá trị thiệt hại;
+	
 When a party is considered to consider of the obligation to cause damage to the other shall be full compensation for losses in the form of transfering to the account of the within ……… working days from the date determined by the value of damage;
-
-Giá trị bồi thường bằng Tiền hoặc có thể bằng Hiện vật nếu được Bên bị thiệt hại đồng ý.
-
+	Giá trị bồi thường bằng Tiền hoặc có thể bằng Hiện vật nếu được Bên bị thiệt hại đồng ý.
 Value of compensation in cash or in kind shall be agreed if the damaged party agrees.
-
 ĐIỀU 10: BẢO HIỂM
-
 ARTICLE 10: INSURANCE
-
-10.1	Bằng chi phí của mình, bên B mua và duy trì bảo hiểm cho những tài sản, trang, thiết bị mà bên trang bị tại NHÀ XƯỞNG theo quy định của pháp luật;
-
+	10.1	Bằng chi phí của mình, bên B mua và duy trì bảo hiểm cho những tài sản, trang, thiết bị mà bên trang bị tại NHÀ XƯỞNG theo quy định của pháp luật;
 By its own expense, party B purchase and maintain insurance for property, equipments a that party B installed and equipped in FACTORY prescribed by law;
-
-10.2	Bằng chi phí của mình, bên A phải mua và duy trì bảo hiểm cho NHÀ XƯỞNG, MÁY MÓC Công ty bảo hiểm của bên A hay Công ty bảo hiểm khác với điều kiện là giá trị thanh toán khi tìn hiểm phát sinh phải tối thiểu bằng giá trị theo sổ sách kế toán của các tài sản bị thiệt hại.
-
+	10.2	Bằng chi phí của mình, bên A phải mua và duy trì bảo hiểm cho NHÀ XƯỞNG, MÁY MÓC Công ty bảo hiểm của bên A hay Công ty bảo hiểm khác với điều kiện là giá trị thanh toán khi tìn hiểm phát sinh phải tối thiểu bằng giá trị theo sổ sách kế toán của các tài sản bị thiệt hại.
 By its own expense, party A must purchase and maintain insurance for FACTORY, MACHI EQUIPMENT from party A's insurance company or other insurance company on conditi value of payment when situation of insurance distribution must be at least equal v accounting books of the damaged property.
-
 ĐIỀU 11: CHẤM DỨT HỢP ĐỒNG
-
 ARTICLE 11: TERMINATE AGREEMENT
-
 11.1 Hợp đồng này sẽ chấm dứt trong một hoặc các trường hợp sau đây:
-
 This Agreement shall terminate in one or more of the following cases:
-
-Thời hạn thuê kết thúc mà không được gia hạn theo Điều 4 của Hợp đồng này;
-
+	Thời hạn thuê kết thúc mà không được gia hạn theo Điều 4 của Hợp đồng này;
 The lease term ends, which may not be extended under Article 4 of this Agreement;
-
-Một trong Hai Bên bị phá sản, giải thể;
-
+	Một trong Hai Bên bị phá sản, giải thể;
 Either party is bankrupt or dissolved;
-
-NHÀ XƯỞNG bị tiêu hủy hoặc hư hỏng đến mức hoàn toàn không thể sử dụng được;
-
+	NHÀ XƯỞNG bị tiêu hủy hoặc hư hỏng đến mức hoàn toàn không thể sử dụng được;
 FACTORY was destroyed or damaged to the extent absolutely can not be used;
-
-Trường hợp bất khả kháng ngăn cản Hai Bên thực hiện Hợp đồng trong thời gian .... tháng liên t
-
+	Trường hợp bất khả kháng ngăn cản Hai Bên thực hiện Hợp đồng trong thời gian .... tháng liên t
 In case of force majeure prevents the contract two Parties in …….. consecutive months;
-
-Hai Bên thỏa thuận chấm dứt Hợp đồng trước thời hạn;
-
+	Hai Bên thỏa thuận chấm dứt Hợp đồng trước thời hạn;
 The two parties agreed to terminate the contract ahead of time;
-
-Các trường hợp khác theo quy định của Hợp đồng và pháp luật.
-
+	Các trường hợp khác theo quy định của Hợp đồng và pháp luật.
 Other cases prescribed by law and contract.
-
 11.2 Khi chấm dứt Hợp đồng, Hai Bên sẽ ký Biên bản thanh lý Hợp đồng và thanh toán, hoàn trả cho nghĩa vụ, trách nhiệm vật chất còn thiếu (nếu có).
-
 Upon the termination of the contract, two Parties shall sign a record of a minute to li contract and fulfill any outstanding payments, refund obligations to each other, missi liability (if any).
-
 ĐIỀU 12: ĐIỀU KHOẢN CHUNG
-
 ARTICLE 12: MISCELLANEOUS
-
 12.1 Trong quá trình thực hiện, tất cả phụ lục, sửa đổi nào đối với Hợp đồng này các Bên phải lập thàn nội dung sửa đổi, bổ sung, thay thế chỉ có hiệu lực khi được đại diện có thẩm quyền của mỗi Bên k During the term of this Agreement, all appendix, amendment to this Agreement must be in only take effect as concluded by sufficient authorized representatives of the Parties.
-
-12.2	Ngoài các thỏa thuận trên những vấn đề phát dinh mà chưa được đề cập trong Hợp đồng này quyết dựa trên quy địnhu của pháp luật có liên quan.
-
+	12.2	Ngoài các thỏa thuận trên những vấn đề phát dinh mà chưa được đề cập trong Hợp đồng này quyết dựa trên quy địnhu của pháp luật có liên quan.
 Issues that are not mentioned in this Agreement shall be in accordance with the laws of VietN 12.3  Nếu bất kì nội dung nào trong Hợp đồng này vô hiệu, trái pháp luật hoặc không thể thực hiện đư đó sẽ được xem là đương nhiên sửa đổi trong giới hạn thấp nhất có thể để trở nên có hiệu lực, đú và có thể thực hiện được. Trong trường hợp những thay đổi đó không thể thực hiện được, các được xem như hủy bỏ. Việc một hoặc mộ số nội dung trong Hợp đồng bị sửa đổi hoặc hủy bỏ k
-
 hưởng đến hiệu lực và việc thực hiện của các nội dung khác của Hợp đồng;
-
 If any provision or part-provision of this Agreement is or becomes invalid, illegal or unen shall be deemed modified to the minimum extent necessary to make it valid, legal and en such modification is not possible, the relevant provision or part-provision shall be deemed modification to or deletion of a provision or part-provision under this clause shall not affect and enforceability of the rest of this Agreement.
-
 12.4 Hợp đồng này sẽ có hiệu lực sau khi đại diện hợp pháp hoặc đại diện ủy quyền của Các bên ký đồng;
-
 The Agreement shall takes effect after concluded by duly authorized representative of the Pa 12.5 Hợp đồng này sẽ tự động hết hiệu lực ngay sau khi các Bên hoàn thành xong các nghĩa vụ trong H The Agreement shall automatically expire after the Parties fulfill their obligations in this Agr 12.6  Hợp đồng này được soạn thảo bằng tiếng Việt và tiếng Anh. Trong trường Hợp đồng này được d
-
 ngôn ngữ khác, bản tiếng Việt sẽ có giá trị áp dụng.
-
 The Agreement shall be in both Vietnamese and English. In case of any discrepancies or inc between the English version and Vietnamese version, the Vietnamese shall prevail.
-
 12.5 Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
 A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
-
-
 ĐIỀU 13: ĐIỀU KHOẢN THI HÀNH
-
 ARTICLE 13: IMPLEMENTATION PROVISIONS
-
-13.1	Hợp đồng này được lập thành bốn (04) bản bằng tiếng Việt/Anh song ngữ, bên A giữ hai (02) b giữ hai (02) bản có giá trị pháp lý như nhau;
-
+	13.1	Hợp đồng này được lập thành bốn (04) bản bằng tiếng Việt/Anh song ngữ, bên A giữ hai (02) b giữ hai (02) bản có giá trị pháp lý như nhau;
 This Agreement shall be made in four (04) copies in Vietnamese/English bilingual edition pages each, party A keep two (02) and party B keep two (02) with equal valid;
-
 13.2 Hợp đồng này bao gồm ba (02) Phụ lục như sau:
-
 This Agreement includes three (02) Appendix as follows:
-
-Phụ lục 01: Mô tả chi tiết NHÀ XƯỞNG – do bên A lập;
-
+	Phụ lục 01: Mô tả chi tiết NHÀ XƯỞNG – do bên A lập;
 Annex 01: Detailed description FACTORY – founded by party A;
-
-Phụ lục 02: Chi tiết MÁY MÓC, THIẾT BỊ – do bên A lập;
-
+	Phụ lục 02: Chi tiết MÁY MÓC, THIẾT BỊ – do bên A lập;
 Annex 02: Detailed MACHINERY AND EQUIPMENT – founded by party A; 13.3 Hợp đồng này có hiệu lực kể từ Ngày ký./.
-
 This contract takes effect from the Date of signinging. /.
-
-ĐẠI DIỆN BÊN A							ĐẠI DIỆN BÊN B
-
-
+	ĐẠI DIỆN BÊN A							ĐẠI DIỆN BÊN B
+	
 ON BEHALF OF PARTY A
-
 (Ký, ghi rõ họ tên và đóng dấu)
-
 (sign, full name, stamp)
 ON BEHALF OF PARTY B (Ký, ghi rõ họ tên và đóng dấu)
-
 (sign, full name, stamp)
-	(sign, full name, stamp)
-
-
-
-
-
-
-"""
+		(sign, full name, stamp)"""
 Mau_Hop_dong_thue_nha_dat_thue_bat_dong_san = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
 ---***---
 HỢP ĐỒNG THUÊ NHÀ
 (Toàn bộ căn nhà tại ………………………)
-
 Hợp đồng thuê nhà này (“Hợp đồng”) được lập và ký kết ngày ……./……/…….. giữa các Bên sau đây:
 BÊN CHO THUÊ (Gọi tắt là “Bên A”):
  Ông/Bà	: …………………………………………………………………..
 CMND số	: …………	Ngày cấp: ……………	Nơi cấp: ………..
 Hộ khẩu thường trú: ……………………………………………………………
 Điện thoại	: ………………………………………………………………….
-
 BÊN THUÊ (Gọi tắt là “Bên B”)
 Ông/Bà	: …………………………………………………………………..
 CMND số	: …………	Ngày cấp: ……………	Nơi cấp: ………..
@@ -7265,97 +8142,97 @@ Hình thức sử dụng		: ………………………………..
 Mục đích sử dụng		: ………………………………..
 Thời hạn sử dụng		: ………………………………...
 Nguồn gốc sử dụng	: ………………………………...
-Sau đây gọi tắt mặt bằng cho thuê với thông tin nêu trên là “Tài sản”.
-1.2. Bên A đồng ý cho thuê và Bên B đồng ý thuê Tài sản nêu trên của Bên A.
-ĐIỀU 2: THỜI HẠN THUÊ VÀ MỤC ĐÍCH THUÊ
-2.1. Thời hạn thuê của Hợp đồng này là ……….. năm tính từ “Ngày bắt đầu” đến “Ngày kết thúc” như sau:
-+ Ngày bắt đầu	: ngày ….. tháng ……. năm ……………
-+ Ngày kết thúc	: hết ngày …….. tháng …….. năm …………
-2.2. Mục đích thuê: Bên A đồng ý cho Bên B thuê Tài sản để sử dụng cho các mục đích sau: ……………………………………………………………………………………….
-2.3. Gia hạn Hợp đồng thuê: Bên B được quyền gia hạn Hợp đồng trong trường hợp có nhu cầu thuê tiếp. Khi đó, Bên B sẽ gửi cho Bên A 01 Thư đề nghị gia hạn. Trong vòng 07 (bảy) ngày kể từ ngày Bên B nhận được Thư đề nghị gia hạn của Bên B, Bên A sẽ trả lời cho Bên B bằng văn bản về việc đồng ý hay từ chối cho Bên B thuê tiếp với một thời hạn gia hạn theo sự thỏa thuận của hai bên. Trong trường hợp gia hạn, các Bên sẽ ký kết một Phụ lục gia hạn Hợp đồng này hoặc ký lại một Hợp đồng mới với các điều khoản và điều kiện được giữ nguyên theo Hợp đồng này, ngoại trừ tiền thuê mới được tính theo quy định tại Điều 3.1 Hợp đồng này.
-2.4. Bàn giao Tài sản thuê và giao trả tài sản thuê
-Vào ngày hai Bên ký kết Hợp đồng này, Hai Bên sẽ tiến hành bàn giao Tài sản thuê. Các Bên sẽ ký kiểm kê thực tế tài sản trong Tài sản thuê, và ký tên vào một “Bảng liệt kê tài sản”. Bảng liệt kê tài sản vừa làm cơ sở để xác định tài sản mà Bên B phải bàn giao cho Bên A vào ngày hai Bên ký kết Hợp Đồng Thuê Nhà đồng thời làm cơ sở để Bên B giao trả lại Tài sản thuê cho Bên A khi Hợp Đồng chấm dứt.
-Khi Hợp Đồng Thuê Nhà chấm dứt, Bên B phải giao trả toàn bộ Tài sản cho Bên A theo đúng như thời điểm bàn giao. Bên B được quyền mang đi và sở hữu toàn bộ các tài sản, thiết bị, máy móc và các tài sản khác của Bên B được lắp đặt trong Thời Hạn Thuê bằng tiền của Bên B.
-ĐIỀU 3: TIỀN THUÊ, TIỀN CỌC VÀ PHƯƠNG THỨC THANH TOÁN
-3.1. Tiền thuê
-- Tiền Thuê là: ……………………. đồng.
-- Tiền Thuê đã bao gồm Thuế Giá trị gia tăng và Thuế Thu nhập cá nhân, các khoản phí, lệ phí liên quan khác. Bên A chịu trách nhiệm thanh toán các khoản tiền thuế này cho cơ quan Nhà nước có thẩm quyền. Bên A sẽ chịu trách nhiệm đóng các loại thuế hoặc phí khác liên quan đến quyền sử dụng Tài sản cho thuê. Bên B chịu trách nhiệm đóng các loại thuế, phí liên quan đến hoạt động kinh doanh của mình.
-- Nếu Bên B có nhu cầu thuê tiếp khi đã hết thời hạn thuê theo Hợp đồng này, hai Bên sẽ thỏa thuận về việc gia hạn Hợp đồng theo Điều 2 Hợp đồng này. Trong trường hợp hai Bên đồng ý gia hạn thì giá thuê có thể được tăng thêm nhưng mức tăng thêm không được vượt quá 10% (Mười phần trăm) tiền thuê của năm thứ 3 theo Hợp đồng này.
--3.2. Trường hợp Tài Sản Thuê không được cơ quan chức năng cho phép sửa chữa, xây dựng theo yêu cầu của Bên B và/hoặc Bên B không được cơ quan Nhà nước có thẩm quyền cho phép đăng ký kinh doanh, cư trú, thực hiện các mục đích khác tại địa chỉ thuê thì Hai Bên sẽ thanh lý Hợp đồng và Bên A sẽ trả lại cho Bên B Tiền Đặt Cọc và toàn bộ tiền thuê nhà mà Bên B đã thanh toán cho Bên A trong thời hạn ……… ngày kể từ ngày Bên B có yêu cầu.
-3.3. Phương thức thanh toán
-- Tiền Thuê sẽ được Bên B thanh toán cho Bên A định kỳ ……….. tháng/01 lần vào khoảng từ ngày ……. đến ngày ……… của tháng đầu tiên của mỗi kỳ thanh toán. Việc giao, nhận số tiền nêu trên do hai Bên tự thực hiện và chịu trách nhiệm trước pháp luật.
-- Tiền thuê và các khoản chi phí khác (nếu có) sẽ được thanh toán bằng tiền mặt hoặc chuyển khoản vào tài khoản do Bên A cung cấp với thông tin như sau:
-. Người thụ hưởng	:  ..........................................................................
-. Tài khoản số		:  ..........................................................................
-. Tại ngân hàng         	: ...........................................................................
-Hoặc bằng bất cứ phương thức thanh toán khác do Bên B xác định và thông báo cho Bên A.
-3.4. Tiền đặt cọc 
-Để bảo đảm cho việc thực hiện Hợp đồng này, ngày .../..../2020, Bên B đã chuyển và Bên A đã nhận số tiền đặt cọc là …………. đồng tương đương 01 tháng tiền thuê nhà (“Tiền đặt cọc”). 
-ĐIỀU 4: NGHĨA VỤ VÀ QUYỀN CỦA BÊN A
-4.1. Nghĩa vụ của Bên A
-- Bàn giao mặt bằng cho thuê theo quy định tại Hợp đồng này cho Bên B sử dụng kể từ ngày ký hợp đồng;
-- Bảo đảm cho Bên B được sử dụng Tài sản thuê yên ổn, riêng biệt, đầy đủ, không có bất cứ sự cản trở hoặc hạn chế của Bên thứ 3 nào làm ảnh hưởng đến hoạt động kinh doanh của Bên B trong suốt thời hạn thuê;
-- Hỗ trợ Bên B trong các thủ tục kết nối các dịch vụ tiện ích (điện, nước, internet…) hoặc khi các hoạt động thanh tra, kiểm tra từ các cơ quan Nhà nước có thẩm quyền.
-- Bên A đồng ý cho Bên B được sửa chữa, cơi nới, xây lắp, cải tạo, trang trí Tài sản thuê cho phù hợp với mục đích thuê.
-- Tạo điều kiện thuận lợi nhất cho Bên B sử dụng chỗ để xe, lối đi chung, sử dụng điện, nước và các nhu cầu cần thiết khác trong căn nhà cho thuê nêu tại Điều 1 của Hợp đồng này;
-- Hỗ trợ tối đa cho Bên thuê trong việc xin các loại giấy phép an ninh trật tự, phòng cháy chữa cháy và các loại giấy phép khác mà pháp luật yêu cầu Bên A đứng tên;
-- Trong trường hợp bên cho thuê bán, chuyển nhượng hoặc thực hiện bất kỳ giao dịch nào nhằm chuyển nhượng Căn Nhà cho bên thứ ba thì Bên cho thuê sẽ phải thu xếp cho chủ sở hữu mới kế thừa các nghĩa vụ và trách nhiệm của Bên cho thuê theo Hợp đồng thuê để tiếp tục thực hiện Hợp đồng thuê này;
-- Bên A cam kết rằng trong trường hợp bất kỳ Bên cho thuê nào phát sinh sự kiện pháp lý dẫn đến có bên thứ ba thừa kế quyền sử dụng đất và tài sản cho thuê thì các người thừa kế của Bên cho thuê đó sẽ tiếp tục thực hiện tất cả các nghĩa vụ của Bên cho thuê theo Hợp đồng thuê này;
-- Các nghĩa vụ khác theo quy định của pháp luật.
-4.2. Quyền của Bên A
-- Nhận đủ tiền thuê nhà đúng kỳ hạn như đã thỏa thuận;
-- Cải tạo, nâng cấp nhà cho thuê khi được Bên A đồng ý nhưng không được gây phiền hà cho hoạt động kinh doanh Bên A;
-- Được lấy lại Tài sản thuê khi hết thời hạn thuê mà Hợp đồng không được gia hạn;
-- Các quyền khác theo quy định của pháp luật.
-ĐIỀU 5: NGHĨA VỤ VÀ QUYỀN CỦA BÊN B
-5.1. Nghĩa vụ của Bên B
-- Sử dụng nhà đúng mục đích đã thỏa thuận;
-- Trả đủ tiền thuê nhà đúng kỳ hạn đã thỏa thuận;
-- Tôn trọng quy tắc sinh hoạt công cộng;
-- Tự thanh toán các khoản tiền: điện, nước, điện thoại… trong phạm vi sử dụng của Bên B.
-- Chịu trách nhiệm với chính quyền địa phương về an ninh trật tự;
-- Khi Hợp Đồng Thuê Nhà chấm dứt, Bên B phải giao trả toàn bộ Căn Nhà cho Bên A đúng số lượng, chủng loại như tại thời điểm bàn giao và trong tình trạng sử dụng bình thường (trừ các hao mòn hợp lý theo thời gian sử dụng). Bên B được quyền mang đi các thiết bị rời đã được lắp đặt trong Thời Hạn Thuê bằng tiền của Bên B.
-5.2. Quyền của Bên B
-- Bên B có quyền được dỡ bỏ để xây dựng, cải tạo mới Tài sản thuê và/hoặc lắp đặt thêm tất cả thiết bị (không giới hạn các biển hiệu, biển quảng cáo, hình ảnh) cho phù hợp với mục đích thuê;
-- Nhận bàn giao Tài sản thuê theo đúng thỏa thuận để toàn quyền sử dụng hoặc cải tạo, sửa chữa và kinh doanh; Sử dụng mặt bằng ổn định, lắp đặt biển hiệu công ty, bản hiệu trụ sở công ty; lắp đặt điện thoại, Internet, điện, nước… và các thiết bị khác phù hợp với mục đích kinh doanh của Bên thuê;
-- Được ưu tiên ký hợp đồng thuê tiếp, nếu đã hết hạn thuê mà mặt bằng vẫn dùng để cho thuê;
-- Được tiếp tục thuê theo các điều kiện đã thỏa thuận với Bên A trong trường hợp có sự thay đổi chủ sở hữu Tài sản thuê;
-- Khi thanh lý Hợp đồng thuê, Bên B được quyền nhận lại toàn bộ máy móc, trang thiết bị, tài sản… đã đầu tư tại Tài sản thuê;
-- Được cho thuê lại Tài sản thuê nhưng phải thông báo cho Bên A;
-- Được quyền sử dụng toàn bộ Tài sản thuê một cách riêng biệt và đầy đủ trong suốt Thời Hạn Thuê, không có sự ngăn cản trái pháp luật từ Bên A, hoặc bất kỳ từ bên thứ ba nào khác;
-- Được quyền yêu cầu Bên A sửa chữa Tài sản thuê trong trường hợp Tài sản thuê bị hư hỏng liên quan đến kết cấu hoặc những hư hỏng nặng làm cho Bên B không sử dụng được Tải sản thuê;
-- Bên B được quyền chấm dứt Hợp đồng này trước thời hạn nhưng phải thông báo cho Bên A trước 30 ngày (ba mươi ngày) trước ngày chấm dứt chính thức;
-- Các quyền khác theo quy định của pháp luật.
-ĐIỀU 6: CHẤM DỨT HỢP ĐỒNG VÀ PHẠT VI PHẠM
-Hợp đồng này bị chấm dứt trong các trường hợp sau:
-6.1. Hợp đồng hết hạn mà không được gia hạn;
-6.2. Các Bên thỏa thuận chấm dứt Hợp đồng;
-6.3. Xảy ra sự kiện bất khả kháng theo quy định tại Điều 7 Hợp đồng này;
-6.4. Một bên đơn phương chấm dứt hợp đồng thuê nhà theo quy định tại Điều này:
-6.4.1. Bên A có quyền đơn phương chấm dứt thực hiện Hợp đồng khi Bên B có những hành vi sau:
-- Bên B không trả Tiền Thuê Nhà sau khi Bên A đã có văn bản thông báo yêu cầu Bên B thanh toán trong vòng 30 ngày kể từ ngày đến hạn thanh toán quy định tại Điều 3.3. Hợp đồng này mà việc chậm thanh toán của Bên B không phải do sự kiện bất khả kháng, trở ngại khách quan hay lỗi từ Bên A.
- - Sử dụng Tài sản thuê không đúng với mục đích thuê đã và bị cơ quan Nhà nước có thẩm quyền xử phạt vi phạm về hành vi này mà vẫn tái phạm.
-Khi Bên B có những hành vi vi phạm nêu trên, Bên A sẽ gửi Thông báo chấm dứt Hợp Đồng đến Bên B. Thông báo nêu rõ hành vi vi phạm của Bên B và ngày chấm dứt Hợp Đồng Thuê Nhà. Ngày chấm dứt Hợp Đồng được Bên A ấn định trong Thông báo sẽ không ít hơn 30 (ba mươi) ngày kể từ ngày Bên B nhận được thông báo. Trong trường hợp này, Tiền cọc và Tiền Thuê Nhà mà Bên B đã thanh toán cho Bên A nhưng Bên B chưa sử dụng hết sẽ thuộc quyền sở hữu của Bên A kể từ ngày chấm dứt Hợp Đồng Thuê Nhà được Bên A ấn định.
-6.4.2. Bên B có quyền đơn phương chấm dứt thực hiện Hợp đồng khi Bên A có những hành vi sau:
-- Bên A yêu cầu tăng tiền thuê nhà không đúng với thỏa thuận tại Điều 3 Hợp đồng này;
-- Quyền sử dụng toàn bộ Tài sản thuê của Bên B bị hạn chế;
-- Bên A vi phạm các nghĩa vụ và cam kết khác đã được quy định tại Điều 4 Hợp đồng này.
-Khi Bên A có những hành vi vi phạm Hợp Đồng Thuê Nhà nêu trên, Bên B sẽ gửi Thông báo chấm dứt Hợp Đồng Thuê Nhà đến Bên A. Thông báo nêu rõ hành vi vi phạm của Bên A và ngày chấm dứt Hợp Đồng Thuê Nhà. Trong các trường hợp này, Bên A phải trả lại cho Bên B toàn bộ Tiền cọc và Tiền Thuê Nhà mà Bên B đã thanh toán cho Bên A nhưng Bên B chưa sử dụng hết và bồi thường cho Bên B các khoản tiền sau:
-Một khoản tiền bằng với số Tiền cọc nêu tại Điều 3 Hợp đồng này;
-Một khoản tiền bồi thường do Bên B đã đầu tư vào việc kinh doanh tại Tài sản thuê là ……………..  đồng (Một trăm triệu đồng y).
-Ngoài các trường hợp nêu trên, Bên B khi xét thấy thuận tiện và hợp lý có quyền đơn phương chấm dứt Hợp đồng không phụ thuộc vào các trường hợp nêu trên. Khi đó Bên B phải có trách nhiệm thông báo trước cho Bên A 30 ngày (ba mươi ngày) trước ngày chấm dứt chính thức. Bên A được quyền tính tiền thuê nhà cho đến thời điểm Bên B chấm dứt chính thức và Bên A sẽ thanh toán lại cho Bên B tiền thuê nhà mà Bên B chưa sử dụng hết và hoàn trả lại số Tiền Cọc mà Bên A đã nhận của Bên B nêu tại Điều 3.4 Hợp đồng này. Trường hợp Bên B không báo trước cho Bên A đủ 30 ngày trước ngày chấm dứt chính thức thì số Tiền Cọc nêu tại Điều 3.4 Hợp đồng này sẽ thuộc sở hữu của Bên A.
-ĐIỀU 7. SỰ KIỆN BẤT KHẢ KHÁNG
-Các Bên không thực hiện hoặc chậm trễ thực hiện nghĩa vụ của mình trong Hợp Đồng Thuê Nhà sẽ không bị xem là vi phạm hợp đồng nếu nguyên nhân trực tiếp của việc không thực hiện hoặc chậm trễ ấy là do những biến cố không thể lường trước và nằm ngoài sự kiểm soát của các Bên như: chiến tranh, nổi loạn, thiên tai (lũ lụt, động đất, núi lửa), dịch bệnh hoặc sự thay đổi chính sách của Nhà nước (gọi là “Sự Kiện Bất Khả Kháng”). Để tránh nhầm lẫn Hai Bên xác định sự thay đổi trong quyết định, chính sách của cơ quan Nhà nước có thẩm quyền về việc không tiếp tục cho Bên B thực hiện hoạt động kinh doanh, được cư trú tại địa chỉ thuê được xác định là một sự kiện bất khả kháng.
-Bên bị ảnh hưởng của Sự Kiện Bất Khả Kháng phải Thông báo ngay bằng văn bản cho Bên kia ngay khi biết được rằng mình không thể thực hiện đúng nghĩa vụ trong Hợp Đồng Thuê Nhà do nguyên nhân trực tiếp từ Sự Kiện Bất Khả Kháng và phải nổ lực tối đa để tránh hoặc khắc phục nguyên nhân của Sự Kiện Bất Khả Kháng.
-	Việc thực hiện Hợp Đồng Thuê Nhà của các Bên (ngoài nghĩa vụ phải nổ lực tối đa để khắc phục nguyên nhân của Sự Kiện Bất Khả Kháng) sẽ được tạm ngưng trong thời hạn xãy ra Sự Kiện Bất Khả Kháng và sẽ tiếp tục thực hiện ngay khi khắc phục được Sự Kiện Bất Khả Kháng. Trong trường hợp, không thể khắc phục được Sự Kiện Bất Khả Kháng trong thời hạn 03 (ba) tháng kể từ ngày Bên bị ảnh hưởng của Sự Kiện Bất Khả Kháng thông báo về Sự Kiện Bất Khả Kháng, các Bên lập văn bản thoả thuận chấm dứt Hợp Đồng Thuê Nhà. Trong trường hợp này, Bên A sẽ trả lại cho Bên B toàn bộ số Tiền cọc và Tiền Thuê Nhà mà Bên B đã thanh toán cho Bên A nhưng Bên B chưa sử dụng hết tính đến ngày xảy ra Sự Kiện Bất Khả Kháng.
-	ĐIỀU 8. THÔNG BÁO 
-8.1. Thông báo hoặc trao đổi thông tin quy định trong Hợp Đồng này do một Bên gửi cho Bên còn lại, bao gồm nhưng không giới hạn ở bất kỳ và tất cả các đề nghị, văn bản, hoặc thông báo được gửi theo Hợp Đồng này (gọi chung là Thông báo), phải được lập thành văn bản và gửi: 
-(a) Trực tiếp; hoặc 
-(b) Bằng dịch vụ chuyển phát thư đảm bảo; 
-đến địa chỉ của Bên còn lại được viết đầu tiên trong Hợp Đồng này. Mỗi Bên có quyền thay đổi thông tin địa chỉ nhận thông báo vào bất cứ lúc nào khi đã thông báo cho Bên còn lại theo quy định của Điều này. 
-8.2. Thông báo sẽ được xem như là đã được gửi vào các thời điểm sau: 
-(a) Nếu gửi trực tiếp, khi đến địa chỉ quy định và tùy thuộc vào việc ký nhận hoặc bằng chứng đã giao khác; 
-(b) Nếu bằng dịch vụ chuyển phát thư đảm bảo là ngày làm việc thứ ba sau ngày gửi.
+		Sau đây gọi tắt mặt bằng cho thuê với thông tin nêu trên là “Tài sản”.
+		1.2. Bên A đồng ý cho thuê và Bên B đồng ý thuê Tài sản nêu trên của Bên A.
+		ĐIỀU 2: THỜI HẠN THUÊ VÀ MỤC ĐÍCH THUÊ
+			2.1. Thời hạn thuê của Hợp đồng này là ……….. năm tính từ “Ngày bắt đầu” đến “Ngày kết thúc” như sau:
+		+ Ngày bắt đầu	: ngày ….. tháng ……. năm ……………
+		+ Ngày kết thúc	: hết ngày …….. tháng …….. năm …………
+		2.2. Mục đích thuê: Bên A đồng ý cho Bên B thuê Tài sản để sử dụng cho các mục đích sau: ……………………………………………………………………………………….
+		2.3. Gia hạn Hợp đồng thuê: Bên B được quyền gia hạn Hợp đồng trong trường hợp có nhu cầu thuê tiếp. Khi đó, Bên B sẽ gửi cho Bên A 01 Thư đề nghị gia hạn. Trong vòng 07 (bảy) ngày kể từ ngày Bên B nhận được Thư đề nghị gia hạn của Bên B, Bên A sẽ trả lời cho Bên B bằng văn bản về việc đồng ý hay từ chối cho Bên B thuê tiếp với một thời hạn gia hạn theo sự thỏa thuận của hai bên. Trong trường hợp gia hạn, các Bên sẽ ký kết một Phụ lục gia hạn Hợp đồng này hoặc ký lại một Hợp đồng mới với các điều khoản và điều kiện được giữ nguyên theo Hợp đồng này, ngoại trừ tiền thuê mới được tính theo quy định tại Điều 3.1 Hợp đồng này.
+		2.4. Bàn giao Tài sản thuê và giao trả tài sản thuê
+		Vào ngày hai Bên ký kết Hợp đồng này, Hai Bên sẽ tiến hành bàn giao Tài sản thuê. Các Bên sẽ ký kiểm kê thực tế tài sản trong Tài sản thuê, và ký tên vào một “Bảng liệt kê tài sản”. Bảng liệt kê tài sản vừa làm cơ sở để xác định tài sản mà Bên B phải bàn giao cho Bên A vào ngày hai Bên ký kết Hợp Đồng Thuê Nhà đồng thời làm cơ sở để Bên B giao trả lại Tài sản thuê cho Bên A khi Hợp Đồng chấm dứt.
+		Khi Hợp Đồng Thuê Nhà chấm dứt, Bên B phải giao trả toàn bộ Tài sản cho Bên A theo đúng như thời điểm bàn giao. Bên B được quyền mang đi và sở hữu toàn bộ các tài sản, thiết bị, máy móc và các tài sản khác của Bên B được lắp đặt trong Thời Hạn Thuê bằng tiền của Bên B.
+		ĐIỀU 3: TIỀN THUÊ, TIỀN CỌC VÀ PHƯƠNG THỨC THANH TOÁN
+	3.1. Tiền thuê
+		- Tiền Thuê là: ……………………. đồng.
+		- Tiền Thuê đã bao gồm Thuế Giá trị gia tăng và Thuế Thu nhập cá nhân, các khoản phí, lệ phí liên quan khác. Bên A chịu trách nhiệm thanh toán các khoản tiền thuế này cho cơ quan Nhà nước có thẩm quyền. Bên A sẽ chịu trách nhiệm đóng các loại thuế hoặc phí khác liên quan đến quyền sử dụng Tài sản cho thuê. Bên B chịu trách nhiệm đóng các loại thuế, phí liên quan đến hoạt động kinh doanh của mình.
+		- Nếu Bên B có nhu cầu thuê tiếp khi đã hết thời hạn thuê theo Hợp đồng này, hai Bên sẽ thỏa thuận về việc gia hạn Hợp đồng theo Điều 2 Hợp đồng này. Trong trường hợp hai Bên đồng ý gia hạn thì giá thuê có thể được tăng thêm nhưng mức tăng thêm không được vượt quá 10% (Mười phần trăm) tiền thuê của năm thứ 3 theo Hợp đồng này.
+		-3.2. Trường hợp Tài Sản Thuê không được cơ quan chức năng cho phép sửa chữa, xây dựng theo yêu cầu của Bên B và/hoặc Bên B không được cơ quan Nhà nước có thẩm quyền cho phép đăng ký kinh doanh, cư trú, thực hiện các mục đích khác tại địa chỉ thuê thì Hai Bên sẽ thanh lý Hợp đồng và Bên A sẽ trả lại cho Bên B Tiền Đặt Cọc và toàn bộ tiền thuê nhà mà Bên B đã thanh toán cho Bên A trong thời hạn ……… ngày kể từ ngày Bên B có yêu cầu.
+		3.3. Phương thức thanh toán
+		- Tiền Thuê sẽ được Bên B thanh toán cho Bên A định kỳ ……….. tháng/01 lần vào khoảng từ ngày ……. đến ngày ……… của tháng đầu tiên của mỗi kỳ thanh toán. Việc giao, nhận số tiền nêu trên do hai Bên tự thực hiện và chịu trách nhiệm trước pháp luật.
+		- Tiền thuê và các khoản chi phí khác (nếu có) sẽ được thanh toán bằng tiền mặt hoặc chuyển khoản vào tài khoản do Bên A cung cấp với thông tin như sau:
+		. Người thụ hưởng	:  ..........................................................................
+		. Tài khoản số		:  ..........................................................................
+		. Tại ngân hàng         	: ...........................................................................
+		Hoặc bằng bất cứ phương thức thanh toán khác do Bên B xác định và thông báo cho Bên A.
+		3.4. Tiền đặt cọc 
+		Để bảo đảm cho việc thực hiện Hợp đồng này, ngày .../..../2020, Bên B đã chuyển và Bên A đã nhận số tiền đặt cọc là …………. đồng tương đương 01 tháng tiền thuê nhà (“Tiền đặt cọc”). 
+		ĐIỀU 4: NGHĨA VỤ VÀ QUYỀN CỦA BÊN A
+		4.1. Nghĩa vụ của Bên A
+		- Bàn giao mặt bằng cho thuê theo quy định tại Hợp đồng này cho Bên B sử dụng kể từ ngày ký hợp đồng;
+		- Bảo đảm cho Bên B được sử dụng Tài sản thuê yên ổn, riêng biệt, đầy đủ, không có bất cứ sự cản trở hoặc hạn chế của Bên thứ 3 nào làm ảnh hưởng đến hoạt động kinh doanh của Bên B trong suốt thời hạn thuê;
+		- Hỗ trợ Bên B trong các thủ tục kết nối các dịch vụ tiện ích (điện, nước, internet…) hoặc khi các hoạt động thanh tra, kiểm tra từ các cơ quan Nhà nước có thẩm quyền.
+		- Bên A đồng ý cho Bên B được sửa chữa, cơi nới, xây lắp, cải tạo, trang trí Tài sản thuê cho phù hợp với mục đích thuê.
+		- Tạo điều kiện thuận lợi nhất cho Bên B sử dụng chỗ để xe, lối đi chung, sử dụng điện, nước và các nhu cầu cần thiết khác trong căn nhà cho thuê nêu tại Điều 1 của Hợp đồng này;
+		- Hỗ trợ tối đa cho Bên thuê trong việc xin các loại giấy phép an ninh trật tự, phòng cháy chữa cháy và các loại giấy phép khác mà pháp luật yêu cầu Bên A đứng tên;
+		- Trong trường hợp bên cho thuê bán, chuyển nhượng hoặc thực hiện bất kỳ giao dịch nào nhằm chuyển nhượng Căn Nhà cho bên thứ ba thì Bên cho thuê sẽ phải thu xếp cho chủ sở hữu mới kế thừa các nghĩa vụ và trách nhiệm của Bên cho thuê theo Hợp đồng thuê để tiếp tục thực hiện Hợp đồng thuê này;
+		- Bên A cam kết rằng trong trường hợp bất kỳ Bên cho thuê nào phát sinh sự kiện pháp lý dẫn đến có bên thứ ba thừa kế quyền sử dụng đất và tài sản cho thuê thì các người thừa kế của Bên cho thuê đó sẽ tiếp tục thực hiện tất cả các nghĩa vụ của Bên cho thuê theo Hợp đồng thuê này;
+		- Các nghĩa vụ khác theo quy định của pháp luật.
+		4.2. Quyền của Bên A
+		- Nhận đủ tiền thuê nhà đúng kỳ hạn như đã thỏa thuận;
+		- Cải tạo, nâng cấp nhà cho thuê khi được Bên A đồng ý nhưng không được gây phiền hà cho hoạt động kinh doanh Bên A;
+		- Được lấy lại Tài sản thuê khi hết thời hạn thuê mà Hợp đồng không được gia hạn;
+		- Các quyền khác theo quy định của pháp luật.
+		ĐIỀU 5: NGHĨA VỤ VÀ QUYỀN CỦA BÊN B
+		5.1. Nghĩa vụ của Bên B
+	- Sử dụng nhà đúng mục đích đã thỏa thuận;
+	- Trả đủ tiền thuê nhà đúng kỳ hạn đã thỏa thuận;
+	- Tôn trọng quy tắc sinh hoạt công cộng;
+		- Tự thanh toán các khoản tiền: điện, nước, điện thoại… trong phạm vi sử dụng của Bên B.
+	- Chịu trách nhiệm với chính quyền địa phương về an ninh trật tự;
+		- Khi Hợp Đồng Thuê Nhà chấm dứt, Bên B phải giao trả toàn bộ Căn Nhà cho Bên A đúng số lượng, chủng loại như tại thời điểm bàn giao và trong tình trạng sử dụng bình thường (trừ các hao mòn hợp lý theo thời gian sử dụng). Bên B được quyền mang đi các thiết bị rời đã được lắp đặt trong Thời Hạn Thuê bằng tiền của Bên B.
+		5.2. Quyền của Bên B
+		- Bên B có quyền được dỡ bỏ để xây dựng, cải tạo mới Tài sản thuê và/hoặc lắp đặt thêm tất cả thiết bị (không giới hạn các biển hiệu, biển quảng cáo, hình ảnh) cho phù hợp với mục đích thuê;
+		- Nhận bàn giao Tài sản thuê theo đúng thỏa thuận để toàn quyền sử dụng hoặc cải tạo, sửa chữa và kinh doanh; Sử dụng mặt bằng ổn định, lắp đặt biển hiệu công ty, bản hiệu trụ sở công ty; lắp đặt điện thoại, Internet, điện, nước… và các thiết bị khác phù hợp với mục đích kinh doanh của Bên thuê;
+		- Được ưu tiên ký hợp đồng thuê tiếp, nếu đã hết hạn thuê mà mặt bằng vẫn dùng để cho thuê;
+		- Được tiếp tục thuê theo các điều kiện đã thỏa thuận với Bên A trong trường hợp có sự thay đổi chủ sở hữu Tài sản thuê;
+		- Khi thanh lý Hợp đồng thuê, Bên B được quyền nhận lại toàn bộ máy móc, trang thiết bị, tài sản… đã đầu tư tại Tài sản thuê;
+		- Được cho thuê lại Tài sản thuê nhưng phải thông báo cho Bên A;
+		- Được quyền sử dụng toàn bộ Tài sản thuê một cách riêng biệt và đầy đủ trong suốt Thời Hạn Thuê, không có sự ngăn cản trái pháp luật từ Bên A, hoặc bất kỳ từ bên thứ ba nào khác;
+		- Được quyền yêu cầu Bên A sửa chữa Tài sản thuê trong trường hợp Tài sản thuê bị hư hỏng liên quan đến kết cấu hoặc những hư hỏng nặng làm cho Bên B không sử dụng được Tải sản thuê;
+		- Bên B được quyền chấm dứt Hợp đồng này trước thời hạn nhưng phải thông báo cho Bên A trước 30 ngày (ba mươi ngày) trước ngày chấm dứt chính thức;
+		- Các quyền khác theo quy định của pháp luật.
+		ĐIỀU 6: CHẤM DỨT HỢP ĐỒNG VÀ PHẠT VI PHẠM
+		Hợp đồng này bị chấm dứt trong các trường hợp sau:
+		6.1. Hợp đồng hết hạn mà không được gia hạn;
+		6.2. Các Bên thỏa thuận chấm dứt Hợp đồng;
+		6.3. Xảy ra sự kiện bất khả kháng theo quy định tại Điều 7 Hợp đồng này;
+		6.4. Một bên đơn phương chấm dứt hợp đồng thuê nhà theo quy định tại Điều này:
+		6.4.1. Bên A có quyền đơn phương chấm dứt thực hiện Hợp đồng khi Bên B có những hành vi sau:
+		- Bên B không trả Tiền Thuê Nhà sau khi Bên A đã có văn bản thông báo yêu cầu Bên B thanh toán trong vòng 30 ngày kể từ ngày đến hạn thanh toán quy định tại Điều 3.3. Hợp đồng này mà việc chậm thanh toán của Bên B không phải do sự kiện bất khả kháng, trở ngại khách quan hay lỗi từ Bên A.
+		 - Sử dụng Tài sản thuê không đúng với mục đích thuê đã và bị cơ quan Nhà nước có thẩm quyền xử phạt vi phạm về hành vi này mà vẫn tái phạm.
+		Khi Bên B có những hành vi vi phạm nêu trên, Bên A sẽ gửi Thông báo chấm dứt Hợp Đồng đến Bên B. Thông báo nêu rõ hành vi vi phạm của Bên B và ngày chấm dứt Hợp Đồng Thuê Nhà. Ngày chấm dứt Hợp Đồng được Bên A ấn định trong Thông báo sẽ không ít hơn 30 (ba mươi) ngày kể từ ngày Bên B nhận được thông báo. Trong trường hợp này, Tiền cọc và Tiền Thuê Nhà mà Bên B đã thanh toán cho Bên A nhưng Bên B chưa sử dụng hết sẽ thuộc quyền sở hữu của Bên A kể từ ngày chấm dứt Hợp Đồng Thuê Nhà được Bên A ấn định.
+		6.4.2. Bên B có quyền đơn phương chấm dứt thực hiện Hợp đồng khi Bên A có những hành vi sau:
+		- Bên A yêu cầu tăng tiền thuê nhà không đúng với thỏa thuận tại Điều 3 Hợp đồng này;
+		- Quyền sử dụng toàn bộ Tài sản thuê của Bên B bị hạn chế;
+		- Bên A vi phạm các nghĩa vụ và cam kết khác đã được quy định tại Điều 4 Hợp đồng này.
+		Khi Bên A có những hành vi vi phạm Hợp Đồng Thuê Nhà nêu trên, Bên B sẽ gửi Thông báo chấm dứt Hợp Đồng Thuê Nhà đến Bên A. Thông báo nêu rõ hành vi vi phạm của Bên A và ngày chấm dứt Hợp Đồng Thuê Nhà. Trong các trường hợp này, Bên A phải trả lại cho Bên B toàn bộ Tiền cọc và Tiền Thuê Nhà mà Bên B đã thanh toán cho Bên A nhưng Bên B chưa sử dụng hết và bồi thường cho Bên B các khoản tiền sau:
+		Một khoản tiền bằng với số Tiền cọc nêu tại Điều 3 Hợp đồng này;
+		Một khoản tiền bồi thường do Bên B đã đầu tư vào việc kinh doanh tại Tài sản thuê là ……………..  đồng (Một trăm triệu đồng y).
+		Ngoài các trường hợp nêu trên, Bên B khi xét thấy thuận tiện và hợp lý có quyền đơn phương chấm dứt Hợp đồng không phụ thuộc vào các trường hợp nêu trên. Khi đó Bên B phải có trách nhiệm thông báo trước cho Bên A 30 ngày (ba mươi ngày) trước ngày chấm dứt chính thức. Bên A được quyền tính tiền thuê nhà cho đến thời điểm Bên B chấm dứt chính thức và Bên A sẽ thanh toán lại cho Bên B tiền thuê nhà mà Bên B chưa sử dụng hết và hoàn trả lại số Tiền Cọc mà Bên A đã nhận của Bên B nêu tại Điều 3.4 Hợp đồng này. Trường hợp Bên B không báo trước cho Bên A đủ 30 ngày trước ngày chấm dứt chính thức thì số Tiền Cọc nêu tại Điều 3.4 Hợp đồng này sẽ thuộc sở hữu của Bên A.
+	ĐIỀU 7. SỰ KIỆN BẤT KHẢ KHÁNG
+	Các Bên không thực hiện hoặc chậm trễ thực hiện nghĩa vụ của mình trong Hợp Đồng Thuê Nhà sẽ không bị xem là vi phạm hợp đồng nếu nguyên nhân trực tiếp của việc không thực hiện hoặc chậm trễ ấy là do những biến cố không thể lường trước và nằm ngoài sự kiểm soát của các Bên như: chiến tranh, nổi loạn, thiên tai (lũ lụt, động đất, núi lửa), dịch bệnh hoặc sự thay đổi chính sách của Nhà nước (gọi là “Sự Kiện Bất Khả Kháng”). Để tránh nhầm lẫn Hai Bên xác định sự thay đổi trong quyết định, chính sách của cơ quan Nhà nước có thẩm quyền về việc không tiếp tục cho Bên B thực hiện hoạt động kinh doanh, được cư trú tại địa chỉ thuê được xác định là một sự kiện bất khả kháng.
+	Bên bị ảnh hưởng của Sự Kiện Bất Khả Kháng phải Thông báo ngay bằng văn bản cho Bên kia ngay khi biết được rằng mình không thể thực hiện đúng nghĩa vụ trong Hợp Đồng Thuê Nhà do nguyên nhân trực tiếp từ Sự Kiện Bất Khả Kháng và phải nổ lực tối đa để tránh hoặc khắc phục nguyên nhân của Sự Kiện Bất Khả Kháng.
+			Việc thực hiện Hợp Đồng Thuê Nhà của các Bên (ngoài nghĩa vụ phải nổ lực tối đa để khắc phục nguyên nhân của Sự Kiện Bất Khả Kháng) sẽ được tạm ngưng trong thời hạn xãy ra Sự Kiện Bất Khả Kháng và sẽ tiếp tục thực hiện ngay khi khắc phục được Sự Kiện Bất Khả Kháng. Trong trường hợp, không thể khắc phục được Sự Kiện Bất Khả Kháng trong thời hạn 03 (ba) tháng kể từ ngày Bên bị ảnh hưởng của Sự Kiện Bất Khả Kháng thông báo về Sự Kiện Bất Khả Kháng, các Bên lập văn bản thoả thuận chấm dứt Hợp Đồng Thuê Nhà. Trong trường hợp này, Bên A sẽ trả lại cho Bên B toàn bộ số Tiền cọc và Tiền Thuê Nhà mà Bên B đã thanh toán cho Bên A nhưng Bên B chưa sử dụng hết tính đến ngày xảy ra Sự Kiện Bất Khả Kháng.
+			ĐIỀU 8. THÔNG BÁO 
+	8.1. Thông báo hoặc trao đổi thông tin quy định trong Hợp Đồng này do một Bên gửi cho Bên còn lại, bao gồm nhưng không giới hạn ở bất kỳ và tất cả các đề nghị, văn bản, hoặc thông báo được gửi theo Hợp Đồng này (gọi chung là Thông báo), phải được lập thành văn bản và gửi: 
+	(a) Trực tiếp; hoặc 
+	(b) Bằng dịch vụ chuyển phát thư đảm bảo; 
+	đến địa chỉ của Bên còn lại được viết đầu tiên trong Hợp Đồng này. Mỗi Bên có quyền thay đổi thông tin địa chỉ nhận thông báo vào bất cứ lúc nào khi đã thông báo cho Bên còn lại theo quy định của Điều này. 
+	8.2. Thông báo sẽ được xem như là đã được gửi vào các thời điểm sau: 
+	(a) Nếu gửi trực tiếp, khi đến địa chỉ quy định và tùy thuộc vào việc ký nhận hoặc bằng chứng đã giao khác; 
+		(b) Nếu bằng dịch vụ chuyển phát thư đảm bảo là ngày làm việc thứ ba sau ngày gửi.
 	ĐIỀU 9. THÔNG BÁO
 	9.1. Bất kỳ thông báo, yêu cầu, thông tin, mọi thay đổi về trách nhiệm, nghĩa vụ và quyền lợi trong các điều khoản đã thỏa thuận, khiếu nại phát sinh liên quan đến Hợp đồng này phải được lập thành văn bản bằng Tiếng Việt và gửi đến các địa chỉ ở phần đầu Hợp đồng này hoặc địa chỉ thay đổi sau này theo thông báo của Hai Bên.
 	9.2. Trong trường hợp không có thỏa thuận khác, tất cả các thông báo sẽ được gửi qua bưu điện hoặc giao trực tiếp. Khi bưu điện không phát thư được vì bất kỳ lý do gì thì Bên thông báo sẽ thông tin cho Bên kia được biết và gửi thông báo bằng fax hoặc thư điện tử cho Bên kia. Trong một số trường hợp đặc biệt khẩn cấp, một trong Hai Bên đồng ý hình thức thông báo cho Bên kia bằng điện thoại trực tiếp.
@@ -7372,7 +8249,6 @@ Bên bị ảnh hưởng của Sự Kiện Bất Khả Kháng phải Thông báo
 	10.4. Nếu một Bên vi phạm quy định về bảo mật thông tin và không khắc phục trong thời hạn 30 ngày kể từ ngày nhận được thông báo của Bên bị vi phạm, hoặc vi phạm lần 2 thì Bên bị vi phạm có quyền chấm dứt Hợp đồng này, sau khi thông báo bằng văn bản cho Bên vi phạm.
 ĐIỀU 11. GIẢI QUYẾT TRANH CHẤP
 	Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
-
 ĐIỀU 12. ĐIỀU KHOẢN CHUNG
 	12.1. Hợp đồng này được giải thích và hiểu theo pháp luật Việt Nam.
 	12.2.Các bên cam kết thực hiện đúng và đầy đủ tất cả các điều khoản của Hợp đồng. Các điều khoản, nội dung công việc cam kết trong Hợp đồng khi cần có thể được sửa đổi, bổ sung, lập phụ lục thỏa thuận Hợp đồng giữa Hai bên. Bất kỳ sự sửa đổi, bổ sung hoặc lập Phụ lục Hợp đồng phải được lập thành văn bản, có chữ ký của Hai bên và là một bộ phận không thể tách rời của Hợp đồng.
@@ -7381,49 +8257,69 @@ Bên bị ảnh hưởng của Sự Kiện Bất Khả Kháng phải Thông báo
 	12.5. Hợp đồng này được ký bởi đại diện có thẩm quyền của các Bên vào ngày được nêu ở phần đầu.  
 ĐIỀU 13: CÁC THỎA THUẬN KHÁC (Nếu có)
 ...................................................................................... 
-
-
-
-
-
-
-
-
-"""
-Mau_Hop_dong_thau_phu_xay_dung = """
-HỢP ĐỒNG THẦU PHỤ XÂY DỰNG ….
+ĐẠI DIỆN BÊN A
+(Ký và ghi rõ họ tên)
+ĐẠI DIỆN BÊN B
+(Ký và ghi rõ họ tên)
+10 |10"""
+Mau_Hop_dong_thau_phu_xay_dung = """HỢP ĐỒNG THẦU PHỤ XÂY DỰNG ….
 Số: ……
-
-
 Giữa
 Bên Giao Thầu: ………….
 Và
 Bên Nhận Thầu: …………
+MỤC LỤC
+		ĐIỀU 1. NỘI DUNG VÀ KHỐI LƯỢNG CÔNG VIỆC	3
+		ĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ THANH TOÁN	4
+		ĐIỀU 3. THỜI GIAN VÀ TIẾN ĐỘ THỰC HIỆN HỢP ĐỒNG	6
+		ĐIỀU 4. QUYỀN KHẤU TRỪ CỦA BÊN A	7
+		ĐIỀU 5. NHẬT KÝ CÔNG TRÌNH	7
+		ĐIỀU 6. CHẤT LƯỢNG VẬT TƯ VÀ CÁC YÊU CẦU KỸ THUẬT THI CÔNG	7
+		ĐIỀU 7. AN TOÀN LAO ĐỘNG, BẢO VỆ MÔI TRƯỜNG VÀ PHÒNG CHỐNG CHÁY NỔ	8
+		ĐIỀU 8. BẢO HIỂM, BẢO HÀNH VÀ MIỄN TRỪ TRÁCH NHIỆM	8
+	ĐIỀU 9.  CHẤT LƯỢNG CÔNG TRÌNH VÀ NGHIỆM THU	9
+	ĐIỀU 10. ĐIỆN, NƯỚC VÀ AN TOÀN CÔNG TRƯỜNG	9
+	ĐIỀU 11. QUYỀN VÀ NGHĨA VỤ CHUNG CỦA BÊN A	9
+	ĐIỀU 12. QUYỀN VÀ NGHĨA VỤ CHUNG CỦA BÊN B	10
+	ĐIỀU 13. CHẤM DỨT HỢP ĐỒNG	10
+	ĐIÊU 14. QUYẾT TOÁN VÀ THANH LÝ HỢP ĐỒNG	11
+	ĐIỀU 15. SỰ KIỆN BẤT KHẢ KHÁNG	11
+	ĐIỀU 16. CÁC CHẾ TÀI KHI VI PHẠM HỢP ĐỒNG	12
+	ĐIỀU 17. GIẢI QUYẾT TRANH CHẤP	12
+	ĐIỀU 18. CÁC ĐIỀU KHOẢN CHUNG	12
+	PHỤ LỤC 1 - THIẾT KẾ CÔNG TRÌNH	14
+	PHỤ LỤC 2 - CHI TIẾT HẠNG MỤC VÀ VẬT TƯ THEO DỰ TOÁN THI CÔNG	15
+	PHỤ LỤC 3 - NỘI DUNG CHI TIẾT GÓI THẦU VẬT TƯ LOẠI A	16
+	PHỤ LỤC 4 - BẢNG TÍNH GIÁ TRỊ ĐỀ NGHỊ THANH TOÁN	17
+	PHỤ LỤC 5 - BẢNG XÁC ĐỊNH GIÁ TRỊ KHỐI LƯỢNG CÔNG VIỆC HOÀN THÀNH THEO HỢP ĐỒNG	18
+	PHỤ LỤC 6 - BẢNG XÁC ĐỊNH ĐƠN GIÁ ĐIỀU CHỈNH THEO QUY ĐỊNH CỦA HỢP ĐỒNG	19
+	PHỤ LỤC 7 - BẢNG XÁC ĐỊNH GIÁ TRỊ KHỐI LƯỢNG PHÁT SINH NGOÀI HỢP ĐỒNG	20
+	PHỤ LỤC 8 - BIÊN BẢN NGHIỆM THU CÔNG TRÌNH	21
+	PHỤ LỤC 9 - BIÊN BẢN THANH LÝ HỢP ĐỒNG	23
 Hợp Đồng Thầu Phụ Xây Dựng Nhà Ở này (gọi tắt là “Hợp Đồng”) được lập và có hiệu lực từ ngày … tháng … năm 20.. giữa Các Bên dưới đây:
-BÊN GIAO THẦU: ..........(gọi tắt là “Bên A”)
-Mã số thuế    : ………..
-Địa chỉ trụ sở: …………
-Đại diện bởi	: …………                Chức vụ: ………..
-Điện thoại	: ………….
-Số tài khoản	: ……….. - Ngân hàng: ………… 
+		BÊN GIAO THẦU: ..........(gọi tắt là “Bên A”)
+		Mã số thuế    : ………..
+		Địa chỉ trụ sở: …………
+		Đại diện bởi	: …………                Chức vụ: ………..
+		Điện thoại	: ………….
+	Số tài khoản	: ……….. - Ngân hàng: ………… 
 VÀ
-BÊN NHẬN THẦU: ……… (gọi tắt là “Bên B”)
-Mã số thuế	: ……..
+		BÊN NHẬN THẦU: ……… (gọi tắt là “Bên B”)
+		Mã số thuế	: ……..
 Địa chỉ		: ………….
 Đại diện bởi	: ……….		Chức vụ: ………..
 Điện thoại	: ……….	
-Số tài khoản	: ……… - Ngân hàng: …………. 
-Bên A và Bên B trong Hợp Đồng này khi gọi riêng là “Bên” và gọi chung là “Các Bên”.
+	Số tài khoản	: ……… - Ngân hàng: …………. 
+	Bên A và Bên B trong Hợp Đồng này khi gọi riêng là “Bên” và gọi chung là “Các Bên”.
 Các Bên đồng ý như sau:
-
-NỘI DUNG VÀ KHỐI LƯỢNG CÔNG VIỆC 
+	NỘI DUNG VÀ KHỐI LƯỢNG CÔNG VIỆC 
 Bên A và Bên B ký kết Hợp Đồng Thầu Phụ Xây Dựng Nhà Ở theo đơn giá cố định. Theo đó, Bên B sẽ thực hiện thi công xây dựng (bao gồm xây dựng cơ bản và hoàn thiện) toàn bộ các hạng mục, Công Trình theo bản thiết kế do Bên A đưa ra để hoàn thiện Công Trình có mô tả dưới đây (gọi tắt là “Công Trình”):
-Loại Công Trình: ……….
-Địa chỉ xây dựng Công Trình: ………..
-Diện tích đất: ……. m2;
-Diện tích xây dựng: ……….. m2;
-Thiết kế Công Trình là bản thiết kế Đính kèm tại Phụ lục 1 Hợp Đồng;
-Chi tiết hạng mục và vật tư theo dự toán thi công: Đính kèm tại Phụ lục 2 Hợp Đồng.
+	Loại Công Trình: ……….
+	Địa chỉ xây dựng Công Trình: ………..
+	Diện tích đất: ……. m2;
+	Diện tích xây dựng: ……….. m2;
+	Thiết kế Công Trình là bản thiết kế Đính kèm tại Phụ lục 1 Hợp Đồng;
+	Chi tiết hạng mục và vật tư theo dự toán thi công: Đính kèm tại Phụ lục 2 Hợp Đồng.
 Gói thầu xây dựng: Gói nhân công phần thô và nhân công hoàn thiện. Theo gói thầu vật tư loại A. Chi tiết nội dung gói thầu vật tư loại A được quy định tại Phụ lục 3 Hợp Đồng.
 Các công việc cụ thể Bên A thực hiện theo Hợp Đồng này:  
 Bên B thi công để hoàn thiện toàn bộ Công Trình theo thiết kế và Chi tiết hạng mục và vật tư theo dự toán thi công nêu tại Phụ lục.
@@ -7457,7 +8353,7 @@ Hợp tác với các nhà thầu khác trên công trường (nếu có);
 Thu dọn công trường và bàn giao Công Trình sau khi hoàn thành;
 Bảo hành Công Trình theo quy định tại Hợp Đồng này;
 Các công việc khác theo quy định tại Hợp Đồng này.
-GIÁ TRỊ HỢP ĐỒNG VÀ THANH TOÁN
+	GIÁ TRỊ HỢP ĐỒNG VÀ THANH TOÁN
 Giá Trị Hợp Đồng là giá trị khoán gọn, đã bao gồm toàn bộ các chi phí để thực hiện công việc theo Hợp Đồng và sẽ không thay đổi trong suốt thời gian thực hiện Hợp Đồng với điều kiện Bên B thi công theo đúng Thiết kế Công Trình đính kèm tại Phụ lục 1 Hợp Đồng, trừ khi được điều chỉnh khi phát sinh sự tăng giảm khối lượng theo Khoản 2.2 của Hợp Đồng này. Như vậy, trừ trường hợp tại Khoản 2.2 thì Giá Trị Hợp Đồng là khoản tiền cố định, duy nhất mà Bên A phải thanh toán cho Bên B để Bên B thực hiện công việc được quy định tại Hợp Đồng này và các Phụ lục Hợp Đồng.
 Trong quá trình thi công nếu có phát sinh tăng hoặc giảm khối lượng các hạng mục xây lắp, Các Bên cùng bàn bạc và thỏa thuận và ghi nhận tại Bảng Xác Định Đơn Giá Điều Chỉnh Theo Quy Định Của Hợp Đồng theo mẫu tại Phụ lục 6 trong trường hợp tại Hợp Đồng, Phụ lục đã có đơn giá hoặc tại Bảng Xác Định Giá Trị Khối Lượng Phát Sinh Ngoài Hợp Đồng theo mẫu tại Phụ lục 7 đính kèm Hợp Đồng (trong trường hợp chưa có đơn giá) để làm cơ sở thanh toán. Đối với những khối lượng phát sinh nằm ngoài phạm vi Hợp Đồng mà chưa có đơn giá trong Hợp Đồng, Các Bên phải thống nhất đơn giá để thực hiện khối lượng công việc này trước khi thực hiện.
 Trường hợp do thay đổi hạng mục xây dựng mà Giá Trị Hợp Đồng tại Mục 2.3 tăng, Bên A sẽ thanh toán cho Bên B khoản tiền tăng thêm (gọi tắt là “Chi Phí Phát Sinh”) vào đợt thanh toán cuối cùng theo Mục 2.4;
@@ -7466,14 +8362,39 @@ Giá Trị Hợp Đồng chỉ được điều chỉnh theo hướng tăng lên
 Giá trị Hợp Đồng: ……….. VNĐ (Chưa bao gồm VAT)
 (Bằng chữ: ……… đồng)
 Phương thức thanh toán: Bên A sẽ thanh toán cho Bên B theo phương thức chuyển khoản theo thông tin tài khoản ngân hàng được nêu tại phần đầu Hợp Đồng. Việc thanh toán được thực hiện thành 11 đợt, cụ thể như sau:
+Đợt thanh toán
+Thời điểm thanh toán
+Số tiền cần thanh toán
+Sau khi bản Tiến Độ Thi Công của Bên B được Bên A duyệt
+….% Giá Trị Hợp Đồng
+Sau khi hoàn thiện đổ bê tông móng và cột của tầng trệt
+….% Giá Trị Hợp Đồng
+Sau khi hoàn thiện đổ bê tông tầng lửng
+….% Giá Trị Hợp Đồng
+Sau khi hoàn thiện đổ bê tông lầu 1
+…% Giá Trị Hợp Đồng
+Sau khi hoàn thiện đổ bê tông lầu 2
+……% Giá Trị Hợp Đồng
+Sau khi hoàn thiện đổ bê tông sân thượng
+…..% Giá Trị Hợp Đồng
+Sau khi hoàn thiện đổ bê tông mái
+…% Giá Trị Hợp Đồng
+Sau khi hoàn thiện công tác xây thô
+…% Giá Trị Hợp Đồng
+Sau khi hoàn thiện lót gạch và sơn nước
+….% Giá Trị Hợp Đồng
+Sau khi Các Bên ký Biên Bản Nghiệm Thu Công Trình
+…% Giá Trị Hợp Đồng
+Sau khi Các Bên ký Biên Bản Thanh Lý Hợp Đồng
+…..% Giá Trị Hợp Đồng và các Chi Phí Phát Sinh
 Bảng 1. Bảng các đợt thanh toán và số tiền thanh toán
 Thời hạn thanh toán: Trừ đợt thanh toán 1 và Đợt thanh toán 11, Bên A sẽ chỉ thanh toán cho Bên B trong thời hạn 03 (ba) ngày làm việc, kể từ ngày Bên A nhận được Hồ Sơ Thanh Toán Hợp Lệ của Bên B. Hồ Sơ Thanh Toán Hợp Lệ bao gồm: 
-Bảng Tính Giá Trị Đề Nghị Thanh Toán theo mẫu tại Phụ lục 4 và có chữ ký, đóng dấu của đại diện Bên B;
-Bảng Xác Định Giá Trị Khối Lượng Công Việc Hoàn Thành Theo Hợp Đồng;
-Bảng Xác Định Đơn Giá Điều Chỉnh Theo Quy Định Của Hợp Đồng hoặc Bảng Xác Định Giá Trị Khối Lượng Phát Sinh Ngoài Hợp Đồng theo mẫu tại Phụ lục có xác nhận của đại diện Các Bên (nếu có phát sinh).
+	Bảng Tính Giá Trị Đề Nghị Thanh Toán theo mẫu tại Phụ lục 4 và có chữ ký, đóng dấu của đại diện Bên B;
+	Bảng Xác Định Giá Trị Khối Lượng Công Việc Hoàn Thành Theo Hợp Đồng;
+	Bảng Xác Định Đơn Giá Điều Chỉnh Theo Quy Định Của Hợp Đồng hoặc Bảng Xác Định Giá Trị Khối Lượng Phát Sinh Ngoài Hợp Đồng theo mẫu tại Phụ lục có xác nhận của đại diện Các Bên (nếu có phát sinh).
 Đồng tiền thanh toán: Việt Nam Đồng.
 Nếu Bên A chậm thanh toán ngày sau thời hạn theo quy định Khoản 2.4 nêu trên mà không thuộc các trường hợp được miễn trách nhiệm quy định của Hợp Đồng, quy định pháp luật thì Bên A phải trả cho Bên B khoản tiền chậm trả với lãi suất 0.03%/ngày tính trên số tiền chậm thanh toán và tính từ ngày chậm thanh toán tới ngày việc thanh toán được hoàn tất. 
-THỜI GIAN VÀ TIẾN ĐỘ THỰC HIỆN HỢP ĐỒNG
+	THỜI GIAN VÀ TIẾN ĐỘ THỰC HIỆN HỢP ĐỒNG
 Thời Hạn Thực Hiện Hợp Đồng dự kiến là …. ngày kể từ ngày bàn giao mặt bằng thi công từ ngày ../…/20…. và dự kiến kết thúc hoàn thành bàn giao Công Trình vào ngày ../…/…
 Thời Hạn Thực Hiện Hợp Đồng chỉ có thể được gia hạn trong các trường hợp sau: 
 Có sự thay đổi phạm vi công việc, thiết kế, biện pháp thi công theo yêu cầu của Bên A làm ảnh hưởng đến tiến độ thực hiện Hợp Đồng;
@@ -7488,32 +8409,32 @@ Thời gian Bên B thực hiện mỗi công việc bao gồm: thời gian bắt
 Bản Tiến Độ Thi Công phải được soạn dựa trên Thiết Kế Công Trình. 
 Sau khi bản Tiến Độ Thi Công do Bên B đề xuất được Bên A duyệt, bản Tiến Độ Thi Công này sẽ được đính kèm Hợp Đồng và được xem là Phụ lục 10 của Hợp Đồng.
 Trường hợp gặp khó khăn khi thực hiện Hợp Đồng, Bên B có quyền đề xuất thay đổi Tiến Độ Thi Công bằng văn bản nhưng phải nêu rõ lý do và phải được sự chấp thuận của Bên A. Việc chấp thuận hay không chấp thuận đề xuất của Bên B là hoàn toàn thuộc quyền quyết định của Bên A.
-QUYỀN KHẤU TRỪ CỦA BÊN A
+	QUYỀN KHẤU TRỪ CỦA BÊN A
 Bên A có quyền khấu trừ nợ đồi với bất kỳ khoản tiền thanh toán hoặc có thể thanh toán theo Hợp Đồng này, số tiền của bất kỳ yêu cầu bồi thường thiệt hại và/hoặc chi phí và/hoặc thiệt hại (bao gồm nhưng không giới hạn tiền bồi thường định trước) đã được phát sinh cho Bên A vì lý do vi phạm hoặc không tuân thủ các quy định của Hợp Đồng của Bên B. 
 Với mục đích đảm bảo hoàn thành thỏa đáng và kịp thời của các công việc của Hợp Đồng này, nếu Bên B trong 03 (ba) ngày kể từ ngày nhận được thông báo bằng văn bản của Bên A mà không tiến hành để hoàn thành công việc với sự tích cực hay khần trương và/hoặc phù hợp với Hợp Đồng, Bên A có quyền thuê bên khác để thực hiện bất kỳ phần công việc nào của Hợp Đồng này. Trong trường hợp này, Bên A sẽ khấu trừ bất kỳ số tiền phát sinh trong việc sắp xếp trên từ các khoản tiền đến hạn hoặc có thể đến hạn của Bên B và Bên B phải chịu trách nhiệm bồi thường cho Bên A cho bất kỳ khiếu nại, tố tụng, thiệt hại, chi phí trong phạm vi công việc trong Hợp Đồng phát sinh hoặc gây ra cho Bên A trong việc thuê Các Bên khác. Tuy nhiên, việc thuê bên khác của Bên A nêu trên không làm giảm các nghĩa vụ của Bên B theo Hợp Đồng này. 
-NHẬT KÝ CÔNG TRÌNH
+	NHẬT KÝ CÔNG TRÌNH
 Bên B có trách nhiệm thực hiện việc ghi nhận lại các công việc thực hiện hàng ngày theo mẫu Nhật ký Công Trình do Bên A cung cấp. 
 Nhật ký Công Trình được lập từ thời điểm bắt đầu thi công đến khi Các Bên ký Biên Bản Nghiệm Thu Công Trình.
 Mọi hoạt động diễn ra tại Công Trình giữa Bên A và Bên B sẽ được phản ánh chính xác và trung thực vào Nhật ký Công Trình.
 Vào mỗi ngày làm việc, đại diện có thẩm quyền của Các Bên phải ký vào Nhật ký Công Trình coi như là việc xác nhận thông tin về các công việc được thực hiện trong ngày phù hợp với Tiến Độ Thi Công và các yêu cầu với Công Trình.
-CHẤT LƯỢNG VẬT TƯ VÀ CÁC YÊU CẦU KỸ THUẬT THI CÔNG
+	CHẤT LƯỢNG VẬT TƯ VÀ CÁC YÊU CẦU KỸ THUẬT THI CÔNG
 Bên B phải thực hiện thi công đúng theo Thiết Kế Công Trình. Trường hợp trong quá trình thi công Bên B phát hiện Thiết Kế Công Trình có sai sót hoặc không phù hợp, Bên B có trách nhiệm thông báo ngay cho Bên A để Bên A xem xét xử lý.
 Bên B phải chịu trách nhiệm đối với toàn bộ thiết bị/vật tư được cấp. 
 Sau khi Biên Bản Nghiệm Thu Công Trình đã được ký bởi Các Bên, Bên B phải dọn sạch và đưa đi tất cả thiết bị của Bên B, nguyên vật liệu thừa, phế thải xây dựng, rác rưởi và công trình tạm. Bên B phải để lại những khu vực đó của công trường và Công Trình trong trạng thái sạch sẽ và an toàn. Tuy nhiên, Bên B có thể để lại công trường những vật tư thiết bị cần để Bên B hoàn thành nghĩa vụ theo Hợp Đồng trong giai đoạn thông báo rằng việc thi công có sai sót.
 Nếu tất cả những vật tư thiết bị này không được dọn khỏi công trường trong vòng 03 (ba) ngày sau khi Bên A cấp Biên Bản Nghiệm Thu Công Trình thì Bên A có thể bán hoặc thải bỏ vật tư thiết bị mà Bên B chưa dọn dẹp. Số tiền thu được từ việc bán vật tư thiết bị sẽ trả cho Bên B sau khi đã thanh toán các chi phí phát sinh cho Bên A.
-AN TOÀN LAO ĐỘNG, BẢO VỆ MÔI TRƯỜNG VÀ PHÒNG CHỐNG CHÁY NỔ
+	AN TOÀN LAO ĐỘNG, BẢO VỆ MÔI TRƯỜNG VÀ PHÒNG CHỐNG CHÁY NỔ
 An toàn lao động
-Bên B có trách nhiệm đào tạo, hướng dẫn, phổ biến các quy định về an toàn lao động cho người lao động/người làm thuê của Bên B thực hiện việc thi công Công Trình (“Người của Bên B”). Đối với một số công việc yêu cầu nghiêm ngặt về an toàn lao động thì Người của Bên B phải có giấy chứng nhận đào tạo về an toàn lao động;
-Bên B có trách nhiệm cấp đầy đủ các trang bị bảo hộ lao động, an toàn lao động cho Người của Bên B;
-Bên B có trách nhiệm đảm bảo Người của Bên B thực hiện đúng các quy định về an toàn lao động theo quy định pháp luật hiện hành;
-Khi có sự cố về an toàn lao động, Bên B có trách nhiệm tổ chức xử lý và báo cáo cơ quan quản lý nhà nước về an toàn lao động theo quy định của pháp luật đồng thời chịu trách nhiệm khắc phục và bồi thường những thiệt hại do Bên B và/hoặc Người của Bên B không bảo đảm an toàn lao động gây ra.
-Bảo vệ môi trường
+	Bên B có trách nhiệm đào tạo, hướng dẫn, phổ biến các quy định về an toàn lao động cho người lao động/người làm thuê của Bên B thực hiện việc thi công Công Trình (“Người của Bên B”). Đối với một số công việc yêu cầu nghiêm ngặt về an toàn lao động thì Người của Bên B phải có giấy chứng nhận đào tạo về an toàn lao động;
+	Bên B có trách nhiệm cấp đầy đủ các trang bị bảo hộ lao động, an toàn lao động cho Người của Bên B;
+	Bên B có trách nhiệm đảm bảo Người của Bên B thực hiện đúng các quy định về an toàn lao động theo quy định pháp luật hiện hành;
+	Khi có sự cố về an toàn lao động, Bên B có trách nhiệm tổ chức xử lý và báo cáo cơ quan quản lý nhà nước về an toàn lao động theo quy định của pháp luật đồng thời chịu trách nhiệm khắc phục và bồi thường những thiệt hại do Bên B và/hoặc Người của Bên B không bảo đảm an toàn lao động gây ra.
+	Bảo vệ môi trường
 Bên B phải thực hiện các biện pháp bảo đảm về môi trường trên công trường và bảo vệ môi trường xung quanh, bao gồm có biện pháp chống bụi, chống ồn, xử lý phế thải và thu dọn hiện trường. Phải thực hiện các biện pháp bao che, thu dọn phế thải đưa đến đúng nơi quy định;
 Trong quá trình vận chuyển vật liệu xây dựng, phế thải phải có biện pháp che chắn bảo đảm an toàn, vệ sinh môi trường;
 Các Bên phải có trách nhiệm kiểm tra giám sát việc thực hiện bảo vệ môi trường xây dựng, đồng thời chịu sự kiểm tra giám sát của cơ quan quản lý nhà nước về môi trường. Trường hợp Bên B thi công xây dựng không tuân thủ các quy định về bảo vệ môi trường thì Bên A, cơ quan quản lý nhà nước về môi trường có quyền tạm ngừng thi công xây dựng và yêu cầu Bên B thực hiện đúng biện pháp bảo vệ môi trường;
 Tổ chức, cá nhân để xảy ra các hành vi làm tổn hại đến môi trường trong quá trình thi công xây dựng Công Trình phải chịu trách nhiệm trước pháp luật và bồi thường thiệt hại do lỗi của mình gây ra.
 Phòng chống cháy nổ: Bên B phải tuân thủ các quy định của pháp luật Việt Nam hiện hành về phòng chống cháy nổ.
-BẢO HIỂM, BẢO HÀNH VÀ MIỄN TRỪ TRÁCH NHIỆM 
+	BẢO HIỂM, BẢO HÀNH VÀ MIỄN TRỪ TRÁCH NHIỆM 
 Bên B có trách nhiệm thực hiện việc bảo hành Công Trình sau khi đã bàn giao Công Trình cho Bên A với các nội dung bảo hành bao gồm: khắc phục, sửa chữa các hư hỏng, khiếm khuyết đối với Công Trình mà Bên B thực hiện. 
 Thời gian bảo hành là …… được tính từ ngày Các Bên ký Biên Bản Nghiệm Thu Công Trình. 
 Bên B chịu trách nhiệm tuân thủ đầy đủ các yêu cầu và quy định hiện hành của pháp luật Việt Nam về việc cung cấp Bảo hiểm cho Người của Bên B cho Hợp Đồng này. Bên B sẽ chịu mọi chi phí cho việc cung cấp bảo hiểm nói trên.
@@ -7601,81 +8522,236 @@ Mọi sự thay đổi, bổ sung liên quan đến Hợp Đồng này thì ph�
 Việc từ bỏ bởi bất kỳ bên nào với bất kỳ điều khoản nào trong Hợp Đồng này sẽ không có hiệu lực trừ khi được quy định rõ ràng bằng văn bản và có chữ ký của bên từ bỏ. Việc không thực hiện, hoặc trì hoãn thực hiện, bất kỳ quyền, biện pháp, quyền lực hoặc đặc quyền nào phát sinh từ Hợp Đồng này sẽ không cấu thành hoặc được hiểu là sự từ bỏ.
 Hợp Đồng này lập thành 02 (hai) bản có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản để thực hiện.
 Để làm bằng chứng, mỗi Bên thông qua đại diện hợp pháp của mình đã đọc, hiểu đầy đủ về các nội dung trong Hợp Đồng và tự nguyện ký tên dưới đây.
-
-
+ĐẠI DIỆN BÊN GIAO THẦU
+(Ký, đóng dấu)
+Chức danh: 
+ĐẠI DIỆN BÊN NHẬN THẦU
+(Ký, đóng dấu)
+Chức danh: 
 PHỤ LỤC 1 - THIẾT KẾ CÔNG TRÌNH
-
-
 PHỤ LỤC 2 - CHI TIẾT HẠNG MỤC VÀ VẬT TƯ THEO DỰ TOÁN THI CÔNG
 PHỤ LỤC 3 - NỘI DUNG CHI TIẾT GÓI THẦU VẬT TƯ LOẠI A
 PHỤ LỤC 4 - BẢNG TÍNH GIÁ TRỊ ĐỀ NGHỊ THANH TOÁN
-
 Bảng Tính Giá Trị Đề Nghị Thanh Toán này được lập vào ngày … tháng … năm 20..
 Số Hợp Đồng: ……… Ngày ký: …/…/20.. 
 Bên Giao Thầu: .........
 Bên Nhận Thầu: ……….
 Đợt thanh toán số: …….. 
-
 1. Căn cứ khối lượng đã được nghiệm thu, Bên Nhận Thầu đề nghị Bên Giao Thầu thanh toán số tiền như sau:
+Số TT
+Các chỉ tiêu
+Đơn vị tính
+Giá trị (đồng)
+Ghi chú
+Giá trị khối lượng hoàn thành theo Hợp Đồng
+ 
+ 
+ 
+Giá trị khối lượng các công việc phát sinh ngoài Hợp Đồng
+ 
+ 
+ 
+Giá trị đề nghị thanh toán (1 + 2)
+ 
+ 
+ 
 Giá trị đề nghị thanh toán bằng chữ: ______________________________________ đồng.
 2. Hồ sơ kèm theo
 Bảng Xác Định Giá Trị Khối Lượng Công Việc Hoàn Thành Theo Hợp Đồng;
-
-
-
+ĐẠI DIỆN BÊN NHẬN THẦU
+(Ký, đóng dấu)
 PHỤ LỤC 5 - BẢNG XÁC ĐỊNH GIÁ TRỊ KHỐI LƯỢNG CÔNG VIỆC 
 HOÀN THÀNH THEO HỢP ĐỒNG
-
 Bảng Xác Định Giá Trị Khối Lượng Công Việc Hoàn Thành Theo Hợp Đồng này được lập vào ngày … tháng … năm 20….
 Số Hợp Đồng: …… Ngày ký: …/…./20.. 
 Bên Giao Thầu: .........
 Bên Nhận Thầu: ……….
 Đợt thanh toán số: ………. 
-
 Căn cứ xác định:
-
+STT
+Tên công việc
+Đơn vị tính
+Khối lượng
+Đơn giá thanh toán
+Thành tiền (đồng)
+Ghi chú
+Theo HĐ
+Đã thực hiện
+Theo HĐ
+Đã thực hiện
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tổng cộng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Bằng chữ: ___________________________________________ đồng.
-
-
-
-
+ĐẠI DIỆN BÊN GIAO THẦU
+(Ký)
+Chức danh: 
+ĐẠI DIỆN BÊN NHẬN THẦU
+(Ký)
+Chức danh: 
 PHỤ LỤC 6 - BẢNG XÁC ĐỊNH ĐƠN GIÁ ĐIỀU CHỈNH THEO QUY ĐỊNH CỦA HỢP ĐỒNG
-
 Bảng Xác Định Giá Trị Khối Lượng Công Việc Hoàn Thành Theo Hợp Đồng này được lập vào ngày …. tháng …. năm 20….
 Số Hợp Đồng: ……… Ngày ký: …./…./20.. 
 Bên Giao Thầu: .........
 Bên Nhận Thầu: ……..
 Đợt thanh toán số: ……… 
 Căn cứ xác định:
+STT
+Tên công việc
+Đơn vị tính
+Đơn giá 
+(đồng)
+Ghi chú
+Theo Hợp Đồng
+Điều chỉnh theo quy định của Hợp Đồng
  
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ĐẠI DIỆN BÊN GIAO THẦU
+(Ký)
+Chức danh: 
+ĐẠI DIỆN BÊN NHẬN THẦU
+(Ký)
+Chức danh: 
 PHỤ LỤC 7 - BẢNG XÁC ĐỊNH GIÁ TRỊ KHỐI LƯỢNG PHÁT SINH NGOÀI HỢP ĐỒNG
 (Chưa có đơn giá trong Hợp Đồng)
-
 Bảng Xác Định Giá Trị Khối Lượng Phát Sinh Ngoài Hợp Đồng này được lập vào ngày....tháng …. năm 20…
 Số Hợp Đồng: …… Ngày ký: …/…/20… 
 Bên Giao Thầu: .........
 Bên Nhận Thầu: ………
 Đợt thanh toán số: ……… 
 Căn cứ xác định:
-
+STT
+Tên công việc
+Đơn vị tính
+Khối lượng phát sinh
+Đơn giá (đồng)
+Thành tiền (đồng)
+Ghi chú
+Theo Hợp Đồng
+Theo đơn giá bổ sung
+Theo Hợp Đồng
+Theo đơn giá bổ sung
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tổng cộng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Bằng chữ: __________________________________________________
  
-
-
+ĐẠI DIỆN BÊN GIAO THẦU
+(Ký)
+Chức danh: 
+ĐẠI DIỆN BÊN NHẬN THẦU
+(Ký)
+Chức danh: 
 PHỤ LỤC 8 - BIÊN BẢN NGHIỆM THU CÔNG TRÌNH
-
-Biên Bản Nghiệm Thu Công Trình này được lập vào ngày … tháng … năm 20.. tại Công Trình: ……
-1. Đối tượng nghiệm thu: ………..
-2. Thành phần trực tiếp nghiệm thu:
-Đại diện Bên Giao Thầu: ….. Chức vụ: ……
-Đại diện Bên Nhận Thầu: …… Chức vụ: …..
-3. Thời gian nghiệm thu:
-Bắt đầu: … giờ …. ngày …… tháng …… năm 20…..
-Kết thúc: …… giờ ….. ngày …. tháng …. năm 20………
-Tại Công Trình: …………..
+	Biên Bản Nghiệm Thu Công Trình này được lập vào ngày … tháng … năm 20.. tại Công Trình: ……
+	1. Đối tượng nghiệm thu: ………..
+	2. Thành phần trực tiếp nghiệm thu:
+	Đại diện Bên Giao Thầu: ….. Chức vụ: ……
+	Đại diện Bên Nhận Thầu: …… Chức vụ: …..
+	3. Thời gian nghiệm thu:
+	Bắt đầu: … giờ …. ngày …… tháng …… năm 20…..
+	Kết thúc: …… giờ ….. ngày …. tháng …. năm 20………
+	Tại Công Trình: …………..
 4. Đánh giá công việc xây dựng đã thực hiện:
 a. Về tài liệu làm căn cứ nghiệm thu:
 - Phiếu yêu cầu nghiệm thu của Bên Nhận Thầu.
@@ -7693,81 +8769,114 @@ c. Các ý kiến khác nếu có:
 ……………………………………………………………….
 ………………………………………………………………..
 (Cần ghi rõ chấp nhận hay không chấp nhận nghiệm thu. Hoặc ghi rõ những sai sót (nếu có) cần phải sửa chữa, hoàn thiện).
-
-
-
+ĐẠI DIỆN BÊN GIAO THẦU
+(Ký, đóng dấu)
+	Chức danh: 	
+ĐẠI DIỆN BÊN NHẬN THẦU
+(Ký, đóng dấu)
+Chức danh: 
 PHỤ LỤC 9 – BIÊN BẢN THANH LÝ HỢP ĐỒNG
-
 Biên Bản Thanh Lý Hợp Đồng này (gọi tắt là “Biên Bản”) được lập và có hiệu lực từ ngày ..…tháng … năm 20.. giữa Các Bên dưới đây:
-BÊN GIAO THẦU: ..........
-Mã số thuế    : …….
-Đại diện bởi	: ….                Chức vụ: ….
+		BÊN GIAO THẦU: ..........
+		Mã số thuế    : …….
+		Đại diện bởi	: ….                Chức vụ: ….
 VÀ
-BÊN NHẬN THẦU: ………….. 
-Mã số thuế	: …….
+		BÊN NHẬN THẦU: ………….. 
+		Mã số thuế	: …….
 Đại diện bởi	: ……		Chức vụ: …….
 Ngày …. tháng ……. năm 20…. Các Bên đã ký Hợp Đồng Thầu Phụ Xây Dựng ……. Số … Các Bên nay đồng ý như sau:
-
 ĐIỀU 1. NỘI DUNG THANH LÝ HỢP ĐỒNG
 Các Bên xác nhận Bên Giao Thầu và Bên Nhận Thầu đã hoàn thành toàn bộ nghĩa vụ của mình theo đúng Hợp Đồng và thanh lý Hợp Đồng.
 ĐIỀU 2. ĐIỀU KHOẢN CHUNG
 2.1. Các Bên thống nhất ý chí rằng không có bất kỳ tranh chấp nào phát sinh đến Hợp Đồng cho đến ngày ký Biên bản thanh lý Hợp Đồng này.
 2.2. Biên bản thanh lý Hợp Đồng này có hiệu lực kể từ ngày ký. Các Bên không còn bất kỳ quyền và nghĩa vụ nào liên quan đến Hợp Đồng và cam kết không khiếu nại gì đối với Hợp Đồng sau khi ký Biên Bản Thanh Lý Hợp Đồng.
 2.3. Biên Bản Thanh Lý Hợp Đồng này được lập thành 02 (hai) bản bằng tiếng Việt, có giá trị pháp lý như nhau, mỗi Bên giữ 01 (một) bản để thực hiện. 
-
-"""
+ĐẠI DIỆN BÊN GIAO THẦU
+(Ký, đóng dấu)
+Chức danh: 
+ĐẠI DIỆN BÊN NHẬN THẦU
+(Ký, đóng dấu)
+Chức danh: 
+Trang 22"""
 Mau_Hop_dong_the_chap_co_phan_song_ngu = """CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
-––––––––––––––––––––––
-SOCIALIST REPUBLIC OF VIETNAM
-Independence - Freedom - Happiness
-––––––––––––––––––––––
-
+				Độc lập - Tự do - Hạnh phúc
+				––––––––––––––––––––––
+				SOCIALIST REPUBLIC OF VIETNAM
+				Independence - Freedom - Happiness
+				––––––––––––––––––––––
+				
 HỢP ĐỒNG THẾ CHẤP CỔ PHẦN
 SHARES MORTGAGE AGREEMENT
-Hôm nay, ngày ……/……/………..., tại ………………………….,  các bên gồm:
-On this day of ………..., at ………………………….,  we, the Parties named as below:
-Bên Thế Chấp: Công ty (Nếu Bên thế chấp là doanh nghiệp)	
-The Mortgagor: Company (for the corporate Mortgagor)
-ĐKKD số	:	do		cấp ngày:	
-Business Registration Certificate No.: ………………..issued by ……………….on: ………………
-Địa chỉ	:	
-Address	: 	
-Điện thoại: ……………………………….. Fax:	
-Tel	: ……………………………….. Fax:	
-Đại diện	:	
-Theo Văn bản ủy quyền số: ……………………..ngày …../…../…. của	
-Represented by: 	……………………………………………….
-under the Authorization Letter No.: ……………………..dated …../…../…. by	
-Ông/Bà (Nếu Bên thế chấp là cá nhân)	
-Mr./Ms. (for the individual Mortgagor)	
-CMND số: ………………… do ………………………………. cấp ngày 	
-ID Card No.: ………………… issued by ………………………………. on 	
-Địa chỉ	:	
-Address	:	
-	Và Vợ/chồng là:	
-	And the Spouse’s name is:	
-CMND số	:…………………….do……………………………….cấp ngày:	
-ID Card No.: ………………… issued by ………………………………. on 	
-Địa chỉ:							
-	Address	:						
-Bên Nhận Thế Chấp: Ngân Hàng … – Chi nhánh/Phòng Giao dịch	
-The Mortgagee: … – Branch/Transaction Office	
-Địa chỉ:		
-Address:	
-Điện thoại:	Fax:	
-Tel: ............	Fax:	
-Đại diện: Ông/Bà	Chức vụ:	
-Represented by: Mr./Ms.	Position:	
-under the Authorization Letter No.: ……………………..dated …../…../…. by	
-	Sau đây trong Hợp đồng này gọi là Bên Ngân hàng
-       Hereinafter referred to as The Bank
-Đã thoả thuận và nhất trí ký kết Hợp đồng này với các điều khoản như sau:
-Have agreed to enter into this Agreement with the terms and conditions as follows:
+	Hôm nay, ngày ……/……/………..., tại ………………………….,  các bên gồm:
+	On this day of ………..., at ………………………….,  we, the Parties named as below:
+	Bên Thế Chấp: Công ty (Nếu Bên thế chấp là doanh nghiệp)	
+	The Mortgagor: Company (for the corporate Mortgagor)
+							ĐKKD số	:	do		cấp ngày:	
+							Business Registration Certificate No.: ………………..issued by ……………….on: ………………
+		Địa chỉ	:	
+		Address	: 	
+		Điện thoại: ……………………………….. Fax:	
+		Tel	: ……………………………….. Fax:	
+		Đại diện	:	
+		Theo Văn bản ủy quyền số: ……………………..ngày …../…../…. của	
+		Represented by: 	……………………………………………….
+		under the Authorization Letter No.: ……………………..dated …../…../…. by	
+		Ông/Bà (Nếu Bên thế chấp là cá nhân)	
+		Mr./Ms. (for the individual Mortgagor)	
+		CMND số: ………………… do ………………………………. cấp ngày 	
+		ID Card No.: ………………… issued by ………………………………. on 	
+		Địa chỉ	:	
+		Address	:	
+			Và Vợ/chồng là:	
+			And the Spouse’s name is:	
+		CMND số	:…………………….do……………………………….cấp ngày:	
+							ID Card No.: ………………… issued by ………………………………. on 	
+		Địa chỉ:							
+								Address	:						
+	Bên Nhận Thế Chấp: Ngân Hàng … – Chi nhánh/Phòng Giao dịch	
+	The Mortgagee: … – Branch/Transaction Office	
+		Địa chỉ:		
+		Address:	
+					Điện thoại:	Fax:	
+					Tel: ............	Fax:	
+					Đại diện: Ông/Bà	Chức vụ:	
+					Represented by: Mr./Ms.	Position:	
+		under the Authorization Letter No.: ……………………..dated …../…../…. by	
+							Sau đây trong Hợp đồng này gọi là Bên Ngân hàng
+						       Hereinafter referred to as The Bank
+		Đã thoả thuận và nhất trí ký kết Hợp đồng này với các điều khoản như sau:
+	Have agreed to enter into this Agreement with the terms and conditions as follows:
 Tài Sản Thế Chấp
 Article 1.	Mortgaged Assets
 Bên thế chấp đồng ý thế chấp toàn bộ số cổ phần thuộc sở hữu của mình sau đây cho Bên Ngân hàng để bảo đảm cho nghĩa vụ của Bên thế chấp nêu tại Điều 2 của Hợp đồng này: 
 The Mortgagor agrees to mortgage the entirety of the shares under its ownership to the Bank in order to secure the Mortgagor’s obligations as provided in Article 2 of this Agreement:
+TT/No.
+Tổ chức phát hành/Issuing organization
+Số, ký hiệu/No./Code
+Số lượng/amount
+Ngày 
+phát hành/Issuing date
+Mệnh giá
+(đồng)/par value (VND)
+Tỷ lệ so với Vốn điều lệ/ Proport-ion to Charter Capital
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
 Các Bên thống nhất rằng, trong thời hạn thế chấp, bất kỳ cổ phần nào được Bên thế chấp mua thêm từ Tổ chức phát hành và toàn bộ cổ tức, quyền mua cổ phần, các quyền và lợi ích vật chất khác phát sinh từ Tài sản thế chấp nêu tại Khoản 1 nêu trên đều thuộc Tài sản thế chấp và đều bảo đảm cho các nghĩa vụ nêu tại Điều 2 Hợp đồng này.
 Parties agree that, in the mortgage term, any additional shares that the Mortgagor purchase from the Issuing Organization and the entire dividends, right to purchase shares, other material rights and benefits arising out of the Mortgaged Assets as provided in Clause 1 above also belong to the Mortgaged Assets and secure for the obligations provided in Article 2 of this Agreement.
 Bên thế chấp cam đoan rằng tại thời điểm ký Hợp đồng này, Tài sản thế chấp thuộc quyền sở hữu riêng hợp pháp của Bên thế chấp và được phép thế chấp theo quy định của pháp luật, không có bất kỳ khiếu nại, tranh chấp, khiếu kiện nào, không bị kê biên để bảo đảm thi hành án, chưa chuyển nhượng, góp vốn, trao đổi, thế chấp, tặng cho bên nào khác.
@@ -7780,7 +8889,6 @@ Khái niệm Toàn bộ nghĩa vụ nêu tại khoản 1 Điều này được h
 The definition of Entire Obligation specified in Item 1 of this Article are construed as obligation to pay principal, interest, fees, indemnities, Mortgaged Assets enforcement fees (confiscation and management fees, auction fee, judgment enforcement charges…) and all other obilgations of the Mortgagor to the Bank in under the signed Credit Document.
 Việc thế chấp tài sản nêu trên có hiệu lực cho đến khi Bên thế chấp thực tế thực hiện xong tất cả các nghĩa vụ được bảo đảm nêu tại Điều này đối với Bên Ngân hàng và Bên Ngân hàng đã thực hiện các thủ tục giải tỏa Tài sản thế chấp. 
 The Mortgage Assets mentioned above shall remain in full force until the Mortgagor actually fulfills the entirety of its obligations provided in this Article to the Bank and the Bank completed discharging procedures to the Mortgaged Assets.
-
 Định Giá Tài Sản Thế chấp Và Xử Lý Biến Động Giá Trị Tài Sản Thế Chấp
 Article 3.	Valuation of Mortgaged Assets and Dealing with Fluctuation of Mortgaged Assets’ Value
 Bên thế chấp đồng ý rằng, việc định giá Tài sản thế chấp sẽ do Bên Ngân hàng chủ động thực hiện theo nghiệp vụ và phương thức định giá riêng của Bên Ngân hàng. Tại thời điểm ký Hợp đồng này Các Bên thống nhất xác định giá trị Tài sản thế chấp theo Hợp đồng này là: …………………………. (Bằng chữ: …………………….. đồng). Giá trị Tài sản thế chấp này chỉ dùng để làm cơ sở xác định mức cấp tín dụng của Bên Ngân hàng đối với Bên thế chấp và không áp dụng khi xử lý Tài sản thế chấp để thu hồi nợ. 
@@ -7821,7 +8929,6 @@ Có quyền yêu cầu Bên thế chấp thanh toán số tiền còn thiếu ho
 To have right to request the Mortgagor to make payment for the deficit or take a lawsuit against the Mortgagor to recourse the deficit in case the Mortgaged Assets have been enforced that however is not enough for the Bank to recover the principal, interest and related fees arising from Credit Documents specified in Clause 1 of Article 2 of this Agreement;
 Bên Ngân hàng có các quyền khác theo thỏa thuận tại Hợp đồng này và theo quy định của pháp luật có liên quan. 
 The Bank shall have other rights under this Agreement and related legal provisions.
-
 Nghĩa vụ của Bên Ngân hàng:
 Obligations of the Bank:
 Cấp tín dụng cho Bên thế chấp sau khi Bên thế chấp đáp ứng đủ các điều kiện, thủ tục theo yêu cầu của Bên Ngân hàng;
@@ -7908,7 +9015,6 @@ Luật Điều Chỉnh Và Giải Quyết Tranh Chấp
 Article 9.	Governing Law and Dispute Settlement
 Hợp đồng này được giải thích và điều chỉnh bởi pháp luật Việt Nam.
 This Agreement shall be interpreted and governed by the laws of Vietnam.
-
 Một tranh chấp phát sinh từ, hoặc liên quan đến, Hợp Đồng này hoặc việc thực hiện Hợp Đồng này, bao gồm sự tồn tại, hiệu lực và chấm dứt của Hợp Đồng này, phạm vi, ý nghĩa, kết cấu, cách giải thích hay áp dụng Hợp Đồng này (“Tranh Chấp”) trong phạm vi có thể sẽ được giải quyết trên tinh thần hòa giải bằng đàm phán và trao đổi giữa Các Bên. Nếu trong thời hạn 30 Ngày Làm Việc mà không thể hòa giải, điều sau đây sẽ áp dụng. Bất kỳ Tranh Chấp nào không thể giải quyết trên tinh thần hòa giải trong vòng ba mươi (30) ngày kể từ ngày một Bên yêu cầu giải quyết Tranh Chấp đó sẽ được chuyển đến và giải quyết dứt điểm bằng trọng tài tại Trung Tâm Trọng Tài Thương Mại Miền Trung (“MCAC”) theo Quy Tắc Trọng Tài của MCAC có hiệu lực ở thời điểm gửi thông báo trọng tài. Hội đồng trọng tài sẽ bao gồm ba trọng tài viên.  Ngôn ngữ trọng tài sẽ là tiếng Anh, với điều kiện là bất kỳ phán quyết trọng tài nào cũng sẽ được lập bằng tiếng Anh và tiếng Việt. Các Bên sẽ tiếp tục thực hiện các nghĩa vụ theo Hợp Đồng này trong khi chờ đợi giải quyết tranh chấp.  Chi phí và phí phát sinh từ trọng tài sẽ do Bên thua kiện chịu, trừ khi được quy định khác trong phán quyết trọng tài.
 A dispute which arises out of, or in connection with, this Agreement or its performance, including the existence, validity and termination of this Agreement, the scope, meaning, construction, interpretation or application of this Agreement (“Dispute”) to the extent possible will be settled amicably by negotiation and discussion between the Parties.  If for a period of 30 Business Days no amicable settlement is reached then the following shall apply. A Dispute which is not able to be settled by amicable agreement within thirty (30) days from when a Party first requested such Dispute to be settled shall referred to and finally resolved by arbitration administered by the The Middle Commercial Arbitration Center (MCAC) under the MCAC Arbitration Rules in force when the notice of arbitration is submitted. The number of arbitrators shall be three. The arbitration proceedings shall be conducted in English, provided that any arbitral award shall be issued in English and Vietnamese. Parties to abide by obligations under this Agreement pending outcome of dispute. Costs and expenses arising out of the arbitration shall be borne by the losing Party, unless otherwise determined in the arbitral award.
 .
@@ -7922,193 +9028,203 @@ Hợp đồng này được lập đồng thời bằng tiếng Việt và tiế
 This Agreement is made in both Vietnamese and English languages. In case of any discrepancy  between the English and Vietnamese, the Vietnamese shall prevail.
 Các Bên xác nhận rằng việc giao kết Hợp đồng này là hoàn toàn tự nguyện, không giả tạo, không bị ép buộc, lừa dối, đe dọa, nhầm lẫn. Từng bên một đã đọc lại, hiểu rõ, nhất trí và cùng ký tên dưới đây.
 Parties hereby acknowledge that this Agreement has been entered into voluntarily, without falsity, coerciveness, deceptiveness, intimidation, or misleadingness. Each Party has read, understood, agreed and hereby caused duly authorised representative to execute this Agreement as below.
-
-"""
+BÊN THẾ CHẤP
+THE MORTGAGOR
+BÊN NHẬN THẾ CHẤP
+THE MORTGAGEE"""
 Mau_Hop_dong_tu_van_thiet_ke = """CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
-
-
-HỢP ĐỒNG TƯ VẤN THIẾT KẾ 
-
-Số HĐ: ……………….
-“V/v: Tư vấn thiết kế kỹ thuật và thiết kế bản vẽ thi công phần kết cấu” 
-
-Công trình: 			………………………………………………………………..
-Địa điểm xây dựng:	…………………………………………………………………
-Căn cứ Bộ Luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội Nước Cộng hoà Xã hội Chủ nghĩa Việt Nam;
-Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
-Căn cứ Nghị định số 46/2015/NĐ-CP ngày 12/05/2015 của Chính Phủ về quản lý chất lượng và bảo trì công trình xây dựng;
-	Thông tư số 37/2015/NĐ-CP ngày 22/04/2015 của Chính Phủ, Nghị định quy định chi tiết về hợp đồng xây dựng;
-	Nghị định số 59/2015/NĐ-CP ngày 18/06/2015 của Chính phủ về Quản lý dự án đầu tư xây dựng;
-	Nghị định số 32/2015/NĐ-CP ngày 25/03/2015 của Chính phủ quy định về quản lý chi phí đầu tư xây dựng công trình, 
-Hôm nay, ngày ……… tháng  ……..  năm ……… tại ……………….., chúng tôi gồm có:
-I. BÊN GIAO THẦU (gọi tắt là Bên A): ……………………
+		Độc lập - Tự do - Hạnh phúc
+		
+	
+		HỢP ĐỒNG TƯ VẤN THIẾT KẾ 
+	
+	Số HĐ: ……………….
+		“V/v: Tư vấn thiết kế kỹ thuật và thiết kế bản vẽ thi công phần kết cấu” 
+	
+	Công trình: 			………………………………………………………………..
+	Địa điểm xây dựng:	…………………………………………………………………
+	Căn cứ Bộ Luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội Nước Cộng hoà Xã hội Chủ nghĩa Việt Nam;
+	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
+	Căn cứ Nghị định số 46/2015/NĐ-CP ngày 12/05/2015 của Chính Phủ về quản lý chất lượng và bảo trì công trình xây dựng;
+		Thông tư số 37/2015/NĐ-CP ngày 22/04/2015 của Chính Phủ, Nghị định quy định chi tiết về hợp đồng xây dựng;
+		Nghị định số 59/2015/NĐ-CP ngày 18/06/2015 của Chính phủ về Quản lý dự án đầu tư xây dựng;
+		Nghị định số 32/2015/NĐ-CP ngày 25/03/2015 của Chính phủ quy định về quản lý chi phí đầu tư xây dựng công trình, 
+	Hôm nay, ngày ……… tháng  ……..  năm ……… tại ……………….., chúng tôi gồm có:
+	I. BÊN GIAO THẦU (gọi tắt là Bên A): ……………………
 Địa chỉ	: …………………………………………………… 
 Điện thoại	: ………………………………………………… 
 Fax		: ………………………………………………………… 
 Mã số thuế	: ………………………………………………… 
 Tài khoản số	: ……………………………………………… 
 Do ông (bà)	: ……………………………………………… 
-Chức vụ	: …………………………… làm đại diện
-II. BÊN NHẬN THẦU (gọi tắt là Bên B): ……………………….
+	Chức vụ	: …………………………… làm đại diện
+	II. BÊN NHẬN THẦU (gọi tắt là Bên B): ……………………….
 Địa chỉ	: …………………………………………………… 
 Điện thoại	: ………………………………………………… 
 Fax		: ………………………………………………………… 
 Mã số thuế	: ………………………………………………… 
 Tài khoản số	: ……………………………………………… 
 Do ông (bà)	: ……………………………………………… 
-Chức vụ	: …………………………… làm đại diện
-Hai bên cùng thống nhất ký hợp đồng tư vấn thiết kế kết cấu với những điều khoản sau:
-ĐIỀU 1.  NỘI DUNG VÀ KHỐI LƯỢNG CÔNG VIỆC 
-Bên A đồng ý giao và Bên B đồng ý nhận thực hiện công tác “Thiết kế kỹ thuật, thiết kế bản vẽ thi công cho công trình …………………ng” có nội dung và khối lượng công việc gồm: 
-	- Nghiên cứu hồ sơ tài liệu có liên quan, báo cáo kết quả khảo sát xây dựng, các số liệu bổ sung về khảo sát xây dựng, hiện trạng.
-	- Thiết kế công trình phù hợp với bước thiết kế trước về kiến trúc, phù hợp với quy chuẩn, tiêu chuẩn áp dụng cho công trình, đảm bảo sản phẩm tư vấn xây dựng (thuyết minh, các bản vẽ, khối lượng) phù hợp với thiết kế cơ sở, thiết kế kiến trúc và các quy định của pháp luật Việt Nam. 
-	- Tư vấn, lập các đề xuất liên quan đến kết cấu cho toàn bộ công trình. Đề xuất đối với công việc thiết kế chưa được Bên A đưa vào hồ sơ thiết kế trước đó.
-	- Thiết kế phần kết cấu với từng bước thiết kế theo luật, quy chuẩn, tiêu chuẩn áp dụng cho công trình, đảm bảo sản phẩm tư vấn xây dựng (gồm thuyết minh chung, thuyết minh tính toán, các bản vẽ, số liệu thiết kế, tổng hợp khối lượng, diễn giải khối lượng) phù hợp với dự án đầu tư xây dựng công trình và quy định của pháp luật về xây dựng. 
-	- Tham gia các cuộc họp có liên quan tới sản phẩm tư vấn xây dựng khi Bên A yêu cầu trong quá trình triển khai thực hiện. 
-	- Sửa đổi thiết kế khi có yêu cầu của cơ quan Nhà nước có thẩm quyền. 
-	- Phối hợp với bên A trong việc cung cấp hồ sơ hoặc các giải trình có liên quan, cho mục đích thẩm duyệt hồ sơ thiết kế và xin phép xây dựng công trình. Trường hợp chủ đầu tư có yêu cầu chỉnh sửa thiết kế cho phù hợp sau khi xin phép xây dựng, thì bên B có trách nhiệm thực hiện cho đến khi đáp ứng được toàn bộ yêu cầu này.
-	- Giám sát tác giả và làm rõ thiết kế, sửa đổi thiết kế (nếu chưa phù hợp nhu cầu sử dụng) trong quá trình thi công xây dựng công trình. 
-	- Chi tiết nội dung và phạm vi công việc được Bên B lập đề cương thiết kế ngay sau khi ký hợp đồng để trình Bên A làm cơ sở theo dõi và quản lý.   
-	Bổ sung diễn giải khối lượng thiết kế kết cấu: Bao nhiêu m2, bao nhiêu tầng, những nội dung chi tiết về kết cấu cụ thể của công trình kèm theo. 
-ĐIỀU 2. YÊU CẦU KỸ THUẬT, CHẤT LƯỢNG 
-	Sản phẩm của hợp đồng thiết kế theo quy định của Nhà nước về thiết kế xây dựng công trình, các tài liệu khảo sát xây dựng liên quan. 
-	Hồ sơ thiết kế phải do Bên B thực hiện phải đáp ứng được yêu cầu của Bên A, phải tuân thủ theo các quy định hiện hành của Nhà nước. 
-	Bản vẽ phải thể hiện chi tiết các bộ phận của công trình, các kích thước, thông số kỹ thuật, vật liệu chính đảm bảo, đầy đủ các bản vẽ chi tiết đáp ứng đủ thông tin điều kiện để thi công; Lập bảng khối lượng chi tiết và có diễn giải. 
-	Bên B phải nêu rõ yêu cầu kỹ thuật cụ thể, tiêu chuẩn thiết kế, tiêu chuẩn thi công, tiêu chuẩn nghiệm thu, tiêu chuẩn lắp đặt, cho tất cả các loại vật liệu, vật tư, thiết bị sử dụng của công trình.
-	Hồ sơ thiết kế bao gồm đầy đủ các bản vẽ: mặt bằng, mặt cắt, các chi tiết  thể hiện các kích thước, thông số kỹ thuật chủ yếu, thuyết minh, ghi chú… đảm bảo đủ điều kiện lập dự toán. 
-	Hồ sơ thiết kế đảm bảo được cấp phép xây dựng và đáp ứng được yêu cầu thi công.
-	Bên B không được tự ý chỉ định tên nhà sản xuất, nơi sản xuất, nhà cung ứng các loại vật tư, vật liệu, thiết bị trong hồ sơ thiết kế.
-	Số lượng sản phẩm của hợp đồng:
-	+ Giai đoạn trình duyệt: 02 bộ (thuyết minh A4 + bản vẽ A2)
-	+ Giai đoạn hoàn thành: 06 bộ (thuyết minh A4 + bản vẽ A2) + 01 bộ đĩa CD chứa file hồ sơ dạng Autocad, Word, Excell.
-ĐIỀU 3. GIÁM SÁT TÁC GIẢ
-	Bên B phải cử người đủ năng lực để thực hiện việc giám sát tác giả trong quá trình thi công xây dựng công trình, cụ thể như sau: 
-	- Bên B có trách nhiệm giải thích và làm rõ các tài liệu thiết kế công trình cho Bên A, các bên liên quan khác để quản lý và thi công theo đúng thiết kế. 
-	- Sửa đổi thiết kế đối với những nội dung chưa phù hợp với tiêu chuẩn, điều kiện thực tế của công trình.  
-	- Khi phát hiện thi công sai với thiết kế, người giám sát tác giả phải ghi nhật ký giám sát và yêu cầu nhà thầu thi công thực hiện đúng thiết kế. Trong trường hợp không khắc phục được Bên B phải có văn bản thông báo cho Bên A.  
-	- Bên B có trách nhiệm tham gia nghiệm thu công trình xây dựng khi có yêu cầu của Bên A cho công tác nghiệm thu kết thúc phần móng, phần thân,… hoặc khi có vấn đề cần phối hợp xử lý/ tham vấn thiết kế.  
-	- Trong quá trình thi công nếu, thiết kế có những nội dung chưa phù hợp, phải điều chỉnh lại so với thiết kế ban đầu, người giám sát tác giả của Bên B tư vấn có trách nhiệm phối hợp với các đơn vị tư vấn khác và cả Bên A để điều chỉnh lại cho phù hợp với tiêu chuẩn, điều kiện thực tế của công trình. 
-ĐIỀU 4: NGHIỆM THU SẢN PHẨM
-Căn cứ nghiệm thu sản phẩm tư vấn thiết kế xây dựng công trình:  
-	+ Hợp đồng tư vấn thiết kế này; 
-	+ Nhiệm vụ thiết kế, thiết kế các bước trước đó đã được cơ quan có thẩm quyền phê duyệt;
-	+ Quy chuẩn, tiêu chuẩn xây dựng được áp dụng;
-	+ Hồ sơ thiết kế xây dựng công trình gồm bản vẽ thiết kế.
-	- Nghiệm thu sản phẩm:
-	Sau khi đã nhận đầy đủ hồ sơ, tài liệu sản phẩm tư vấn xây dựng do Bên B cung cấp, Bên A căn cứ vào hợp đồng này, các tiêu chuẩn, quy chuẩn để tổ chức nghiệm thu sản phẩm tư vấn thiết kế. Những sai sót trong sản phẩm tư vấn thiết kế Bên B phải hoàn chỉnh theo đúng các điều khoản thoả thuận trong Hợp đồng và yêu cầu của bên A, cơ quan chức năng có thẩm quyền phê duyệt.  
-	Bên A chỉ thực hiện nghiệm thu hoàn thành cho bên B khi bên B hoàn thành đầy đủ các nội dung công việc theo đúng yêu cầu và trách nhiệm trong hợp đồng đã thống nhất.
-ĐIỀU 5: SỐ LƯỢNG HỒ SƠ - THỜI GIAN THỰC HIỆN 
-	- Thời gian thực hiện công tác thiết kế: 30 ngày (ba mươi ngày) kể từ ngày hồ sơ thỏa thuận kiến trúc cho công trình được phê duyệt và được Bên A bàn giao bản sao các bản vẽ kiến trúc cho Bên B. 
-	Trong vòng 03 ngày kể từ ngày hai bên ký kết hợp đồng này, căn cứ vào nhiệm vụ thiết kế, Bên B phải lập đề cương và tiến độ thực hiện Công việc chi tiêt trình Bên A phê duyệt. 
-	Trong thời gian thực hiện hợp đồng, trường hợp Bên B hoặc Bên A gặp khó khăn dẫn đến chậm trễ thời gian thực hiện hợp đồng thì một bên phải thông báo cho bên kia biết, đồng thời nêu rõ lý do cùng thời gian dự tính kéo dài. Sau khi nhận được thông báo kéo dài thời gian của một bên, bên kia sẽ nghiên cứu xem xét. Trường hợp chấp thuận gia hạn hợp đồng, các bên sẽ thương thảo và ký kết phụ lục bổ sung hợp đồng. 
-	Trong mọi trường hợp việc gia hạn thời gian thực hiện hợp đồng không được phép làm tăng giá hợp đồng. 
-	- Số lượng hồ sơ:
-	+ Giai đoạn trình duyệt: 02 bộ (thuyết minh A4 + bản vẽ A2);
-	+ Giai đoạn hoàn thành: 06 bộ (thuyết minh A4 + bản vẽ A2) + 01 bộ đĩa CD chứa file hồ sơ dạng Autocad, Word, Excell. 
-ĐIỀU 6: HÌNH THỨC, GIÁ TRỊ HỢP ĐỒNG
-	- Hình thức hợp đồng: hợp đồng trọn gói.
-	- Giá hợp đồng: 
-	+ Tổng diện tích sàn : ………. m2
-	+ Chi phí thiết kế = ………. m2 x ………… đồng /m2 = 	………… đồng
-	+ Thuế giá trị gia tăng 10% : 	…………. đồng 		
-	+ Tổng cộng giá trị hợp đồng bằng số: 	…………… đồng
- 	Đơn giá trên đã bao gồm chi phí chuyên gia; chi phí bảo hiểm trách nhiệm nghề nghiệp; thu nhập chịu thuế và thuế giá trị gia tăng; chi phí hoàn chỉnh sản phẩm tư vấn thiết kế xây dựng sau các cuộc họp, báo cáo, kết quả thẩm tra thẩm định, chi phí tham gia họp, bảo vệ sản phẩm trong thời gian thẩm định, chi phí giám sát tác giả trong thời gian thi công.
-	Trường hợp số tầng của công trình được cơ quan chức năng cấp phép thiết kế thêm, thì khối lượng sản phẩm được cộng thêm tương ứng, và giá trị hợp đồng cũng sẽ được tính thêm tương ứng bằng cách nhân theo đơn giá. 
-	Trường hợp bên A điều chỉnh kiến trúc thay đổi công năng sử dụng của tầng và sự thay đổi kiến trúc này làm thay đổi kết cấu (nếu có) cho phù hợp với kiến trúc mới, thì các bên tham gia hợp đồng thương lượng để xác định giá trị hợp đồng điều chỉnh phù hợp với các quy định của pháp luật.  
-ĐIỀU 7: PHƯƠNG THỨC VÀ ĐIỀU KIỆN THANH TOÁN
-	- Thanh toán bằng tiền mặt hoặc chuyển khoản.
-	- Đồng tiền áp dụng để thanh toán: tiền Việt Nam.
-	- Đợt thanh toán:
-	- Hồ sơ thanh/quyết toán gồm: 
-	+ Hồ sơ thanh toán theo mẫu của Bên A;
-	+ Biên bản nghiệm thu sản phẩm của hợp đồng có xác nhận của Bên A và các phê duyệt của cơ quan nhà nước có thẩm quyền;
-	+ Đề nghị thanh toán của Bên B; 
-	+ Hóa đơn tài chính hợp lệ tương ứng giá trị thanh toán;
-	+ Biên bản bàn giao tài liệu. 
-ĐIỀU 8. Trách nhiỆm chung cỦa Bên B:
-
-	Bên B phải đảm bảo có đầy đủ năng lực, bằng cấp, kinh nghiệm để thực hiện các công việc theo hợp đồng, đáp ứng các yêu cầu của bên A và tuân thủ đầy đủ các quy định của pháp luật hiện hành về việc năng lực cho các công việc thực hiện tư vấn thiết kế theo nội dung hợp đồng này (hồ sơ năng lực, bằng cấp, chứng chỉ và kinh nghiệm của người thực hiện hợp đồng). 
-	Tư vấn phải chỉ định người có năng lực và kinh nghiệm về các dự án tương tự để thực hiện các thiết kế theo hợp đồng này, giải thích các tài liệu cho bên A hoặc bên thứ ba thi công do bên A chỉ định. 
-	Bên B không được tự ý thay đổi nhân sự thực hiện hợp đồng khi không có sự thông báo chính thức đến bên A. Người thay thế phải đáp ứng đầy đủ năng lực thực hiện theo hợp đồng.
-	Cử người đại diện có đủ năng lực, thẩm quyền quyết định các nội dung công việc theo hợp đồng để tham gia các buổi họp, làm việc với bên A trong quá trình thực hiện hợp đồng.
-	Hồ sơ thiết kế, bản vẽ thiết kế phải tuân thủ các tiêu chuẩn, quy chuẩn xây dựng của Việt Nam và đảm bảo được thẩm định, phê duyệt của các cơ quan chức năng có thẩm quyền
-	Được phép sử dụng tiêu chuẩn thiết kế của nước ngoài để đáp ứng tốt các yêu cầu của Bên A và không trái với các tiêu chuẩn, quy chuẩn xây dựng của Việt Nam và phải được cơ quan có thẩm quyền phê duyệt.
-	Toàn bộ thiết kế của bên B phải đảm bảo đồng bộ, phù hợp với thiết kế kiến trúc, mỹ quan, tiện ích, công năng sử dụng tối ưu nhất cho chủ đầu tư. 
-	Có trách nhiệm thuyết minh, bảo vệ, giải thích đồng thời bổ sung, sửa chữa, điều chỉnh hồ sơ thiết kế cho đến khi được bên A và cơ quan có thẩm quyền phê duyệt.
-	Thực hiện hợp đồng theo đúng tiến độ đã cam kết tại Điều 3 của hợp đồng. 
-	Chịu trách nhiệm trước Bên A và pháp luật về nội dung, chất lượng hồ sơ thiết kế bản vẽ, lưu trữ, quản lý các tài liệu gốc.
-	Cung cấp các dịch vụ tư vấn thiết kế đầy đủ, chất lượng, hiệu quả, toàn diện theo đúng các điều khoản đã thoả thuận trong hợp đồng được bên A chấp thuận và cơ quan có thẩm duyền phê duyệt.
-	Chịu trách nhiệm xuất hóa đơn tài chính hợp pháp cho bên A đối với tất cả các phát sinh xảy ra trong hợp đồng này. 
-	Trong quá trình thực hiện việc giám sát tác giả nếu bên B phát hiện sai sót trong quá trình thi công so với bản vẽ thiết kế được phê duyệt thì phải ngay lập tức thông báo cho Chủ đầu tư được biết để phối hợp giải quyết. Trường hợp chậm trễ thông báo hoặc không thông báo làm ảnh hưởng tới tiến độ thi công của bên A thì bên B hoàn toàn chịu trách nhiệm cho các chi phí và thiệt hại phát sinh (nếu có). 
-	Trong quá trình thi công theo thiết kế nếu có vướng mắc, không đồng bộ, cần điều chỉnh thay đổi thiết kế cho phù hợp theo yêu cầu của bên A để đảm bảo phương án tối ưu cho Chủ đầu tư thì bên B phải chịu trách nhiệm điều chỉnh thiết kế nhằm khắc phục những vướng mắc, đảm bảo sự đồng bộ, thẩm mỹ, kỹ thuật với kiến trúc và tối ưu cho việc vận hành của chủ đầu tư.
-	Phối hợp thực hiện công việc với bên A, có trách nhiệm kết nối và chia sẽ thông tin với các nhà thầu thiết kế khác (cơ điện, kiến trúc, PCCC…) để đảm bảo tiến độ thực hiện công tác thiết kế  & xin phép xây dựng cho công trình.
-	Tham gia công tác giám sát tác tác giả, làm rõ thiết kế trong quá trình xây dựng dự án, khi có yêu cầu của bên A. Chịu trách nhiệm sửa đối thiết kế đối với những nội dung chưa phù hợp với tiêu chuẩn, điều kiện thực tế của công trình.
-	Bên B phải cam kết rằng sản phẩm tư vấn do bên B thực hiện và cung cấp cho chủ đầu tư không vi phạm bản quyền hoặc quyền sở hữu trí tuệ của bất cứ cá nhân hoặc bên thứ ba nào. 
-	Trường hợp các tài liệu, số liệu bên A giao cho bên B bị chậm hoặc gặp khó khăn thì bên B phải gặp bên A để bàn bạc lại thời gian thực hiện hợp đồng. Nếu không có sự thỏa thuận đặc biệt nào, mặc nhiên bên B có quyền giao các nội dung công việc đã hợp đồng chậm lại hoặc tương ứng với thời gian bên A giao chậm tài liệu.
-	Hoàn thành hợp đồng đúng thời hạn đã cam kết trong hợp đồng.
-	Bên B phải mua bảo hiểm trách nhiệm nghề nghiệp tư vấn thiết kế cho công trình. 
-	Phối hợp với Bên A để đảm bảo việc thiết kế được thực hiện theo giai đoạn thiết kế. Sau khi hoàn thành hồ sơ của từng giai đoạn thì phải chuyển cho Bên B để phối hợp kiểm tra, tránh tình trạng phải chỉnh sửa nhiều lần.
-	Phối hợp với đơn vị tư vấn thiết kế kiến trúc trong việc thực hiện hợp đồng này nếu có những thay đổi kiến trúc dẫn đến phải điều chỉnh thiết kế của bên B. Đảm bảo rằng sản phẩm của mình phải khớp nối với bản vẽ thiết kế kiến trúc được duyệt.
-	Bảo mật toàn bộ các thông tin về dự án, các tài liệu, thiết kế mà bên A cung cấp cho bên B để thực hiện các công việc theo hợp đồng.
-	Trong trường hợp sau khi hoàn thành thi công theo thiết kế của bên B, quá trình sử dụng của bên A gặp trục trặc về kỹ thuật, xác nhận nguyên nhân do sai sót của đơn vị tư vấn thiết kế thì bên B phải hoàn toàn chịu trách nhiệm cho việc khắc phục và bồi thường toàn bộ thiệt hại cho bên A.
-ĐiỀu 9. Trách nhiỆm chung cỦa Bên A
-	Bên A sẽ cung cấp cho Bên B tất cả các tài liệu và thông tin liên quan đến công việc của Bên B.
-	Nghiệm thu và thanh toán đúng hạn và đầy đủ cho bên B theo điều 05 của hợp đồng.
-	Tạo điều kiện cho Bên B ra vào thực địa công trình khảo sát thực tế (nếu có yêu cầu).
-	Trong trường hợp các quyết định của Bên A được đưa ra bởi một hội đồng, ủy ban hoặc một nhóm người, Bên A sẽ chỉ định một đại diện duy nhất có quyền hành động thay mặt cho Bên A trong Dự án Xây dựng. Bên A sẽ cung cấp phê duyệt và hướng dẫn một cách kịp thời để tránh làm chậm trễ tiến độ thực hiện công việc của Bên B. 
-	Trường hợp bên B thực hiện các công việc trong hợp đồng không đáp ứng yêu cầu của bên A, các sản phẩm tư vấn bên B đưa ra không được cơ quan có thẩm quyền phê duyệt hoặc Bên B vi phạm các quy định của Hợp đồng này thì bên A có quyền chấm dứt hợp đồng với bên B và không chịu trách nhiệm thanh toán cho bên B. 
-ĐiỀu 10. BẤt khẢ kháng:
-
-	Sự kiện bất khả kháng là sự kiện xảy ra mang tính khách quan và nằm ngoài tầm kiểm soát của các bên như động đất, sóng thần, chiến tranh và các thảm họa khác chưa lường hết được, sự thay đổi chính sách hoặc ngăn cấm của cơ quan có thẩm quyền của Việt Nam.
-	Việc một bên không hoàn thành nghĩa vụ của mình do sự kiện bất khả kháng sẽ không phải là cơ sở để bên kia chấm dứt hợp đồng. Tuy nhiên bên bị ảnh hưởng bởi sự kiện bất khả kháng có nghĩa vụ phải:
-	+ Tiến hành các biện pháp ngăn ngừa hợp lý và các biện pháp thay thế cần thiết để hạn chế tối đa ảnh hưởng do sự kiện bất khả kháng gây ra
-	+ Thông báo ngay cho bên kia về sự kiện bất khả kháng xảy ra trong vòng 7 ngày ngay sau khi xảy ra sự kiện bất khả kháng.
-	Trong trường hợp xảy ra sự kiện bất khả kháng, thời gian thực hiện hợp đồng sẽ được kéo dài bằng thời gian diễn ra sự kiện bất khả kháng mà bên bị ảnh hưởng không thể thực hiện các nghĩa vụ theo hợp đồng của mình.
-ĐiỀu 11. BẢn quyỀn, BẢo mẬt và trao đôi thông tin:
-	Bản quyền của các tài liệu thiết kế theo từng giai đoạn sẽ được chuyển giao cho Bên A trên cơ sở hoàn thành việc thanh toán cho từng giai đoạn tương ứng. Bên A có toàn quyền sở hữu, sử dụng các thiết kế cho dự án theo Hợp đồng này mà không cần phải có sự cho phép của Bên B. 
-	Bất kỳ thông tin nào về chính sách và quy trình của Bên A mà Bên B nhận được trong quá trình thực hiện các dịch vụ chiếu theo Hợp đồng này sẽ được Bên B xem là thông tin bảo mật và không được tiết lộ cho bất kỳ cá nhân, công ty nào khác nếu không có sự chấp thuận bằng văn bản của Bên A. Trường hợp bên B vi phạm thì tuỳ theo mức độ thiệt hại gây ra cho bên A bên B phải bồi thường toàn bộ. 
-	Các thông báo, chấp thuận, chứng chỉ, quyết định,.v.v. đưa ra phải bằng văn bản và được chuyển đến bên nhận bằng đường bưu điện, bằng fax, hoặc email theo địa chỉ như thông tin các bên đó đưa ra trong hợp đồng.
-	Trường hợp bên nào thay đổi địa chỉ liên lạc thì phải thông báo cho bên kia để đảm bảo việc trao đổi thông tin. Nếu bên thay đổi địa chỉ mà không thông báo cho bên kia thì phải chịu mọi hậu quả do việc thay đổi địa chỉ mà không thông báo. 
-ĐiỀu 12. TẠm ngưng và chẤm dỨt HỢp đỒng:
-Các trường hợp tạm dừng thực hiện hợp đồng:
-	Do lỗi của Bên A hoặc Bên B gây ra, mà bên không có lỗi đã gửi thư cảnh báo cho bên kia, nhưng lỗi đó vẫn không được khắc phục trong vòng 7 (bảy) ngày kể từ ngày nhận được thư cảnh báo;
-	Các trường hợp bất khả kháng, theo quy định chung của Pháp luật mà một trong các bên không thể khắc phục được và có yêu cầu chấm dứt thực hiện hợp đồng;
-	Bên A có quyền yêu cầu tạm dừng thực hiện hợp đồng này trên cơ sở các quyền và lợi ích của mình bằng một văn bản báo trước cho bên B trong vòng 14 ngày trước ngày tạm dừng. Việc tạm dừng này sẽ không được coi là lỗi. 
-	Các trường hợp khác được các bên thoả thuận;
-	Mọi việc tạm dừng thực hiện hợp đồng không tuân theo quy định tại Hợp đồng này sẽ được coi là lỗi, và bên gây ra lỗi sẽ phải đền bù thiệt hại cho bên không gây ra lỗi. Mức đền bù thiệt hại do tạm dừng hợp đồng sẽ được bên không gây ra lỗi liệt kê trên thiệt hại thực tế và bên vi phạm có trách nhiệm thanh toán, khắc phục.
- Hủy bỏ hợp đồng:
-	Bên A có quyền gởi thông báo chấm dứt Hợp đồng bằng văn bản tới Bên B khi Bên B vi phạm bất cứ nghĩa vụ nào quy định tại Hợp đồng.
-	Trong trường hợp này, Bên A sẽ ngừng mọi khoản thanh toán, yêu cầu phạt và bồi thường thiệt hại (nếu có), đồng thời tuyển nhà thiết kế khác để tiếp tục và hoàn tất Dịch vụ theo cách mà Bên A cho là hợp lý.
-	Bên A cũng có quyền gửi yêu cầu bằng văn bản tới Bên B tại bất kỳ thời điểm nào yêu cầu: (i) chấm dứt Hợp đồng này mà không cần đưa ra lý do; hoặc (ii)  hoặc đình chỉ việc thực hiện Dịch vụ của bên B. Nếu như Bên A không yêu cầu Bên B tiếp tục thực hiện Hợp đồng trong vòng 06 (sáu) tháng kể từ ngày tạm ngưng, Hợp đồng được coi như là chấm dứt hiệu lực tại thời điểm kết thúc thời hạn 06 tháng nói trên. 
-	Trong trường hợp này, Bên A sẽ thanh toán cho Bên B các khoản tiền tương ứng với phần Công việc và Dịch vụ đã hoàn tất và được Bên A phê duyệt trước ngày chấm dứt Hợp đồng, sau khi khấu trừ chi phí khắc phục các thiệt hại có nguyên nhân là sự cẩu thả, thiếu sót và các lỗi khác của Bên B trước thời điểm nói trên. Bên B phải xuất hóa đơn cuối cùng kịp thời. 
-	Hai bên thỏa thuận chấm dứt hợp đồng trước thời hạn. Trong trường hợp này, các bên sẽ hoàn trả cho nhau các nghĩa vụ đã được thực hiện cho đến ngày chấm dứt hiệu lực hợp đồng;
-	Các trường hợp khác theo quy định của pháp luật. 
-ĐiỀu 13. ThưỞng, phẠt khi vi phẠm hỢp đỒng:
-	Bên B phải thực hiện dịch vụ theo đúng tiến độ như đã quy định trong Điều 3 hợp đồng này, nếu chậm tiến độ sẽ bị phạt 1% giá trị hợp đồng bị vi phạm cho 01 ngày vi phạm, thời gian chậm không được quá 08 ngày (áp dụng cả trong trường hợp chỉnh sửa thiết kế theo yêu cầu). Quá thời hạn trên bên A có quyền chấm dứt hợp đồng và không thanh toán cho bên B. Đồng thời bên B phải bồi thường cho bên A các thiệt hại do phải thay đổi đối tác, ảnh hưởng tới tiến độ thực hiện dự án của bên A.
-	Nếu Bên B không nhận được khoản thanh toán cho giai đoạn riêng biệt tương ứng (theo quy định tại Điều 5) khi hết thời hạn thanh toán, Bên B sẽ yêu cầu một khoản nợ quá hạn theo tỉ lệ lãi suất bằng lãi suất tín dụng của Ngân hàng nơi bên B giao dịch tính từ ngày đến hạn cho đến ngày thanh toán trên phần giá trị chậm thanh toán.  Tổng số giá trị phạt không quá 12% giá trị Hợp đồng. 
-ĐiỀu 14. GIẢI quyẾt tranh chẤp
-
-
-
-
-
+	Chức vụ	: …………………………… làm đại diện
+	Hai bên cùng thống nhất ký hợp đồng tư vấn thiết kế kết cấu với những điều khoản sau:
+		ĐIỀU 1.  NỘI DUNG VÀ KHỐI LƯỢNG CÔNG VIỆC 
+	Bên A đồng ý giao và Bên B đồng ý nhận thực hiện công tác “Thiết kế kỹ thuật, thiết kế bản vẽ thi công cho công trình …………………ng” có nội dung và khối lượng công việc gồm: 
+		- Nghiên cứu hồ sơ tài liệu có liên quan, báo cáo kết quả khảo sát xây dựng, các số liệu bổ sung về khảo sát xây dựng, hiện trạng.
+		- Thiết kế công trình phù hợp với bước thiết kế trước về kiến trúc, phù hợp với quy chuẩn, tiêu chuẩn áp dụng cho công trình, đảm bảo sản phẩm tư vấn xây dựng (thuyết minh, các bản vẽ, khối lượng) phù hợp với thiết kế cơ sở, thiết kế kiến trúc và các quy định của pháp luật Việt Nam. 
+			- Tư vấn, lập các đề xuất liên quan đến kết cấu cho toàn bộ công trình. Đề xuất đối với công việc thiết kế chưa được Bên A đưa vào hồ sơ thiết kế trước đó.
+			- Thiết kế phần kết cấu với từng bước thiết kế theo luật, quy chuẩn, tiêu chuẩn áp dụng cho công trình, đảm bảo sản phẩm tư vấn xây dựng (gồm thuyết minh chung, thuyết minh tính toán, các bản vẽ, số liệu thiết kế, tổng hợp khối lượng, diễn giải khối lượng) phù hợp với dự án đầu tư xây dựng công trình và quy định của pháp luật về xây dựng. 
+		- Tham gia các cuộc họp có liên quan tới sản phẩm tư vấn xây dựng khi Bên A yêu cầu trong quá trình triển khai thực hiện. 
+		- Sửa đổi thiết kế khi có yêu cầu của cơ quan Nhà nước có thẩm quyền. 
+		- Phối hợp với bên A trong việc cung cấp hồ sơ hoặc các giải trình có liên quan, cho mục đích thẩm duyệt hồ sơ thiết kế và xin phép xây dựng công trình. Trường hợp chủ đầu tư có yêu cầu chỉnh sửa thiết kế cho phù hợp sau khi xin phép xây dựng, thì bên B có trách nhiệm thực hiện cho đến khi đáp ứng được toàn bộ yêu cầu này.
+			- Giám sát tác giả và làm rõ thiết kế, sửa đổi thiết kế (nếu chưa phù hợp nhu cầu sử dụng) trong quá trình thi công xây dựng công trình. 
+		- Chi tiết nội dung và phạm vi công việc được Bên B lập đề cương thiết kế ngay sau khi ký hợp đồng để trình Bên A làm cơ sở theo dõi và quản lý.   
+		Bổ sung diễn giải khối lượng thiết kế kết cấu: Bao nhiêu m2, bao nhiêu tầng, những nội dung chi tiết về kết cấu cụ thể của công trình kèm theo. 
+		ĐIỀU 2. YÊU CẦU KỸ THUẬT, CHẤT LƯỢNG 
+			Sản phẩm của hợp đồng thiết kế theo quy định của Nhà nước về thiết kế xây dựng công trình, các tài liệu khảo sát xây dựng liên quan. 
+			Hồ sơ thiết kế phải do Bên B thực hiện phải đáp ứng được yêu cầu của Bên A, phải tuân thủ theo các quy định hiện hành của Nhà nước. 
+			Bản vẽ phải thể hiện chi tiết các bộ phận của công trình, các kích thước, thông số kỹ thuật, vật liệu chính đảm bảo, đầy đủ các bản vẽ chi tiết đáp ứng đủ thông tin điều kiện để thi công; Lập bảng khối lượng chi tiết và có diễn giải. 
+			Bên B phải nêu rõ yêu cầu kỹ thuật cụ thể, tiêu chuẩn thiết kế, tiêu chuẩn thi công, tiêu chuẩn nghiệm thu, tiêu chuẩn lắp đặt, cho tất cả các loại vật liệu, vật tư, thiết bị sử dụng của công trình.
+			Hồ sơ thiết kế bao gồm đầy đủ các bản vẽ: mặt bằng, mặt cắt, các chi tiết  thể hiện các kích thước, thông số kỹ thuật chủ yếu, thuyết minh, ghi chú… đảm bảo đủ điều kiện lập dự toán. 
+			Hồ sơ thiết kế đảm bảo được cấp phép xây dựng và đáp ứng được yêu cầu thi công.
+			Bên B không được tự ý chỉ định tên nhà sản xuất, nơi sản xuất, nhà cung ứng các loại vật tư, vật liệu, thiết bị trong hồ sơ thiết kế.
+			Số lượng sản phẩm của hợp đồng:
+			+ Giai đoạn trình duyệt: 02 bộ (thuyết minh A4 + bản vẽ A2)
+			+ Giai đoạn hoàn thành: 06 bộ (thuyết minh A4 + bản vẽ A2) + 01 bộ đĩa CD chứa file hồ sơ dạng Autocad, Word, Excell.
+		ĐIỀU 3. GIÁM SÁT TÁC GIẢ
+		Bên B phải cử người đủ năng lực để thực hiện việc giám sát tác giả trong quá trình thi công xây dựng công trình, cụ thể như sau: 
+		- Bên B có trách nhiệm giải thích và làm rõ các tài liệu thiết kế công trình cho Bên A, các bên liên quan khác để quản lý và thi công theo đúng thiết kế. 
+		- Sửa đổi thiết kế đối với những nội dung chưa phù hợp với tiêu chuẩn, điều kiện thực tế của công trình.  
+		- Khi phát hiện thi công sai với thiết kế, người giám sát tác giả phải ghi nhật ký giám sát và yêu cầu nhà thầu thi công thực hiện đúng thiết kế. Trong trường hợp không khắc phục được Bên B phải có văn bản thông báo cho Bên A.  
+		- Bên B có trách nhiệm tham gia nghiệm thu công trình xây dựng khi có yêu cầu của Bên A cho công tác nghiệm thu kết thúc phần móng, phần thân,… hoặc khi có vấn đề cần phối hợp xử lý/ tham vấn thiết kế.  
+		- Trong quá trình thi công nếu, thiết kế có những nội dung chưa phù hợp, phải điều chỉnh lại so với thiết kế ban đầu, người giám sát tác giả của Bên B tư vấn có trách nhiệm phối hợp với các đơn vị tư vấn khác và cả Bên A để điều chỉnh lại cho phù hợp với tiêu chuẩn, điều kiện thực tế của công trình. 
+	ĐIỀU 4: NGHIỆM THU SẢN PHẨM
+	Căn cứ nghiệm thu sản phẩm tư vấn thiết kế xây dựng công trình:  
+		+ Hợp đồng tư vấn thiết kế này; 
+		+ Nhiệm vụ thiết kế, thiết kế các bước trước đó đã được cơ quan có thẩm quyền phê duyệt;
+		+ Quy chuẩn, tiêu chuẩn xây dựng được áp dụng;
+		+ Hồ sơ thiết kế xây dựng công trình gồm bản vẽ thiết kế.
+		- Nghiệm thu sản phẩm:
+		Sau khi đã nhận đầy đủ hồ sơ, tài liệu sản phẩm tư vấn xây dựng do Bên B cung cấp, Bên A căn cứ vào hợp đồng này, các tiêu chuẩn, quy chuẩn để tổ chức nghiệm thu sản phẩm tư vấn thiết kế. Những sai sót trong sản phẩm tư vấn thiết kế Bên B phải hoàn chỉnh theo đúng các điều khoản thoả thuận trong Hợp đồng và yêu cầu của bên A, cơ quan chức năng có thẩm quyền phê duyệt.  
+		Bên A chỉ thực hiện nghiệm thu hoàn thành cho bên B khi bên B hoàn thành đầy đủ các nội dung công việc theo đúng yêu cầu và trách nhiệm trong hợp đồng đã thống nhất.
+		ĐIỀU 5: SỐ LƯỢNG HỒ SƠ - THỜI GIAN THỰC HIỆN 
+		- Thời gian thực hiện công tác thiết kế: 30 ngày (ba mươi ngày) kể từ ngày hồ sơ thỏa thuận kiến trúc cho công trình được phê duyệt và được Bên A bàn giao bản sao các bản vẽ kiến trúc cho Bên B. 
+		Trong vòng 03 ngày kể từ ngày hai bên ký kết hợp đồng này, căn cứ vào nhiệm vụ thiết kế, Bên B phải lập đề cương và tiến độ thực hiện Công việc chi tiêt trình Bên A phê duyệt. 
+		Trong thời gian thực hiện hợp đồng, trường hợp Bên B hoặc Bên A gặp khó khăn dẫn đến chậm trễ thời gian thực hiện hợp đồng thì một bên phải thông báo cho bên kia biết, đồng thời nêu rõ lý do cùng thời gian dự tính kéo dài. Sau khi nhận được thông báo kéo dài thời gian của một bên, bên kia sẽ nghiên cứu xem xét. Trường hợp chấp thuận gia hạn hợp đồng, các bên sẽ thương thảo và ký kết phụ lục bổ sung hợp đồng. 
+		Trong mọi trường hợp việc gia hạn thời gian thực hiện hợp đồng không được phép làm tăng giá hợp đồng. 
+		- Số lượng hồ sơ:
+		+ Giai đoạn trình duyệt: 02 bộ (thuyết minh A4 + bản vẽ A2);
+		+ Giai đoạn hoàn thành: 06 bộ (thuyết minh A4 + bản vẽ A2) + 01 bộ đĩa CD chứa file hồ sơ dạng Autocad, Word, Excell. 
+	ĐIỀU 6: HÌNH THỨC, GIÁ TRỊ HỢP ĐỒNG
+		- Hình thức hợp đồng: hợp đồng trọn gói.
+		- Giá hợp đồng: 
+		+ Tổng diện tích sàn : ………. m2
+			+ Chi phí thiết kế = ………. m2 x ………… đồng /m2 = 	………… đồng
+			+ Thuế giá trị gia tăng 10% : 	…………. đồng 		
+			+ Tổng cộng giá trị hợp đồng bằng số: 	…………… đồng
+	 	Đơn giá trên đã bao gồm chi phí chuyên gia; chi phí bảo hiểm trách nhiệm nghề nghiệp; thu nhập chịu thuế và thuế giá trị gia tăng; chi phí hoàn chỉnh sản phẩm tư vấn thiết kế xây dựng sau các cuộc họp, báo cáo, kết quả thẩm tra thẩm định, chi phí tham gia họp, bảo vệ sản phẩm trong thời gian thẩm định, chi phí giám sát tác giả trong thời gian thi công.
+		Trường hợp số tầng của công trình được cơ quan chức năng cấp phép thiết kế thêm, thì khối lượng sản phẩm được cộng thêm tương ứng, và giá trị hợp đồng cũng sẽ được tính thêm tương ứng bằng cách nhân theo đơn giá. 
+		Trường hợp bên A điều chỉnh kiến trúc thay đổi công năng sử dụng của tầng và sự thay đổi kiến trúc này làm thay đổi kết cấu (nếu có) cho phù hợp với kiến trúc mới, thì các bên tham gia hợp đồng thương lượng để xác định giá trị hợp đồng điều chỉnh phù hợp với các quy định của pháp luật.  
+		ĐIỀU 7: PHƯƠNG THỨC VÀ ĐIỀU KIỆN THANH TOÁN
+		- Thanh toán bằng tiền mặt hoặc chuyển khoản.
+		- Đồng tiền áp dụng để thanh toán: tiền Việt Nam.
+		- Đợt thanh toán:
+		Đợt thanh toán
+		Giá trị thanh toán sau thuế (VNĐ)  
+		Thời điểm thanh toán
+		Đợt 1 (tạm ứng)
+		……….
+	Sau khi ký hợp đồng và Bên A nhận được Đề cương thiết kế chi tiết của Bên A chấp thuận, Bên A sẽ tạm ứng cho bên B ………. % giá  trị hợp đồng. 
+		
+		
+	
+		
+		
+	
+		- Hồ sơ thanh/quyết toán gồm: 
+		+ Hồ sơ thanh toán theo mẫu của Bên A;
+		+ Biên bản nghiệm thu sản phẩm của hợp đồng có xác nhận của Bên A và các phê duyệt của cơ quan nhà nước có thẩm quyền;
+		+ Đề nghị thanh toán của Bên B; 
+		+ Hóa đơn tài chính hợp lệ tương ứng giá trị thanh toán;
+		+ Biên bản bàn giao tài liệu. 
+	ĐIỀU 8. Trách nhiỆm chung cỦa Bên B:
+	
+		Bên B phải đảm bảo có đầy đủ năng lực, bằng cấp, kinh nghiệm để thực hiện các công việc theo hợp đồng, đáp ứng các yêu cầu của bên A và tuân thủ đầy đủ các quy định của pháp luật hiện hành về việc năng lực cho các công việc thực hiện tư vấn thiết kế theo nội dung hợp đồng này (hồ sơ năng lực, bằng cấp, chứng chỉ và kinh nghiệm của người thực hiện hợp đồng). 
+		Tư vấn phải chỉ định người có năng lực và kinh nghiệm về các dự án tương tự để thực hiện các thiết kế theo hợp đồng này, giải thích các tài liệu cho bên A hoặc bên thứ ba thi công do bên A chỉ định. 
+		Bên B không được tự ý thay đổi nhân sự thực hiện hợp đồng khi không có sự thông báo chính thức đến bên A. Người thay thế phải đáp ứng đầy đủ năng lực thực hiện theo hợp đồng.
+		Cử người đại diện có đủ năng lực, thẩm quyền quyết định các nội dung công việc theo hợp đồng để tham gia các buổi họp, làm việc với bên A trong quá trình thực hiện hợp đồng.
+		Hồ sơ thiết kế, bản vẽ thiết kế phải tuân thủ các tiêu chuẩn, quy chuẩn xây dựng của Việt Nam và đảm bảo được thẩm định, phê duyệt của các cơ quan chức năng có thẩm quyền
+		Được phép sử dụng tiêu chuẩn thiết kế của nước ngoài để đáp ứng tốt các yêu cầu của Bên A và không trái với các tiêu chuẩn, quy chuẩn xây dựng của Việt Nam và phải được cơ quan có thẩm quyền phê duyệt.
+		Toàn bộ thiết kế của bên B phải đảm bảo đồng bộ, phù hợp với thiết kế kiến trúc, mỹ quan, tiện ích, công năng sử dụng tối ưu nhất cho chủ đầu tư. 
+		Có trách nhiệm thuyết minh, bảo vệ, giải thích đồng thời bổ sung, sửa chữa, điều chỉnh hồ sơ thiết kế cho đến khi được bên A và cơ quan có thẩm quyền phê duyệt.
+		Thực hiện hợp đồng theo đúng tiến độ đã cam kết tại Điều 3 của hợp đồng. 
+		Chịu trách nhiệm trước Bên A và pháp luật về nội dung, chất lượng hồ sơ thiết kế bản vẽ, lưu trữ, quản lý các tài liệu gốc.
+		Cung cấp các dịch vụ tư vấn thiết kế đầy đủ, chất lượng, hiệu quả, toàn diện theo đúng các điều khoản đã thoả thuận trong hợp đồng được bên A chấp thuận và cơ quan có thẩm duyền phê duyệt.
+		Chịu trách nhiệm xuất hóa đơn tài chính hợp pháp cho bên A đối với tất cả các phát sinh xảy ra trong hợp đồng này. 
+		Trong quá trình thực hiện việc giám sát tác giả nếu bên B phát hiện sai sót trong quá trình thi công so với bản vẽ thiết kế được phê duyệt thì phải ngay lập tức thông báo cho Chủ đầu tư được biết để phối hợp giải quyết. Trường hợp chậm trễ thông báo hoặc không thông báo làm ảnh hưởng tới tiến độ thi công của bên A thì bên B hoàn toàn chịu trách nhiệm cho các chi phí và thiệt hại phát sinh (nếu có). 
+		Trong quá trình thi công theo thiết kế nếu có vướng mắc, không đồng bộ, cần điều chỉnh thay đổi thiết kế cho phù hợp theo yêu cầu của bên A để đảm bảo phương án tối ưu cho Chủ đầu tư thì bên B phải chịu trách nhiệm điều chỉnh thiết kế nhằm khắc phục những vướng mắc, đảm bảo sự đồng bộ, thẩm mỹ, kỹ thuật với kiến trúc và tối ưu cho việc vận hành của chủ đầu tư.
+		Phối hợp thực hiện công việc với bên A, có trách nhiệm kết nối và chia sẽ thông tin với các nhà thầu thiết kế khác (cơ điện, kiến trúc, PCCC…) để đảm bảo tiến độ thực hiện công tác thiết kế  & xin phép xây dựng cho công trình.
+		Tham gia công tác giám sát tác tác giả, làm rõ thiết kế trong quá trình xây dựng dự án, khi có yêu cầu của bên A. Chịu trách nhiệm sửa đối thiết kế đối với những nội dung chưa phù hợp với tiêu chuẩn, điều kiện thực tế của công trình.
+		Bên B phải cam kết rằng sản phẩm tư vấn do bên B thực hiện và cung cấp cho chủ đầu tư không vi phạm bản quyền hoặc quyền sở hữu trí tuệ của bất cứ cá nhân hoặc bên thứ ba nào. 
+		Trường hợp các tài liệu, số liệu bên A giao cho bên B bị chậm hoặc gặp khó khăn thì bên B phải gặp bên A để bàn bạc lại thời gian thực hiện hợp đồng. Nếu không có sự thỏa thuận đặc biệt nào, mặc nhiên bên B có quyền giao các nội dung công việc đã hợp đồng chậm lại hoặc tương ứng với thời gian bên A giao chậm tài liệu.
+		Hoàn thành hợp đồng đúng thời hạn đã cam kết trong hợp đồng.
+		Bên B phải mua bảo hiểm trách nhiệm nghề nghiệp tư vấn thiết kế cho công trình. 
+		Phối hợp với Bên A để đảm bảo việc thiết kế được thực hiện theo giai đoạn thiết kế. Sau khi hoàn thành hồ sơ của từng giai đoạn thì phải chuyển cho Bên B để phối hợp kiểm tra, tránh tình trạng phải chỉnh sửa nhiều lần.
+		Phối hợp với đơn vị tư vấn thiết kế kiến trúc trong việc thực hiện hợp đồng này nếu có những thay đổi kiến trúc dẫn đến phải điều chỉnh thiết kế của bên B. Đảm bảo rằng sản phẩm của mình phải khớp nối với bản vẽ thiết kế kiến trúc được duyệt.
+		Bảo mật toàn bộ các thông tin về dự án, các tài liệu, thiết kế mà bên A cung cấp cho bên B để thực hiện các công việc theo hợp đồng.
+		Trong trường hợp sau khi hoàn thành thi công theo thiết kế của bên B, quá trình sử dụng của bên A gặp trục trặc về kỹ thuật, xác nhận nguyên nhân do sai sót của đơn vị tư vấn thiết kế thì bên B phải hoàn toàn chịu trách nhiệm cho việc khắc phục và bồi thường toàn bộ thiệt hại cho bên A.
+	ĐiỀu 9. Trách nhiỆm chung cỦa Bên A
+		Bên A sẽ cung cấp cho Bên B tất cả các tài liệu và thông tin liên quan đến công việc của Bên B.
+		Nghiệm thu và thanh toán đúng hạn và đầy đủ cho bên B theo điều 05 của hợp đồng.
+		Tạo điều kiện cho Bên B ra vào thực địa công trình khảo sát thực tế (nếu có yêu cầu).
+		Trong trường hợp các quyết định của Bên A được đưa ra bởi một hội đồng, ủy ban hoặc một nhóm người, Bên A sẽ chỉ định một đại diện duy nhất có quyền hành động thay mặt cho Bên A trong Dự án Xây dựng. Bên A sẽ cung cấp phê duyệt và hướng dẫn một cách kịp thời để tránh làm chậm trễ tiến độ thực hiện công việc của Bên B. 
+		Trường hợp bên B thực hiện các công việc trong hợp đồng không đáp ứng yêu cầu của bên A, các sản phẩm tư vấn bên B đưa ra không được cơ quan có thẩm quyền phê duyệt hoặc Bên B vi phạm các quy định của Hợp đồng này thì bên A có quyền chấm dứt hợp đồng với bên B và không chịu trách nhiệm thanh toán cho bên B. 
+	ĐiỀu 10. BẤt khẢ kháng:
+	
+		Sự kiện bất khả kháng là sự kiện xảy ra mang tính khách quan và nằm ngoài tầm kiểm soát của các bên như động đất, sóng thần, chiến tranh và các thảm họa khác chưa lường hết được, sự thay đổi chính sách hoặc ngăn cấm của cơ quan có thẩm quyền của Việt Nam.
+		Việc một bên không hoàn thành nghĩa vụ của mình do sự kiện bất khả kháng sẽ không phải là cơ sở để bên kia chấm dứt hợp đồng. Tuy nhiên bên bị ảnh hưởng bởi sự kiện bất khả kháng có nghĩa vụ phải:
+		+ Tiến hành các biện pháp ngăn ngừa hợp lý và các biện pháp thay thế cần thiết để hạn chế tối đa ảnh hưởng do sự kiện bất khả kháng gây ra
+		+ Thông báo ngay cho bên kia về sự kiện bất khả kháng xảy ra trong vòng 7 ngày ngay sau khi xảy ra sự kiện bất khả kháng.
+		Trong trường hợp xảy ra sự kiện bất khả kháng, thời gian thực hiện hợp đồng sẽ được kéo dài bằng thời gian diễn ra sự kiện bất khả kháng mà bên bị ảnh hưởng không thể thực hiện các nghĩa vụ theo hợp đồng của mình.
+	ĐiỀu 11. BẢn quyỀn, BẢo mẬt và trao đôi thông tin:
+		Bản quyền của các tài liệu thiết kế theo từng giai đoạn sẽ được chuyển giao cho Bên A trên cơ sở hoàn thành việc thanh toán cho từng giai đoạn tương ứng. Bên A có toàn quyền sở hữu, sử dụng các thiết kế cho dự án theo Hợp đồng này mà không cần phải có sự cho phép của Bên B. 
+		Bất kỳ thông tin nào về chính sách và quy trình của Bên A mà Bên B nhận được trong quá trình thực hiện các dịch vụ chiếu theo Hợp đồng này sẽ được Bên B xem là thông tin bảo mật và không được tiết lộ cho bất kỳ cá nhân, công ty nào khác nếu không có sự chấp thuận bằng văn bản của Bên A. Trường hợp bên B vi phạm thì tuỳ theo mức độ thiệt hại gây ra cho bên A bên B phải bồi thường toàn bộ. 
+			Các thông báo, chấp thuận, chứng chỉ, quyết định,.v.v. đưa ra phải bằng văn bản và được chuyển đến bên nhận bằng đường bưu điện, bằng fax, hoặc email theo địa chỉ như thông tin các bên đó đưa ra trong hợp đồng.
+			Trường hợp bên nào thay đổi địa chỉ liên lạc thì phải thông báo cho bên kia để đảm bảo việc trao đổi thông tin. Nếu bên thay đổi địa chỉ mà không thông báo cho bên kia thì phải chịu mọi hậu quả do việc thay đổi địa chỉ mà không thông báo. 
+	ĐiỀu 12. TẠm ngưng và chẤm dỨt HỢp đỒng:
+	Các trường hợp tạm dừng thực hiện hợp đồng:
+		Do lỗi của Bên A hoặc Bên B gây ra, mà bên không có lỗi đã gửi thư cảnh báo cho bên kia, nhưng lỗi đó vẫn không được khắc phục trong vòng 7 (bảy) ngày kể từ ngày nhận được thư cảnh báo;
+		Các trường hợp bất khả kháng, theo quy định chung của Pháp luật mà một trong các bên không thể khắc phục được và có yêu cầu chấm dứt thực hiện hợp đồng;
+		Bên A có quyền yêu cầu tạm dừng thực hiện hợp đồng này trên cơ sở các quyền và lợi ích của mình bằng một văn bản báo trước cho bên B trong vòng 14 ngày trước ngày tạm dừng. Việc tạm dừng này sẽ không được coi là lỗi. 
+		Các trường hợp khác được các bên thoả thuận;
+		Mọi việc tạm dừng thực hiện hợp đồng không tuân theo quy định tại Hợp đồng này sẽ được coi là lỗi, và bên gây ra lỗi sẽ phải đền bù thiệt hại cho bên không gây ra lỗi. Mức đền bù thiệt hại do tạm dừng hợp đồng sẽ được bên không gây ra lỗi liệt kê trên thiệt hại thực tế và bên vi phạm có trách nhiệm thanh toán, khắc phục.
+	 Hủy bỏ hợp đồng:
+		Bên A có quyền gởi thông báo chấm dứt Hợp đồng bằng văn bản tới Bên B khi Bên B vi phạm bất cứ nghĩa vụ nào quy định tại Hợp đồng.
+		Trong trường hợp này, Bên A sẽ ngừng mọi khoản thanh toán, yêu cầu phạt và bồi thường thiệt hại (nếu có), đồng thời tuyển nhà thiết kế khác để tiếp tục và hoàn tất Dịch vụ theo cách mà Bên A cho là hợp lý.
+		Bên A cũng có quyền gửi yêu cầu bằng văn bản tới Bên B tại bất kỳ thời điểm nào yêu cầu: (i) chấm dứt Hợp đồng này mà không cần đưa ra lý do; hoặc (ii)  hoặc đình chỉ việc thực hiện Dịch vụ của bên B. Nếu như Bên A không yêu cầu Bên B tiếp tục thực hiện Hợp đồng trong vòng 06 (sáu) tháng kể từ ngày tạm ngưng, Hợp đồng được coi như là chấm dứt hiệu lực tại thời điểm kết thúc thời hạn 06 tháng nói trên. 
+		Trong trường hợp này, Bên A sẽ thanh toán cho Bên B các khoản tiền tương ứng với phần Công việc và Dịch vụ đã hoàn tất và được Bên A phê duyệt trước ngày chấm dứt Hợp đồng, sau khi khấu trừ chi phí khắc phục các thiệt hại có nguyên nhân là sự cẩu thả, thiếu sót và các lỗi khác của Bên B trước thời điểm nói trên. Bên B phải xuất hóa đơn cuối cùng kịp thời. 
+		Hai bên thỏa thuận chấm dứt hợp đồng trước thời hạn. Trong trường hợp này, các bên sẽ hoàn trả cho nhau các nghĩa vụ đã được thực hiện cho đến ngày chấm dứt hiệu lực hợp đồng;
+		Các trường hợp khác theo quy định của pháp luật. 
+	ĐiỀu 13. ThưỞng, phẠt khi vi phẠm hỢp đỒng:
+		Bên B phải thực hiện dịch vụ theo đúng tiến độ như đã quy định trong Điều 3 hợp đồng này, nếu chậm tiến độ sẽ bị phạt 1% giá trị hợp đồng bị vi phạm cho 01 ngày vi phạm, thời gian chậm không được quá 08 ngày (áp dụng cả trong trường hợp chỉnh sửa thiết kế theo yêu cầu). Quá thời hạn trên bên A có quyền chấm dứt hợp đồng và không thanh toán cho bên B. Đồng thời bên B phải bồi thường cho bên A các thiệt hại do phải thay đổi đối tác, ảnh hưởng tới tiến độ thực hiện dự án của bên A.
+		Nếu Bên B không nhận được khoản thanh toán cho giai đoạn riêng biệt tương ứng (theo quy định tại Điều 5) khi hết thời hạn thanh toán, Bên B sẽ yêu cầu một khoản nợ quá hạn theo tỉ lệ lãi suất bằng lãi suất tín dụng của Ngân hàng nơi bên B giao dịch tính từ ngày đến hạn cho đến ngày thanh toán trên phần giá trị chậm thanh toán.  Tổng số giá trị phạt không quá 12% giá trị Hợp đồng. 
+	ĐiỀu 14. GIẢI quyẾt tranh chẤp
+		
+		
+		
+		
+		
 	Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
 ĐiỀu 15. ĐIỀU KHOẢN CHUNG
-	Quyền thực thi hợp đồng - Mỗi bên cam kết có đủ quyền và thẩm quyền thực thi Hợp đồng này, tuân thủ tất cả các điều kiện và cung cấp các phương tiện và thanh toán theo quy định của Hợp đồng.
-	Bên B cam kết không chuyển nhượng hoặc chuyển giao bất kỳ quyền và nghĩa vụ nào liên quan đến Dịch vụ mà không được Bên A chấp thuận bằng văn bản, và đặc biệt là không sử dụng thầu phụ nào trong quá trình thực hiện Dịch vụ mà không có văn bản chấp thuận của Bên A.
+		Quyền thực thi hợp đồng - Mỗi bên cam kết có đủ quyền và thẩm quyền thực thi Hợp đồng này, tuân thủ tất cả các điều kiện và cung cấp các phương tiện và thanh toán theo quy định của Hợp đồng.
+		Bên B cam kết không chuyển nhượng hoặc chuyển giao bất kỳ quyền và nghĩa vụ nào liên quan đến Dịch vụ mà không được Bên A chấp thuận bằng văn bản, và đặc biệt là không sử dụng thầu phụ nào trong quá trình thực hiện Dịch vụ mà không có văn bản chấp thuận của Bên A.
 Hai bên cam kết thực hiện đầy đủ, nghiêm chỉnh các điều khoản đã quy định trong hợp đồng.
 Bên B cam kết không đưa ra đề nghị, hứa hoặc cấp cho, cũng như không cho phép một bên thứ ba thông qua nhân viên, viên chức quản lý đưa ra đề nghị, hứa hoặc cấp cho nhân viên hoặc cán bộ quản l‎ý của Bên A, bao gồm cả thân nhân và những người có quan hệ gần gũi như là thân nhân của họ, các lợi ích bất kỳ nào (ví dụ như chiết khấu, tiền mặt, quà tặng có giá trị hoặc các khoản chi hoa hồng khác) ngoài giá trị hợp đồng đã được thống nhất được ký giữa hai bên được thể hiện trong hợp đồng này. Trong trường hợp bên B vi phạm cam kết này thì Bên A có quyền đơn phương chấm dứt thực hiện hợp đồng, yêu cầu Bên B hoàn trả mọi khoản tiền đã nhận của Bên A và bồi thường toàn bộ thiệt hại trực tiếp Bên B gây ra do vi phạm hợp đồng và phạt vi phạm hợp đồng với mức phạt bằng 08% tổng giá trị hợp đồng. Bên A không có trách nhiệm phải thanh toán cho phần khối lượng công việc mà Bên B đã thực hiện cho Bên A. 
-	Hợp Đồng này có hiệu lực kể từ ngày ký và tự động được thanh lý khi các bên hoàn thành đầy đủ các nghĩa vụ theo hợp đồng. 
-	Hợp đồng được lập thành 04 (bốn) bản tiếng Việt có giá trị ngang nhau. Bên A giữ 02 (hai) bản. Bên B giữ 02 (hai) bản.                 
+		Hợp Đồng này có hiệu lực kể từ ngày ký và tự động được thanh lý khi các bên hoàn thành đầy đủ các nghĩa vụ theo hợp đồng. 
+		Hợp đồng được lập thành 04 (bốn) bản tiếng Việt có giá trị ngang nhau. Bên A giữ 02 (hai) bản. Bên B giữ 02 (hai) bản.                 
 CÁC THỎA THUẬN KHÁC (nếu có): …………………………………………...
-ĐẠI DIỆN BÊN A		ĐẠI DIỆN BÊN B
-
-
- """
+					ĐẠI DIỆN BÊN A		ĐẠI DIỆN BÊN B"""
 Mau_Hop_dong_van_chuyen = """CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
-
 HỢP ĐỒNG VẬN CHUYỂN
 Số:   …../HĐVC/………………..
 Về việc thuê vận chuyển ………………………
@@ -8118,40 +9234,52 @@ Căn cứ Bộ luật Dân sự được Quốc hội nước Cộng hoà Xã h�
 	Căn cứ vào nhu cầu và khả năng của hai bên, 
 Hôm nay, ngày ......... tháng ............ năm .........., tại ....................., chúng tôi gồm:
 BÊN A: 
-Địa chỉ	: 
-Điện thoại	:  		 Fax: 
-Mã số thuế	: 
-Tài khoản	: 
-Hoặc Tài khoản  : 
-Đại diện      :				Chức vụ: 
-
-BÊN B   : …………………….
-Địa chỉ	: 
-Điện thoại	:  		 Fax: 
-Mã số thuế	: 
-Tài khoản	: 
-Hoặc Tài khoản  : 
-Đại diện      :				Chức vụ: 
-Sau khi thoản thuận hai Bên đồng ý ký kết hợp đồng với các điều khoản sau:
+		Địa chỉ	: 
+		Điện thoại	:  		 Fax: 
+		Mã số thuế	: 
+		Tài khoản	: 
+		Hoặc Tài khoản  : 
+		Đại diện      :				Chức vụ: 
+	BÊN B   : …………………….
+		Địa chỉ	: 
+		Điện thoại	:  		 Fax: 
+		Mã số thuế	: 
+		Tài khoản	: 
+		Hoặc Tài khoản  : 
+		Đại diện      :				Chức vụ: 
+	Sau khi thoản thuận hai Bên đồng ý ký kết hợp đồng với các điều khoản sau:
 Điều 1: Nội dung và giá hợp đồng
 1.1. Nội dung: Bên A đồng ý thuê và Bên B đồng ý nhận vận chuyển ……………….. Bên B có trách nhiệm nhận hàng và vận chuyển từ ……………… về chân công trình bên A tại ………………….. đúng kỹ thuật theo yêu cầu của bên A.
 1.2. Đơn giá và giá trị hợp đồng:
+TT
+Hạng mục    
+ĐVT
+Khối lượng (tạm tính)
+Đơn giá
+(đồng)
+Thành tiền (đồng) 
+1
+		 Vận chuyển ..................
+Tấn
+………..………..
+…….
+………………..
 Đơn giá trên đã bao gồm thuế VAT 10%, lái máy, nhiên liệu và toàn bộ các chi phí khác để bên B vận chuyển hoàn thiện BTNN từ nơi nhận hàng đến địa điểm giao tại chân công trình theo yêu cầu của bên A. 
 Giá trị hợp đồng: Theo giá trị khối lượng nghiệm thu thực tế được các bên xác nhận.
-Điều2: Thời gian và Phương thức Giao hàng 
+	Điều2: Thời gian và Phương thức Giao hàng 
 	- Thời gian thực hiện hợp đồng: Từ ngày hợp đồng có hiệu lực đến khi hoàn thiện công việc theo hợp đồng hoặc khi bên A không có nhu cầu vận chuyển bê tông nhựa. 
 	- Nơi nhận hàng: ............................................................................................
-   	- Nơi giao hàng: ............................................................................................
-	- Địa điểm giao hàng: ..................................................................................
-	- Thời gian giao hàng: Theo thông báo của bên A (bằng văn bản, hoặc điện thoại, fax, email). Bên A gửi đơn đặt hàng cho Bên B trước tối thiểu 01 ngày. 
-	- Tiến độ thực hiện: Theo yêu cầu của bên A. Bên B đảm bảo thời gian vận chuyển hàng hóa .............. không quá 60 phút. Nếu vượt quá thời gian trên làm ảnh hưởng tới chất lượng hàng hóa ảnh hưởng tới tiến độ thi công của bên A thì Bên B hoàn toàn chịu trách nhiệm bồi thường thiệt hại cho Bên A theo đúng giá mà bên A đã mua.
-	- Tại nơi nhận hàng: Hàng được giao trên phương tiện vận chuyển của Bên B. Hai bên tiến hành ký Biên bản giao nhận hàng hóa. 
-	Từ thời điểm hàng được giao trên phương tiện vận chuyển của Bên B, Bên B chịu toàn bộ trách nhiệm liên quan tới việc vận chuyển, quản lý, bảo vệ hàng hóa cho tới khi hàng được giao hết tại chân công trình cho Bên A.
-	- Tại nơi giao hàng: Khi Bên B vận chuyển hàng tới chân công trình của Bên A. Bên B phải thông báo cho Bên A để Bên A bố trí người tiếp nhận hàng. Sau khi hàng được tập kết xuống chân công trình của Bên A hai bên ký nghiệm thu khối lượng cho từng chuyến làm căn cứ cho việc thanh toán.
+	   	- Nơi giao hàng: ............................................................................................
+		- Địa điểm giao hàng: ..................................................................................
+		- Thời gian giao hàng: Theo thông báo của bên A (bằng văn bản, hoặc điện thoại, fax, email). Bên A gửi đơn đặt hàng cho Bên B trước tối thiểu 01 ngày. 
+		- Tiến độ thực hiện: Theo yêu cầu của bên A. Bên B đảm bảo thời gian vận chuyển hàng hóa .............. không quá 60 phút. Nếu vượt quá thời gian trên làm ảnh hưởng tới chất lượng hàng hóa ảnh hưởng tới tiến độ thi công của bên A thì Bên B hoàn toàn chịu trách nhiệm bồi thường thiệt hại cho Bên A theo đúng giá mà bên A đã mua.
+		- Tại nơi nhận hàng: Hàng được giao trên phương tiện vận chuyển của Bên B. Hai bên tiến hành ký Biên bản giao nhận hàng hóa. 
+		Từ thời điểm hàng được giao trên phương tiện vận chuyển của Bên B, Bên B chịu toàn bộ trách nhiệm liên quan tới việc vận chuyển, quản lý, bảo vệ hàng hóa cho tới khi hàng được giao hết tại chân công trình cho Bên A.
+		- Tại nơi giao hàng: Khi Bên B vận chuyển hàng tới chân công trình của Bên A. Bên B phải thông báo cho Bên A để Bên A bố trí người tiếp nhận hàng. Sau khi hàng được tập kết xuống chân công trình của Bên A hai bên ký nghiệm thu khối lượng cho từng chuyến làm căn cứ cho việc thanh toán.
 Điều 3: Tạm ứng và Phương thức thanh toán 
 3.1: Tạm ứng
-	* Tạm ứng: Bên A sẽ tạm ứng cho bên B số tiền .............. sau khi hai bên ký kết hợp đồng, bên A nhận được giấy đề nghị tạm ứng, cam kết thực hiện hợp đồng của bên B.
-	* Thu hồi tạm ứng:  Bên A thực hiện thu hồi tiền tạm ứng theo từng đợt nghiệm thu thanh toán và thu hồi hết số tiền tạm ứng khi giá trị thanh toán đạt 80% giá trị hợp đồng. Trường hợp Bên B không đáp ứng tiến độ hoặc sử dụng tiền tạm ứng sai mục đích, Bên A sẽ thu hồi tiền tạm ứng trước thời hạn trên.
+		* Tạm ứng: Bên A sẽ tạm ứng cho bên B số tiền .............. sau khi hai bên ký kết hợp đồng, bên A nhận được giấy đề nghị tạm ứng, cam kết thực hiện hợp đồng của bên B.
+		* Thu hồi tạm ứng:  Bên A thực hiện thu hồi tiền tạm ứng theo từng đợt nghiệm thu thanh toán và thu hồi hết số tiền tạm ứng khi giá trị thanh toán đạt 80% giá trị hợp đồng. Trường hợp Bên B không đáp ứng tiến độ hoặc sử dụng tiền tạm ứng sai mục đích, Bên A sẽ thu hồi tiền tạm ứng trước thời hạn trên.
 3.2: Phương thức thanh toán
 - Hình thức thanh toán: Bằng chuyển khoản
 - Thanh toán: Công tác đối chiếu công nợ được tiến hành vào cuối mỗi tháng. Bên B xuất hoá đơn VAT cho Bên A, Bên A sẽ thanh toán đến .......% giá trị khối lượng được nghiệm thu của tháng trước đó trừ tạm ứng (nếu có) cho Bên B trong vòng 10 ngày làm việc của tháng tiếp theo kể từ ngày nhận được giấy đề nghị thanh toán, hoá đơn tương ứng 100% giá trị khối lượng được nghiệm thu, chứng từ hợp lệ của bên B.
@@ -8166,16 +9294,16 @@ Giá trị hợp đồng: Theo giá trị khối lượng nghiệm thu thực t�
 - Cung cấp cho bên A danh sách xe, tài xế  trước khi vận chuyển BTN.
 - Lái xe phải có kinh nghiệm, năng lực, đầy đủ giấy phép, giấy tờ hợp lệ điều khiển vận hành phương tiện vận chuyển.
 - Nhận, vận chuyển, giao hàng theo hướng dẫn và yêu cầu của bên A.
-	- Chịu trách nhiệm bố trí hợp lý người, phương tiện vận chuyển, đảm bảo an toàn trong quá trình vận chuyển. 
-	- Chịu trách nhiệm đối với người, phương tiện và tài sản trong quá trình vận chuyển.
-	 - Mọi thiệt hại gây ra trong quá trình vận chuyển, tập kết hàng hóa xuống chân công trình của Bên A, Bên B phải chịu trách nhiệm bồi thường toàn bộ thiệt hại.
-	- Trong quá trình vận chuyển phải có trách nhiệm bảo vệ tài sản của Bên A. 
-	- Đảm bảo an toàn hàng hóa trong quá trình vận chuyển. Trường hợp hàng hóa bị mất mát, hư hỏng, bị sự cố va quẹt, bị lật đổ trong quá trình vận chuyển, bị giảm chất lượng do thời gian vận chuyển kéo dài... thì bên B chịu trách nhiệm bồi thường 100% giá trị cho Bên A theo giá hàng hóa mà Bên A đã mua đồng thời bồi thường mọi thiệt hại gây ra cho bên A.
-	- Sau khi nhận được thông báo của bên A, Bên B phải sắp xếp, bố trí phương tiện vận chuyển cho Bên A theo đúng giờ bên A đã thông báo. Trường hợp Bên A đã báo trước mà Bên B không bố trí được phương tiện để vận chuyển hàng hóa cho Bên A thì mỗi giờ chậm trễ bên B phải chịu phạt 300.000 đồng/giờ chậm đồng thời bên B phải bồi thường cho bên A toàn bộ chi phí liên quan tới việc chậm trễ trên. Thời gian chậm không quá 02 ngày. Nếu quá thời gian trên mà Bên B không bố trí được phương tiện vận chuyển hoặc vận chuyển không đạt yêu cầu của Bên A thì Bên A có quyền thuê đơn vị khác vận chuyển, giá trị chênh lệnh với bên thứ ba sẽ do bên B chịu trách nhiệm chi trả.
-	- Bên B phải luôn chủ động phương tiện vận chuyển đảm bảo số lượng theo yêu cầu của bên A.
-	- Xuất hóa đơn thuế GTGT cho bên A chậm nhất là 05 ngày kể từ ngày nghiệm thu khối lượng thực hiện theo từng đơn hàng.
-	- Chịu mọi chi phí vận chuyển, chi phí cầu đường, quá tải, quá khổ, chi phí nhiên liệu các loại phục vụ xe vận chuyển của Bên B.
-	- Bên B đã nhận tạm ứng của bên A mà vì lý do nào đó không thực hiện hoặc thực hiện không đúng cam kết trong hợp đồng này thì bên B phải hoàn trả toàn bộ số tiền đã nhận của bên A đồng thời bồi thường cho bên A một khoản tương ứng 150% giá trị mà bên A tạm ứng. Toàn bộ số tiền này phải được thanh toán dứt điểm cho bên A trong vòng 03 ngày kể từ ngày nhận được yêu cầu của bên A.
+			- Chịu trách nhiệm bố trí hợp lý người, phương tiện vận chuyển, đảm bảo an toàn trong quá trình vận chuyển. 
+			- Chịu trách nhiệm đối với người, phương tiện và tài sản trong quá trình vận chuyển.
+			 - Mọi thiệt hại gây ra trong quá trình vận chuyển, tập kết hàng hóa xuống chân công trình của Bên A, Bên B phải chịu trách nhiệm bồi thường toàn bộ thiệt hại.
+			- Trong quá trình vận chuyển phải có trách nhiệm bảo vệ tài sản của Bên A. 
+			- Đảm bảo an toàn hàng hóa trong quá trình vận chuyển. Trường hợp hàng hóa bị mất mát, hư hỏng, bị sự cố va quẹt, bị lật đổ trong quá trình vận chuyển, bị giảm chất lượng do thời gian vận chuyển kéo dài... thì bên B chịu trách nhiệm bồi thường 100% giá trị cho Bên A theo giá hàng hóa mà Bên A đã mua đồng thời bồi thường mọi thiệt hại gây ra cho bên A.
+			- Sau khi nhận được thông báo của bên A, Bên B phải sắp xếp, bố trí phương tiện vận chuyển cho Bên A theo đúng giờ bên A đã thông báo. Trường hợp Bên A đã báo trước mà Bên B không bố trí được phương tiện để vận chuyển hàng hóa cho Bên A thì mỗi giờ chậm trễ bên B phải chịu phạt 300.000 đồng/giờ chậm đồng thời bên B phải bồi thường cho bên A toàn bộ chi phí liên quan tới việc chậm trễ trên. Thời gian chậm không quá 02 ngày. Nếu quá thời gian trên mà Bên B không bố trí được phương tiện vận chuyển hoặc vận chuyển không đạt yêu cầu của Bên A thì Bên A có quyền thuê đơn vị khác vận chuyển, giá trị chênh lệnh với bên thứ ba sẽ do bên B chịu trách nhiệm chi trả.
+			- Bên B phải luôn chủ động phương tiện vận chuyển đảm bảo số lượng theo yêu cầu của bên A.
+			- Xuất hóa đơn thuế GTGT cho bên A chậm nhất là 05 ngày kể từ ngày nghiệm thu khối lượng thực hiện theo từng đơn hàng.
+			- Chịu mọi chi phí vận chuyển, chi phí cầu đường, quá tải, quá khổ, chi phí nhiên liệu các loại phục vụ xe vận chuyển của Bên B.
+		- Bên B đã nhận tạm ứng của bên A mà vì lý do nào đó không thực hiện hoặc thực hiện không đúng cam kết trong hợp đồng này thì bên B phải hoàn trả toàn bộ số tiền đã nhận của bên A đồng thời bồi thường cho bên A một khoản tương ứng 150% giá trị mà bên A tạm ứng. Toàn bộ số tiền này phải được thanh toán dứt điểm cho bên A trong vòng 03 ngày kể từ ngày nhận được yêu cầu của bên A.
 Điều 6: Trách nhiệm do vi phạm hợp đồng
 6.1. Bên nào vi phạm hợp đồng, một mặt phải trả cho bên bị vi phạm tiền phạt vi phạm hợp đồng, mặt khác nếu có thiệt hại xảy ra do lỗi vi phạm hợp đồng dẫn đến như mất mát, hư hỏng, tài sản phải chi phí để ngăn chặn hạn chế thiệt hại do vi phạm gây ra, tiền phạt do vi phạm hợp đồng khác và tiền bồi thường thiệt hại mà bên bị vi phạm đã phải trả cho bên thứ ba là hậu quả trực tiếp của sự vi phạm này gây ra.
 6.2. Nếu bên A đóng gói hàng mà không khai hoặc khai không đúng sự thật về số lượng, trọng lượng hàng hóa thì bên A phải chịu phạt đến ………. % số tiền cước phải trả cho lô hàng đó.
@@ -8224,116 +9352,127 @@ d. Trong các trường hợp này, nếu ngày tương ứng rơi vào ngày ch
 11.5. Hợp đồng này được ký bởi đại diện có thẩm quyền của các Bên vào ngày được nêu ở phần đầu.  
 Điều 12: Các thỏa thuận khác (Nếu có)
 ...................................................................................... 
-
+	
 ĐẠI DIỆN BÊN A 					        ĐẠI DIỆN BÊN B
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-Mau_Hop_dong__vay_tien_song_ngu = """LOAN AGREEMENT
+					1"""
+Mau_Hop_dong__vay_tien_song_ngu = """© Copyright Envision Corporation. 2002. All rights reserved. Protected by the copyright laws of the United States & Canada and by international treaties. IT IS ILLEGAL AND STRICTLY PROHIBITED TO DISTRIBUTE, PUBLISH, OFFER FOR SALE, LICENSE OR SUBLICENSE, GIVE OR DISCLOSE TO ANY OTHER PARTY, THIS PRODUCT IN HARD COPY OR DIGITAL FORM. ALL OFFENDERS WILL BE SUED IN A COURT OF LAW.
+																
+          © Copyright Envision Corporation. 2002. All rights reserved. Protected by the copyright laws of the United States & Canada and by international treaties. IT IS ILLEGAL AND STRICTLY PROHIBITED TO DISTRIBUTE, PUBLISH, OFFER FOR SALE, LICENSE OR SUBLICENSE, GIVE OR DISCLOSE TO ANY OTHER PARTY, THIS PRODUCT IN HARD COPY OR DIGITAL FORM. ALL OFFENDERS WILL BE SUED IN A COURT OF LAW.
+          © Copyright Envision Corporation. 2002. All rights reserved. Protected by the copyright laws of the United States & Canada and by international treaties. IT IS ILLEGAL AND STRICTLY PROHIBITED TO DISTRIBUTE, PUBLISH, OFFER FOR SALE, LICENSE OR SUBLICENSE, GIVE OR DISCLOSE TO ANY OTHER PARTY, THIS PRODUCT IN HARD COPY OR DIGITAL FORM. ALL OFFENDERS WILL BE SUED IN A COURT OF LAW.
+          © Copyright Envision Corporation. 2002. All rights reserved. Protected by the copyright laws of the United States & Canada and by international treaties. IT IS ILLEGAL AND STRICTLY PROHIBITED TO DISTRIBUTE, PUBLISH, OFFER FOR SALE, LICENSE OR SUBLICENSE, GIVE OR DISCLOSE TO ANY OTHER PARTY, THIS PRODUCT IN HARD COPY OR DIGITAL FORM. ALL OFFENDERS WILL BE SUED IN A COURT OF LAW.
+          © Copyright Envision Corporation. 2002. All rights reserved. Protected by the copyright laws of the United States & Canada and by international treaties. IT IS ILLEGAL AND STRICTLY PROHIBITED TO DISTRIBUTE, PUBLISH, OFFER FOR SALE, LICENSE OR SUBLICENSE, GIVE OR DISCLOSE TO ANY OTHER PARTY, THIS PRODUCT IN HARD COPY OR DIGITAL FORM. ALL OFFENDERS WILL BE SUED IN A COURT OF LAW.
+             
+© Copyright Envision Corporation. 2002. All rights reserved. Protected by the copyright laws of the United States and Canada and by international treaties. IT IS ILLEGAL AND STRICTLY PROHIBITED TO DISTRIBUTE, PUBLISH, OFFER FOR SALE, LICENSE OR SUBLICENSE, GIVE OR DISCLOSE TO ANY OTHER PARTY, THIS PRODUCT IN HARD COPY OR DIGITAL FORM. ALL OFFENDERS WILL AUTOMATICALLY BE SUED IN A COURT OF LAW.
+             
+© Copyright Envision Corporation. 2002. All rights reserved. Protected by the copyright laws of the United States and Canada and by international treaties. IT IS ILLEGAL AND STRICTLY PROHIBITED TO DISTRIBUTE, PUBLISH, OFFER FOR SALE, LICENSE OR SUBLICENSE, GIVE OR DISCLOSE TO ANY OTHER PARTY, THIS PRODUCT IN HARD COPY OR DIGITAL FORM. ALL OFFENDERS WILL AUTOMATICALLY BE SUED IN A COURT OF LAW.LOAN AGREEMENT
 HỢP ĐỒNG VAY TIỀN
-No./Số: ………………….
-
-
+																No./Số: ………………….
+																
+																
 This agreement is made and entered into effective on……………………
 Thỏa thuận này được lập và có hiệu lực vào ngày………………………...
-
-
 BETWEEN / GIỮA
-
+	
 …………………. with Establishment No:……………..………………………., its principal office at………………………………………………………… (hereinafter referred to as the “Lender”).
 ………………….. có mã số thành lập là...........................................…………….., địa chỉ trụ sở tại………………………………………………………...………. (Sau đây gọi là “Bên cho vay”). 
 AND/ VÀ
-
-……………………………..COMPANY with Business Code:……………, its principal office at……………………………………………….. (hereinafter referred to as the “Borrower”).
+	……………………………..COMPANY with Business Code:……………, its principal office at……………………………………………….. (hereinafter referred to as the “Borrower”).
 CÔNG TY……………………………….. có mã số doanh nghiệp là…………….., địa chỉ trụ sở tại……………………………………………………………………….(Sau đây gọi là “Bên vay”).
-
 The parties have agreed as follows/ Các bên cùng thỏa thuận như sau: 
-
 Lender agrees to lend and Borrower agrees to borrow without interest from Lender the sum of USD ……………… (………………. US Dollar) equivalent to VND………………… (Eleven billion six hundred thirty million Vietnamdongs) calculated according to the fixed exchange rate of VND……………… under the terms and conditions set forth hereinafter. Purpose of loan usage: Use for business activities of Company.
 Bên cho vay đồng ý cho vay và Bên vay đồng ý vay không lãi suất một khoản tiền trị giá ……………. USD (……………… Đô la Mỹ) tương đương…………….. VNĐ (Mười một tỷ sáu trăm ba mươi triệu đồng) tính theo tỷ giá cố định là…………. VNĐ theo thời hạn và điều kiện đưa ra sau đây. Mục đích sử dụng khoản vay: Sử dụng cho hoạt động kinh doanh của công ty.
-
 All amount of loan shall be transfered to Borrower by bank transfer within the term from…………………. to the end of…………………..
 Toàn bộ khoản tiền cho vay sẽ được chuyển cho Bên vay bằng chuyển khoản ngân hàng trong thời hạn từ ngày…………….…. đến hết ngày…………….......
-
 The borrowing period shall be………………. from disbursement date. The actual disbursed loan can be repaid by Borrower at anytime during the borrowing period by the following methods: i) In cash; ii) Bank transfer or iii) converting into shares of the company under the acceptable of the parties.
 Thời hạn cho vay là……………… kể từ ngày giải ngân. Khoản vay thực tế đã được giải ngân có thể được hoàn trả bởi Bên vay bất cứ lúc nào trong thời hạn cho vay bằng các cách thức sau: i) Tiền mặt; ii) Chuyển khoản hoặc iii) Chuyển đổi thành cổ phần của công ty theo sự đồng ý của các bên.
-
 Any matters arising which are not stipulated in this Agreement shall be decided by mutual consultation of both parties in written.
 Bất kỳ vấn đề gì phát sinh mà không được quy định trong Hợp đồng này sẽ được quyết đinh bởi sự thỏa thuận bằng văn bản của các bên.
-
 IN WITNESS WHEREOF, both parties have duly executed this Agreement in duplicate in English and Vietnamese and keep one copy each.
 ĐỂ CHỨNG NHẬN, các bên đã ký xác nhận hai bản Hợp đồng song ngữ Anh-Việt này và mỗi bên giữ một bản.
-
-"""
+On behalf of Lender:
+Đại diện Bên cho vay
+.................................
+(Sign, seal)/(Ký tên, đóng dấu)
+………………………………………. 	
+Director/Giám đốc
+On behalf of Borrower:
+………………………….. COMPANY
+Đại diện Bên vay
+CÔNG TY……………………………
+(Sign, Seal)/(Ký tên, đóng dấu)
+…………………………………………..
+Director/ Giám đốc
+		
+		
+		                                          Page/ Trang 1/2"""
 Mau_Hop_dong_Dai_dien_Thuong_mai_Quoc_te = """Hợp đồng Đại diện Thương mại Quốc tế
+Giới thiệu
+Hợp đồng Mẫu này gồm những quy định được thừa nhận rộng rãi nhất điều chỉnh mối quan hệ giữa Bên giao đại diện và một Đại diện thương mại
+Hợp đồng được thiết kế để sử dụng cho các trường hợp liên quan đến việc giới thiệu, quảng bá, đàm phán hay ký kết các hợp đồng mua bán sản phẩm hay dịch vụ của một Đại diện độc lập nhân danh cho một bên giao đại diện trong một khu vực xác định.
+Lý do chính để chỉ định một Đại diện thương mại là Bên giao đại diện không thể tự mình thực hiện việc giới thiệu, quảng bá, đàm phán hay ký kết các hợp đồng mua bán sản phẩm hay dịch vụ ở một khu vực lãnh thổ nhất định, hay không sẵn sàng đầu tư để thực hiện việc đó.
+Đại diện có thể là một cá nhân hay một công ty. Khi Đại diện là một cá nhân, trong bất cứ trường hợp nào cá nhân này cũng không được coi là nhân viên của Bên giao đại diện.
+Sức mạnh của Đại diện nằm ở mối quan hệ của bên này với khách hàng và điểm yếu của nó bắt nguồn từ việc những khách hàng đó lại thuộc về Bên giao đại diện. Điều này giải thích tại sao ở nhiều quốc gia như các nước EU, luật về chính sách công có mục đích bảo vệ các quyền của Đại diện đặc biệt khi chấm dứt hợp đồng.
+Các Bên phải tuân theo các quy định pháp lý bắt buộc về chính sách công có thể áp dụng bất kể luật áp dụng cho hợp đồng mà các Bên đã lựa chọn là luật nào. Các quy định về chính sách công này có tính ràng buộc. Điều này có nghĩa là các bên không thể bỏ qua hoặc quyết định không áp dụng các quy định đó. Các quy định này có thể hạn chế hiệu lực của một số quy định nhất định trong hợp đồng và có thể cho phép một tòa án giảm hay mở rộng các nghĩa vụ của các bên.
+Trước khi có bất kỳ thảo luận nào giữa các bên, cần phải kiểm tra hợp đồng đại diện có bị ảnh hưởng bởi các điều luật đó không.
+Khi hợp đồng đại diện áp dụng cho sản phẩm, Bên giao đại diện có thể hoặc không phải là nhà sản xuất các sản phẩm này. Ví dụ, Bên giao đại diện có thể là một nhà phân phối.
+Mục đích chính của hợp đồng này là xác định mức độ nghĩa vụ của mỗi bên đối với bên kia, ví dụ như quyền của Đại diện hành động ràng buộc Bên giao đại diện (Điều 2.2), nhận tiền hộ bên này (Điều 2.3), nghĩa vụ của Bên giao đại diện chấp nhận các đơn đặt hàng từ Đại diện (Điều 3,4 và 3.5), thông tin mà Bên giao đại diện phải cung cấp cho Đại diện, như tổng các đơn đặt hàng tối thiểu, bất kỳ thay đổi nào về loại sản phẩm hay dịch vụ, giá... (Điều 3.3, 3.7), các đơn đặt hàng tối thiểu (Điều 4), quảng cáo, hội chợ và triển lãm (Điều 5), bán hàng qua Internet (Điều 6), không cạnh tranh (Điều 7), thương hiệu và quyền sở hữu (Điều 9), tính độc quyền (Điều 10), hoa hồng (Điều 11 và 12), hậu quả của việc chấm dứt hợp đồng (Điều 14 và 15) và ủy thác và chỉ định Đại diện phụ (Điều 19).
+Các bên cần rà soát tất cả các phương án khác và lựa chọn được đề xuất để bỏ ra những vấn đề không liên quan đến mục đích chung của hai bên.
+Các quy định chuẩn đã được đưa vào, gồm trách nhiệm tài chính của Đại diện (Điều 13), sự kiện bất khả kháng (Điều 16) và thay đổi hoàn cảnh (Điều 17).
 *Ghi chú của người dịch: Loại hợp đồng này có thể có một số đặc điểm gần giống với Hợp đồng Môi giới thương mại trong quy định của Luật Thương mại 2005 của Việt Nam – theo đó hợp đồng môi giới là hợp đồng trong đó “bên môi giới làm trung gian cho các bên mua bán hàng hóa, cung ứng dịch vụ trong việc đàm phán, giao kết hợp đồng mua bán hàng hóa, dịch vụ và được hưởng thù lao theo hợp đồng môi giới (Điều 150 Luật Thương mại 2005). Mặc dù vậy, một số quy định về các quyền và nghĩa vụ trong Hợp đồng mẫu này có thể rộng hơn hoặc hẹp hơn quy định của Luật Thương mại Việt Nam về hợp đồng môi giới thương mại.
 Trong khi đó, khái niệm về đại diện trong Luật Thương mại lại chung hơn, bao trùm hơn và vì thế có thể bao gồm các nội dung trong Hợp đồng mẫu này (theo đó đại diện là việc “Bên đại diện nhận ủy nhiệm của bên giao đại diện để thực hiện các hoạt động thương mại với danh nghĩa, theo sự chỉ dẫn của bên giao đại diện và được hưởng thù lao về việc đại diện” – Điều 141 Luật Thương mại 2005). Về mặt thuật ngữ thì chữ đại diện” cũng gần hơn với chữ “agent” trong tiếng Anh. Vì vậy chúng tôi quyết định sử dụng cụm từ “Hợp đồng đại diện thương mại” mặc dù doanh nghiệp có thể lựa chọn sử dụng thay thế bằng cụm từ “Hợp đồng môi giới thương mại” với nghĩa tương đương.
-
 HỢP ĐỒNG MẪU CỦA ITC VỀ ĐẠI DIỆN THƯƠNG MẠI QUỐC TẾ
-
-CÁC BÊN:
-Bên giao đại diện
-Tên (tên công ty)
+	CÁC BÊN:
+	Bên giao đại diện
+	Tên (tên công ty)
+		
+	Hình thức pháp lý (ví dụ công ty trách nhiệm hữu hạn)
+		
+	Quốc tịch và số đăng ký kinh doanh (nếu có)
+		
+	Địa chỉ (địa điểm kinh doanh của Bên giao đại diện, số điện thoại, số fax, email)
+		
+		
+	Đại diện bởi (tên họ, địa chỉ, chức vụ, thẩm quyền đại diện)
+		
+		
+	Sau đây gọi là “Bên giao đại diện”
 	
-Hình thức pháp lý (ví dụ công ty trách nhiệm hữu hạn)
+	Đại diện
+	Tên (tên công ty)
+		
+	Hình thức pháp lý (ví dụ công ty trách nhiệm hữu hạn)
+		
+	Quốc tịch và số đăng ký kinh doanh (nếu có)
+		
+	Địa chỉ (địa điểm kinh doanh của Đại diện, số điện thoại, số fax, email)
+		
+		
+	Đại diện bởi (tên họ, địa chỉ, chức vụ, thẩm quyền đại diện)
+		
+		
+	Sau đây gọi là “Đại diện” 
+	[Có thể thêm các thông tin khác, nếu cần, ví dụ mã số thuế/tài chính của các Bên]
+	Sau đây gọi chung là “Các Bên”
 	
-Quốc tịch và số đăng ký kinh doanh (nếu có)
-	
-Địa chỉ (địa điểm kinh doanh của Bên giao đại diện, số điện thoại, số fax, email)
-	
-	
-Đại diện bởi (tên họ, địa chỉ, chức vụ, thẩm quyền đại diện)
-	
-	
-Sau đây gọi là “Bên giao đại diện”
-
-Đại diện
-Tên (tên công ty)
-	
-Hình thức pháp lý (ví dụ công ty trách nhiệm hữu hạn)
-	
-Quốc tịch và số đăng ký kinh doanh (nếu có)
-	
-Địa chỉ (địa điểm kinh doanh của Đại diện, số điện thoại, số fax, email)
-	
-	
-Đại diện bởi (tên họ, địa chỉ, chức vụ, thẩm quyền đại diện)
-	
-	
-Sau đây gọi là “Đại diện” 
-[Có thể thêm các thông tin khác, nếu cần, ví dụ mã số thuế/tài chính của các Bên]
-Sau đây gọi chung là “Các Bên”
-
 BỐI CẢNH CHUNG
 Bên giao đại diện hoạt động kinh doanh trong (lĩnh vực/cung cấp) loại [nêu cụ thể loại hàng hóa/dịch vụ].
 Đại diện thực hiện (việc giới thiệu và) [có thể xóa bỏ nếu không cần thiết] xúc tiến bán sản phẩm (hoặc dịch vụ) liên quan đến [nêu cụ thể] như là một phần hoạt động kinh doanh của mình.
 Bên giao đại diện muốn chỉ định Đại diện để (giới thiệu và) [có thể xóa bỏ nếu không phù hợp] xúc tiến bán các sản phẩm (hoặc dịch vụ) liên quan đến công việc kinh doanh của Bên giao đại diện và Đại diện sẵn sàng xúc tiến bán sản phẩm (hoặc dịch vụ) đó theo các điều khoản của hợp đồng này.
-
 CÁC ĐIỀU KHOẢN HOẠT ĐỘNG
 Phạm vi chỉ định
 Bên giao đại diện chỉ định Đại diện là Đại diện thương mại của mình để thúc đẩy việc bán sản phẩm (hoặc dịch vụ) trong khu vực lãnh thổ (và trong các kênh xúc tiến) như được định nghĩa dưới đây.
 Sản phẩm (hay dịch vụ). Các sản phẩm hay dịch vụ) sau đây sẽ được xúc tiến tiêu thụ bởi Đại diện theo hợp đồng này: [mô tả sản phẩm/dịch vụ]
-;
-;
-Khu vực. Sản phẩm (hay dịch vụ) được xúc tiến tiêu thụ bởi Đại diện theo hợp đồng này trong các khu vực lãnh thổ sau đây: [mô tả khu vực]
-;
-;
+		;
+		;
+	Khu vực. Sản phẩm (hay dịch vụ) được xúc tiến tiêu thụ bởi Đại diện theo hợp đồng này trong các khu vực lãnh thổ sau đây: [mô tả khu vực]
+		;
+		;
 (Các) kênh xúc tiến. [có thể xóa nếu không liên quan] Các sản phẩm (hay dịch vụ) phải được xúc tiến tiêu thụ bởi Đại diện thông qua các kênh sau: [mô tả các kênh xúc tiến]
-Bình luận: Các Bên có thể giới hạn phạm vi của hợp đồng đại diện chỉ cho một số nhóm khách hàng nhất định. Liên quan đến việc xác định các kênh xúc tiến, các Bên có thể liệt kê danh sách các loại kênh cụ thể trong hợp đồng này (các nhà bán lẻ, người sử dụng công nghiệp, nhà phân phối lớn) hoặc liệt kê những loại kênh mà hợp đồng không áp dụng.
+	Bình luận: Các Bên có thể giới hạn phạm vi của hợp đồng đại diện chỉ cho một số nhóm khách hàng nhất định. Liên quan đến việc xác định các kênh xúc tiến, các Bên có thể liệt kê danh sách các loại kênh cụ thể trong hợp đồng này (các nhà bán lẻ, người sử dụng công nghiệp, nhà phân phối lớn) hoặc liệt kê những loại kênh mà hợp đồng không áp dụng.
 Nghĩa vụ của Đại diện
 Khi thực hiện các hoạt động của mình, Đại diện phải tập trung cho lợi ích của Bên giao đại diện và hành động có trách nhiệm và thiện chí.
 Đại diện phải (giới thiệu) [có thể xóa nếu không liên quan] các sản phẩm (hay dịch vụ và thúc đẩy việc bán sản phẩm (hay dịch vụ) đó trong khu vực (và theo các kênh xúc tiến) [có thể xóa bỏ nếu không liên quan]. Đại diện không có quyền ký kết hợp đồng nhân danh Bên giao đại diện hay bằng cách nào đó ràng buộc Bên giao đại diện nhưng Đại diện có thể chuyển các đơn chào hàng nhận được cho Bên giao đại diện.
-[Phương án khác (áp dụng trong trường hợp Đại diện có quyền ràng buộc Bên giao đại diện): “2.2. Đại diện phải (giới thiệu) sản phẩm hay dịch vụ) [có thể xóa bỏ nếu không liên quan], thúc đẩy, đàm phán và ký kết hợp đồng mua bán sản phẩm (hay dịch vụ) trong khu vực (oà qua các kênh xúc tiến) [có thể xóa bỏ nếu không liên quan] theo các điều khoản quy định trong hợp đồng này. Đại diện phải chuyển bất kỳ đơn đặt hàng nào bên này nhận được cho Bên giao đại diện.”.]
+	[Phương án khác (áp dụng trong trường hợp Đại diện có quyền ràng buộc Bên giao đại diện): “2.2. Đại diện phải (giới thiệu) sản phẩm hay dịch vụ) [có thể xóa bỏ nếu không liên quan], thúc đẩy, đàm phán và ký kết hợp đồng mua bán sản phẩm (hay dịch vụ) trong khu vực (oà qua các kênh xúc tiến) [có thể xóa bỏ nếu không liên quan] theo các điều khoản quy định trong hợp đồng này. Đại diện phải chuyển bất kỳ đơn đặt hàng nào bên này nhận được cho Bên giao đại diện.”.]
 Đại diện không có quyền nhận thanh toán dưới tên hay nhân danh Bên giao đại diện mà không có ủy quyền trước bằng văn bản của Bên giao đại diện về việc đó. Nếu Đại diện được ủy quyền làm vậy, Đại diện phải chuyển khoản thanh toán đó sớm nhất cho Bên giao đại diện và cho đến khi đó phải giữ tiền vào một tài khoản tiền gửi riêng biệt với danh nghĩa của Bên giao đại diện.
 Đại diện phải tuân thủ chặt chẽ các điều khoản hợp đồng mà Bên giao đại diện đưa ra và phải hướng sự chú ý của khách hàng tới các điều khoản và điều kiện mua bán (đặc biệt là thời hạn giao hàng, giá cả và điều kiện thanh toán) mà Bên giao đại diện đưa ra.
 Đại diện phải thực hiện việc thông tin cho Bên giao đại diện về các hoạt động của mình, các điều kiện thị trường và tình hình cạnh tranh với sự cần mẫn hợp lý. Đại diện phải cung cấp tất cả các thông tin cần thiết bằng [nêu rõ ngôn ngữ] cho Bên giao đại diện liên quan đến luật và quy định trong khu vực áp dụng cho sản phẩm hay dịch vụ) đó cũng như các hoạt động của mình mà mình biết được. Đại diện cứ mỗi (3 tháng) [có thể nêu thời hạn khác] cũng phải gửi báo cáo về các hoạt động của mình.
@@ -8499,14 +9638,13 @@ Luật áp dụng
 Luật [nêu cụ thể luật quốc gia] sẽ áp dụng cho hợp đồng này. 
 [Bổ sung nếu liên quan:] Nếu Đại diện có cơ sở kinh doanh và/hoặc thực hiện các hoạt động của mình trong Liên minh châu Âu, các quy định bắt buộc của Chỉ thị EC ngày 18 tháng 12 năm 1986 cũng sẽ được áp dụng. 
 *Nguồn trích dẫn: Hợp đồng mẫu cho các doanh nghiệp nhỏ - Hướng dẫn pháp lý cho hoạt động kinh doanh quốc tế (Tiếng Anh: Model contracts for small firms – Legal guidance for doing international business), Trung tâm Thương mại Quốc tế (ITC), dịch thuật bởi Trung tâm WTO và Hội nhập – Phòng Thương mại và Công nghiệp Việt Nam (VCCI) 
-
-
 Phụ lục 1: Số lượng Đơn đặt hàng tối thiểu
 (Điều 4.1)
 Phụ lục 2: Hội chợ và triển lãm
 (Điều 5.2)
 Các Bên tham gia các hội chợ và triển lãm sau trong khu vực:
-
+Đại diện
+Bên giao đại diện
 Phụ lục 3: Danh sách các sản phẩm (hay dịch vụ) không cạnh tranh được giới thiệu, sản xuất, phân phối hay bán bởi đại diện
 (Điều 7.4)
 Tại thời điểm ký kết hợp đồng này, đại diện đang đại diện (sản xuất, phân phối hay bán) các sản phẩm hay dịch vụ sau:
@@ -8531,19 +9669,22 @@ Phương án 4: Không nhiều hơn ............lần [nêu rõ số tiền hoa 
 Nghĩa vụ Đảm bảo khả năng Thanh toán không gồm các chi phí mà bên giao đại diện phải bỏ ra để đòi lại số tiền đó.
 Đại diện có quyền đòi tiền hoa hồng bổ sung bằng ...........% [nêu rõ số] đối với tất cả các giao dịch mà đại diện đứng ra Đảm bảo khả năng Thanh toán.
 Không phải thực hiện nghĩa vụ Đảm bảo Khả năng Thanh toán nếu mất mát là do các nguyên nhân thuộc trách nhiệm của bên giao đại diện.
-
-
 NGÀY VÀ CHỮ KÝ CỦA CÁC BÊN
-
+Đại diện
+Bên giao đại diện
+Ngày: .........................................................
+...........................................................
+Tên: . ..........................................................
+...........................................................
+Chữ ký
+Chữ ký
 *Nguồn trích dẫn: Hợp đồng mẫu cho các doanh nghiệp nhỏ - Hướng dẫn pháp lý cho hoạt động kinh doanh quốc tế (Tiếng Anh: Model contracts for small firms – Legal guidance for doing international business), Trung tâm Thương mại Quốc tế (ITC), dịch thuật bởi Trung tâm WTO và Hội nhập – Phòng Thương mại và Công nghiệp Việt Nam (VCCI) 
-"""
+2"""
 Mau_Hop_dong_dai_ly_phan_phoi_hang_hoa = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 -------
-
 HỢP ĐỒNG ĐẠI LÝ
 Số: …………./HĐKT
-
 Hôm nay, ngày…tháng…năm..., tại .................................................................
 Chúng tôi gồm:
 Công ty: ……………………...…………(sau đây gọi là bên A):
@@ -8552,7 +9693,6 @@ Trụ sở:……………………………………………………………
 Tài khoản số:……………………………………………..……………..
 Điện thoại: …………………… Fax:………………………………
 Đại diện: Ông (Bà):……………..…………………………..……………..
-
 Công ty: …………………………………..…(sau đây gọi là bên B): 
 Giấy phép Đăng ký Kinh doanh:………………………………….……………..
 Trụ sở:………………………………………………………….……………..
@@ -8629,36 +9769,26 @@ Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ
 CÁC THỎA THUẬN KHÁC (Nếu có)
                      ĐẠI DIỆN BÊN A                               ĐẠI DIỆN BÊN B
                             Chức vụ                                              Chức vụ
-                     (Ký tên, đóng dấu)                             (Ký tên, đóng dấu)
-
-"""
-Mau_Hop_dong_uy_quyen_su_dung_nhan_hieu = """
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                     (Ký tên, đóng dấu)                             (Ký tên, đóng dấu)"""
+Mau_Hop_dong_uy_quyen_su_dung_nhan_hieu = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
-
 HỢP ĐỒNG ỦY QUYỀN SỬ DỤNG NHÃN HIỆU 
 (Về việc: ủy quyền không hủy ngang sử dụng Nhãn Hiệu, Thương Hiệu:		)
-
 Hôm nay, ngày 	tháng 		 năm 2021, tại 						, chúng tôi ký tên dưới đây:
 BÊN ỦY QUYỀN (sau đây gọi là Bên A):
-
 	Họ tên		:				Sinh năm: 		
 	CMND số	: 				Cấp ngày: 	/	/	 
 	Nơi cấp	: 				
 	Chức vụ	: 
 Là đại diện theo pháp luật của 				, một Công Ty được thành lập theo pháp luật Việt Nam, có mã số doanh nghiệp:			; địa chỉ đăng ký trụ sở tại: 				 (“Công Ty” và/hoặc “			”).
-
 Bằng văn bản này, Bên A đồng ý ủy quyền toàn bộ, không hủy ngang cho:
-
 BÊN ĐƯỢC ỦY QUYỀN (sau đây gọi là Bên B):
 CÔNG TY
 Địa chỉ		: 								
 Mã số thuế	: 								
 Người đại diện: 								
 Chức vụ	: 								   
-
 Với các nội dung & điều khoản sau:
-
 ĐIỀU 1. NỘI DUNG ỦY QUYỀN
 Trên cơ sở, Bên A là chủ đơn đang đăng ký sở hữu đối với nhãn hiệu 		 (bao gồm hình và chữ theo thiết kế) theo mẫu nhãn hiệu được đăng ký tại tờ khai đăng ký nhãn hiệu số: 			, ngày 			 và có quyết định chấp thuận đơn ngày 					 của Cục Sở Hữu Trí Tuệ Việt Nam (“Nhãn Hiệu”). Đã được cấp giấy chứng nhận 				
 Bằng văn bản này, Bên A đồng ý ủy quyền cho Bên B được toàn quyền sử dụng, quyết định, định đoạt và/hoặc thay mặt, nhân danh Bên A để thực hiện các công việc có liên quan đến Nhãn Hiệu và các thương hiệu liên quan, theo đó Bên A đồng ý để:
@@ -8667,49 +9797,48 @@ Bằng văn bản này, Bên A đồng ý ủy quyền cho Bên B được toàn
 Được quyền đăng ký điều chỉnh, bổ sung, thêm mới Nhãn Hiệu liên kết; được liên hệ với cá nhân, cơ quan, tổ chức để thực hiện các thủ tục cần thiết để Nhãn Hiệu được chấp thuận cấp giấy chứng nhận sở hữu trí tuệ theo quy định.
 Được toàn quyền sử dụng Nhãn Hiệu nêu trên mà không có bất kỳ cản trở, trở ngại hay bất kỳ chấp thuận nào khác từ Bên A.
 Trong phạm vi ủy quyền, Bên B được toàn quyền lập, ký kết, giao dịch, chuyển nhượng, mua bán và thực hiện tất cả các quyền tương tự như chủ sở hữu Nhãn Hiệu và được toàn quyền chủ động ủy quyền lại cho người thứ ba để thực hiện các công việc được uỷ quyền theo quy định tại Hợp đồng này. Việc ủy quyền lại không vượt quá phạm vi ủy quyền được quy định tại Khoản 1.2 Điều này. Bên B phải chịu trách nhiệm về các công việc do người được uỷ quyền lại thực hiện.
-
 ĐIỀU 2. THÙ LAO, CHI PHÍ: 
 Các bên thống nhất Hợp đồng ủy quyền này là ủy quyền không thù lao.
-
 ĐIỀU 3. THỜI HẠN ỦY QUYỀN: 
 Ủy quyền có hiệu lực kể từ ngày ký và có thời hạn ủy quyền là 15 (mười lăm) năm được tính kể từ ngày ký Hợp đồng này được ký kết hoặc gia hạn thêm tùy yêu cầu của Bên B. 
-
 ĐIỀU 4. CAM ĐOAN CỦA CÁC BÊN:
-Bên A sau đây cam kết và bảo đảm rằng:
+	Bên A sau đây cam kết và bảo đảm rằng:
 Chưa ký bất kỳ một hợp đồng/văn bản uỷ quyền nào khác về nội dung uỷ quyền quy định Hợp đồng này với bất kỳ bên thứ ba nào khác ngoại trừ hợp đồng ủy quyền này;
 Bàn giao đầy đủ thông tin Nhãn Hiệu bao gồm nhưng không giới hạn Tờ Khai đăng ký nhãn hiệu; chấp thuận đơn và các văn bản có liên quan đến Nhãn Hiệu cho Bên B.
 Trong mọi trường hợp có yêu cầu, Bên A cam kết phải ký, lập, thực hiện đầy đủ các công việc và cung cấp đầy đủ các thông tin liên quan đến Nhãn Hiệu. Trường hợp vi phạm, Bên B có quyền áp dụng các chế tài có liên quan, bao gồm nhưng không giới hạn việc yêu cầu bồi thường thiệt hại cho Bên B nếu Bên A không phối hợp thực hiện.
 Cam kết Nhãn Hiệu ủy quyền cho Bên B là không vi phạm các quy định của pháp luật về sở hữu trí tuệ.
 Các cam kết các theo quy định tại Hợp đồng ủy quyền này.
-Bên B cam kết:
-Thực hiện đúng nội dung ủy quyền theo Hợp đồng này, tuân thủ quy định của pháp luật, điều lệ Công Ty và các quy định nội bộ khác (nếu có);
-Thông báo cho bên thứ ba về nội dung và phạm vi đại diện;
-Không thực hiện các công việc vi phạm điều cấm hoặc gây ảnh hưởng đến quyền và lợi ích của Bên A;
-Tự chịu trách nhiệm trước pháp luật và Khách hàng về các sản phẩm, hàng hóa, dịch vụ gắn liền với thương hiệu, nhãn hiệu được ủy quyền sử dụng theo Hợp đồng này.
-Không được phép tự ý chuyển giao, chuyển nhượng hoặc ủy quyền lại cho bên thứ ba bất kỳ mà chưa có sự đồng ý của Bên A.
-Miễn trừ cho Bên A mọi tranh chấp, khiếu nại, khiếu kiện hoặc rủi ro liên quan đến việc kinh doanh hàng hóa, dịch vụ mà Bên B cung cấp cho khách hàng có gắn liền với thương hiệu, nhãn hiệu được ủy quyền sử dụng theo Hợp đồng này.
-Việc sử dụng nhãn hiệu, thương hiệu phải đảm bảo trong phạm vi Hợp đồng này, các quy định của pháp luật có liên quan.
-Chịu trách nhiệm trước Bên A và pháp luật về toàn bộ nội dung công việc thực hiện;
-
-ĐIỀU 5: ĐIỀU KHOẢN CHUNG:
-Các nội dung trong ủy quyền này là không được hủy ngang dưới mọi hình thức bởi Bên A nếu không có sự đồng ý của Bên A. 
-Mỗi Bên cam kết tự chịu trách nhiệm về việc ký kết Hợp đồng ủy quyền này và cam kết tuân thủ đầy đủ nội dung tại Hợp đồng ủy quyền này và các thỏa thuận có liên quan (nếu có).
-Hợp đồng ủy quyền này được lập thành 02 ( hai) bản chính, mỗi bên giữ 01 (một) bản chính có giá trị ngang nhau, để làm cơ sở thi hành.
+	Bên B cam kết:
+	Thực hiện đúng nội dung ủy quyền theo Hợp đồng này, tuân thủ quy định của pháp luật, điều lệ Công Ty và các quy định nội bộ khác (nếu có);
+	Thông báo cho bên thứ ba về nội dung và phạm vi đại diện;
+	Không thực hiện các công việc vi phạm điều cấm hoặc gây ảnh hưởng đến quyền và lợi ích của Bên A;
+	Tự chịu trách nhiệm trước pháp luật và Khách hàng về các sản phẩm, hàng hóa, dịch vụ gắn liền với thương hiệu, nhãn hiệu được ủy quyền sử dụng theo Hợp đồng này.
+	Không được phép tự ý chuyển giao, chuyển nhượng hoặc ủy quyền lại cho bên thứ ba bất kỳ mà chưa có sự đồng ý của Bên A.
+	Miễn trừ cho Bên A mọi tranh chấp, khiếu nại, khiếu kiện hoặc rủi ro liên quan đến việc kinh doanh hàng hóa, dịch vụ mà Bên B cung cấp cho khách hàng có gắn liền với thương hiệu, nhãn hiệu được ủy quyền sử dụng theo Hợp đồng này.
+	Việc sử dụng nhãn hiệu, thương hiệu phải đảm bảo trong phạm vi Hợp đồng này, các quy định của pháp luật có liên quan.
+	Chịu trách nhiệm trước Bên A và pháp luật về toàn bộ nội dung công việc thực hiện;
+	
+	ĐIỀU 5: ĐIỀU KHOẢN CHUNG:
+	Các nội dung trong ủy quyền này là không được hủy ngang dưới mọi hình thức bởi Bên A nếu không có sự đồng ý của Bên A. 
+	Mỗi Bên cam kết tự chịu trách nhiệm về việc ký kết Hợp đồng ủy quyền này và cam kết tuân thủ đầy đủ nội dung tại Hợp đồng ủy quyền này và các thỏa thuận có liên quan (nếu có).
+	Hợp đồng ủy quyền này được lập thành 02 ( hai) bản chính, mỗi bên giữ 01 (một) bản chính có giá trị ngang nhau, để làm cơ sở thi hành.
 Mọi tranh chấp liên quan và/hoặc phát sinh từ Hợp Đồng này sẽ được bàn bạc giải quyết trên tinh thần thương lượng, hòa giải giữa Các Bên. Trong trường hợp không thể giải quyết thông qua thương lượng hòa giải, mỗi Bên có thể đưa tranh chấp ra để giải quyết tại Trung tâm Trọng tài Thương mại Miền Trung (MCAC) theo Quy tắc tố tụng trọng tài của Trung tâm này. Địa điểm tiến hành trọng tài tại thành phố Đà Nẵng. Ngôn ngữ dùng trong tố tụng trọng tài là tiếng Việt.  
-
-
-Mỗi Bên tự đọc, được nghe đọc lại và hiểu rõ các nội dung tại Hợp đồng ủy quyền này và đồng ý ký tên dưới đây
-
-
+	
+	
+	Mỗi Bên tự đọc, được nghe đọc lại và hiểu rõ các nội dung tại Hợp đồng ủy quyền này và đồng ý ký tên dưới đây
+	
+BÊN A 
+(Ký tên, ghi rõ họ tên)
+BÊN B
+(Ký tên, ghi rõ họ tên)
 CỦA 
-Công Ty xác nhận đồng ý và chấp thuận thực hiện các nội dung sau: """
+Công Ty xác nhận đồng ý và chấp thuận thực hiện các nội dung sau: 
+2"""
 Mau_Hop_dong_uy_thac_nhap_khau = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 -----------------
-
 HỢP ĐỒNG ỦY THÁC NHẬP KHẨU
 Số:......../HĐUTNK
-
 Hôm nay ngày... tháng... năm... tại... chúng tôi gồm có:
 BÊN UỶ THÁC (Bên A) :…………………………..……… 
 Địa chỉ	: ………………………………………..………
@@ -8719,7 +9848,6 @@ Mã số thuế	: ………………………………………………… 
 Tài khoản số	: ………………………………………………… 
 Do ông (bà)	: ………………………………………………… 
 Chức vụ	: …………………………… làm đại diện.
-
 BÊN NHẬN UỶ THÁC (Bên B) :…………………………..……… 
 Địa chỉ	: ………………………………………..………
 Điện thoại	: ………………………………………………… 
@@ -8730,6 +9858,13 @@ Do ông (bà)	: ………………………………………………… 
 Chức vụ	: …………………………… làm đại diện.
 Điều 1: Nội dung công việc ủy thác
 1) Bên A ủy thác cho bên B nhập khẩu những mặt hàng sau đây:
+STT
+Tên hàng
+Đơn vị tính
+Số lượng
+Đơn giá
+Thành tiền
+Ghi chú
 							Cộng....
 	2) Viết bằng chữ ................................................................................
 	............................................................................................................
@@ -8793,16 +9928,17 @@ Chức vụ	: …………………………… làm đại diện.
 	4/ Hợp đồng này được ký bởi đại diện có thẩm quyền của các Bên vào ngày được nêu ở phần đầu.  
 CÁC THỎA THUẬN KHÁC (Nếu có)
 ...................................................................................... 
-
-
-"""
-Mau_Hop_dong_uy_thac_xuat_khau = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT 
+ĐẠI DIỆN BÊN A 
+ĐẠI DIỆN BÊN B
+Chức vụ 
+(Ký tên, đóng dấu)
+Chức vụ
+ (Ký tên, đóng dấu)"""
+Mau_Hop_dong_uy_thac_xuat_khau = """CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------------
-
 HỢP ĐỒNG UỶ THÁC XUẤT KHẨU
 Số… /HĐKTXK
-
 Hôm nay ngày… tháng… năm… tại… chúng tôi gồm có
 BÊN ỦY THÁC
 	- Tên doanh nghiệp……………………….
@@ -8825,9 +9961,16 @@ BÊN NHẬN ỦY THÁC
 	Hai bên thống nhất thoả thuận nội dung hợp đồng như sau:
 	Điều 1: Nội dung công việc uỷ thác
 Bên A uỷ thác cho bên B xuất khẩu những mặt hàng sau:
-
+STT
+Tên hàng
+Đơn
+vị tính
+Số lượng
+Đơn giá
+Thành tiền
+Ghi chú
 Cộng:…………………………
-Tổng giá trị tính theo tiền Việt  (bằng chữ):……………………
+Tổng giá trị tính theo tiền Việt Nam (bằng chữ):……………………
 Tổng giá trị tính theo ngoại tệ (bằng chữ):…………………………..
 Điều 2: Quy cách phẩm chất hàng hoá
 1) Bên B có trách nhiệm hướng dẫn trước cho Bên A về tiêu chuẩn chất lượng hàng hoá, tiêu chuẩn kiểm dịch, bao bì, cách chọn mẫu để chào hàng v.v… ngay từ khi sản xuất, chế biến.
@@ -8883,4 +10026,9 @@ Trường hợp hàng hoá bị khiếu nại do những sai sót của bên A t
 	4) Hợp đồng này được ký bởi đại diện có thẩm quyền của các Bên vào ngày được nêu ở phần đầu.  
 CÁC THỎA THUẬN KHÁC (Nếu có)
 ...................................................................................... 
-"""
+ĐẠI DIỆN BÊN A 
+ĐẠI DIỆN BÊN B
+Chức vụ 
+(Ký tên, đóng dấu)
+Chức vụ
+ (Ký tên, đóng dấu)"""
